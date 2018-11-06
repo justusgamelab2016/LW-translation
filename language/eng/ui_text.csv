@@ -3,6 +3,10 @@
 101,[New Game]
 102,[Continue]
 103,[Load]
+104,[Credit]
+105,Develop
+106,Localization
+107,[Exit]
 200,AutoSave
 201,Simplify Graphics
 202,Save
@@ -65,16 +69,23 @@
 710,Food
 711,Water
 712,Wood
-713,Build
+713,[B] Build
+714,[F9] Reset Camera
+715,[Space] Pause
+716,[Space] Play
+717,[Space] X2 Speed
+718,[Space] X5 Speed
+719,[Tab] or [1]~[9] to Switch Floor
+720,[I] Items
 800,Mass
 801,Buoyancy
 802,Items
-803,Location
-804,Pile
-805,Survivor
-806,Room
-807,Island
-808,Land
+803,[Shift+1] Location
+804,[Shift+2] Pile
+805,[Shift+3] Survivor
+806,[Shift+4] Room
+807,[Shift+5] Island
+808,[Shift+6] Land
 809,Consume
 810,Produce
 811,Show All
@@ -123,12 +134,12 @@
 1111,Can't save during an event.
 1112,There is no island nearby.
 1113,stopped outlook.
-1200,Interact
 1114,try cooking but failed.
 1115,make a good dish.
 1116,Cook materials not enough.
 1117,found a baby in the shark body.
 1118,die...
+1200,Interact
 1201,Help
 1202,Punlder
 1300,that pretty thing.

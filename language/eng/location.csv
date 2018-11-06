@@ -1,4 +1,4 @@
-1,FishingRod," Takes a long time, but a good way to ease nerve. "
+1,FishingRod,"Takes a long time, but a good way to ease nerve. "
 2,Raft,Your honest friend.
 3,Lemon Tree,Harvest lemons or cut down for wood.
 4,Small Storage Box,Store all kinds of stuff.
@@ -23,12 +23,12 @@
 24,Spike Wall,Aggressive protection.
 25,Field,Produce random crops.
 26,CampFire,"Roast Fish, yum! "
-27,FishNet," No pain,no gain. "
+27,FishNet,"No pain,no gain. "
 28,Paddle,Push forward.
 29,Door,Feel like a nice room now.
 30,Water Proof Wall,Waterproof protection.
 31,Sail,May a favorable wind send you safely home.
-32,Soil Floor,Your honest friend.
+32,Soil Floor,"Soil, the source of life."
 33,Wind Vane,Measure wind direction.
 34,Fishman Paddle,Push forward.
 35,Floating Wood,Provide extra buoyancy.
@@ -68,7 +68,7 @@
 69,Blue Herb Field,
 70,Medicine Bench,Craft medicine to heal wound and illness.
 71,Eaves,Feel more like a home now.
-72,Eaves RainCollector," Collect rain, with less space. "
+72,Eaves RainCollector,"Collect rain, with less space. "
 73,Flower Pot On Wall,Good Mood.
 74,Advance Hammock,Start to feel like a vocation.
 75,WaterProof Raft,Water proof raft.
@@ -77,9 +77,9 @@
 78,Coconut Tree,Harvest coconuts or cut down for wood.
 79,Advance Raft,Your honest friend. MK2
 80,Fertilizer Pool,Convert food into dirt.
-81,Soil Floor,Your honest friend.
-82,Roof,Your honest friend.
-83,Bed,Not so comfortable.Lack of durability.
+81,Soil Floor,"Soil, the source of life."
+82,Roof,Good for shelter.
+83,Bed,Feel like a home now.
 84,Train Dummy,Training fighting skill.
 85,Caft Training Table,Training crafting skill.
 86,Root Vege Field,Produce random rhizomatous crops. Provide energy and fullness.
@@ -91,14 +91,14 @@
 93,Fish Chess,GG.
 94,Swing,Have fun!
 95,Chest,There is something inside.
-96,HumidProofRaft,Water proof raft.
+96,HumidProofRaft,Keep it dry and clean.
 97,Cabbage,
 98,Spinacia,
 99,BlueBerry,
 100,StarwBerry,
 101,PosionBerry,
 102,Cage,
-103,FishMan,Training crafting skill.
-104,Penguin,Training crafting skill.
+103,FishMan,
+104,Penguin,
 105,Chest On Island,
-106,PrepareTable, Prepare cold meals. 
+106,PrepareTable,Prepare cold dishes. 

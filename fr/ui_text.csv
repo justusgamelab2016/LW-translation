@@ -1,0 +1,156 @@
+0,
+100,Menu Principal
+101,[Nouvelle Partie]
+102,[Continuer]
+103,[Charger]
+104,[Crédit]
+105,Develop
+106,Localization
+107,[Quitter le jeu]
+200,Sauvegarde Auto
+201,Graphismes simplifiés
+202,Sauvegarder
+203,Entrer Texte
+204,Charger
+205,Redémarrer
+206,Quitter
+207,Volume de la musique
+208,Volume des effets sonores
+209,Guide
+210,Options
+300,Ressource
+301,Construction
+302,Fabrication
+303,Mobilier
+304,Réparer
+305,Démolir
+400,Activer
+401,Raser
+402,Récolter
+403,Couper
+404,Chercher
+405,Essuyer
+406,Imperméable
+407,Teindre
+408,Arroser
+409,Labourer
+410,Désinsectiser
+411,Fertiliser
+412,Affecter
+500,Transporter
+501,Emplacement cible
+502,Pile cible
+503,Statut
+504,Compétence
+505,Social
+506,Détail
+507,Statut
+508,Compétence
+509,Social
+510,Emplacement d'équipement
+511,Journal (statut)
+512,Journal (social)
+513,Personnage
+514,Relations
+515,Effets des compétences
+516,Recettes apprises
+517,Santé
+600,Mélodie
+601,Mélodie relaxante
+602,Mélodie de direction du gouvernail
+603,Mélodie de pression de la pagaie
+700,Ressource
+701,Construction
+702,Fabrication
+703,Mobilier
+704,Navigation
+705,Réparer
+706,Démolir
+710,Nourriture
+711,Eau
+712,Bois
+713,[B] Construire
+714,[F9] Réinitialiser la camera
+715,[Space] Pause
+716,[Space] Jouer
+717,[Space] Vitesse x2
+718,[Space] Vitesse x5
+719,[Tab] ou [1]~[9] pour changer de niveau
+720,[I] Objets
+800,Masse
+801,Flottabilité
+802,Objets
+803,[Shift+1] Emplacement
+804,[Shift+2] Pile
+805,[Shift+3] Survivant
+806,[Shift+4] Room
+807,[Shift+5] Ile
+808,[Shift+6] Terre
+809,Consomme
+810,Produit
+811,Tout montrer
+812,Show All and Up
+813,Show All and Down
+814,Montrer le niveau actuel
+815,Choisir un nom
+816,Intérêt personnel:
+817,Richesse
+818,Quelque chose se passe....
+819,Richesse
+820,Place
+821,Beauté
+900,Bill
+901,Travail en cours...
+902,Tout annuler
+903,Recettes
+904,Stockage
+905,Commerçant
+906,Est-ce que tu te moques de moi?
+907,Ce n'est pas assez.
+908,C'est ok.
+909,C'est tentant
+910,C'est très généreux de ta part.
+911,Arrête de me faire perdre mon temps!
+912,Marché conclu!
+913,Normal
+1000,Est-ce que tu te moques de moi?
+1001,Ce n'est pas assez!
+1002,C'est ok.
+1003,C'est une offre alléchante!
+1004,C'est très généreux de ta part!
+1005,Arrête de me faire perdre mon temps!
+1006,Marché conclu!
+1100,Got it.
+1101,a appris à construire un nouveau bâtiment.
+1102,a appris à fabriquer de nouveaux objets.
+1103,attend pour l'échange.
+1104,a attrapé un poisson étrange.
+1105,a sauvé le bébé survivant.
+1106,a sauvé un survivant.
+1107,a obtenu un article dans la caisse flottante.
+1108,a attrapé un coffre au trésor pendant que je pêchais.
+1109,a trouvé une île!
+1110,Can't draw right now.
+1111,Impossible de sauvegarder pendant un évènement.
+1112,Il n'y a aucune île dans les environs.
+1113,stopped outlook.
+1114,essaye de cuisiner mais ca a raté.
+1115,cuisine un bon plat.
+1116,pas assez de matériels de cuisine.
+1117,a trouvé un bébé dans le ventre d'un requin.
+1118,est mort...
+1200,Interragir
+1201,Aider
+1202,Butin
+1300,cette jolie chose.
+1301,Je n'aime pas ça.
+1302,Je veux cette chose.
+1303,Je ne l'aime plus.
+1304,Je ne ressens rien à propos de cela maintenant.
+1305,Je n'en veux plus..
+1306,How do I think before for it.
+1307,"Je l'aime depuis longtemps."
+1308,Ca vaut la peine de modifier mon esprit.
+1309,Toujours comme ça.
+1310,Je n'aime rien jamais satisfait.
+1311,"Quelque chose se passe dans mon esprit, I want it much."

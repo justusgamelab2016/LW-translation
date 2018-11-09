@@ -11,19 +11,19 @@
 12,Réservoir d'eau, A placer à côté d'un collecteur d'eau de pluie / filtre l'eau et la stocke.
 13,Etabli, Fabrique des objets utiles.
 14,Mur,Une solide protection.
-15,Corps de pirate,
-16,Carcasse de requin,
-17,Carcasse de mouette,
-18,Mat,Not so comfortable. Lack of durability.
-19,Support d'arme. Peut stocker 20 armes.
+15,Corps de pirate,aaa
+16,Carcasse de requin,aaa
+17,Carcasse de mouette,aaa
+18,Mat, Not so comfortable. Lack of durability.
+19,Support d'arme. Peut stocker 20 armes.,aaa
 20,Grande caisse de stockage, Plus grande capacité.
 21,Filtre à eau,Versez l'eau de mer pour dessaler
-22,Champs de pomme de terre,
-23,Champs de carotte,
+22,Champs de pomme de terre,aaa
+23,Champs de carotte,aaa
 24,Spike Wall,Aggressive protection.
 25,Champs,Produit des récoltes aléatoires.
 26,Feu de camp,"Du poisson frit, yum! "
-27,Filet de pêche,"On n'a rien sans rien. "
+27,Filet de pêche,On n'a rien sans rien. 
 28,Pagaie,Il faut aller de l'avant.
 29,Porte,Feel like a nice room now.
 30,Water Proof Wall,Waterproof protection.
@@ -59,13 +59,13 @@
 60,Douche,Une belle douche.
 61,Toilette,Transforme les excréments en engrais.
 62,Pièce à requin,Attrape un requin pendant un moment.
-63,Pierre,
-64,Boue,
+63,Pierre,aaa
+64,Boue,aaa
 65,Filtre à eau amélioré,Utiliser du charbon pour filtrer l'eau de mer.
-66,Chambre d'herbe verte,
-67,Chambre d'herbe jaune,
-68,Champs d'herbe rouge,
-69,Champs d'herbe bleu,
+66,Chambre d'herbe verte,aaa
+67,Chambre d'herbe jaune,aaa
+68,Champs d'herbe rouge,aaa
+69,Champs d'herbe bleu,aaa
 70,Table de médecine,Fabrique des médicaments pour guérir les blessures et les maladies.
 71,Eaves,Feel more like a home now.
 72,Eaves RainCollector,"Recueille la pluie, avec moins d'espace. "
@@ -86,19 +86,19 @@
 88,Champs de légumes feuillus,produit des légumes à feuilles aléatoires. Fournit de la vitamine aux survivants.
 89,Champs d'herbe,Produit des herbes aléatoires. Utilisé pour guérir les blessures.
 90,Champs de baie,produit des baies. Convient pour les desserts et la teinture.
-91,Arbre,
+91,Arbre,aaa
 92,Algue, A un goût de catouchouc salé.
 93,Fish Chess,GG.
 94,Swing,Amusez-vous!
 95,Coffre,Il y a quelque chose dedans.
 96,Radeau étanche humide, garder le sec et propre.
-97,Chou,
-98,Spinacia,
-99,Myrtille,
-100,Fraise,
-101,PosionBerry,
-102,Panier,
-103,Pêcheur,
-104,Pingouin,
-105,Coffre sur l'île,
+97,Chou,aaa
+98,Spinacia,aaa
+99,Myrtille,aaa
+100,Fraise,aaa
+101,PosionBerry,aaa
+102,Panier,aaa
+103,Pêcheur,aaa
+104,Pingouin,aaa
+105,Coffre sur l'île,aaa
 106,Table de préparation,Elaborer des plats froids.

@@ -1,12 +1,12 @@
 1,Canne à pêche,"Prend du temps, mais un bon moyen de soulager ses nerfs. "
 2,Radeau,Votre fidèle ami.
-3,Citronnier,Récolte des citrons ou coupe le pour du bois.
+3,Citronnier,Récolter des citrons ou couper le pour du bois.
 4,Petite boîte de stockage,Stocke toutes sortes de choses.
 5,Escalier, Se développe verticalement.
 7,Hamac, Commencer à se sentir comme en vacances.
 8,Pillier, Supporte 8 radeaux.
 9,Champs de lin,Le lin peut être transformé en cordes.
-10,Meat Rack,Preserve meat.
+10,Porte-Viande,Conserve la viande.
 11,Collecteur d'eau de pluie, Collecte la pluie.
 12,Réservoir d'eau, A placer à côté d'un collecteur d'eau de pluie / filtre l'eau et la stocke.
 13,Etabli, Fabrique des objets utiles.
@@ -14,28 +14,28 @@
 15,Corps de pirate,aaa
 16,Carcasse de requin,aaa
 17,Carcasse de mouette,aaa
-18,Mat, Not so comfortable. Lack of durability.
+18,Tapis, Pas très confortable. Manque de durabilité.
 19,Support d'arme. Peut stocker 20 armes.,aaa
 20,Grande caisse de stockage, Plus grande capacité.
-21,Filtre à eau,Versez l'eau de mer pour dessaler
+21,Filtre à eau,Versez l'eau de mer pour déssaler
 22,Champs de pomme de terre,aaa
 23,Champs de carotte,aaa
-24,Spike Wall,Aggressive protection.
+24,Mur de piques,Protection agressive.
 25,Champs,Produit des récoltes aléatoires.
 26,Feu de camp,"Du poisson frit, yum! "
 27,Filet de pêche,On n'a rien sans rien. 
 28,Pagaie,Il faut aller de l'avant.
-29,Porte,Feel like a nice room now.
-30,Water Proof Wall,Waterproof protection.
-31,Sail,May a favorable wind send you safely home.
+29,Porte,On se sent comme dans une belle pièce.
+30,Mur étanche à l'eau,Protection imperméable.
+31,Voile,Un vent favorable peut vous ramener en toute sécurité à la maison.
 32,La terre,"Le sol, source de la vie."
-33,Girouette,Measure wind direction.
-34,Pagaie de pêcheur, Push forward.
-35,Bois flottant,Provide extra buoyancy.
-36,Observe Spot,xxxxxxxxx
-37,Watch Spot,Watch out for island.
-38,Measure Spot,Measure sailing speed and direction.
-39,Graphing Table,Draw map.
+33,Girouette,Mesure la direction du vent.
+34,Pagaie de pêcheur, Alle de l'avant.
+35,Bois flottant,Fournit une flottabilité supplémentaire.
+36,Observer l'endroit,xxxxxxxxx
+37,Regarder l'endroit,Méfiez-vous de l'île.
+38,Evaluer l'endroit,Evaluer l'orientation et la vitesse de navigation.
+39,Table Graphique,Dessine une carte.
 40,Gouvernail, Change la direction.
 41,Torche, Eclaire et réchauffe.
 42,Torche murale,"Pareil qu'une torche, sur un mur."
@@ -45,9 +45,9 @@
 46,LocatingingTable,xxxxxxxxx
 47,RevisingTable,xxxxxxxxx
 48,Grande voile,Plus rapide.
-49,Table,Bien pour le dîner et les rencontres..
+49,Table,Super pour le dîner et les rencontres.
 50,Chaise," Après le dîner asseyez-vous un peu, après le souper marcher un peu. "
-51,Marmite,Pourrait cuisiner de meilleures recettes.
+51,Marmite,Permettra de cuisiner de meilleures recettes.
 52,Atelier de tisserand,Fabrique des fibres et des vêtements.
 53,Motar,Using for smashing. Could craft juice and dye.
 54,Mortier en pierre,Plus dur qu'un mortier en bois.
@@ -62,8 +62,8 @@
 63,Pierre,aaa
 64,Boue,aaa
 65,Filtre à eau amélioré,Utiliser du charbon pour filtrer l'eau de mer.
-66,Chambre d'herbe verte,aaa
-67,Chambre d'herbe jaune,aaa
+66,Champs d'herbe verte,aaa
+67,Champs d'herbe jaune,aaa
 68,Champs d'herbe rouge,aaa
 69,Champs d'herbe bleu,aaa
 70,Table de médecine,Fabrique des médicaments pour guérir les blessures et les maladies.
@@ -80,7 +80,7 @@
 81,La terre,"Le sol, source de la vie."
 82,Toit,Utile pour un abris.
 83,Lit,On se sent comme à la maison.
-84,Train Dummy,Training fighting vegeskill.
+84,Mannequin d'entraînement,Training fighting vegeskill.
 85,Fabriquer une table d'entraînement,Enseigne les compétences d'artisanat.
 86,Champs de racines végétale,produit des cultures de rhizomes aléatoires. Fournit de l'énergie et de l'épanouissement.
 88,Champs de légumes feuillus,produit des légumes à feuilles aléatoires. Fournit de la vitamine aux survivants.

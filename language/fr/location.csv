@@ -11,15 +11,15 @@
 12,Réservoir d'eau,A placer à côté d'un collecteur d'eau de pluie / filtre l'eau et la stocke.
 13,Etabli,Fabriquer des objets utiles.
 14,Mur,Une solide protection.
-15,Corps de pirate,aaa
-16,Carcasse de requin,aaa
-17,Carcasse de mouette,aaa
+15,Corps de pirate,
+16,Carcasse de requin,
+17,Carcasse de mouette,
 18,Tapis,Pas très confortable. Manque de durabilité.
-19,Support d'arme.Peut stocker 20 armes.,aaa
+19,Support d'arme.Peut stocker 20 armes.,
 20,Grande caisse de stockage,Une plus grande capacité.
 21,Filtre à eau,Versez l'eau de mer pour déssaler.
-22,Champs de pomme de terre,aaa
-23,Champs de carotte,aaa
+22,Champs de pomme de terre,
+23,Champs de carotte,
 24,Mur de piques,Protection agressive.
 25,Champs,Produit des récoltes aléatoires.
 26,Feu de camp,"Du poisson frit, yum!"
@@ -32,7 +32,7 @@
 33,Girouette,Mesure la direction du vent.
 34,Pagaie de pêcheur,Aller de l'avant.
 35,Bois flottant,Fournit une flottabilité supplémentaire.
-36,Observer l'endroit,xxxxxxxxx
+36,Observer l'endroit,
 37,Regarder l'endroit,Méfiez-vous de l'île.
 38,Evaluer l'endroit,Evaluer l'orientation et la vitesse de navigation.
 39,Table Graphique,Dessine une carte.
@@ -41,9 +41,9 @@
 42,Torche murale,"Pareil qu'une torche, sur un mur."
 43,Barrière,Essayer de ne pas tomber dans l'eau.
 44,Peinture,Cristallisation de créativité. Bon pour l'esprit.
-45,Mixeur de teinture,xxxxxxxxx
-46,LocatingingTable,xxxxxxxxx
-47,RevisingTable,xxxxxxxxx
+45,Mixeur de teinture,
+46,LocatingingTable,
+47,RevisingTable,
 48,Grande voile,Plus rapide.
 49,Table,Super pour le dîner et les rencontres.
 50,Chaise,"Après le dîner asseyez-vous un peu, après le souper marcher un peu."
@@ -59,13 +59,13 @@
 60,Douche,Une belle douche.
 61,Toilette,Transforme les excréments en engrais.
 62,Piège à requin,Attrape un requin pendant un moment.
-63,Pierre,aaa
-64,Boue,aaa
+63,Pierre,
+64,Boue,
 65,Filtre à eau amélioré,Utiliser du charbon pour filtrer l'eau de mer.
-66,Champs d'herbe verte,aaa
-67,Champs d'herbe jaune,aaa
-68,Champs d'herbe rouge,aaa
-69,Champs d'herbe bleu,aaa
+66,Champs d'herbe verte,
+67,Champs d'herbe jaune,
+68,Champs d'herbe rouge,
+69,Champs d'herbe bleu,
 70,Table de médecine,Fabriquer des médicaments pour guérir les blessures et les maladies.
 71,Eaves,Feel more like a home now.
 72,Eaves RainCollector,"Recueille la pluie, avec moins d'espace."
@@ -86,19 +86,19 @@
 88,Champs de légumes feuillus,Produit des légumes à feuilles aléatoires.Fournit de la vitamine aux survivants.
 89,Champs d'herbe,Produit des herbes aléatoires.Utilisé pour guérir les blessures.
 90,Champs de baie,Produit des baies.Convient pour les desserts et la teinture.
-91,Arbre,aaa
+91,Arbre,
 92,Algue,A un goût de catouchouc salé.
 93,Fish Chess,GG.
 94,Swing,Amusez-vous!
 95,Coffre,Il y a quelque chose dedans.
 96,Radeau étanche humide,Garder le sec et propre.
-97,Chou,aaa
-98,Spinacia,aaa
-99,Myrtille,aaa
-100,Fraise,aaa
-101,PosionBerry,aaa
-102,Panier,aaa
-103,Pêcheur,aaa
-104,Pingouin,aaa
-105,Coffre sur l'île,aaa
+97,Chou,
+98,Spinacia,
+99,Myrtille,
+100,Fraise,
+101,PosionBerry,
+102,Panier,
+103,Pêcheur,
+104,Pingouin,
+105,Coffre sur l'île,
 106,Table de préparation,Elaborer des plats froids.

@@ -191,10 +191,10 @@
 535,Skill_FightDes
 536,Skill_CanUpgrate
 822,SimLoc_Corps
-823,SimLoc_Grow_StopGrow
-824,SimLoc_Grow_GrowGood
-825,SimLoc_Grow_GrowOk
-826,SimLoc_Grow_GrowBad
+823,Croissance stoppée
+824,Bonne croissance
+825,Croissance normale
+826,Mauvaise croissance
 827,UnEnable
 828,OverAll_time
 829,OverAll_Brightness
@@ -207,7 +207,7 @@
 836,Float_ShowHigher
 837,Float_All
 838,SimLoc_WaterVolume
-839,SimLoc_GrowStage
+839,Etape de Croissance
 840,SimLoc_Little
 841,SimLoc_Some
 842,SimLoc_Much

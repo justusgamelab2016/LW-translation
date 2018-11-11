@@ -61,38 +61,38 @@
 420,Drown alive,Défence +
 421,Drown alive(avancé),Défence ++
 422,Drown alive,Hardess up
-500,Attacking!,Attack Power +
+500,Attacking!,Puissance d'attaque +
 501,Attacking!(avancé),Puissance d'attaque ++
 502,Swift!,Puissance d'attaque +
 503,Swift!(avancé),Puissance d'attaque ++
 504,Athlete!,Puissance d'attaque +
 505,Athlete!(avancé),Puissance d'attaque ++
-506,Killed human!,Puissance d'attaque +
-507,Killed human!(avancé),Puissance d'attaque ++
-508,Killed creatures!,Puissance d'attaque +
-509,Killer creatures!(avancé),Puissance d'attaque ++
-510,Craft Weapons,Craft Fight Weapons speed +
-511,Craft Weapons(avancé),Craft Fight Weapons speed ++
-512,Craft Weapons(maîtrisé),Craft Fight Weapons speed +++
-520,Craft Equips,Craft Fight Equips speed +
-521,Craft Equips(avancé),Craft Fight Equips speed ++
-522,Craft Equips(maîtrisé),Craft Fight Equips speed +++
-530,have a good rest,Defence +
-531,have a good rest(avancé),Defence +
-532,have a good rest(maîtrisé),Defence +
+506,Humain tué!,Puissance d'attaque +
+507,Humain tué!(avancé),Puissance d'attaque ++
+508,Créatures tuées!,Puissance d'attaque +
+509,Créatures tuées!(avancé),Puissance d'attaque ++
+510,Fabriquer des armes,Vitesse de fabrication des armes de combat +
+511,Fabriquer des armes(avancé),Vitesse de fabrication des armes de combat ++
+512,Fabriquer des armes(maîtrisé),Vitesse de fabrication des armes de combat +++
+520,Fabriquer des équipements,Vitesse de fabrication des équipements de combat +
+521,Fabriquer des équipements(avancé),Vitesse de fabrication des équipements de combat ++
+522,Fabriquer des équipements(maîtrisé),Vitesse de fabrication des équipements de combat +++
+530,Reposez-vous bien,Défence +
+531,Reposez-vous bien(avancé),Défence +
+532,Reposez-vous bien(maîtrisé),Défence +
 540,Stone skiping master,Exp de combat +
 541,Stone skiping master(avancé),Exp de combat +
 542,Stone skiping master(maîtrisé),Exp de combat ++
-550,Go Training,Vitesse d'attaque +
-551,Go Training(avancé),Vitesse d'attaque ++
-552,Go Training(maîtrisé),Vitesse d'attaque +++
+550,S'entraîner,Vitesse d'attaque +
+551,S'entraîner(avancé),Vitesse d'attaque ++
+552,S'entraîner(maîtrisé),Vitesse d'attaque +++
 560,Shoot!,Craft Exp +
-561,Shoot!(avancé),"Craft Exp +
-Fight Exp +
-Survial Exp + ++"
-430,Go Sailing,Athelete up
-431,Go Sailing,Athelete up
-432,Go Sailing,Athelete up
-440,Walk on the Solid,More Strength
-441,Walk on the Solid,More Strength
-442,Walk on the Solid,More Strength
+561,Shoot!(avancé),"Exp de fabrication +
+Exp de combat +
+Exp de survie +++"
+430,Naviguer,Athlète augmente
+431,Naviguer,Athlète augmente
+432,Naviguer,Athlète augmente
+440,Walk on the Solid,Plus de force
+441,Walk on the Solid,Plus de force
+442,Walk on the Solid,Plus de force

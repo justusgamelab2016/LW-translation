@@ -71,10 +71,10 @@
 712,Bois
 713,[B] Construire
 714,[F9] Réinitialiser la camera
-715,[Space] Pause
-716,[Space] Jouer
-717,[Space] Vitesse x2
-718,[Space] Vitesse x5
+715,[Espace] Pause
+716,[Espace] Jouer
+717,[Espace] Vitesse x2
+718,[Espace] Vitesse x5
 719,[Tab] ou [1]~[9] pour changer de niveau
 720,[I] Objets
 800,Masse
@@ -157,8 +157,8 @@
 108,Joueurs Pre-Alpha
 109,Modérateur de la Communauté
 211,Guide
-212,Control
-213,System_Resume
+212,Commandes
+213,Continuer
 413,Location_Train
 414,Location_Paddle
 415,Location_Sail
@@ -177,13 +177,13 @@
 521,Jambe gauche
 522,Jambe droite
 523,Corps
-524,Health_Perk
+524,Bonus
 525,Intérêts Personnel :
-526,Skill_Survival
-527,Skill_Cook
-528,Skill_Craft
-529,Skill_Nautics
-530,Skill_Fight
+526,Survie
+527,Cuisine
+528,Artisanat
+529,Nautique
+530,Combat
 531,Skill_SurvivalDes
 532,Skill_CookDes
 533,Skill_CraftDes
@@ -207,7 +207,7 @@
 836,Float_ShowHigher
 837,Float_All
 838,SimLoc_WaterVolume
-839,Etape de Croissance
+839,Etapes Croissance
 840,SimLoc_Little
 841,SimLoc_Some
 842,SimLoc_Much

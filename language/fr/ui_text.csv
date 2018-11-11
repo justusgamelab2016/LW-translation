@@ -4,8 +4,8 @@
 102,[Continuer]
 103,[Charger]
 104,[Crédit]
-105,Develop
-106,Localization
+105,Développeur
+106,Traductions
 107,[Quitter le jeu]
 200,Sauvegarde Auto
 201,Graphismes simplifiés
@@ -154,8 +154,8 @@
 1309,Toujours comme ça.
 1310,Je n'aime rien jamais satisfait.
 1311,"Quelque chose se passe dans mon esprit, I want it much."
-108,Title_PreAlphaPlayer
-109,Title_CommunityModerator
+108,Joueurs Pre-Alpha
+109,Modérateur de la Communauté
 211,Guide
 212,Control
 213,System_Resume
@@ -171,14 +171,14 @@
 422,Location_Play
 423,Location_Open
 424,Location_Chat
-518,Health_head
-519,Health_armleft
-520,Health_armright
-521,Health_legleft
-522,Health_legright
-523,Health_body
+518,Tête
+519,Bras gauche
+520,Gras droit
+521,Jambe gauche
+522,Jambe droite
+523,Corps
 524,Health_Perk
-525,CharacterPanel_PersonalInterest
+525,Intérêts Personnel :
 526,Skill_Survival
 527,Skill_Cook
 528,Skill_Craft
@@ -199,7 +199,7 @@
 828,OverAll_time
 829,OverAll_Brightness
 830,OverAll_Humidity
-831,OverAll_WaterTemperature
+831,Température de l'eau
 832,OverAll_WindTemperature
 833,Float_ShowAll
 834,Float_ShowCurrent

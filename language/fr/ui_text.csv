@@ -7,6 +7,8 @@
 105,Développeur
 106,Traductions
 107,[Quitter le jeu]
+108,Joueurs Pre-Alpha
+109,Modérateur de la Communauté
 200,Sauvegarde Auto
 201,Graphismes simplifiés
 202,Sauvegarder
@@ -18,6 +20,9 @@
 208,Volume des effets sonores
 209,Guide
 210,Options
+211,Guide
+212,Commandes
+213,Continuer
 300,Ressource
 301,Construction
 302,Fabrication
@@ -37,6 +42,18 @@
 410,Désinsectiser
 411,Fertiliser
 412,Affecter
+413,Train
+414,Paddle
+415,Sail
+416,Observe
+417,Watch
+418,Measure
+419,Draw
+420,Steer
+421,TrainCraft
+422,Play
+423,Open
+424,Chat
 500,Transporter
 501,Emplacement cible
 502,Pile cible
@@ -55,6 +72,25 @@
 515,Effets des compétences
 516,Recettes apprises
 517,Santé
+518,Tête
+519,Bras gauche
+520,Gras droit
+521,Jambe gauche
+522,Jambe droite
+523,Corps
+524,Bonus
+525,Intérêts Personnel :
+526,Survie
+527,Cuisine
+528,Artisanat
+529,Nautique
+530,Combat
+531,"Basic survival skill.Including fishing, planting, gathering materials."
+532,Cook more delicious and nutritious food.
+533,"The skill of creating. Including crafting tools, weapons, protection."
+534,"The skill of sailing, navigation and mapping."
+535,"The skill of fighting. Increase strength, speed, use of weapons and battle technic."
+536,Can Upgrate
 600,Mélodie
 601,Mélodie relaxante
 602,Mélodie de direction du gouvernail
@@ -99,6 +135,28 @@
 819,Richesse
 820,Place
 821,Beauté
+822,Coprs
+823,Croissance stoppée
+824,Bonne croissance
+825,Croissance normale
+826,Mauvaise croissance
+827,Inactif
+828,Heure
+829,Luminosité
+830,Humidité
+831,Température de l'eau
+832,Température du vent
+833,Show All
+834,Show Current Floor
+835,Show All and Down
+836,Show All and Up
+837,Show All
+838,Water Volume
+839,Grow Stage
+840,Little
+841,Some
+842,Much
+843,Need
 900,Bill
 901,Travail en cours...
 902,Tout annuler
@@ -154,84 +212,26 @@
 1309,Toujours comme ça.
 1310,Je n'aime rien jamais satisfait.
 1311,"Quelque chose se passe dans mon esprit, I want it much."
-108,Joueurs Pre-Alpha
-109,Modérateur de la Communauté
-211,Guide
-212,Commandes
-213,Continuer
-413,Location_Train
-414,Location_Paddle
-415,Location_Sail
-416,Location_Observe
-417,Location_Watch
-418,Location_Measure
-419,Location_Draw
-420,Location_Steer
-421,Location_TrainCraft
-422,Location_Play
-423,Location_Open
-424,Location_Chat
-518,Tête
-519,Bras gauche
-520,Gras droit
-521,Jambe gauche
-522,Jambe droite
-523,Corps
-524,Bonus
-525,Intérêts Personnel :
-526,Survie
-527,Cuisine
-528,Artisanat
-529,Nautique
-530,Combat
-531,
-532,
-533,
-534,
-535,
-536,Skill_CanUpgrate
-822,SimLoc_Corps
-823,Croissance stoppée
-824,Bonne croissance
-825,Croissance normale
-826,Mauvaise croissance
-827,UnEnable
-828,Heure
-829,Luminosité
-830,Humidité
-831,Température de l'eau
-832,Température du vent
-833,Float_ShowAll
-834,Float_ShowCurrent
-835,Float_ShowLower
-836,Float_ShowHigher
-837,Float_All
-838,SimLoc_WaterVolume
-839,Etapes Croissance
-840,SimLoc_Little
-841,SimLoc_Some
-842,SimLoc_Much
-843,Storage_SupplyNeed
-1119,Message_cancle
-1120,Message_Interact_Interrupt
-1312,Social_Item_Attitude_None_Has
-1313,Social_Item_Attitude_Like_Has
-1314,Social_Item_Attitude_Dislike_Has
-1315,Social_Item_Attitude_Want_Has
-1316,Social_Item_Attitude_Has_None
-1400,Location_Forbidden_Raft_Change_Dependent_Building
-1401,Location_Forbidden_Raft_WaterSideRaftNear
-1402,Location_Forbidden_Raft_UnderBuildingTooHigh
-1403,Location_Forbidden_Raft_Collision_Map
-1404,Location_Forbidden_Raft_Collision_Island
-1405,Location_Forbidden_Raft_Collision_Region
-1406,Location_Forbidden_Building_On_Moss
-1407,Location_Forbidden_Building_Dep_Tag
-1408,Location_Forbidden_Building_TooHigh
-1409,Location_Forbidden_Building_BetweenTrees
-1410,Location_Forbidden_Building_WaterSide
-1411,Location_Forbidden_Building_CurrentAboveWaterNodeLevel
-1412,Location_Forbidden_Building_LevelNumberLimit
+1119,Cancle
+1120,doesn't want to work any more.
+1312,"I have it, but I don't care."
+1313,Finally have something that I like.
+1314,I have but I don't like it.
+1315,Finally have what I dream of.
+1316,"I used to have it, but I didn't cherish."
+1400,Location depends on exiting floor.
+1401,Can't build here.
+1402,Can't build here.
+1403,There is a raft nearby.
+1404,There is an island nearby.
+1405,There is something nearby.
+1406,Can't place on floor with moss.
+1407,Can't build here.
+1408,Can't build here.
+1409,Must place between trees.
+1410,Must place by water.
+1411,Must place on water surface.
+1412,Reach maximum height.
 844,Précipitations
 845,Jour
 846,Vous devez redémarrer le jeu pour changer de langue.

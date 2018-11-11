@@ -6,25 +6,25 @@
 6,{0} s'est moqué de {1} pour avoir pensé qu'il serait facile d'admettre que {2}
 7,{0}s brought {1} back together
 8,it turned out {0}s were not enough to bring {1} back together
-9,{0} {1} nice enough to stop being enemies with {2}
+9,{0} {1} est assez agréable pour arrêter d'être ennemis avec {2}
 10,{0} concession turned into a declaration of love for {1}
 11,{0} cheerfully settled {1} differences with {2}
-12,{0} opened old wounds when {1} tried to make up with {2}
+12,{0} a réouvert d'anciennes plaies lorsque {1} a tenté de se réconcilier avec {2}
 13,{0} {1} too vengeful to settle {2} differences with {3}
 14,{0} got over {1} fight and went back to being a happy couple
 15,{0} a continué à se battre les uns avec les autres
 16,{0} cleverly settled {1} differences with {2}
 21,{0} tried to get {1} to help against {2} but {3} like changed sides
 24,{0} felt no remorse for {1} unfriendly behavior towards {2}
-25,{0} apologized for being a bad friend to {1}
-26,{0} helped {1} make a decision concerning {2}
-29,{0} made excuses to avoid helping {1} out
-30,{0} tried to get {1} to help {2} out but {3} said the old {4} was dead
-31,{0} helped {1} out with that embarrassing problem
-33,{0} stood up to {1} threatening requests for help
-39,{0} told {1} {2} would under no circumstances support {3} dishonest relationship with {4}
+25,{0} s'excuse d'avoir été un mauvais ami à {1}
+26,{0} a aidé {1} à prendre une décision concernant {2}
+29,{0} a présenté des excuses pour éviter d'aider {1}
+30,{0} a tenté d'obtenir {1} pour aider {2} mais {3} a dit que le vieux {4} était mort
+31,{0} a aidé {1} avec ce problème embarassant
+33,{0} a résisté à {1} concernant des demandes menaçantes
+39,{0} a dit à {1} {2} ne supporterait en aucun cas {3} d'avoir une relation néfaste avec {4}
 41,{0} {1} just too cool to do whatever favor {2} had in mind
-42,{0} {1} a friend in need
+42,{0} {1} un ami dans le besoin
 43,{0} let {1} down in {2} moment of need
 44,{0} lent {1} {2} {3}
 45,{0} refused to lend {1} {2} {3}
@@ -260,9 +260,9 @@
 329,{0} came off like a serial killer in {1} attempt to idolize {2}
 330,{0} lifted {1} spirits with memories of good times
 332,{0} both fawned over {1}
-333,{0} sucked up to {1} but {2} {3}n't really sure who {4} {5}
-334,{0} insulted {1} but {2} didn't get it
-335,{0} insulted {1}
+333,{0} sucked up to {1} mais {2} {3}n't really sure who {4} {5}
+334,{0} a insulté {1} mais {2} didn't get it
+335,{0} a insulté {1}
 336,{0} had like a catfight
 337,{0} brought the smackdown to {1}
 338,{0} totally backstabbed {1} even though {2} were friends

@@ -22,7 +22,7 @@
 210,Option
 211,Guide
 212,Control
-213,System_Resume
+213,Resume
 300,Resource
 301,Structure
 302,Craft
@@ -156,7 +156,7 @@
 840,Little
 841,Some
 842,Much
-843,Storage_SupplyNeed
+843,Need
 900,Bill
 901,Working In Progress
 902,Cancel All

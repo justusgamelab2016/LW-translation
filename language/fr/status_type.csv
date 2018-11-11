@@ -56,7 +56,7 @@
 55,J'ai trouvé une nouvelle île!
 56,Je viens de tuer quelqu'un.
 57,Nous débarquons sur une nouvelle île!
-58,Je suis tombé dans la mer. Heureusement, j'ai survécu.
+58,"Je suis tombé dans la mer. Heureusement, j'ai survécu."
 59,C'est salissant.
 60,Je suis tombé et j'ai cassé ma jambe.
 61,J'ai vu quelque chose de terrifiant.
@@ -152,3 +152,6 @@
 151,J'ai eu un séjour en mer trop longtemps. Le sentiment de marcher sur des terres solides me manque.
 152,EatLikeFood
 153,EatDislikeFood
+154,EatUncookedFood
+155,WantProperty
+156,HasWantProperty

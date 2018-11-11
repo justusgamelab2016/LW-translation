@@ -149,8 +149,86 @@
 1304,Je ne ressens rien à propos de cela maintenant.
 1305,Je n'en veux plus..
 1306,How do I think before for it.
-1307,"Je l'aime depuis longtemps."
+1307,Je l'aime depuis longtemps.
 1308,Ca vaut la peine de modifier mon esprit.
 1309,Toujours comme ça.
 1310,Je n'aime rien jamais satisfait.
 1311,"Quelque chose se passe dans mon esprit, I want it much."
+108,Title_PreAlphaPlayer
+109,Title_CommunityModerator
+211,Guide
+212,Control
+213,System_Resume
+413,Location_Train
+414,Location_Paddle
+415,Location_Sail
+416,Location_Observe
+417,Location_Watch
+418,Location_Measure
+419,Location_Draw
+420,Location_Steer
+421,Location_TrainCraft
+422,Location_Play
+423,Location_Open
+424,Location_Chat
+518,Health_head
+519,Health_armleft
+520,Health_armright
+521,Health_legleft
+522,Health_legright
+523,Health_body
+524,Health_Perk
+525,CharacterPanel_PersonalInterest
+526,Skill_Survival
+527,Skill_Cook
+528,Skill_Craft
+529,Skill_Nautics
+530,Skill_Fight
+531,Skill_SurvivalDes
+532,Skill_CookDes
+533,Skill_CraftDes
+534,Skill_NauticsDes
+535,Skill_FightDes
+536,Skill_CanUpgrate
+822,SimLoc_Corps
+823,SimLoc_Grow_StopGrow
+824,SimLoc_Grow_GrowGood
+825,SimLoc_Grow_GrowOk
+826,SimLoc_Grow_GrowBad
+827,UnEnable
+828,OverAll_time
+829,OverAll_Brightness
+830,OverAll_Humidity
+831,OverAll_WaterTemperature
+832,OverAll_WindTemperature
+833,Float_ShowAll
+834,Float_ShowCurrent
+835,Float_ShowLower
+836,Float_ShowHigher
+837,Float_All
+838,SimLoc_WaterVolume
+839,SimLoc_GrowStage
+840,SimLoc_Little
+841,SimLoc_Some
+842,SimLoc_Much
+843,Storage_SupplyNeed
+1119,Message_cancle
+1120,Message_Interact_Interrupt
+1312,Social_Item_Attitude_None_Has
+1313,Social_Item_Attitude_Like_Has
+1314,Social_Item_Attitude_Dislike_Has
+1315,Social_Item_Attitude_Want_Has
+1316,Social_Item_Attitude_Has_None
+1400,Location_Forbidden_Raft_Change_Dependent_Building
+1401,Location_Forbidden_Raft_WaterSideRaftNear
+1402,Location_Forbidden_Raft_UnderBuildingTooHigh
+1403,Location_Forbidden_Raft_Collision_Map
+1404,Location_Forbidden_Raft_Collision_Island
+1405,Location_Forbidden_Raft_Collision_Region
+1406,Location_Forbidden_Building_On_Moss
+1407,Location_Forbidden_Building_Dep_Tag
+1408,Location_Forbidden_Building_TooHigh
+1409,Location_Forbidden_Building_BetweenTrees
+1410,Location_Forbidden_Building_WaterSide
+1411,Location_Forbidden_Building_CurrentAboveWaterNodeLevel
+1412,Location_Forbidden_Building_LevelNumberLimit

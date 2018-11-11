@@ -1,4 +1,4 @@
-﻿{
+{
   "Language": "french",
   "Config": {
     "LocationConfig": "location.csv",
@@ -28,6 +28,7 @@
     "SocialDisplayType": "SocialDisplayType.csv",
     "UITextLocalization": "ui_text.csv",
     "LandMudGrowState": "LandMudGrowState.csv",
-    "SkillType": "SkillType.csv"
+    "SkillType": "SkillType.csv",
+    "PerkType": "PerkType.csv"
   }
 }

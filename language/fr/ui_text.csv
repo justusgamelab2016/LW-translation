@@ -184,11 +184,11 @@
 528,Artisanat
 529,Nautique
 530,Combat
-531,Skill_SurvivalDes
-532,Skill_CookDes
-533,Skill_CraftDes
-534,Skill_NauticsDes
-535,Skill_FightDes
+531,
+532,
+533,
+534,
+535,
 536,Skill_CanUpgrate
 822,SimLoc_Corps
 823,Croissance stoppée
@@ -196,11 +196,11 @@
 825,Croissance normale
 826,Mauvaise croissance
 827,UnEnable
-828,OverAll_time
-829,OverAll_Brightness
-830,OverAll_Humidity
+828,Heure
+829,Luminosité
+830,Humidité
 831,Température de l'eau
-832,OverAll_WindTemperature
+832,Température du vent
 833,Float_ShowAll
 834,Float_ShowCurrent
 835,Float_ShowLower

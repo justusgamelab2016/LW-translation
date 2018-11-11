@@ -42,18 +42,18 @@
 410,Désinsectiser
 411,Fertiliser
 412,Affecter
-413,Train
-414,Paddle
-415,Sail
-416,Observe
-417,Watch
+413,S'entraîner
+414,Pagayer
+415,Naviguer
+416,Observer
+417,Regarder
 418,Measure
-419,Draw
+419,Dessiner
 420,Steer
 421,TrainCraft
-422,Play
-423,Open
-424,Chat
+422,Jouer
+423,Ouvrir
+424,Parler
 500,Transporter
 501,Emplacement cible
 502,Pile cible
@@ -87,9 +87,9 @@
 530,Combat
 531,"Compétences de survie de base.Pêcher, planter, récolter des matériaux."
 532,Cuisiner des repas plus nutritifs et délicieux.
-533,"Les compétences de création. Fabrication d'outils, armes, protections."
-534,"Les compétences nautiques, navigation et cartographie."
-535,"Les compétences de combat. Augmente force, vitesse, utilisation des armes, techniques de combat."
+533,"Compétences de création. Fabrication d'outils, armes, protections."
+534,"Compétences nautiques, navigation et cartographie."
+535,"Compétences de combat. Augmente force, vitesse, utilisation des armes, techniques de combat."
 536,Can Upgrate
 600,Mélodie
 601,Mélodie relaxante
@@ -147,7 +147,7 @@
 831,Température de l'eau
 832,Température du vent
 833,Tout afficher
-834,Afficher l'étage actuel
+834,Afficher le niveau actuel
 835,Afficher tout et en bas
 836,Afficher tout et en haut
 837,Afficher tout
@@ -157,7 +157,7 @@
 841,Some
 842,Much
 843,Need
-900,Addition!
+900,Addition !
 901,Travail en cours...
 902,Tout annuler
 903,Recettes
@@ -212,7 +212,7 @@
 1309,Toujours comme ça.
 1310,Je n'aime rien jamais satisfait.
 1311,"Quelque chose se passe dans mon esprit, I want it much."
-1119,Cancle
+1119,Annuler
 1120,ne veut plus travailler.
 1312,"I have it, but I don't care."
 1313,Finally have something that I like.

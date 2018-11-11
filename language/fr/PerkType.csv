@@ -1,16 +1,16 @@
-0,None
-1,Hungry
-2,Thirsty
+0,
+1,Affamé
+2,Assoiffé
 3,Sleepy
 4,Excrete
 5,Social
-6,Strength
-7,Agility
-8,Defense
-9,SkillSurvival
-10,SkillCraft
-11,SkillCook
-12,SkillFight
-13,SkillCare
-14,SkillNautics
+6,Force
+7,Agilité
+8,Défense
+9,Compétences de survie
+10,Compétences de fabrication
+11,Compétences de cuisine
+12,Compétences de combat
+13,Compétences de soin
+14,Compétences nautique
 15,BothwayHolder

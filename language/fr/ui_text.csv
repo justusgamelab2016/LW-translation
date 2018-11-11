@@ -85,11 +85,11 @@
 528,Artisanat
 529,Nautique
 530,Combat
-531,"Basic survival skill.Including fishing, planting, gathering materials."
-532,Cook more delicious and nutritious food.
-533,"The skill of creating. Including crafting tools, weapons, protection."
-534,"The skill of sailing, navigation and mapping."
-535,"The skill of fighting. Increase strength, speed, use of weapons and battle technic."
+531,"Compétences de survie de base.Pêcher, planter, récolter des matériaux."
+532,Cuisiner des repas plus nutritifs et délicieux.
+533,"Les compétences de création. Fabrication d'outils, armes, protections."
+534,"Les compétences nautiques, navigation et cartographie."
+535,"Les compétences de combat. Augmente force, vitesse, utilisation des armes, techniques de combat."
 536,Can Upgrate
 600,Mélodie
 601,Mélodie relaxante
@@ -146,13 +146,13 @@
 830,Humidité
 831,Température de l'eau
 832,Température du vent
-833,Show All
-834,Show Current Floor
-835,Show All and Down
-836,Show All and Up
-837,Show All
-838,Water Volume
-839,Grow Stage
+833,Tout afficher
+834,Afficher l'étage actuel
+835,Afficher tout et en bas
+836,Afficher tout et en haut
+837,Afficher tout
+838,Volume d'eau
+839,Etapes Croissance
 840,Little
 841,Some
 842,Much
@@ -220,17 +220,17 @@
 1315,Finally have what I dream of.
 1316,"I used to have it, but I didn't cherish."
 1400,Location depends on exiting floor.
-1401,Can't build here.
-1402,Can't build here.
-1403,There is a raft nearby.
-1404,There is an island nearby.
-1405,There is something nearby.
+1401,Impossible de construire.
+1402,Impossible de construire.
+1403,Il y a un radeau proche.
+1404,Il y a une île proche.
+1405,Il y a quelque chose de proche.
 1406,Can't place on floor with moss.
-1407,Can't build here.
-1408,Can't build here.
-1409,Must place between trees.
+1407,Impossible de construire.
+1408,Impossible de construire.
+1409,Doit être placé entre les arbres.
 1410,Must place by water.
-1411,Must place on water surface.
+1411,Doit être placé sur l'eau.
 1412,Reach maximum height.
 844,Précipitations
 845,Jour

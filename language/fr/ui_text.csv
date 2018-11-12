@@ -90,7 +90,7 @@
 533,"Compétences de création. Fabrication d'outils, armes, protections."
 534,"Compétences nautiques, navigation et cartographie."
 535,"Compétences de combat. Augmente force, vitesse, utilisation des armes, techniques de combat."
-536,Can Upgrate
+536,Promouvoir
 600,Mélodie
 601,Mélodie relaxante
 602,Mélodie de direction du gouvernail
@@ -124,10 +124,10 @@
 808,[Shift+6] Terrain
 809,Consomme
 810,Produit
-811,Tout montrer
-812,Show All and Up
-813,Show All and Down
-814,Montrer le niveau actuel
+811,Tout afficher
+812,Afficher tout et en haut
+813,Afficher tout et en bas
+814,Afficher le niveau actuel
 815,Choisir un nom
 816,Intérêt personnel:
 817,Richesse
@@ -156,7 +156,7 @@
 840,Un peu de
 841,Un peu plus de
 842,Beaucoup de 
-843,Need
+843,Manque
 900,Addition !
 901,Travail en cours...
 902,Tout annuler
@@ -214,22 +214,22 @@
 1311,"Quelque chose se passe dans mon esprit, I want it much."
 1119,Annuler
 1120,ne veut pas travailler.
-1312,"I have it, but I don't care."
-1313,Finally have something that I like.
+1312,"Je l'ai, mais je m'en fiche."
+1313,Enfin quelque chose que j'aime.
 1314,I have but I don't like it.
 1315,J'ai enfin ce dont je rêve.
 1316,"I used to have it, but I didn't cherish."
-1400,Location depends on exiting floor.
+1400,L'emplacement dépend on exiting floor.
 1401,Impossible de construire.
 1402,Impossible de construire.
 1403,Il y a un radeau proche.
 1404,Il y a une île proche.
 1405,Il y a quelque chose de proche.
-1406,Can't place on floor with moss.
+1406,Impossible de placer sur le sol avec de la mousse.
 1407,Impossible de construire.
 1408,Impossible de construire.
 1409,Doit être placé entre les arbres.
-1410,Must place by water.
+1410,Doit être placé au bord de l'eau.
 1411,Doit être placé sur l'eau.
 1412,Hauteur max atteinte.
 844,Précipitations

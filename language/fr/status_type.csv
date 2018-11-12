@@ -22,7 +22,7 @@
 21,Confus
 22,Se sent seul
 23,Briseur de ménage
-24,Wants to pick on
+24,Veut s'en prendre à
 25,Agacé par
 26,J'ai eu peur.
 27,J'envie...
@@ -31,7 +31,7 @@
 30,Se sent supérieur à...
 31,Tromper...
 32,Trompé par...
-33,Home wrecked by...
+33,Maison détruite par...
 34,Je viens d'attraper un poisson!
 35,Je n'ai pas réussi à attraper un poisson :(
 36,Je viens de prier. Souhaite moi bonne chance.
@@ -49,7 +49,7 @@
 48,Je viens d'utiliser la douche. Mais nous n'avons pas d'eau douce.
 49,Je viens de regarder la nuit étoilée. Ça me rend calme.
 50,Fixer l'eau
-51,I just stone skipping on sea.
+51,Je viens de jouer avec des pierres à la mer.
 52,J'ai joué de la flûte un moment. C'était cool.
 53,Je viens d'écouter de la bonne musique.
 54,Je me suis blessé en construisant.
@@ -71,7 +71,7 @@
 70,"Je suis affamé. Si je ne trouve pas plus de nourriture, je ne pense pas que je vais le faire."
 71,Je suis déshydraté. Ma gorge est si sèche que je ne peux prononcer aucun mot.
 72,Je suis épuisée. Je pourrais m'endormir en une seconde.
-73,I need to take a dump now! I can't hlod no more.
+73,J'ai besoin de prendre un taudis! Je ne peux plus tenir.
 74,Je sens mauvais. Je dois prendre une douche.
 75,Je suis bouleversé.
 76,Je pense que je perd la tête
@@ -89,47 +89,47 @@
 88,Méditer dans une pièce
 89,Je veux ma propre chambre
 90,Je veux ma propre salle à manger
-91,Want my own WorkRoom
-92,Want my own ShowerRoom
-93,Want my own StoreRoom
+91,Je veux ma propre pièce de travail
+92,Je veux ma propre salle de bain
+93,Je veux ma propre pièce de stockage
 94,A dormi sur la pile.
-95,Enjoy some great Paint
-96,See Paint I don't like
-97,Dyspepsia
+95,Profite d'une belle peinture
+96,regarde une peinture que je n'aime pas
+97,Dyspepsie
 98,Mal au ventre.
 99,Je me sens faible.
 100,Malnutrition
 101,Se sentir gras.
 102,Je ne peux pas me concentrer.
-103,Be Commanded Too Much
+103,Etre trop commandé
 104,Je me sens fatigué de travailler.
-105,Arange items too much
+105,Range de trop les objets
 106,construit de trop
-107,Command me more.
+107,Commandez-moi plus
 108,Je veux travailler plus.
-109,want to Arrange more items
+109,veut ranger plus d'objets
 110,veut construire plus de trucs
 111,Il fait trop noir. Je pense que nous devrions construire plus de source de lumière.
-112,Il fait trop chaud. Je pense que nous devrions trouver un moyen de se rafraîchir.
+112,Il fait trop chaud. Je pense que nous devrions trouver un moyen de nous rafraîchir.
 113,Il fait trop froid. Je pense que nous devrions construire un feu de camp.
-114,C'est trop humide. Je pense que nous devrions trouver someway to make us cool and dry.
-115,I just smell something sink.
+114,C'est trop humide. Je pense que nous devrions trouver une manière de nous sécher.
+115,Je sens juste un truc qui coule.
 116,Je ne peux pas respirer.
 117,Je viens de voir quelque chose de vilain
 118,Je viens de voir quelque chose de beau
 119,Je veux une plus grande chambre
 120,Je veux une plus grande salle à manger
-121,I want a larger WorkRoom
-122,I want a larger StoreRoom
+121,Je veux une plus grande WorkRoom
+122,Je veux une plus grande StoreRoom
 123,Je veux une plus belle chambre
 124,Je veux une plus belle salle à manger
 125,Je veux une chambre plus riche
 126,Je veux une salle à manger plus riche
 127,Je suis satisfait de ma chambre
-128,I'm satisfied of my own DiningRoom
-129,I'm satisfied of my own WorkRoom
-130,I'm satisfied of my own ShowerRoom
-131,I'm satisfied of my own StoreRoom
+128,Je suis satisfait de ma salle à manger
+129,Je suis satisfait de ma pièce de travail
+130,Je suis satisfait de ma salle de bain
+131,Je suis satisfait de mon espace de stockage
 132,Je crois que j'ai attrapé un rhume.
 133,Je viens de me gratter.
 134,Je viens de me faire des ecchymoses.

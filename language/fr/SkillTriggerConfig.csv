@@ -32,14 +32,14 @@
 250,Recherche sur les outils de cuisson,Vitesse d'expérience de cuisinier +
 251,Recherche sur les outils de cuisson(avancé),Vitesse d'expérience de cuisinier ++
 300,Tissage,Vitesse  +
-301,Tissage(avancé),Cooking Weave speed ++
-302,Tissage(maîtrisé),Cooking Weave speed +++
-310,Craft Woodwares,Cooking Woodwares speed +
-311,Craft Woodwares(avancé),Cooking Woodwares speed ++
-312,Craft Woodwares(maîtrisé),Cooking Woodwares speed +++
-320,Craft Stonewares,Cooking Woodwares speed +
-321,Craft Stonewares(avancé),Cooking Woodwares speed ++
-322,Craft Stonewares(maîtrisé),Cooking Woodwares speed +++
+301,Tissage(avancé),Vitesse de Cooking Weave ++
+302,Tissage(maîtrisé),Vitesse de Cooking Weave +++
+310,Fabriquer des marchandises en bois,Vitesse de cuisson des marchandises en bois +
+311,Fabriquer des marchandises en bois(avancé),Vitesse de cuisson des marchandises en bois ++
+312,Fabriquer des marchandises en bois(maîtrisé),Vitesse de cuisson des marchandises en bois +++
+320,Fabriquer des marchandises en pierre,Vitesse de cuisson des marchandises en pierre +
+321,Fabriquer des marchandises en pierre(avancé),Vitesse de cuisson des marchandises en pierre ++
+322,Fabriquer des marchandises en pierre(maîtrisé),Vitesse de cuisson des marchandises en pierre +++
 330,Recherche sur les outils de fabrication,Vitesse d'expérience d'artisanat +
 331,Recherche sur les outils de fabrication(avancé),Vitesse d'expérience d'artisanat ++
 340,Brainstorm,Expériences de fabrication +
@@ -61,10 +61,10 @@
 420,Drown alive,Défence +
 421,Drown alive(avancé),Défence ++
 422,Drown alive,Hardess up
-500,Attacking!,Puissance d'attaque +
-501,Attacking!(avancé),Puissance d'attaque ++
-502,Swift!,Puissance d'attaque +
-503,Swift!(avancé),Puissance d'attaque ++
+500,Agressif!,Puissance d'attaque +
+501,Agressif!(avancé),Puissance d'attaque ++
+502,Rapide!,Puissance d'attaque +
+503,Rapide!(avancé),Puissance d'attaque ++
 504,Athlete!,Puissance d'attaque +
 505,Athlete!(avancé),Puissance d'attaque ++
 506,Humain tué!,Puissance d'attaque +
@@ -86,13 +86,13 @@
 550,S'entraîner,Vitesse d'attaque +
 551,S'entraîner(avancé),Vitesse d'attaque ++
 552,S'entraîner(maîtrisé),Vitesse d'attaque +++
-560,Shoot!,Craft Exp +
-561,Shoot!(avancé),"Exp de fabrication +
+560,Tirer!,Exp d'artisanat +
+561,Tirer!(avancé),"Exp d'artisanat +
 Exp de combat +
 Exp de survie +++"
 430,Naviguer,Athlète augmente
 431,Naviguer,Athlète augmente
 432,Naviguer,Athlète augmente
-440,Walk on the Solid,Plus de force
-441,Walk on the Solid,Plus de force
-442,Walk on the Solid,Plus de force
+440,Marcher sur du solide,Plus de force
+441,Marcher sur du solide,Plus de force
+442,Marcher sur du solide,Plus de force

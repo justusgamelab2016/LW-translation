@@ -155,7 +155,7 @@
 839,Etapes Croissance
 840,Un peu de
 841,Un peu plus de
-842,Beaucoup de 
+842,Beaucoup de
 843,Besoin
 900,Addition !
 901,Travail en cours...
@@ -237,3 +237,60 @@
 846,Vous devez redémarrer le jeu pour changer de langue.
 847,Redémarrer maintenant.
 848,Redémarrer plus tard.
+110,Title_easy
+111,Title_normal
+112,Title_hard
+113,Title_back
+114,Title_Initalizing
+115,Title_InitalizingFirstTime
+537,Status_NoEquipment
+538,Status_Hunger
+539,Status_Thirsty
+540,Status_Sleepy
+541,Status_Health
+542,Status_Sanity
+543,Status_Clean
+544,Status_Excrete
+545,Skill_Exp
+546,Skill_UpgradeTrial
+721,Tooltip_alert
+849,Storage_Volume
+850,Backstory
+851,Control_Build
+852,Control_Items
+853,Control_PanCam
+854,Control_RestCam
+855,Control_SwitchFloor
+856,Control_RotateBluePrint
+857,Control_Filter
+858,Drop
+859,EnterText
+860,Pile_Expand
+861,Pile_FetchFromSea
+1121,Message_GameOver
+1122,Message_GameOver_Continue
+1123,Message_GameOver_Quit
+1500,SmallTalk_Normal_Skeleton
+1501,SmallTalk_Normal_Male
+1502,SmallTalk_Normal_Female
+1503,SmallTalk_Normal_Sea
+1504,SmallTalk_Normal_Childhood
+1505,SmallTalk_Normal_Apocalypse
+1506,SmallTalk_Normal_Noah
+1507,SmallTalk_Normal_ShipOfTheseus
+1508,SmallTalk_Normal_SeaLife
+1509,SmallTalk_Normal_ThinkOfLand
+1510,SmallTalk_Normal_MeetHowManyHuman
+1511,SmallTalk_Normal_EverSeenSeaMonster
+1512,SmallTalk_Normal_Shark
+1513,SmallTalk_Normal_Seagull
+1514,SmallTalk_Normal_Fishman
+1515,SmallTalk_Normal_Stealer
+1516,SmallTalk_Normal_MeatSeller
+1517,SmallTalk_Normal_TheDeep
+1518,SmallTalk_Normal_Mutant
+1519,SmallTalk_Normal_Raven
+1520,SmallTalk_Normal_Reserved
+1600,SmallTalk_Item_Skeleton
+1700,SmallTalk_Location_Skeleton
+1800,SmallTalk_Skill_Skeleton

@@ -30,9 +30,9 @@
 31,Voile,Un vent favorable peut vous ramener en toute sécurité à la maison.
 32,Sol,"La terre, source de la vie."
 33,Girouette,Mesure la direction du vent.
-34,Pagaie de pêcheur,
+34,Pagaie de pêcheur, Push forward. 
 35,Bois flottant,Fournit une flottabilité supplémentaire.
-36,Observer l'endroit,
+36,Observer l'endroit, Push forward. 
 37,Regarder l'endroit,Méfiez-vous de l'île.
 38,Evaluer l'endroit,Evaluer l'orientation et la vitesse de navigation.
 39,Table Graphique,Dessiner une carte.
@@ -41,7 +41,7 @@
 42,Torche murale,"Pareil qu'une torche, sur un mur."
 43,Barrière,Essayer de ne pas tomber dans l'eau.
 44,Peinture,Cristallisation de créativité. Bon pour l'esprit.
-45,Mixeur de teinture,
+45,Mixeur de teinture, Push forward. 
 46,LocatingingTable,
 47,RevisingTable,
 48,Grande voile,Plus rapide.
@@ -98,7 +98,9 @@
 100,Fraise,
 101,Baie empoisonnée,
 102,Panier,
-103,Mutant,
-104,Pingouin,
+103,Mutant, Training crafting skill. 
+104,Pingouin, Training crafting skill. 
 105,Coffre sur l'île,
 106,Table de préparation,Elaborer des plats froids.
+107,BrewingBarrel, Convert fruit into wine. 
+108,MushroomLog, Convert wood and woodwares into mushroom. 

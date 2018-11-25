@@ -15,7 +15,7 @@
 203,Enter Text
 204,Load
 205,Restart
-206,Quit
+206,Main Menu
 207,BGM Volume
 208,SoundFX Volume
 209,Guide
@@ -197,7 +197,7 @@
 1116,Cook materials not enough.
 1117,found a baby in the shark body.
 1118,die...
-1119,Cancle
+1119,Cancel
 1120,doesn't want to work any more.
 1200,Interact
 1201,Help
@@ -237,3 +237,60 @@
 846,You need to restart the game to make the switching language take effect.
 847,Restart now.
 848,Restart Later.
+110,Title_easy
+111,Title_normal
+112,Title_hard
+113,Title_back
+721,Tooltip_alert
+849,Storage_Volume
+1121,Message_GameOver
+1122,Message_GameOver_Continue
+1123,Message_GameOver_Quit
+1500,SmallTalk_Normal_Skeleton
+1501,SmallTalk_Normal_Male
+1502,SmallTalk_Normal_Female
+1503,SmallTalk_Normal_Sea
+1504,SmallTalk_Normal_Childhood
+1505,SmallTalk_Normal_Apocalypse
+1506,SmallTalk_Normal_Noah
+1507,SmallTalk_Normal_ShipOfTheseus
+1508,SmallTalk_Normal_SeaLife
+1509,SmallTalk_Normal_ThinkOfLand
+1510,SmallTalk_Normal_MeetHowManyHuman
+1511,SmallTalk_Normal_EverSeenSeaMonster
+1512,SmallTalk_Normal_Shark
+1513,SmallTalk_Normal_Seagull
+1514,SmallTalk_Normal_Fishman
+1515,SmallTalk_Normal_Stealer
+1516,SmallTalk_Normal_MeatSeller
+1517,SmallTalk_Normal_TheDeep
+1518,SmallTalk_Normal_Mutant
+1519,SmallTalk_Normal_Raven
+1520,SmallTalk_Normal_Reserved
+1600,SmallTalk_Item_Skeleton
+1700,SmallTalk_Location_Skeleton
+1800,SmallTalk_Skill_Skeleton
+114,Initalizing
+115,Might take a few minuites for the first time.
+537,No Equipment
+538,Hunger
+539,Thirsty
+540,Sleepy
+541,Health
+542,Sanity
+543,Clean
+544,Excrete
+545,Skill Exp
+546,Skill Upgrade Trials
+850,Backstory
+851,[Build]
+852,[Items]
+853,[Pan Cam]
+854,[Rest Cam]
+855,[Switch Floor]
+856,[Rotate Blueprint]
+857,[Filter]
+858,Drop
+859,Enter Text...
+860,Expand
+861,Fetch

@@ -1,36 +1,36 @@
-1,FishingRod,"Takes a long time, but a good way to ease nerve. "
-2,Raft,Your honest friend.
+1,Fishing Rod,"Takes a long time, but a good way to ease nerve. "
+2,Raft,Basic type. Lack of durability.
 3,Lemon Tree,Harvest lemons or cut down for wood.
-4,Small Storage Box,Store all kinds of stuff.
-5,Stair,Expand vertically.
-7,Hammock,Start to feel like a vocation.
-8,Pillar,Support 8 rafts.
-9,Flax Field,Flax can be made into ropes.
-10,Meat Rack,Preserve meat.
-11,Rain Collector,Collect rain.
-12,Water Tank,Put next to a rain collector / water filter to store water.
-13,Work Bench,Craft many useful items.
-14,Wall,Solid protection.
+4,Small Storage Box,Store many kinds of stuff.
+5,Stair,Expand vertically.Can Support 8 rafts.
+7,Hammock,Start to feel like a vacation.
+8,Pillar,Support 9 rafts.
+9,Flax Field,Harvest flax to make ropes.
+10,Meat Rack,Turn meat into jerky.
+11,Rain Collector,"Collect rain,can store 5 liters of water."
+12,Water Tank,Put next to a rain collector / water filter to store 5 liters of water.
+13,Work Bench,Craft many useful items.Put it in a room to make a work room.
+14,Wall,Protect your from the attacking of shark.
 15,PirateBody,
 16,SharkBody,
 17,SeagullBody,
-18,Mat,Not so comfortable. Lack of durability.
-19,Weapon Rack,Could store about 20 weapons.
+18,Mat,Can sleep on it.Or put it in a room with Incense Holder to make a meditation room. Lack of durability.
+19,Weapon Rack,Could store weapons and arrows.
 20,Big Storage Box,More capacity.
 21,Water Filter,Pour in sea water to desalinate.
 22,Potato Field,
-23,Carro tField,
-24,Spike Wall,Aggressive protection.
-25,Field,Produce random crops.
-26,CampFire,"Roast Fish, yum! "
-27,FishNet,"No pain,no gain. "
-28,Paddle,Push forward.
+23,Carrot Field,
+24,Spike Wall,Deal damage when attacked.
+25,Field,
+26,Campfire,Make dishes. Combine different materials to find out new recipes.
+27,Fishnet,Catch fish once a while.
+28,Paddle,Let survivors row forward or backward. Consume a lot of energy.
 29,Door,Feel like a nice room now.
 30,Water Proof Wall,Waterproof protection.
 31,Sail,May a favorable wind send you safely home.
 32,Soil Floor,"Soil, the source of life."
 33,Wind Vane,Measure wind direction.
-34,Fishman Paddle,Push forward.
+34,Fishman Paddle,xxxxxxxxx
 35,Floating Wood,Provide extra buoyancy.
 36,Observe Spot,xxxxxxxxx
 37,Watch Spot,Watch out for island.
@@ -38,27 +38,27 @@
 39,Graphing Table,Draw map.
 40,Rudder,Change the direction.
 41,Torch,Light and warm.
-42,TorchOnWall,"Same torch, on wall."
+42,Torch On Wall,"Same torch, on wall."
 43,Fence,Try not to fall into water.
 44,Paint,Crystallization of creativity. Good for ease mind.
 45,Dye Mixer,xxxxxxxxx
-46,LocatingingTable,xxxxxxxxx
-47,RevisingTable,xxxxxxxxx
+46,Locatinging Table,xxxxxxxxx
+47,Revising Table,xxxxxxxxx
 48,Big Sail,Better speed.
-49,Table,Great for dinner and meeting..
-50,Chair," After dinner sit a while, after supper walk a mile. "
+49,Table,Great for dinner and meeting.Put it in a room to make a dinning room.
+50,Chair,"After dinner sit a while, after supper walk a mile. "
 51,Pot,Could cook better recipes.
 52,Weaver,Craft fiber and clothes.
-53,Motar,Using for smashing. Could craft juice and dye.
+53,Mortar,Using for smashing. Could craft juice and dye.
 54,Stone Mortar,Harder then wood Mortar.
 55,Tool Bench,Craft melee and range weapons.
 56,Clothes Bench,Craft hats and aromors.
 57,Armor Rack,Could store a full set of armor.
-58,Incenseholder,Good for meditation.
+58,Incense Holder,Good for meditation.
 59,Skull on Wall,Memory of old friend.
 60,Shower,Nice shower.
 61,Toilet,Turn feces into fertilizer.
-62,SharkTrap,Catch shark for a while.
+62,Shark Trap,Catch shark for a while.
 63,Stone,
 64,Mud,
 65,Advance Water Filter,Using charcoal to filter sea water.
@@ -68,10 +68,10 @@
 69,Blue Herb Field,
 70,Medicine Bench,Craft medicine to heal wound and illness.
 71,Eaves,Feel more like a home now.
-72,Eaves RainCollector,"Collect rain, with less space. "
+72,Eaves Rain Collector,"Collect rain, with less space. "
 73,Flower Pot On Wall,Good Mood.
 74,Advance Hammock,Start to feel like a vocation.
-75,WaterProof Raft,Water proof raft.
+75,Waterproof Raft,Water proof raft.
 76,Big Table,Great for dinner and meeting..
 77,Work Bench,Craft melee and range weapons.
 78,Coconut Tree,Harvest coconuts or cut down for wood.
@@ -79,26 +79,28 @@
 80,Fertilizer Pool,Convert food into dirt.
 81,Soil Floor,"Soil, the source of life."
 82,Roof,Good for shelter.
-83,Bed,Feel like a home now.
+83,Bed,Feel like a home now.Put it in a room to make a bedroom.
 84,Train Dummy,Training fighting skill.
-85,Caft Training Table,Training crafting skill.
+85,Craft Training Table,Training crafting skill.
 86,Root Vege Field,Produce random rhizomatous crops. Provide energy and fullness.
 88,Leafy Vege Field,Produce random leafy vegeables. Provide vitamine for survivors.
 89,Herb Field,Produce random herbs.Use for cures wounds.
 90,Berry Field,Produce berry. Good for dessert and dye.
 91,Tree,
-92,SeaWeed,Taste like salty rubber.
+92,Sea Weed,Taste like salty rubber.
 93,Fish Chess,GG.
 94,Swing,Have fun!
 95,Chest,There is something inside.
-96,HumidProofRaft,Keep it dry and clean.
+96,Humid Proof Raft,Keep it dry and clean.
 97,Cabbage,
 98,Spinacia,
-99,BlueBerry,
-100,StarwBerry,
-101,PosionBerry,
+99,Blueberry,
+100,Starwberry,
+101,Posionberry,
 102,Cage,
-103,FishMan,
-104,Penguin,
+103,Mutant,Training crafting skill.
+104,Penguin,Training crafting skill.
 105,Chest On Island,
-106,PrepareTable,Prepare cold dishes. 
+106,Preparing Table,Prepare cold dishes.
+107,BrewingBarrel,Convert fruit into wine.
+108,MushroomLog,Convert wood and woodwares into mushroom.

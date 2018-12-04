@@ -1,4 +1,4 @@
-﻿{
+{
   "Language": "english",
   "Config": {
     "LocationConfig": "location.csv",
@@ -11,7 +11,10 @@
     "SeaEventEntityConfig": "SeaEventEntityConfig.csv",
     "SharkEventEntityConfig": "SharkEventEntityConfig.csv",
     "BirdEventEntityConfig": "BirdEventEntityConfig.csv",
-    "StoryTemplateConfig": "StoryTemplateConfig.csv"
+    "StoryTemplateConfig": "StoryTemplateConfig.csv",
+    "GuideConfig": "GuideConfig.csv",
+    "BackStoryConfig": "BackStoryConfig.csv",
+    "ThingTagConfig": "ThingTagConfig.csv"
   },
   "Enum": {
     "EntityStateType": "entity_state_type.csv",
@@ -28,6 +31,8 @@
     "SocialDisplayType": "SocialDisplayType.csv",
     "UITextLocalization": "ui_text.csv",
     "LandMudGrowState": "LandMudGrowState.csv",
-    "SkillType": "SkillType.csv"
+    "SkillType": "SkillType.csv",
+    "PerkType": "PerkType.csv",
+    "SimulateRelationType": "SimulateRelationType.csv"
   }
 }

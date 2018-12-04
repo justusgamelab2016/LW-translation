@@ -9,12 +9,12 @@
 8,Social
 9,Prie
 10,Trouver un abris
-11,Perdre la tête
+11,Perd la tête
 12,Construit
 13,Interragit
 14,Récolte
-15,Wipe
-16,Water Proofing
+15,Essuyer
+16,Imperméabilisant
 17,Pêche
 18,Recherche
 19,Attaque
@@ -26,39 +26,39 @@
 25,Dépose
 26,Transporte un objet
 27,Déplace la personne
-28,Terre
+28,Débarque
 29,Tombe
 30,Répare
 31,Démoli
 32,Organise
-33,Nourrir
+33,Nourrit
 34,Feed SeaWater
 35,Vide
 36,Va chercher
 37,Fait l'amour
-38,Put on
+38,Allume
 39,Range Attack
-40,Throw Away Pile
+40,Jete la pile
 41,Retourne au radeau
-42,Attack Land
-43,Attack Entity
+42,Attaque le terrain
+43,Attaque l'entité
 44,Mange
-45,Seme
-46,Se promene
-47,Aggressive
+45,Sème
+46,Se promène
+47,Agressif
 48,Vole
 49,Vole le bébé
 50,Part
 51,Passe par
 52,Médite
-53,Carried
+53,Emporté
 54,Va chercher
 55,Regarde le ciel
 56,Danse
 57,Regarde la mer
-58,Joue on Sea
+58,Joue à la mer
 59,Joue de la flûte
-60,Approaching
+60,Aborde
 61,Echange
 62,Apprécie la peinture
 63,Pense
@@ -70,8 +70,8 @@
 69,Range
 70,Range
 71,Range
-72,Hobby
+72,Passe le temps
 73,Se promene
 74,Rentre chez lui
-75,Show Up
+75,Se présente
 76,Plonge

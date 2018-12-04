@@ -1,19 +1,19 @@
-﻿100,Aller pêcher!,Vitesse de pêche +
+100,Aller pêcher!,Vitesse de pêche +
 101,Aller pêcher!(avancé),Vitesse de pêche ++
 102,Aller pêcher!(maîtrisé),Vitesse de pêche +++
-121,Go Farming,Vitesse agricole  +
-122,Go Farming(avancé),Vitesse agricole ++
-123,Go Farming(maîtrisé),Vitesse agricole +++
+121,Se lancer dans l'agriculture,Vitesse agricole  +
+122,Se lancer dans l'agriculture(avancé),Vitesse agricole ++
+123,Se lancer dans l'agriculture(maîtrisé),Vitesse agricole +++
 130,Récolter de l'eau de mer,Vitesse de récolte d'eau de mer +
 131,Récolter de l'eau de mer(avancé),Vitesse de récolte d'eau de mer ++
-140,Fabrique un outil en bois,Vitesse de fabrication d'un outil de survie +
-141,Fabrique un outil en bois(avancé),Vitesse de fabrication d'un outil de survie ++
-142,Fabrique un outil en bois(maîtrisé),Vitesse de fabrication d'un outil de survie +++
+140,Fabriquer un outil en bois,Vitesse de fabrication d'un outil de survie +
+141,Fabriquer un outil en bois(avancé),Vitesse de fabrication d'un outil de survie ++
+142,Fabriquer un outil en bois(maîtrisé),Vitesse de fabrication d'un outil de survie +++
 150,Filtre à eau,exp de survie +
 151,Filtre à eau(avancé),exp de survie ++
-160,Nage,Force +
-161,Nage(avancé),Force ++
-162,Nage(maîtrisé),Force ++
+160,Nager,Force +
+161,Nager(avancé),Force ++
+162,Nager(maîtrisé),Force ++
 200,Cuire du poisson,Vitesse de cuisson du poisson +
 201,Cuire du poisson(avancé),Vitesse de cuisson du poisson ++
 202,Cuire du poisson(maîtrisé),Vitesse de cuisson du poisson +++
@@ -26,67 +26,73 @@
 230,Cuire les aliments secs,Vitesse de cuisson des aliments secs +
 231,Cuire les aliments secs(avancé),Vitesse de cuisson des aliments secs ++
 232,Cuire les aliments secs(maîtrisé),Vitesse de cuisson des aliments secs +++
-240,Fabrique des outils de cuisine,Vitesse de préparation des outils de cuisine +
-241,Fabrique des outils de cuisine(avancé),Vitesse de préparation des outils de cuisine ++
-242,Fabrique des outils de cuisine(maîtrisé),Vitesse de préparation des outils de cuisine +++
-250,Research on cook tools,Cook exps speed +
-251,Research on cook tools(avancé),Cook exps speed ++
-300,Weave,Cooking Weave speed +
-301,Weave(avancé),Cooking Weave speed ++
-302,Weave(maîtrisé),Cooking Weave speed +++
-310,Craft Woodwares,Cooking Woodwares speed +
-311,Craft Woodwares(avancé),Cooking Woodwares speed ++
-312,Craft Woodwares(maîtrisé),Cooking Woodwares speed +++
-320,Craft Stonewares,Cooking Woodwares speed +
-321,Craft Stonewares(avancé),Cooking Woodwares speed ++
-322,Craft Stonewares(maîtrisé),Cooking Woodwares speed +++
-330,Research on craft tools,Craft exps speed +
-331,Research on craft tools(avancé),Craft exps speed ++
-340,Brainstorm,Craft exp +
-341,Brainstorm(avancé),Craft exp ++
-342,Brainstorm(maîtrisé),Craft exp ++
-400,Hoist the sails!,Sailing efficency +
-401,Hoist the sails!(avancé),Sailing efficency ++
-402,Look out for new islands!,Look out range +
-403,Look out for new islands!(avancé),Look out range ++
-404,New place recored!,Drawing speed +
-405,New place recored!(avancé),Drawing speed ++
+240,Fabriquer des outils de cuisine,Vitesse de préparation des outils de cuisine +
+241,Fabriquer des outils de cuisine(avancé),Vitesse de préparation des outils de cuisine ++
+242,Fabriquer des outils de cuisine(maîtrisé),Vitesse de préparation des outils de cuisine +++
+250,Recherche sur les outils de cuisson,Vitesse d'expérience de cuisinier +
+251,Recherche sur les outils de cuisson(avancé),Vitesse d'expérience de cuisinier ++
+300,Tissage,Vitesse  +
+301,Tissage(avancé),Vitesse de Cooking Weave ++
+302,Tissage(maîtrisé),Vitesse de Cooking Weave +++
+310,Fabriquer des marchandises en bois,Vitesse de cuisson des marchandises en bois +
+311,Fabriquer des marchandises en bois(avancé),Vitesse de cuisson des marchandises en bois ++
+312,Fabriquer des marchandises en bois(maîtrisé),Vitesse de cuisson des marchandises en bois +++
+320,Fabriquer des marchandises en pierre,Vitesse de cuisson des marchandises en pierre +
+321,Fabriquer des marchandises en pierre(avancé),Vitesse de cuisson des marchandises en pierre ++
+322,Fabriquer des marchandises en pierre(maîtrisé),Vitesse de cuisson des marchandises en pierre +++
+330,Recherche sur les outils de fabrication,Vitesse d'expérience d'artisanat +
+331,Recherche sur les outils de fabrication(avancé),Vitesse d'expérience d'artisanat ++
+340,Brainstorm,Expériences de fabrication +
+341,Rechercher des idées(avancé),Expériences de fabrication ++
+342,Rechercher des idées(maîtrisé),Expériences de fabrication ++
+400,Hissez les voiles!,Efficacité nautique +
+401,Hissez les voiles!(avancé),Efficacité nautique ++
+402,Chercher des nouvelles îles!,Look out range +
+403,Chercher des nouvelles îles!(avancé),Look out range ++
+404,New place recored!,Vitesse de dessin +
+405,New place recored!(avancé),Vitesse de dessin ++
 406,Conqured!,Land Speed +
 407,Conqured!(avancé),Land Speed ++
 408,Traded!,Land Speed +
 409,Traded!(avancé),Land Speed ++
-410,Pray,Nautics exp +
-411,Pray(avancé),Nautics exp ++
-412,Pray(maîtrisé),Nautics exp ++
-420,Drown alive,Defence +
-421,Drown alive(avancé),Defence ++
+410,Prier,Exp nautique +
+411,Prier(avancé),Exp nautique ++
+412,Prier(maîtrisé),Exp nautique ++
+420,Drown alive,Défence +
+421,Drown alive(avancé),Défence ++
 422,Drown alive,Hardess up
-500,Attacking!,Attack Power +
-501,Attacking!(avancé),Attack Power ++
-502,Swift!,Attack Speed +
-503,Swift!(avancé),Attack Speed ++
-504,Athlete!,Attack Speed +
-505,Athlete!(avancé),Attack Speed ++
-506,Killed human!,Attack Speed +
-507,Killed human!(avancé),Attack Speed ++
-508,Killed creatures!,Attack Speed +
-509,Killer creatures!(avancé),Attack Speed ++
-510,Craft Weapons,Craft Fight Weapons speed +
-511,Craft Weapons(avancé),Craft Fight Weapons speed ++
-512,Craft Weapons(maîtrisé),Craft Fight Weapons speed +++
-520,Craft Equips,Craft Fight Equips speed +
-521,Craft Equips(avancé),Craft Fight Equips speed ++
-522,Craft Equips(maîtrisé),Craft Fight Equips speed +++
-530,have a good rest,Defence +
-531,have a good rest(avancé),Defence +
-532,have a good rest(maîtrisé),Defence +
-540,Stone skiping master,Fight exp +
-541,Stone skiping master(avancé),Fight exp +
-542,Stone skiping master(maîtrisé),Fight exp ++
-550,Go Training,Attack Speed +
-551,Go Training(avancé),Attack Speed ++
-552,Go Training(maîtrisé),Attack Speed +++
-560,Shoot!,Craft Exp +
-561,Shoot!(avancé),"Craft Exp +
-Fight Exp +
-Survial Exp + ++"
+500,Agressif!,Puissance d'attaque +
+501,Agressif!(avancé),Puissance d'attaque ++
+502,Rapide!,Puissance d'attaque +
+503,Rapide!(avancé),Puissance d'attaque ++
+504,Athlete!,Puissance d'attaque +
+505,Athlete!(avancé),Puissance d'attaque ++
+506,Humain tué!,Puissance d'attaque +
+507,Humain tué!(avancé),Puissance d'attaque ++
+508,Créatures tuées!,Puissance d'attaque +
+509,Créatures tuées!(avancé),Puissance d'attaque ++
+510,Fabriquer des armes,Vitesse de fabrication des armes de combat +
+511,Fabriquer des armes(avancé),Vitesse de fabrication des armes de combat ++
+512,Fabriquer des armes(maîtrisé),Vitesse de fabrication des armes de combat +++
+520,Fabriquer des équipements,Vitesse de fabrication des équipements de combat +
+521,Fabriquer des équipements(avancé),Vitesse de fabrication des équipements de combat ++
+522,Fabriquer des équipements(maîtrisé),Vitesse de fabrication des équipements de combat +++
+530,Reposez-vous bien,Défence +
+531,Reposez-vous bien(avancé),Défence +
+532,Reposez-vous bien(maîtrisé),Défence +
+540,Stone skiping master,Exp de combat +
+541,Stone skiping master(avancé),Exp de combat +
+542,Stone skiping master(maîtrisé),Exp de combat ++
+550,S'entraîner,Vitesse d'attaque +
+551,S'entraîner(avancé),Vitesse d'attaque ++
+552,S'entraîner(maîtrisé),Vitesse d'attaque +++
+560,Tirer!,Exp d'artisanat +
+561,Tirer!(avancé),"Exp d'artisanat +
+Exp de combat +
+Exp de survie +++"
+430,Naviguer,Athlète augmente
+431,Naviguer,Athlète augmente
+432,Naviguer,Athlète augmente
+440,Marcher sur du solide,Plus de force
+441,Marcher sur du solide,Plus de force
+442,Marcher sur du solide,Plus de force

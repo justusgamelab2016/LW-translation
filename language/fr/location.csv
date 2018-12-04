@@ -1,104 +1,106 @@
-1,Canne à pêche,"Prend du temps, mais un bon moyen de soulager ses nerfs. "
-2,Radeau,Votre fidèle ami.
-3,Citronnier,Récolte des citrons ou coupe le pour du bois.
+1,Canne à pêche,"Prend du temps, mais un bon moyen de soulager ses nerfs."
+2,Radeau,Modèle de base. Faible durabilitée.
+3,Citronnier,Récolter des citrons ou couper le pour du bois.
 4,Petite boîte de stockage,Stocke toutes sortes de choses.
-5,Escalier, Se développe verticalement.
-7,Hamac, Commencer à se sentir comme en vacances.
-8,Pillier, Supporte 8 radeaux.
+5,Escalier,Se développe verticalement.Supporte 8 radeaux.
+7,Hamac,Se sentir comme en vacances.
+8,Pillier,Supporte 9 radeaux.
 9,Champs de lin,Le lin peut être transformé en cordes.
-10,Meat Rack,Preserve meat.
-11,Collecteur d'eau de pluie, Collecte la pluie.
-12,Réservoir d'eau, A placer à côté d'un collecteur d'eau de pluie / filtre l'eau et la stocke.
-13,Etabli, Fabrique des objets utiles.
-14,Mur,Une solide protection.
+10,Porte-Viande,Transforme la viande en viande séchée
+11,Collecteur d'eau de pluie,"Collecte la pluie, peut stocker 5l d'eau."
+12,Réservoir d'eau,A placer à côté d'un collecteur d'eau de pluie / filtre l'eau pour stocker 5l d'eau.
+13,Etabli,Fabriquer des objets utiles.Placer le dans une pièce pour créer une pièce de travail.
+14,Mur,Protège contre l'attaque de requin.
 15,Corps de pirate,
 16,Carcasse de requin,
 17,Carcasse de mouette,
-18,Mat,Not so comfortable. Lack of durability.
-19,Support d'arme. Peut stocker 20 armes.
-20,Grande caisse de stockage, Plus grande capacité.
-21,Filtre à eau,Versez l'eau de mer pour dessaler
+18,Tapis,Vous pouvez dormir dessus.Ou le déposer dans une pièce avec de l'encen pour créer une pièce de méditation. Faible durabilitée.
+19,Support d'arme,Permet de stocker des armes et des flèches.
+20,Grande caisse de stockage,Une plus grande capacité.
+21,Filtre à eau,Versez l'eau de mer pour déssaler.
 22,Champs de pomme de terre,
 23,Champs de carotte,
-24,Spike Wall,Aggressive protection.
-25,Champs,Produit des récoltes aléatoires.
-26,Feu de camp,"Du poisson frit, yum! "
-27,Filet de pêche,"On n'a rien sans rien. "
-28,Pagaie,Il faut aller de l'avant.
-29,Porte,Feel like a nice room now.
-30,Water Proof Wall,Waterproof protection.
-31,Sail,May a favorable wind send you safely home.
-32,La terre,"Le sol, source de la vie."
-33,Girouette,Measure wind direction.
-34,Pagaie de pêcheur, Push forward.
-35,Bois flottant,Provide extra buoyancy.
-36,Observe Spot,xxxxxxxxx
-37,Watch Spot,Watch out for island.
-38,Measure Spot,Measure sailing speed and direction.
-39,Graphing Table,Draw map.
-40,Gouvernail, Change la direction.
-41,Torche, Eclaire et réchauffe.
+24,Mur de piques,Inflige des dégâts en cas d'attaque.
+25,Champs,
+26,Feu de camp,Préparer des plats.Combinez différents matériaux pour découvrir de nouvelles recettes.
+27,Filet de pêche,Attrape un poisson une seule fois.
+28,Pagaie,Laissez les survivants ramer en avant ou en arrière. Consommer beaucoup d'énergie.
+29,Porte,On se sent comme dans une belle pièce.
+30,Mur étanche à l'eau,Protection imperméable.
+31,Voile,Un vent favorable peut vous ramener en toute sécurité à la maison.
+32,Sol,"La terre, source de la vie."
+33,Girouette,Mesure la direction du vent.
+34,Pagaie de pêcheur, Push forward. 
+35,Bois flottant,Fournit une flottabilité supplémentaire.
+36,Observer l'endroit, Push forward. 
+37,Regarder l'endroit,Méfiez-vous de l'île.
+38,Evaluer l'endroit,Evaluer l'orientation et la vitesse de navigation.
+39,Table Graphique,Dessiner une carte.
+40,Gouvernail,Changer de direction.
+41,Torche,Eclaire et réchauffe.
 42,Torche murale,"Pareil qu'une torche, sur un mur."
 43,Barrière,Essayer de ne pas tomber dans l'eau.
-44,Paint,Crystallization of creativity. Good for ease mind.
-45,Mixeur de teinture,xxxxxxxxx
-46,LocatingingTable,xxxxxxxxx
-47,RevisingTable,xxxxxxxxx
+44,Peinture,Cristallisation de créativité. Bon pour l'esprit.
+45,Mixeur de teinture, Push forward. 
+46,LocatingingTable,
+47,RevisingTable,
 48,Grande voile,Plus rapide.
-49,Table,Bien pour le dîner et les rencontres..
-50,Chaise," Après le dîner asseyez-vous un peu, après le souper marcher un peu. "
-51,Marmite,Pourrait cuisiner de meilleures recettes.
-52,Atelier de tisserand,Fabrique des fibres et des vêtements.
-53,Motar,Using for smashing. Could craft juice and dye.
+49,Table,Super pour le dîner et les rencontres.
+50,Chaise,"Après le dîner asseyez-vous un peu, après le souper marcher un peu."
+51,Marmite,Permettra de cuisiner de meilleures recettes.
+52,Atelier de tisserand,Fabriquer des fibres et des vêtements.
+53,Mortier,Utilisé pour écraser. Pour fabriquer du jus et de la teinture.
 54,Mortier en pierre,Plus dur qu'un mortier en bois.
-55,Etabli à outils, Fabrique des armes à distance/de mêlée.
-56,Etabli à vêtements,Fabrique des chapeaux et des armures.
-57,Support d'armure, Peut stocker un ensemble complet d'armure.
+55,Etabli à outils,Fabriquer des armes à distance/de mêlée.
+56,Etabli à vêtements,Fabriquer des chapeaux et des armures.
+57,Support d'armure,Peut stocker un ensemble complet d'armure.
 58,Porte-encens,Bon pour la méditation.
-59,Crâne sur un mur, Souvenir d'un vieil ami.
+59,Crâne sur un mur,Souvenir d'un vieil ami.
 60,Douche,Une belle douche.
 61,Toilette,Transforme les excréments en engrais.
-62,Pièce à requin,Attrape un requin pendant un moment.
+62,Piège à requin,Attrape un requin pendant un moment.
 63,Pierre,
 64,Boue,
 65,Filtre à eau amélioré,Utiliser du charbon pour filtrer l'eau de mer.
-66,Chambre d'herbe verte,
-67,Chambre d'herbe jaune,
+66,Champs d'herbe verte,
+67,Champs d'herbe jaune,
 68,Champs d'herbe rouge,
 69,Champs d'herbe bleu,
-70,Table de médecine,Fabrique des médicaments pour guérir les blessures et les maladies.
-71,Eaves,Feel more like a home now.
-72,Eaves RainCollector,"Recueille la pluie, avec moins d'espace. "
-73,Pot de fleur sur le mur, Bonne humeur.
-74,Hamac avancé,Start to feel like a vocation.
+70,Table de médecine,Fabriquer des médicaments pour guérir les blessures et les maladies.
+71,Gouttières,Se sentir comme dans une maison.
+72,Gouttières Collectrices d'eau,"Recueille la pluie, avec moins d'espace."
+73,Pot de fleur sur un mur,Donne de la bonne humeur.
+74,Hamac avancé,Se sentir comme en vacances.
 75,Radeau imperméable,Radeau étanche à l'eau.
-76,Grande table,Idéal pour le dîner et les rencontres..
-77,Etabli,Fabrique des armes à distance/de mêlée.
-78,Cocotier, Récolter des noix de cocos ou couper le pour du bois.
-79,Radeau amélioré,Votre fidèle ami. MK2
-80,Engrais, Convertit la nourriture en engrais.
-81,La terre,"Le sol, source de la vie."
+76,Grande table,Idéal pour le dîner et les rencontres.
+77,Etabli,Fabriquer des armes à distance/de mêlée.
+78,Cocotier,Récolter des noix de cocos ou couper le pour du bois.
+79,Radeau amélioré,Votre fidèle ami.MK2.
+80,Bac à engrais,Convertit la nourriture en engrais.
+81,Sol,"La terre, source de la vie."
 82,Toit,Utile pour un abris.
-83,Lit,On se sent comme à la maison.
-84,Train Dummy,Training fighting vegeskill.
-85,Fabriquer une table d'entraînement,Enseigne les compétences d'artisanat.
-86,Champs de racines végétale,produit des cultures de rhizomes aléatoires. Fournit de l'énergie et de l'épanouissement.
-88,Champs de légumes feuillus,produit des légumes à feuilles aléatoires. Fournit de la vitamine aux survivants.
-89,Champs d'herbe,Produit des herbes aléatoires. Utilisé pour guérir les blessures.
-90,Champs de baie,produit des baies. Convient pour les desserts et la teinture.
+83,Lit,On se sent comme à la maison.Placer le dans une pièce pour créer une chambre.
+84,Mannequin d'entraînement,S'entraîner aux compétences de combat.
+85,Table d'entraînement,S'entraîner aux compétences d'artisanat.
+86,Champs de racines végétales,Produit des cultures de rhizomes aléatoires.Fournit de l'énergie et de l'épanouissement.
+88,Champs de légumes feuillus,Produit des légumes à feuilles aléatoires.Fournit de la vitamine aux survivants.
+89,Champs d'herbe,Produit des herbes aléatoires.Utilisé pour guérir les blessures.
+90,Champs de baie,Produit des baies.Convient pour les desserts et la teinture.
 91,Arbre,
-92,Algue, A un goût de catouchouc salé.
+92,Algue,A un goût de catouchouc salé.
 93,Fish Chess,GG.
 94,Swing,Amusez-vous!
 95,Coffre,Il y a quelque chose dedans.
-96,Radeau étanche humide, garder le sec et propre.
+96,Radeau étanche humide,Garder le sec et propre.
 97,Chou,
 98,Spinacia,
 99,Myrtille,
 100,Fraise,
-101,PosionBerry,
+101,Baie empoisonnée,
 102,Panier,
-103,Pêcheur,
-104,Pingouin,
+103,Mutant, Training crafting skill. 
+104,Pingouin, Training crafting skill. 
 105,Coffre sur l'île,
 106,Table de préparation,Elaborer des plats froids.
+107,BrewingBarrel, Convert fruit into wine. 
+108,MushroomLog, Convert wood and woodwares into mushroom. 

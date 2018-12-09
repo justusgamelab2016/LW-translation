@@ -32,12 +32,12 @@
 210,"{1:name} took part in bully on another child, {1:pron} enjoyed it much."
 211,"{1:name} took part in bully on another child. {2:pron} tried times to make an apologize to {3:name}, but failed."
 300,"{1:name} heard something strange, but {1:pron} didn't give it much attention."
-301,"{1:name} saw something strange when picnicing, though {1:pron} didn't know what that thing is."
+301,"{1:name} saw something strange when picnicing, though {1:pron} didn't know what that thing was."
 302,"{1:name} saw a half fish half human in a dream, {1:pron} was scared."
-303,"{1:name} ate a strange fish, {1:pron} felt something is growing inside of {1:pronp}."
-304,"{1:name} saw a slim figure in the lake, {1:pron} thought it was Kappa but nobody believes {1:prono}."
-305,"{1:name} saw something strange in the kindergarten, {1:pron}dreamt about it alot after that."
-306,"{1:name} saw a mermaid as a child, {1:pron} think its funny and forget it ."
+303,"{1:name} ate a strange fish, {1:pron} felt something was growing inside of {1:pronp}."
+304,"{1:name} saw a slim figure in the lake, {1:pron} thought it was Kappa but nobody believed {1:prono}."
+305,"{1:name} saw something strange in the kindergarten, {1:pron} dreamt of it a lot after that."
+306,"{1:name} saw a mermaid as a child, {1:pron} thought its funny and forget it ."
 307,"{1:name} saw something strange, {1:pron} felt it was calling."
 308,"{1:name} heard something sang a sweet song while fishing, {1:pron} faint for a whole day."
 309,"{1:name} meet a mermaid while travel though the swamp, {1:pron} told my childern about it as a bed time story."
@@ -64,7 +64,7 @@
 416,{1:name} had a sensitive tongue and became a chef.
 417,{1:name} was ingenuity and became a handcrafter.
 418,"{1:name} loved tools and parts, {1:pron} became a machinist."
-419,"{1:name} inherit a boat, so {1:pron} became a boatman."
+419,"{1:name} inherits a boat, so {1:pron} became a boatman."
 420,{1:name} found fishing calming and fun.{1:pron} became a fishman.
 450,{1:name} was good at trading and became a speculator.
 451,"{1:name} is skillful at using weapons, {1:pron} became a military."
@@ -77,7 +77,7 @@
 502,"{1:name} live in the slum, but {1:pron} had a happy childhood."
 503,{1:name} forgot details of {1:pronp} childhood.
 504,{1:name} has an ordinary childhood.
-505,{1:name} growup as the elderest child.{1:pron} looked after {1:pronp} siblings.
+505,{1:name} grow up as the elderest child.{1:pron} looked after {1:pronp} siblings.
 506,{1:name} grow up as the only child. A bit lonely but recived lots of love.
 507,{1:name} had a good childhood after the apocalypse.
 508,"After the apocalypse,{1:name}'s childhood was miserable."
@@ -86,7 +86,7 @@
 601,{1:name} travels a lot when {1:pron} was young.
 602,{1:name} nearly killed a guy by accident when {1:pron} was young.
 605,{1:name} was pregnant and {1:pron} was happy about it.
-606,{1:name} was pregnant but {1:pron} was kind of regret.
+606,{1:name} was pregnant but {1:pron} was kind of regretted.
 607,{1:name} found a hobby when {1:pron} was retired.
 608,{1:name} found a hobby when {1:pron} was retired.
 609,{1:name} die along.
@@ -99,19 +99,19 @@
 616,{1:name} found a shrine when travling and felt cleansed.
 700,{1:name} found some strange creature's specimen in the lab.
 701,"{1:name} heard a strange rumor, about a monster lived in the sea."
-702,{1:name} found {1:prono} cat's head was bit by some creature with sharp teeth.
-703,{1:name} found strange footprint in his backyard.
+702,{1:name} found {1:pronp} cat's head was bit by some creature with sharp teeth.
+703,{1:name} found strange footprints in {1:his} backyard.
 800,{1:name} traded with stealer a lot.
 801,{1:name} heard there're friendly mutant that could talk and trade.
 802,"{1:name} traded with stealer, but got robbed the next day."
 803,{1:name} thought stealer was just a myth.
-900,"{1:name} wanted to join Raven, but was rejected."
+900,"{1:name} wanted to join the Raven, but was rejected."
 901,{1:name}'s tribe were robbed by Raven.
 902,{1:name} saw raven raiding the tribe.Luckly {1:pron} managed to escape.
 903,{1:name} tried to negotiate with Raven and survived.
-1000,{1:name} drifted for days after the apocalypse.
-1001,{1:name} drifted for weeks after the apocalypse.
-1002,{1:name} drifted for mouths after the apocalypse.
+1000,{1:name} drifted for days after the Apocalypse.
+1001,{1:name} drifted for weeks after the Apocalypse.
+1002,{1:name} drifted for mouths after the Apocalypse.
 1003,{1:name} don't remember how much days {1:pron} had been drifting after the apocalypse.
 1100,Rich {1:name} losed all {1:namep} money and end up becoming a junkman.
 1101,Believer {1:name} discard all {1:nameo} property became a junkman.
@@ -131,13 +131,13 @@
 1220,{1:name} failed to steal as a child.
 1221,{1:name} failed to steal from a child.
 1222,{1:name} failed to steal from a friend.
-1223,{1:name} failed to steal something i like.
+1223,{1:name} failed to steal something {1:he} liked.
 1224,{1:name} failed to steal something worthless.
 1250,{1:name}'s wallet had been stolen by a child.
 1251,{1:name} 's lolipopo was stolen by an adult.
-1252,{1:name} was poor and a rich guy still steal from me.
-1253,{1:name} 's gold watch was stloen.
-1254,{1:name}'s religion figure was stealed.
+1252,{1:name} was poor and a rich guy still steal from {1:him}.
+1253,{1:name} 's gold watch was stolen.
+1254,{1:name}'s religion figure was stolen.
 1255,{1:name} thief success cult.
 1256,{1:name} thief success friends.
 1257,Someone stole {1:name}'s favorite thing.
@@ -149,10 +149,10 @@
 1274,Someone tried to steal from {1:name} but was caught.
 1300,{1:name} robbed others for money.
 1301,{1:name} robbed others and accidently killed the victim.
-1302,{1:name} robbed and raped by a friend.
-1303,{1:name} robbed and raped.
-1304,{1:name} robbed and succeed.
-1305,{1:name} robbed and get lots of money.
+1302,{1:name} robbed and raped a friend.
+1303,{1:name} robbed and raped a girl.
+1304,{1:name} robbed and succeeded.
+1305,{1:name} robbed and got lots of money.
 1320,{1:name} tried to rob but got {1:nameo}self killed.
 1321,{1:name} was robbed and recognized the robber was {1:prono} firend.
 1322,{1:name} robbed but failed.
@@ -160,15 +160,15 @@
 1330,{1:name} witnessed {1:namep} parnets been robbed and killed.
 1331,{1:name} witnessed {1:namep} parnets been robbed and killed.{1:pron} realized with great power comes great responsibility
 1332,{1:name} witnessed {1:namep} parnets been robbed and raped.
-1350,{1:name} was robbed and losed some money.
+1350,{1:name} was robbed and lost some money.
 1351,{1:name} was robbed and killed.
 1352,{1:name} was robbed and raped by a friend.
 1353,{1:name} was robbed and raped.
-1354,{1:name} was robbed and {1:pron} can do nothing about it.
+1354,{1:name} was robbed and {1:pron} could do nothing about it.
 1355,{1:name} was robbed and {1:pron} tried to resist but failed.
 1370,{1:name} was nearly robbed.{1:pron} fought back and killed the robber.
-1371,{1:name} survive a robbery by recongnized the robber was {1:prono} friend.
-1372,{1:name} survive a robbery by recongnized the robber was {1:prono} friend.
+1371,{1:name} survived a robbery by recongnized the robber was {1:prono} friend.
+1372,{1:name} survived a robbery by recongnized the robber was {1:prono} friend.
 1373,{1:name} was nearly robbed but {1:pronp} wisdom help {1:prono} escape.
 1374,{1:name} was nearly robbed.
 120,"{1:fullname} was born in a wealthy family, {0:relationr} of {1:mother} and {1:father}."
@@ -185,43 +185,43 @@
 157,{1:name} was helped by others and survived the Apocalpyse.
 158,{1:name} was luck to survived the Apocalypse.
 159,{1:name} survived the Apocalypse with {1:pronp} wisdom.
-170,{1:name} was too old and didn't make it in the Apocaplpse.
-171,{1:name} was too old and {1:his} family gave up on {1:him} in the Apocaplpse.
-172,{1:name} was sailing but die in the strom when the Apocaplpse come.
-173,{1:name} did't have enough time to escape and died in the Apocaplpse.
+170,{1:name} was too old and didn't make it in the Apocalypse.
+171,{1:name} was too old and {1:his} family gave up {1:him} in the Apocalypse.
+172,{1:name} was sailing but died in the strom when the Apocalypse come.
+173,{1:name} did't have enough time to escape and died in the Apocalypse.
 2251,{1:name} told {1:his} students about the Apocaplpse on class.
 2252,{1:name} talked about the  {1:his} when interviewed by the TV reporter.
-2253,{1:name} talked {1:his} client about the the Apocaplpse.
-2254,{1:name} talked about the the Apocaplpse in {1:his} campaign speeches .
-2255,{1:name} talked about the the Apocaplpse in {1:his} the TV show .
+2253,{1:name} talked {1:his} client about the the Apocalypse.
+2254,{1:name} talked about the the Apocalypse in {1:his} campaign speeches .
+2255,{1:name} talked about the the Apocalypse on {1:his} the TV show .
 2256,{1:name} talked about the the odd creature {1:pron} met in the sea shore.
-2257,{1:name} talked to{1:his} client about the the Apocaplpse.
-2258,{1:name} talked to {1:his} patient about the the Apocaplpse.
-2259,{1:name} talked to {1:his} customer about the the Apocaplpse.
-2260,{1:name} talked to {1:his} family about the the Apocaplpse.
-2261,{1:name} talked to {1:his} frient about the the Apocaplpse.
-2262,{1:name} heared rumors about the the Apocaplpse.
-2263,{1:name} spreaded rumors about some starnge creatures in the seea.
-2264,{1:name} spreaded rumors about the the Apocaplpse form {1:his} child.
-2265,{1:name} heared rumors about the the Apocaplpse form {1:his} boss.
-2266,{1:name} heared rumors about the the Apocaplpse form {1:his} teacher.
-2267,{1:name} heared rumors about the the Apocaplpse.
-2268,{1:name} heared rumors about some starnge creatures in the seea.
-2351,{1:name} told {1:his} students about the Deep Ones on class.
-2352,{1:name} talked about the  {1:his} when interviewed by the TV reporter.
-2353,{1:name} talked {1:his} client about the the Deep Ones.
-2354,{1:name} talked about the the Deep Ones in {1:his} campaign speeches .
-2355,{1:name} talked about the the Deep Ones in {1:his} the TV show .
-2356,{1:name} talked about the the odd creature {1:pron} met in the sea shore.
-2357,{1:name} talked to{1:his} client about the the Deep Ones.
-2358,{1:name} talked to {1:his} patient about the the Deep Ones.
-2359,{1:name} talked to {1:his} customer about the the Deep Ones.
-2360,{1:name} talked to {1:his} family about the the Deep Ones.
-2361,{1:name} talked to {1:his} frient about the the Deep Ones.
-2362,{1:name} heared rumors about the the Deep Ones.
+2257,{1:name} talked to{1:his} client about the the Apocalypse.
+2258,{1:name} talked to {1:his} patient about the the Apocalypse.
+2259,{1:name} talked to {1:his} customer about the the Apocalypse.
+2260,{1:name} talked to {1:his} family about the the Apocalypse.
+2261,{1:name} talked to {1:his} friend about the the Apocalypse.
+2262,{1:name} heard rumors about the the Apocalypse.
+2263,{1:name} spread rumors about some strange creature in the sea.
+2264,{1:name} spread rumors about the the Apocalypse from {1:his} child.
+2265,{1:name} heard rumors about the the Apocalypse from {1:his} boss.
+2266,{1:name} heard rumors about the the Apocalypse from {1:his} teacher.
+2267,{1:name} heard rumors about the the Apocalypse.
+2268,{1:name} heard rumors about some strange creature in the sea.
+2351,{1:name} told {1:his} students about the Deep on class.
+2352,{1:name} talked about the Deep {1:his} when interviewed by the TV reporter.
+2353,{1:name} talked to {1:his} client about the the Deep.
+2354,{1:name} talked about the the Deep in {1:his} campaign speeches .
+2355,{1:name} talked about the the Deep in {1:his} the TV show .
+2356,{1:name} talked about the the odd creature {1:pron} met in a sea shore.
+2357,{1:name} talked to{1:his} client about the the Deep.
+2358,{1:name} talked to {1:his} patient about the the Deep.
+2359,{1:name} talked to {1:his} customer about the the Deep.
+2360,{1:name} talked to {1:his} family about the the Deep.
+2361,{1:name} talked to {1:his} frient about the the Deep.
+2362,{1:name} heard rumors about the the Deep.
 2363,{1:name} spreaded rumors about some demi god in the seea.
-2364,{1:name} spreaded rumors about the the Deep Ones form {1:his} child.
-2365,{1:name} heared rumors about the the Deep Ones form {1:his} boss.
-2366,{1:name} heared rumors about the the Deep Ones form {1:his} teacher.
-2367,{1:name} heared rumors about the the Deep Ones.
-2368,{1:name} heared rumors about some demi god in the seea.
+2364,{1:name} spreaded rumors about the the Deep form {1:his} children.
+2365,{1:name} heard rumors about the the Deep form {1:his} boss.
+2366,{1:name} heard rumors about the the Deep form {1:his} teacher.
+2367,{1:name} heard rumors about the the Deep.
+2368,{1:name} heard rumors about some demi god in the seea.

@@ -1,12 +1,12 @@
 0,None
 100,Title Main
-101,[New Game]
-102,[Continue]
-103,[Load]
-104,[Credit]
+101,New Game
+102,Continue
+103,Load
+104,Credit
 105,Develop
 106,Localization
-107,[Exit]
+107,Exit
 108,Pre-Alpha Supporters
 109,Community Moderator
 200,AutoSave
@@ -61,7 +61,7 @@
 504,Skill
 505,Social
 506,Detail
-507,Status
+507,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
 508,Skill
 509,Social
 510,Equipment Slot
@@ -87,10 +87,10 @@
 530,Fight
 531,"Basic survival skill.Including fishing, planting, gathering materials."
 532,Cook more delicious and nutritious food.
-533,"The skill of creating. Including crafting tools, weapons, protection."
-534,"The skill of sailing, navigation and mapping."
-535,"The skill of fighting. Increase strength, speed, use of weapons and battle technic."
-536,Can Upgrate
+533,"Skills of creating. Crafting tools, weapons, protection."
+534,"Skills of sailing, navigation and mapping."
+535,"Skills of fighting. Increase strength, speed, use of weapons and battle technic."
+536,Can Upgrade
 600,Tune
 601,Tune sail relaxation
 602,Tune rudder direction
@@ -135,7 +135,7 @@
 819,Wealth
 820,Space
 821,Beauty
-822,Coprs
+822,Corps
 823,Stop Growing
 824,Growing Well
 825,Growing
@@ -170,7 +170,7 @@
 910,That's very generous of you.
 911,Stop wasting my time!
 912,Deal!
-913,Normal
+913,"Take your time, look around."
 1000,Are you fooling with me?
 1001,That's not enough.
 1002,That's ok.
@@ -178,7 +178,7 @@
 1004,That's very generous of you.
 1005,Stop wasting my time!
 1006,Deal!
-1100,Got it.
+1100,OK.
 1101,learned to build a new type of building.
 1102,learned to craft a new type of item.
 1103,Is waiting for trading.
@@ -198,7 +198,7 @@
 1117,found a baby in the shark body.
 1118,die...
 1119,Cancel
-1120,doesn't want to work any more.
+1120,doesn't want to work anymore.
 1200,Interact
 1201,Help
 1202,Plunder
@@ -208,18 +208,18 @@
 1303,I don't like it anymore.
 1304,I feel nothing about it now.
 1305,I don't want it anymore.
-1306,How do I think before for it.
+1306,How did I think before for that thing.
 1307,"I like it for a long time, long for it."
 1308,It's worth changing my mind for it.
 1309,Still like it.
 1310,I dislike anything never satisfied.
 1311,"Something happens in my mind, I want it much."
 1312,"I have it, but I don't care."
-1313,Finally have something that I like.
+1313,"Finally, I have something which I like."
 1314,I have but I don't like it.
-1315,Finally have what I dream of.
+1315,"Finally, I have what I dream of."
 1316,"I used to have it, but I didn't cherish."
-1400,Location depends on exiting floor.
+1400,Location depends on existing floor.
 1401,Can't build here.
 1402,Can't build here.
 1403,There is a raft nearby.
@@ -228,9 +228,9 @@
 1406,Can't place on floor with moss.
 1407,Can't build here.
 1408,Can't build here.
-1409,Must place between trees.
-1410,Must place by water.
-1411,Must place on water surface.
+1409,Should be placed between trees.
+1410,Should be placed nearby water.
+1411,Should be placed on water surface.
 1412,Reach maximum height.
 844,Rainfall
 845,Day
@@ -243,27 +243,27 @@
 113,Back
 721,Alert
 849,Total Space
-1121,"Game over,do you want to quit?"
+1121,"Game over, quit now?"
 1122,I'll stay here.
 1123,Quit
-1501,I talk with {0} about man
-1502,I talk with {0} about woman
+1501,I talk with {0} about men in the world.
+1502,I talk with {0} about women in the world.
 1503,I talk with {0} about the view
-1504,I talk with {0} about my childhood
-1505,I talk with {0} about the apocalypse
+1504,I talk with {0} about our childhood
+1505,I talk with {0} about the Apocalypse
 1506,I talk with {0} about the Eden
-1507,I talk with {0} about teh ship of the seus
-1508,I talk with {0} about my favorite sea food
-1509,I talk with {0} about what I think about the Ark
-1510,I talk with {0} about how many person i've met
-1511,I talk with {0} about EverSeenSeaMonster
+1507,I talk with {0} about the ship of Theseus
+1508,I talk with {0} about our favorite sea food
+1509,I talk with {0} about what thoughts about the Ark
+1510,I talk with {0} about how many persons we met before
+1511,I talk with {0} about the Sea Monster
 1512,I talk with {0} about sharks
-1513,I talk with {0} about seagull
-1514,I talk with {0} about mutant
-1515,I talk with {0} about Stealer
-1516,I talk with {0} about the strange meat seller
-1517,I talk with {0} about the Deep one
-1518,I talk with {0} about Mutant
+1513,I talk with {0} about seagulls
+1514,I talk with {0} about the Mutant
+1515,I talk with {0} about the Stealer
+1516,I talk with {0} about the traders sell meat only.
+1517,I talk with {0} about the Deep
+1518,I talk with {0} about the Mutant
 1519,I talk with {0} about the Raven
 1520,I talk with {0} about reserved
 1601,I talk with {0} about {1}
@@ -275,7 +275,7 @@
 1801,I talk with {0} about {1}
 1802,{0} told me something strange about {1}
 1803,{0} taught me something about {1}
-114,Initalizing
+114,Initializing
 115,Might take a few minutes for the first time.
 537,No Equipment
 538,Hunger
@@ -299,11 +299,29 @@
 859,Enter Text...
 860,Expand
 861,Fetch
-116,[Creative Mode]
+116,Creative Mode
 117,Story Board Selection
-118,[Plugins]
+118,Plugins
 119,Plugins Version
-547,Each finished trrial would provide addtional bonus when upgrating to next level.
+547,Each finished trial would provide additional bonus when upgraded to next level.
 548,Status
 722,Required Skill:
 723,Unlock randomly when survivors have an "aha moment".
+120,Do you really want to delete this save?
+549,Traits
+550,Specialty
+551,Learned Recipes
+552,Perks
+553,Random
+724,Call Back
+862,Produce
+863,Report Bugs
+864,Report
+865,Please describe the bug...
+1500,SmallTalk_Normal_Skeleton
+1600,SmallTalk_Item_Skeleton
+1604,SmallTalk_Item_Skeleton_Reserved
+1700,SmallTalk_Location_Skeleton
+1704,SmallTalk_Location_Skeleton_Reserved
+1800,SmallTalk_Skill_Skeleton
+1804,SmallTalk_Skill_Skeleton_Reserved

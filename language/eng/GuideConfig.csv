@@ -3,21 +3,25 @@ Chopping down a tree provides you wood and fruit.
 The amount and kind of resources gained depends on its kind and its growing stage."
 2,Harvest,Harvest,"Select a tree, toggle [Harvest] button on. 
 This way, you could harvest fruit only and leave the tree growing. "
-3,BuildTree,BuildTree,"Click [Build] button, find the [Resouces] tab, click [Tree]. 
+3,Build a Tree,Build a Tree,"Click [Build] button, find the [Resouces] tab, click [Tree]. 
 Then put the blueprint to any soil floor, where the tree plants."
-4,Build Raft,Build Raft,"Click [Build] button, find the [Structure] tab, click [Raft]. 
-Raft could be build near any exsist raft."
-5,Build Soil Floor,Build Soil Floor,"Click [Build] button, find the [Resouces] tab, Right click [Raft] to open sub menu.
-You could find the [Soil Floor] in sub menu. Then build it like a normal raft."
+4,Build a Raft,Build a Raft,"Click [Build] button, find the [Structure] tab, click [Raft]. 
+Raft could be built near any existing rafts."
+5,Build a Soil Floor,Build a Soil Floor,"Click [Build] button, find the [Resources] tab, Right click [Raft] to open sub menu.
+You could find the [Soil Floor] in sub menu. Then build it as a normal raft."
 6,Selection Filter,Selection Filter,"Filter toggles are on top of the screen. Click to toggle them. 
 If it is on, you can select certain kind of objects. 
-From left to right, [Building], [Pile(item)], [Survivor], [Room], [Island], [Raft]. "
-7,Character,Character,"There're a list of your survivors on the bottom of the screen. Click to view his/her basic status. 
-Click [Detail] button to open character panel, which includes basic status, equipment, diary, character, social, skill and health conditions."
-8,Attack Shark,Attack Shark,"To attack shark(or other creatures), just click it, toggle [Attack] on. 
-Then, click the [Alert] button on one's character card (in the bottom of the screen) to command him/her to take part in combat."
-9,Switch Floor,Switch Floor,"To focus on certain floor, press tab/ 1~9/ button on the buttons left of the screen. You can only build on focused floor."
+From left to right, they are [Building], [Pile(item)], [Survivor], [Room], [Island], [Raft]. "
+7,Character,Character,"There is a list of your survivors on the bottom of the screen. Click to view his/her basic status. 
+Click the [Detail] button to open character panel, which includes basic status, equipment, diary, character, social, skill and health conditions."
+8,Attack the Shark,Attack the Shark,"To attack a shark(or other creatures), just click it, toggle [Attack] on. 
+Then, click the [Alert] button on one's character card (on the bottom of the screen) to command him/her to take part in combat."
+9,Switch Floor,Switch Floor,"To focus on a certain floor, press tab/ 1~9/ button on the buttons left of the screen. You can only build on the focused floor."
 10,Supply Firewood,Supply Firewood,Camp fire needs wood to burn. Click the camp fire to see the details. Click on the supply panel to schedule a fire wood supply task.
-11,Fertilizer Pool,Fertilizer Pool,"Fertilizer pool can transform any food into rot, which is an improtant resources to make soil floor. To get it work, first select a fertilizer pool, then left click mutiple times on any food you want to put in. That will schedule a food supply task for survivors. After food are put in, wait a while for the transfer process. To take rot out, you can right click on the rot icon mutilple times."
-12,Storage,Storage,"Storage panel will open automatically if one building has storage space. Left click the item icon to increase the intended amount and right click to decrease it. The default condition, where there's only one number, means you don't care how much item of this type shoud be put in storage."
-13,Make Rope,Make Rope,"Ropes are used in many recipes. To make ropes, first you need to plant flax, as what you do to plant a tree. Build a work bench. Click the work bench to open bill panel. Here you can click rope recipes mutilple times. When materials are enough, the survivors will make ropes automatically."
+11,Fertilizer Pool,Fertilizer Pool,"Fertilizer pool can transform any food into rot, which is an improtant resource to make soil floor. To get it work, first select a fertilizer pool, then left click on any food you want to put in mutiple times. That will schedule a food supply task for survivors. After food are put in, wait a while for the transfer process. To take rot out, you could right click on the rot icon mutilple times."
+12,Storage,Storage,"Storage panel will open automatically if the clicked building has storage space. Left click on the item icon to increase the intended amount and right click to decrease it. The default condition, where there's only one number, that means you don't need to care how much item of this type shoud be put in storage."
+13,Make Rope,Make Rope,"Ropes are used in many recipes. To make ropes, you need to plant flax first, as what you do to plant a tree. Build a work bench then. Click on the work bench to open bill panel. Here you could click rope recipes mutilple times. Survivors will make ropes automatically, when materials are enough."
+14,Upgrade Skill,"Each survivors have 6 skills. Each of the skill can be upgrade from Lv0 to Lv6. To level up, you need to let survivors use the skill repeatively to gain exp. When have enough exp, click on the skill icon to upgrade. Notice each level have some random skill trial. Finish trail would give the survior addition bonus when leveling up. And from Lv4 you have to at least finish 1~2 trials to upgrade skill.","Each survivors have 6 skills. Each of the skill can be upgrade from Lv0 to Lv6. To level up, you need to let survivors use the skill repeatively to gain exp. When have enough exp, click on the skill icon to upgrade. Notice each level have some random skill trial. Finish trail would give the survior addition bonus when leveling up. And from Lv4 you have to at least finish 1~2 trials to upgrade skill."
+15,Room,"Any closed space with at least one door is a room. You can select room if you toggle the filter on. After that, you can assign suvivors to a certain room. This would make the room priavte, which means other people can't get in and use anything inside. With different building inside the room, you can make a working room, meditaion room, dinning hall and ect.","Any closed space with at least one door is a room. You can select room if you toggle the filter on. After that, you can assign suvivors to a certain room. This would make the room priavte, which means other people can't get in and use anything inside. With different building inside the room, you can make a working room, meditaion room, dinning hall and ect."
+16,Unlock,"Level up skill would unlock most building and recipes. For others, you can unlock them by resarching in a work room(and provide correct materials) or scavenging on the island. Survivors sometime would have a 'aha moment' when they meditaion in the meditation room or looking at paitings.","Level up skill would unlock most building and recipes. For others, you can unlock them by resarching in a work room(and provide correct materials) or scavenging on the island. Survivors sometime would have a 'aha moment' when they meditaion in the meditation room or looking at paitings."
+17,CreativeMode,"In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode.","In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode."

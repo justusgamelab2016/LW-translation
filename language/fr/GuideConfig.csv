@@ -3,9 +3,9 @@ Abattre un arbre vous fournit du bois et des fruits.
 La quantité et le type de ressources acquises dépendent du type et du stade de croissance.
 2,Récolter, récolte,Sélectionnez un arbre, appuyez sur le bouton [Récolter]. 
 De cette manière, vous pourrez récolter des fruits et l'arbre continuera de grandir.
-3,Planter un arbre,Planter un arbre,"Cliquez sur le bouton [Construire], trouvez l'onglet [Ressources], cliquez sur [Arbre]. 
+3,Planter un arbre,Planter un arbre,Cliquez sur le bouton [Construire], trouvez l'onglet [Ressources], cliquez sur [Arbre]. 
 Ensuite, mettre le modèle sur le sol où planter l'arbre.
-4,Construire un radeau,Pour construire un radeau,  "Cliquez sur le bouton [Construire], trouvez l'onglet [structure], cliquez sur [radeau]. 
+4,Construire un radeau,Pour construire un radeau,  Cliquez sur le bouton [Construire], trouvez l'onglet [structure], cliquez sur [radeau]. 
 Le radeau doit être construit près d'un autre radeau existant."
 5,Construire un type de sol, Pour construire un type de sol,  "Cliquez sur le bouton [Construire], trouvez l'ontlet [Ressources], Faites un clic droit sur le [radeau] pour ouvrir le sous-menu.
 Vous pouvez trouver le [Type de Sol] dans le sous-menu. Construisez-le ensuite comme un radeau."

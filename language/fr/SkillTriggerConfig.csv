@@ -61,6 +61,12 @@
 420,Drown alive,Défence +
 421,Drown alive(avancé),Défence ++
 422,Drown alive,Hardess up
+430,Naviguer,Athlète augmente
+431,Naviguer,Athlète augmente
+432,Naviguer,Athlète augmente
+440,Marcher sur du solide,Plus de force
+441,Marcher sur du solide,Plus de force
+442,Marcher sur du solide,Plus de force
 500,Agressif!,Puissance d'attaque +
 501,Agressif!(avancé),Puissance d'attaque ++
 502,Rapide!,Puissance d'attaque +
@@ -90,9 +96,4 @@
 561,Tirer!(avancé),"Exp d'artisanat +
 Exp de combat +
 Exp de survie +++"
-430,Naviguer,Athlète augmente
-431,Naviguer,Athlète augmente
-432,Naviguer,Athlète augmente
-440,Marcher sur du solide,Plus de force
-441,Marcher sur du solide,Plus de force
-442,Marcher sur du solide,Plus de force
+

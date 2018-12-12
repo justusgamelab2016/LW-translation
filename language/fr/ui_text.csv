@@ -1,12 +1,12 @@
 0,
 100,Menu Principal
-101,[Nouvelle Partie]
-102,[Continuer]
-103,[Charger]
-104,[Crédit]
+101,Nouvelle Partie
+102,Continuer
+103,Charger
+104,Crédit
 105,Développeur
 106,Traductions
-107,[Quitter le jeu]
+107,Quitter le jeu
 108,Joueurs Pré-Alpha
 109,Modérateur de la Communauté
 200,Sauvegarde Auto
@@ -15,7 +15,7 @@
 203,Entrer Texte
 204,Charger
 205,Redémarrer
-206,Quitter
+206,Menu principal
 207,Volume de la musique
 208,Volume des effets sonores
 209,Guide
@@ -32,7 +32,7 @@
 400,Activer
 401,Raser
 402,Récolter
-403,Couper
+403,Abattre
 404,Chercher
 405,Essuyer
 406,Imperméable
@@ -58,11 +58,11 @@
 501,Emplacement cible
 502,Pile cible
 503,Statut
-504,Compétence
+504,Compétences
 505,Social
 506,Détail
-507,Statut
-508,Compétence
+507,"If survivor are too hungry, thirsty, or insanity (UI turn red), he/she would start to lose health."
+508,Compétences
 509,Social
 510,Emplacement d'équipement
 511,Journal (statut)
@@ -74,7 +74,7 @@
 517,Santé
 518,Tête
 519,Bras gauche
-520,Gras droit
+520,Bras droit
 521,Jambe gauche
 522,Jambe droite
 523,Corps
@@ -86,7 +86,7 @@
 529,Nautique
 530,Combat
 531,"Compétences de survie de base.Pêcher, planter, récolter des matériaux."
-532,Cuisiner des repas plus nutritifs et délicieux.
+532,"Cuisiner des repas plus nutritifs et délicieux."
 533,"Compétences de création. Fabrication d'outils, armes, protections."
 534,"Compétences nautiques, navigation et cartographie."
 535,"Compétences de combat. Augmente force, vitesse, utilisation des armes, techniques de combat."
@@ -165,20 +165,20 @@
 905,Marchand
 906,Est-ce que tu te moques de moi?
 907,Ce n'est pas assez.
-908,C'est ok.
+908,Ok.
 909,C'est tentant
 910,C'est très généreux de ta part.
 911,Arrête de me faire perdre mon temps!
 912,Marché conclu!
-913,Normal
+913,"Prenez votre temps, regardez aux alentours."
 1000,Est-ce que tu te moques de moi?
 1001,Ce n'est pas assez!
-1002,C'est ok.
+1002,COk.
 1003,C'est une offre alléchante!
 1004,C'est très généreux de ta part!
 1005,Arrête de me faire perdre mon temps!
 1006,Marché conclu!
-1100,Je l'ai.
+1100,OK.
 1101,a appris à construire un nouveau bâtiment.
 1102,a appris à fabriquer de nouveaux objets.
 1103,attend pour l'échange.
@@ -191,12 +191,14 @@
 1110,Je ne peux pas dessiner en ce moment.
 1111,Impossible de sauvegarder pendant un évènement.
 1112,Il n'y a aucune île dans les environs.
-1113,stopped outlook.
+1113,a arrêté de faire le guet
 1114,a tenté de cuisiner mais ca a raté.
 1115,cuisine un bon plat.
 1116,n'a pas assez de matériels pour cuisiner.
 1117,a trouvé un bébé dans le ventre d'un requin.
 1118,est mort...
+1119,Annuler
+1120,ne veut plus travailler.
 1200,Interragir
 1201,Aider
 1202,Butin
@@ -206,17 +208,15 @@
 1303,Je ne l'aime plus.
 1304,Je ne ressens rien à propos de cela.
 1305,Je n'en veux plus..
-1306,How do I think before for it.
-1307,Je l'aime depuis longtemps.
+1306,Comment ai-je pensé auparavant pour cette chose?
+1307,"je l'aime depuis longtemps, longtemps pour cela. "
 1308,Ca vaut la peine de modifier mon esprit.
 1309,Toujours comme ça.
-1310,Je ne suis jamai satisfait.
+1310,Je n'aime rien, je ne suis jamais satisfait.
 1311,"Quelque chose se passe dans mon esprit, I want it much."
-1119,Annuler
-1120,ne veut pas travailler.
-1312,"Je l'ai, mais je m'en fiche."
+1312,"J'ai compris, mais je m'en fiche."
 1313,Enfin quelque chose que j'aime.
-1314,I have but I don't like it.
+1314,Mais je n'aime pas ça.
 1315,J'ai enfin ce dont je rêve.
 1316,"I used to have it, but I didn't cherish."
 1400,L'emplacement dépend on exiting floor.
@@ -228,69 +228,101 @@
 1406,Impossible de placer sur le sol avec de la mousse.
 1407,Impossible de construire.
 1408,Impossible de construire.
-1409,Doit être placé entre les arbres.
-1410,Doit être placé au bord de l'eau.
-1411,Doit être placé sur l'eau.
+1409,Devrait être placé entre les arbres.
+1410,Devrait être placé près de l'eau.
+1411,Devrait être placé sur l'eau.
 1412,Hauteur max atteinte.
 844,Précipitations
 845,Jour
 846,Vous devez redémarrer le jeu pour changer de langue.
 847,Redémarrer maintenant.
 848,Redémarrer plus tard.
-110,Title_easy
-111,Title_normal
-112,Title_hard
-113,Title_back
-114,Title_Initalizing
-115,Title_InitalizingFirstTime
-537,Status_NoEquipment
-538,Status_Hunger
-539,Status_Thirsty
-540,Status_Sleepy
-541,Status_Health
-542,Status_Sanity
-543,Status_Clean
-544,Status_Excrete
-545,Skill_Exp
-546,Skill_UpgradeTrial
-721,Tooltip_alert
-849,Storage_Volume
-850,Backstory
-851,Control_Build
-852,Control_Items
-853,Control_PanCam
-854,Control_RestCam
-855,Control_SwitchFloor
-856,Control_RotateBluePrint
-857,Control_Filter
-858,Drop
-859,EnterText
-860,Pile_Expand
-861,Pile_FetchFromSea
-1121,Message_GameOver
-1122,Message_GameOver_Continue
-1123,Message_GameOver_Quit
+110,Facile
+111,Normal
+112,Difficile
+113,Retour
+721,Alerte
+849,Espace total
+1121,"Game over, voulez-vous quitter maintenant?"
+1122,Je resterai là.
+1123,Quitter
+1501,Je parle avec {0} à propos d'un homme dans le monde
+1502,Je parle avec {0} à propos d'une femme dans le monde
+1503,Je parle avec {0} à propos de la vue
+1504,Je parle avec {0} à propos de notre enfance
+1505,Je parle avec {0} à propos de l'Apocalypse
+1506,Je parle avec {0} à propos de l'Eden
+1507,Je parle avec {0} à propos teh ship of the Theseus
+1508,Je parle avec {0} à propos de nos fruits de mer favoris
+1509,Je parle avec {0} à propos de ce que nous pensons de l'Arche
+1510,Je parle avec {0} à propos du nombre de personnes que nous avons rencontré
+1511,Je parle avec {0} à propos du Monstre des Mers
+1512,Je parle avec {0} à propos des requins
+1513,Je parle avec {0} à propos des mouettes
+1514,Je parle avec {0} à propos du Mutant
+1515,Je parle avec {0} à propos du voleur
+1516,Je parle avec {0} à propos du vendeur qui vend uniquement de la viande
+1517,Je parle avec {0} à propos the Deep
+1518,Je parle avec {0} à propos du Mutant
+1519,Je parle avec {0} à propos the Raven
+1520,Je parle avec {0} à propos reserved
+1601,Je parle avec {0} à propos de {1}
+1602,{0} m'a dit quelque chose d'étrange à propos {1}
+1603,{0} m'a appris quelque chose à propos de {1}
+1701,Je parle avec {0} à propos {1}
+1702,{0} m'a dit quelque chose d'étrange à propos de {1}
+1703,{0} m'a appris quelque chose à propos de {1}
+1801,Je parle avec {0} à propos de {1}
+1802,{0} m'a dit quelque chose d'étrange à propos de {1}
+1803,{0} m'a appris quelque chose à propos de {1}
+114,Initialisation
+115,Le chargement peut prendre quelques minutes lors du premier lancement du jeu
+537,Aucun équipement
+538,Faim
+539,Soif
+540,Fatigue
+541,Santé
+542,Equilibre mental
+543,Propreté
+544,Besoins
+545,Exp Compétences
+546,Epreuves pour améliorer la compétence
+850,Trame
+851,[Construire]
+852,[Objets]
+853,[Bouger la Caméra]
+854,[Réinitialiser la Caméra]
+855,[Changer d'étage]
+856,[Faire tourner le modèle]
+857,[Filtre]
+858,Déposer
+859,Entrez un texte...
+860,Développer
+861,Extraire
+116,Mode Création
+117,Sélection du scénario
+118,Plugins
+119,Versions Plugins
+547,Each finished trial would provide additional bonus when upgraded to next level.
+548,Statut
+722,Compétence requise:
+723,Déverouiller aléatoirement lorsque les survivants ont un moment de disponible.
+120,Voulez-vous vraiment supprimer cette sauvegarde?
+549,Traits de caractère
+550,Spécialité
+551,Recettes apprises
+552,Avantages
+553,Aléatoire
+724,Call Back
+862,Produire
+863,Signaler un Bug
+864,Envoyer le rapport de Bug...
+865,Décrivez le Bug...
 1500,SmallTalk_Normal_Skeleton
-1501,SmallTalk_Normal_Male
-1502,SmallTalk_Normal_Female
-1503,SmallTalk_Normal_Sea
-1504,SmallTalk_Normal_Childhood
-1505,SmallTalk_Normal_Apocalypse
-1506,SmallTalk_Normal_Noah
-1507,SmallTalk_Normal_ShipOfTheseus
-1508,SmallTalk_Normal_SeaLife
-1509,SmallTalk_Normal_ThinkOfLand
-1510,SmallTalk_Normal_MeetHowManyHuman
-1511,SmallTalk_Normal_EverSeenSeaMonster
-1512,SmallTalk_Normal_Shark
-1513,SmallTalk_Normal_Seagull
-1514,SmallTalk_Normal_Fishman
-1515,SmallTalk_Normal_Stealer
-1516,SmallTalk_Normal_MeatSeller
-1517,SmallTalk_Normal_TheDeep
-1518,SmallTalk_Normal_Mutant
-1519,SmallTalk_Normal_Raven
-1520,SmallTalk_Normal_Reserved
 1600,SmallTalk_Item_Skeleton
+1604,SmallTalk_Item_Skeleton_Reserved
 1700,SmallTalk_Location_Skeleton
+1704,SmallTalk_Location_Skeleton_Reserved
 1800,SmallTalk_Skill_Skeleton
+1804,SmallTalk_Skill_Skeleton_Reserved
+

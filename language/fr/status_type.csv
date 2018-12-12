@@ -150,8 +150,8 @@
 149,Je viens de donner naissance à un bébé.
 150,Je viens de marcher sur une île. Je me sens bien.
 151,J'ai eu un séjour en mer trop longtemps. Marcher sur des terres me manque.
-152,EatLikeFood
-153,EatDislikeFood
-154,EatUncookedFood
+152,Je viens de manger quelque chose que j’aime bien
+153,Je viens de manger quelque chose que je déteste
+154,Je viens de manger quelque chose de pas cuit
 155,WantProperty
 156,HasWantProperty

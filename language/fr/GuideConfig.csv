@@ -1,21 +1,11 @@
-1,Abattre un arbre,Pour abattre un arbre,"Sélectionnez un arbre, appuyez sur le bouton [Abattre]. 
-Abattre un arbre vous fournit du bois et des fruits.
-La quantité et le type de ressources acquises dépendent du type et du stade de croissance."
-2,Récolter, récolte,"Sélectionnez un arbre, appuyez sur le bouton [Récolter]. 
-De cette manière, vous pourrez récolter des fruits et l'arbre continuera de grandir."
-3,Planter un arbre,Planter un arbre"Cliquez sur le bouton [Construire], trouvez l'onglet [Ressources], cliquez sur [Arbre]. 
-Ensuite, mettre le modèle sur le sol où planter l'arbre."
-4,Construire un radeau,Pour construire un radeau,  "Cliquez sur le bouton [Construire], trouvez l'onglet [structure], cliquez sur [radeau]. 
-Le radeau doit être construit près d'un autre radeau existant."
-5,Construire un type de sol, Pour construire un type de sol,  "Cliquez sur le bouton [Construire], trouvez l'ontlet [Ressources], Faites un clic droit sur le [radeau] pour ouvrir le sous-menu.
-Vous pouvez trouver le [Type de Sol] dans le sous-menu. Construisez-le ensuite comme un radeau."
-6,Sélectionner un filtre,Pour sélectionner un filtre,"Les Filtres se trouvent au dessus de l'écran. Cliquez sur l'un d'eux. 
-S'il est activé, vous pouvez sélectionner certains objets. 
-De gauche à droite, il y a [Construction], [Pile(objet)], [Survivant], [Pièce], [Ile], [Radeau]. "
-7,Personnage,Personnage,"Il y a une liste des survivants au bas de l'écran. Cliquez sur son portrait pour voir son statut. 
-Cliquez sur le bouton [Détail] pour ouvrir le descriptif du personnage, qui inclut l'état de base, l'équipement, le journal, les traits de caractère, les conditions sociales, les compétences and la santé."
-8,Attaquer un requin,Pour attaquer un requin,"Pour attaquer un requin (ou une autre créature), cliquez dessus, appuyez sur le bouton [Attaquer]. 
-Ensuite, cliquez sur le bouton [Alerte] à côté du portrait du personnage (au bas de l'écran) pour ordonner au survivant de participer au combat."
+1,Abattre un arbre,Pour abattre un arbre,"Sélectionnez un arbre, appuyez sur le bouton [Abattre]. Abattre un arbre vous fournit du bois et des fruits.La quantité et le type de ressources acquises dépendent du type et du stade de croissance."
+2,Récolter, récolte,"Sélectionnez un arbre, appuyez sur le bouton [Récolter]. De cette manière, vous pourrez récolter des fruits et l'arbre continuera de grandir."
+3,Planter un arbre,Planter un arbre"Cliquez sur le bouton [Construire], trouvez l'onglet [Ressources], cliquez sur [Arbre]. Ensuite, mettre le modèle sur le sol où planter l'arbre."
+4,Construire un radeau,Pour construire un radeau,  "Cliquez sur le bouton [Construire], trouvez l'onglet [structure], cliquez sur [radeau]. Le radeau doit être construit près d'un autre radeau existant."
+5,Construire un type de sol, Pour construire un type de sol,  "Cliquez sur le bouton [Construire], trouvez l'ontlet [Ressources], Faites un clic droit sur le [radeau] pour ouvrir le sous-menu.Vous pouvez trouver le [Type de Sol] dans le sous-menu. Construisez-le ensuite comme un radeau."
+6,Sélectionner un filtre,Pour sélectionner un filtre,"Les Filtres se trouvent au dessus de l'écran. Cliquez sur l'un d'eux. S'il est activé, vous pouvez sélectionner certains objets. De gauche à droite, il y a [Construction], [Pile(objet)], [Survivant], [Pièce], [Ile], [Radeau]. "
+7,Personnage,Personnage,"Il y a une liste des survivants au bas de l'écran. Cliquez sur son portrait pour voir son statut. Cliquez sur le bouton [Détail] pour ouvrir le descriptif du personnage, qui inclut l'état de base, l'équipement, le journal, les traits de caractère, les conditions sociales, les compétences and la santé."
+8,Attaquer un requin,Pour attaquer un requin,"Pour attaquer un requin (ou une autre créature), cliquez dessus, appuyez sur le bouton [Attaquer]. Ensuite, cliquez sur le bouton [Alerte] à côté du portrait du personnage (au bas de l'écran) pour ordonner au survivant de participer au combat."
 9,Changer d'étage,Pour changer d'étage,"Pour voir un étage, appuyez sur tab/ bouton 1~9/ sur les boutons à gauche de l'écran. Vous pouvez construire uniquement sur l'étage visible actuellement."
 10,Approvisionner du bois,Pour approvisionner du bois,Un feu de camp a besoin de bois pour brûler. Cliquez sur le feu de camp pour voir les détails. Cliquez sur le panneau d'approvisionnement pour programmer une tâcher d'approvisionnement en bois.
 11,Fertilizer Pool,Fertilizer Pool,"Fertilizer pool can transform any food into rot, which is an improtant resources to make soil floor. Pour le faire fonctionner, sélectionnez en premier un fertilizer pool, ensuite clic gauche plusieurs fois on any food you want to put in. That will schedule a food supply task for survivors. After food are put in, wait a while for the transfer process. To take rot out, you can right click on the rot icon mutilple times."

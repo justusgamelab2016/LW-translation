@@ -12,7 +12,7 @@ Vous pouvez trouver le [Type de Sol] dans le sous-menu. Construisez-le ensuite c
 6,Sélectionner un filtre,Pour sélectionner un filtre,Les Filtres se trouvent au dessus de l'écran. Cliquez sur l'un d'eux. 
 S'il est activé, vous pouvez sélectionner certains objets. 
 De gauche à droite, il y a [Construction], [Pile(objet)], [Survivant], [Pièce], [Ile], [Radeau]. 
-7,Personnage,Personnage,"Il y a une liste des survivants au bas de l'écran, Cliquez sur son portrait pour voir son statut." 
+7,Personnage,Personnage,Il y a une liste des survivants au bas de l'écran, Cliquez sur son portrait pour voir son statut.
 Cliquez sur le bouton [Détail] pour ouvrir le descriptif du personnage, qui inclut l'état de base, l'équipement, le journal, les traits de caractère, les conditions sociales, les compétences et la santé."
 8,Attaquer un requin,Pour attaquer un requin,"Pour attaquer un requin (ou une autre créature), cliquez dessus, appuyez sur le bouton [Attaquer]. 
 Ensuite, cliquez sur le bouton [Alerte] à côté du portrait du personnage (au bas de l'écran) pour ordonner au survivant de participer au combat."

@@ -13,7 +13,8 @@
     "BirdEventEntityConfig": "BirdEventEntityConfig.csv",
     "StoryTemplateConfig": "StoryTemplateConfig.csv",
     "GuideConfig": "GuideConfig.csv",
-    "BackStoryConfig": "BackStoryConfig.csv"
+    "BackStoryConfig": "BackStoryConfig.csv",
+    "ThingTagConfig": "ThingTagConfig.csv"
   },
   "Enum": {
     "EntityStateType": "entity_state_type.csv",

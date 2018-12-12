@@ -86,7 +86,7 @@
 529,Nautique
 530,Combat
 531,"Compétences de survie de base.Pêcher, planter, récolter des matériaux."
-532,"Cuisiner des repas plus nutritifs et délicieux."
+532,Cuisiner des repas plus nutritifs et délicieux.
 533,"Compétences de création. Fabrication d'outils, armes, protections."
 534,"Compétences nautiques, navigation et cartographie."
 535,"Compétences de combat. Augmente force, vitesse, utilisation des armes, techniques de combat."
@@ -212,7 +212,7 @@
 1307,"je l'aime depuis longtemps, longtemps pour cela. "
 1308,Ca vaut la peine de modifier mon esprit.
 1309,Toujours comme ça.
-1310,Je n'aime rien, je ne suis jamais satisfait.
+1310,"Je n'aime rien, je ne suis jamais satisfait."
 1311,"Quelque chose se passe dans mon esprit, I want it much."
 1312,"J'ai compris, mais je m'en fiche."
 1313,Enfin quelque chose que j'aime.
@@ -325,4 +325,8 @@
 1704,SmallTalk_Location_Skeleton_Reserved
 1800,SmallTalk_Skill_Skeleton
 1804,SmallTalk_Skill_Skeleton_Reserved
-
+1124,Message_Progress_Save
+1125,Message_Progress_Upload
+1126,Message_Save_File_Broken
+1127,Message_Back_Story_Old
+1128,Message_Language_Different

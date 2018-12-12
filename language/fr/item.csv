@@ -12,142 +12,142 @@
 12,Os,Os dur. Utile pour fabriquer des objets tranchants.
 13,Arc,Permet d'attaquer en tout sécurité.
 14,Flèche, "Un bâton affûté, inflige de légers dégâts. "
-15,Dents de requin,Dents d'une créature mortelle. Can be made it no weapon.
+15,Dents de requin,Dents d'une créature morte. Peut servir de fabrication d'arme.
 16,Pomme de terre,Succulent pour les ventres vides.
 17,Carotte,Peut guérir la cécité nocturne.
 18,Graine,Produit des cultures aléatoires.
 19,Mousse,Pousse sur les radeaux les jours pluvieux. Peut être transformé en tissu.
 21,Tissu,Maille en fibre rugueuse.
-22,Lance,A thick sharpen sticks. Basic weapon.
-23,Armure en Bois,Protect body. Kind of heavy.
-24,Casque en Bois,Protect head. Kind of heavy.
-25,Tonneau,Smear wood tar on the inner surface. A waterproof container.
-26,Eau de Mer,Salty. Not drinkable.
-27,Citron,"Fresh, but bitter and sour. Just like life."
-28,Armure en Os,Protect body. Kind of tickle.
-29,Bone Helmet,Protect head. Kind of tickle.
-30,Flax Armor,Protect body. Stay away from fire.
-31,Flax Head Band,Protect head. Stay away from fire.
-32,Rags,Simple clothes.
-33,Head Band,Simple head band.
-34,Pourriture,Convert from food. Important resource to build the soil floor.
-35,Sol,Collect from mud on island. Important resource to build the soil floor.
-36,Vivaneau,It's got a weird color. But taste good.
-37,Colorant,Use to dye buildings.
-38,Massue,"Heavy, but have a chance to knock out your enemy."
-39,Papier,Made from the pulp.
-40,Carte,Record locations and directions.
-41,Bouillie,Smash and cook wood to make pulp.
-42,Goudron de bois,Produce when burning wood. Could be used to waterproof stuff.
-43,Charbon,It's wood without water.
-44,Canne à pêche,"Fishing, it calm nerves."
-45,Tentacule,Loot from the mystery tentacle. Might be good for trading.
-46,Epée en Os de poisson,"Spiky, light weighted."
-47,Lance en Os,Spear made of bone. Much sharper.
-48,Javelot,Throwing to deal lots of damage.
-49,Javelot en Os,Throwing to deal lots of damage.
-50,Flèche en Os,Sharper than wood arrow.
-51,Planche de Bois,"Nicely cut wood, used for advanced recipes."
-52,Partie en Bois,Refined wood part. Used for more complicated recipes.
-53,Colorant vert,"Can dye floor, wall and roof into green."
-54,Colorant bleu,"Can dye floor, wall and roof into blue."
-55,Colorant rouge,"Can dye floor, wall and roof into the red."
-56,Colorant jaune,"Can dye floor, wall and roof into yellow."
-57,Colorant blanc,"Can dye floor, wall and roof into white."
-58,Colorant noir,"Can dye floor, wall and roof into the black."
-60,Flûte,Play instrument calm
-61,Sarbacane,Can blow darts to deal damage.
-62,Flèchette de sarbacane,Use with a blow gun.
-63,Fruit empoisonné,Good for making poison.
-64,Poisson parfumé,Could be used to make incense.
-65,Encens,Put it in an incense holder to meditate.
-66,Crâne,It looks scary.
-67,Limonade,When life gives you a lemon. Make lemonade.
-68,Déjections,Smelly.
-69,Carte nautique,Record locations and directions.
-70,Thon,Big and fat.
-71,Pierre,Can be found on the island.
-72,Cendres de bois,Can be gathered in a campfire.
-73,Herbe rudimentaire,Green herbs.
-74,Herbe sanguine,Red herbs.
-76,Herbe solaire,Yellow herbs.
-75,Herbe bleue,Blue herbs.
-77,Mélange curatif,Used to heal wounds.
-78,Mélange énergétique,Used to remove sleepy.
-79,Mélange glacial,Used to recover sanity.
-80,Bandage,Used to heal wounds.
-81,Bandage désinfecté,Used to heal wounds.Decrese the chance of infection.
-82,Noix de coco,There're some water inside.
-83,Bouclier en noix de coco,Shell of a coconut.
-84,Poisson frit,Crispy.
-85,Purée,It makes your stomach full
-86,Soupe de légumes,Savory liquid made from vegetable.
-87,Bouillon,Savory liquid made from meat chunk.
-88,Steaux aux herbes,Juicy steak with herb on it.
-89,Houe,Used for plowing.
-90,Pesticide,Used for deworming.
-91,Espadon,Fish with a sword nose.
-92,Algue,Taste like rubber.
-93,Saumon,Fat
-94,Pieuvre,There're ink inside.
-95,Encre,"Dark liquid, good for writing."
-96,Coquille Saint-Jacques,Good protein if you can crack it open.
-97,Soupe de coquille Saint-Jacques,Savory liquid made from scallop.
-98,Pèrle,Precious.
-99,Soutien-gorge de coquillages,Looks like a mermaid now.
-100,Casque de noix de coco,Protect your head. But will obstruct view.
-101,Modèle de bateau en bouteille,A little ship model put inside a bottle.Looks delicate.
-102,Figurine en bois,A little figurine made of wood.
-103,Anneau en bois,A little ring made of wood.
-104,Poisson sauvage,A little fish made of wood.
-105,Corail,Colorful.
-106,Pièce de monnaie antique,"An old, golden coin."
-107,Graine (racine),Produce random rhizomatous crops. Provide energy and fullness.
-108,Graine (leaf),Produce random leafy vegeables. Provide vitamines for survivors.
-109,Graine (fruit),Produce random herbs.Use for cures wounds.
-110,Graine (fleur),Produce berry. Good for dessert and dye.
-111,Poisson empoisonné,Fish with posion inside. Not edible.
-112,Myrtille,"Blue berry, taste sour."
-113,Fraise,"Red berry, taste sweet."
-114,Chou,Green leafy vegetable.
-115,Spinacia,Green leafy vegetable.
-116,Tonneau qui fuit,"Simple barrel, leaks a little."
-117,Salade,Fresh.
-118,Mélange de fruits,Fresh.
-119,Sable,A granular material
-120,Sablier,Used to measure and calculate sailing speed.
-121,Longue-vue,Increase look out range.
-122,Cuir,Good for making clothes and armor.
-123,Quartz,Crystal clear.
-124,Malbouffe,Don't try to eat it.
+22,Lance,Un épais bâton aiguisé. Une arme de base.
+23,Armure en Bois,Protège le corps. Assez lourd.
+24,Casque en Bois,Protège la tête. Assez lourd.
+25,Tonneau,Du goudron de bois est étalé sur la partie intérieure. Un récipient étanche.
+26,Eau de Mer,Salée. Non potable.
+27,Citron,"Frais, mais amer et aigre. Tout comme la vie."
+28,Armure en Os,Protège le corps. Ca chatouille.
+29,Casque en Os,Protège la tête. Ca chatouille.
+30,Armure en Lin,Protège le corps. Restez loin du feu.
+31,Bandeau en Lin,Protège la tête. Restez loin du feu.
+32,Morceaux de tissus,De simples vêtements.
+33,Bandeau,Un simple bandeau.
+34,Pourriture,Transformé avec la nourriture. Ressource importante pour construire le soil floor.
+35,Terre,Collecté à partir de la boue sur une île. Ressource importante pour construire le soil floor.
+36,Vivaneau,Il a une couleur bizarre. Mais il a bon goût.
+37,Colorant,Utile pour colorer les bâtiments.
+38,Massue,"Lourd, mais vous avez une chance d'assommer votre ennemi."
+39,Papier,Fabriqué avec de la pâte.
+40,Carte,Enregistre les emplacements et les directions.
+41,Bouillie,Casser et cuire du bois pour obtenir de la pulpe.
+42,Goudron de bois,Obtenu en brûlant du bois. Peut être utilisé pour imperméabiliser du matériel.
+43,Charbon,C'est du bois sans eau.
+44,Canne à pêche,"Pêcher, ça détend."
+45,Tentacule,Butin du mystérieux tentacule. Peut être échangé.
+46,Epée en Os de poisson,"Pointu, plus léger."
+47,Lance en Os,Lance fabriqué avec des os. Plus tranchant.
+48,Javelot,Lancer le pour infliger beaucoup de dégâts.
+49,Javelot en Os,Lancer le pour infliger beaucoup de dégâts.
+50,Flèche en Os,Plus perçante que la flèche en bois.
+51,Planche de Bois,"Du bois joliment coupé, utilisé pour les recettes avancées."
+52,Morceau de Bois,Morceau de bois raffiné. Utilisé pour des recettes plus complexes.
+53,Colorant vert,"Utile pour teindre le plancher, le mur et le toit en vert."
+54,Colorant bleu,"Utile pour teindre le plancher, le mur et le toit en bleu."
+55,Colorant rouge,"Utile pour teindre le plancher, le mur et le toit en rouge."
+56,Colorant jaune,"Utile pour teindre le plancher, le mur et le toit en jaune."
+57,Colorant blanc,"Utile pour teindre le plancher, le mur et le toit en blanc."
+58,Colorant noir,"Utile pour teindre le plancher, le mur et le toit en noir."
+60,Flûte,Instrument de jeu.
+61,Sarbacane,Lance des flèchettes et inflige des dégâts.
+62,Flèchette de sarbacane,Utilisée avec une sarbacane.
+63,Fruit empoisonné,Utile pour créer du poison.
+64,Poisson parfumé,Pourrait être utilisé pour créer de l'encens.
+65,Encens,Placer le dans un porte-encens pour méditer.
+66,Crâne,Il est effrayant.
+67,Limonade,Quand la vie te donne un citron. Fabrique de la limonade.
+68,Déjections,Odorant.
+69,Carte nautique,Enregistre les emplacements et les directions.
+70,Thon,Grand et gras.
+71,Pierre,Peut être trouvée sur une île.
+72,Cendre de bois,Peut être récoltée dans un feu de camp.
+73,Herbes rudimentaires,Des herbes vertes.
+74,Herbes sanguines,Des herbes rouges.
+76,Herbes solaires,Des herbes jaunes.
+75,Herbes bleues,Des herbes bleues.
+77,Mélange curatif,Utile pour guérir des plaies.
+78,Mélange énergétique,Utile pour supprimer la fatigue.
+79,Mélange glacial,Utile pour retrouver une bonne santé mentale.
+80,Bandage,Utile pour guérir les plaies.
+81,Bandage désinfecté,Utile pour guérir les plaies.Diminue le risque d'infections.
+82,Noix de coco,Il y a de l'eau à l'intérieur.
+83,Bouclier en noix de coco,La coque d'une noix de coco.
+84,Poisson frit,Croustillant.
+85,Purée,Ca rempli l'estomac.
+86,Soupe de légumes,Un liquide savoureux à base de légumes.
+87,Bouillon,Un liquide savoureux à base de morceaux de viande.
+88,Steaux aux herbes,Un steak juteux parsemé d'herbes.
+89,Houe,Utilisé pour labourer.
+90,Pesticide,Utilisé pour se débarasser des parasites.
+91,Espadon,Poisson avec un nez en forme d'épée.
+92,Algue,Elle a le goût de caoutchouc.
+93,Saumon,Gras.
+94,Pieuvre,Il y a de l'encre à l'intérieur.
+95,Encre,"Liquide noirâtre, utile pour écrire."
+96,Coquille Saint-Jacques,De bonne protéine si vous pouvez la casser et l'ouvrir.
+97,Soupe de coquille Saint-Jacques,Liquide savoureux à base de pétoncle.
+98,Pèrle,Précieuse.
+99,Soutien-gorge de coquillages,Je ressemble à sirène maintenant.
+100,Casque de noix de coco,Protège votre tête. Mais entrave votre vision.
+101,Modèle de bateau en bouteille,Un petit modèle de bâteau mis à l'intérieur d'une bouteille. Il paraît fragile.
+102,Figurine en bois,Une petite figurine fabriquée en bois.
+103,Anneau en bois,Un petit anneau fabriqué en bois.
+104,Poisson sauvage,Un petit poisson fabriqué en bois.
+105,Corail,Coloré.
+106,Pièce de monnaie antique,"Une ancienne, pièce en or."
+107,Graine (racine),Produit des cultures de rhizomes aléatoires. Fournit de l'énergie et de la force.
+108,Graine (feuille),Produit des légumes à feuilles aléatoires. Fournit des vitamines aux survivants.
+109,Graine (fruit),Produit des herbes aléatoires.Utile pour guérir les plaies.
+110,Graine (fleur),Produit des baies. Utile pour les desserts et les colorants.
+111,Poisson empoisonné,Un poisson avec du poison à l'intérieur. Non comestible.
+112,Myrtille,"Une myrtille, avec un goût aigre."
+113,Fraise,"Une fraise, avec un goût sucré."
+114,Chou,Un légume vert à feuille.
+115,Spinacia,Un légume vert à feuille.
+116,Tonneau qui fuit,"Un simple tonneau, qui fuit un peu."
+117,Salade,Frais.
+118,Mélange de fruits,Frais.
+119,Sable,Un matériau granuleux.
+120,Sablier,Utilisé pour mesurer et calculer la vitesse de navigation.
+121,Longue-vue,Augmente la vision.
+122,Cuir,Utilisé pour fabriquer des vêtements et des armures.
+123,Quartz,Limpide.
+124,Malbouffe,N'essayez pas de la manger.
 125,Mélange de légumes grillés,
-126,Salade végétale,Fresh.
-127,Mélange de jus,Smell fruity.
-128,Fruit bouilli,Sweet and warm.
+126,Salade végétale,Frais.
+127,Mélange de jus,Odeur fruitée.
+128,Fruit bouilli,Sucré et tiède.
 129,Grillades,
-130,Boulette de viande,Crispy.
-131,Poisson frit,Crispy.
-132,Sashimi,It's raw. But tasty.
-133,Brochette de légumes et de fruits,Crispy.
-134,Salade de fruits,Fresh.
-135,Brochettes de légumes et de viandes,Crispy.
-136,Salade de viande,Fresh.
-137,Brochette de légumes et de fruits de mer,Crispy.
-138,Salade de fruits de mer,Fresh.
-139,Brochette de viandes et de fruits,Crispy.
-140,Ragoût de steak fruité,Rich.
-141,Brochette de fruits de mer fruité,Crispy.
-142,Ragoût de fruits de mer fruité,Rich.
-143,Brochette de viandes et de fruits de mer,Crispy.
-144,Ragoût de viandes et de fruits de mer,Rich.
-145,Steak avec confiture,Luxury.
-146,Pavé de poisson avec confiture,Luxury.
-147,Ragoût de viandes raffiné,Luxury.
-148,Chaudrée aux fruits de mer,Luxury.
-149,Oeuf,Laid by a seagull.
-150,Sel,Makes nearby food decay slower.
-151,Bloc de sel,Makes nearby food decay slower.
-152,Poisson séché,"Salty, can stay fresh for a long time."
-153,Vin,Made by fruit. It's refreshing.
-154,Champignon,Grow on a log. Looks cute.
-155,Sang,Blood of a creature. Great snack for a vampire.
+130,Boulette de viande,Croustillant.
+131,Poisson frit,Croustillant.
+132,Sashimi,C'est cru. Mais savoureux.
+133,Brochette de légumes et de fruits,Croustillant.
+134,Salade de fruits,Frais.
+135,Brochettes de légumes et de viandes,Croustillant.
+136,Salade de viande,Frais.
+137,Brochette de légumes et de fruits de mer,Croustillant.
+138,Salade de fruits de mer,Frais.
+139,Brochette de viandes et de fruits,Croustillant.
+140,Ragoût de steak fruité,Riche.
+141,Brochette de fruits de mer fruité,Croustillant.
+142,Ragoût de fruits de mer fruité,Riche.
+143,Brochette de viandes et de fruits de mer,Croustillant.
+144,Ragoût de viandes et de fruits de mer,Riche.
+145,Steak avec confiture,Luxueux.
+146,Pavé de poisson avec confiture,Luxueux.
+147,Ragoût de viandes raffiné,Luxueux.
+148,Chaudrée aux fruits de mer,Luxueux.
+149,Oeuf,Une mouette l'a pondu.
+150,Sel,Ralenti la décomposition des aliments à proximité.
+151,Bloc de sel,Ralenti la décomposition des aliments à proximité.
+152,Poisson séché,"Salé, peut rester frais pendant longtemps."
+153,Vin,A base de fruits. C'est rafraîchissant.
+154,Champignon,Pousse sur une bûche. C'est mignon.
+155,Sang,Le sang d'une créature. Une collation pour un vampire.

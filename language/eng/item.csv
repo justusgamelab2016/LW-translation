@@ -58,7 +58,7 @@
 60,Flute,Play instrument calm
 61,Blow Gun,Can blow darts to deal damage.
 62,Blow Gun Arrow,Use with a blow gun.
-63,Posion Fruit,Good for making poison.
+63,Poison Fruit,Good for making poison.
 64,Perfume Fish,Could be used to make incense.
 65,Incense,Put it in an incense holder to meditate.
 66,Skull,It looks scary.
@@ -77,7 +77,7 @@
 79,Chill Mix,Used to recover sanity.
 80,Bandage,Used to heal wounds.
 81,Disinfected Bandage,Used to heal wounds.Decrease the chance of infection.
-82,Coconut,There're some water inside.
+82,Coconut,There's some water inside.
 83,Coconut Shell,Shell of a coconut.
 84,Roast Fish,Crispy.
 85,Mash Potato,It makes your stomach full
@@ -89,7 +89,7 @@
 91,SwordFish,Fish with a sword nose.
 92,SeaWeed,Taste like rubber.
 93,Salmon,Fat
-94,Octopus,There're ink inside.
+94,Octopus,There's ink inside.
 95,Ink,"Dark liquid, good for writing."
 96,Scallop,Good protein if you can crack it open.
 97,Scallop Soup,Savory liquid made from scallop.
@@ -103,19 +103,19 @@
 105,Coral,Colorful.
 106,Ancient Coin,"An old, golden coin."
 107,Root Seed,Produce random rhizomatous crops. Provide energy and fullness.
-108,Leaf Seed,Produce random leafy vegeables. Provide vitamines for survivors.
+108,Leaf Seed,Produce random leafy vegetables. Provide vitamine for survivors.
 109,Fruit Seed,Produce random herbs.Use for cures wounds.
 110,Flower Seed,Produce berry. Good for dessert and dye.
-111,Posion Fish,Fish with posion inside. Not edible.
-112,BlueBerry,"Blue berry, taste sour."
-113,StarwBerry,"Red berry, taste sweet."
+111,Poison Fish,Fish with poison inside. Not edible.
+112,Blueberry,"Blue berry, taste sour."
+113,Strawberry,"Red berry, taste sweet."
 114,Cabbage,Green leafy vegetable.
 115,Spinacia,Green leafy vegetable.
 116,Leaking Barrel,"Simple barrel, leaks a little."
 117,Salad,Fresh.
 118,FruitMix,Fresh.
 119,Sand,A granular material
-120,SandGlass,Used to measure and calculate sailing speed.
+120,Sandglass,Used to measure and calculate sailing speed.
 121,Telescope,Increase look out range.
 122,Leather,Good for making clothes and armor.
 123,Quartz,Crystal clear.
@@ -140,10 +140,10 @@
 142,Fruity Seafood Stew,Rich.
 143,Seafood And Meat Kebab,Crispy.
 144,Seafood And Meat Stew,Rich.
-145,Steak With Jam,Luxury.
-146,FishFiletwithjam,Luxury.
+145,Steak with Jam,Luxury.
+146,Fish Filet with Jam,Luxury.
 147,Luxury Meat Stew,Luxury.
-148,Superme Seafood Chowder,Luxury.
+148,Supreme Seafood Chowder,Luxury.
 149,Egg,Laid by a seagull.
 150,Salt,Makes nearby food decay slower.
 151,SaltBlock,Makes nearby food decay slower.

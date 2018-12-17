@@ -9,17 +9,17 @@
 140,Make Wooden Tool,Craft survival tools speed +
 141,Make Wooden Tool(advanced),Craft survival tools speed ++
 142,Make Wooden Tool(mastered),Craft survival tools speed +++
-150,filter water,Survial exp +
-151,filter water(advanced),Survial exp ++
+150,filter water,Survival exp +
+151,filter water(advanced),Survivall exp ++
 160,Swim,Strength +
 161,Swim(advanced),Strength ++
 162,Swim(mastered),Strength ++
 200,Cook Fish,Cooking fish speed +
 201,Cook Fish(advanced),Cooking fish speed ++
 202,Cook Fish(mastered),Cooking fish speed +++
-210,Cook Vegatables,Cooking vegatables speed +
-211,Cook Vegatables(advanced),Cooking vegatables speed ++
-212,Cook Vegatables(mastered),Cooking vegatables speed +++
+210,Cook Vegetables,Cooking vegetables speed +
+211,Cook Vegetables(advanced),Cooking vegetables speed ++
+212,Cook Vegetables(mastered),Cooking vegetables speed +++
 220,Cook soups,Cooking soups speed +
 221,Cook soups(advanced),Cooking soups speed ++
 222,Cook soups(mastered),Cooking soups speed +++
@@ -34,17 +34,17 @@
 300,Weave,Cooking Weave speed +
 301,Weave(advanced),Cooking Weave speed ++
 302,Weave(mastered),Cooking Weave speed +++
-310,Craft Woodwares,Cooking Woodwares speed +
-311,Craft Woodwares(advanced),Cooking Woodwares speed ++
-312,Craft Woodwares(mastered),Cooking Woodwares speed +++
-320,Craft Stonewares,Cooking Woodwares speed +
-321,Craft Stonewares(advanced),Cooking Woodwares speed ++
-322,Craft Stonewares(mastered),Cooking Woodwares speed +++
+310,Craft Woodware,Crafting Woodware speed +
+311,Craft Woodware(advanced),Crafting Woodware speed ++
+312,Craft Woodware(mastered),Crafting Woodware speed +++
+320,Craft Stoneware,Crafting stoneware speed +
+321,Craft Stoneware(advanced),Crafting stoneware speed ++
+322,Craft Stoneware(mastered),Crafting stoneware speed +++
 330,Research on craft building,Craft exps speed +
 331,Research on craft building(advanced),Craft exps speed ++
-340,Leanred a new recipe,Craft exp +
-341,Leanred a new recipe(advanced),Craft exp ++
-342,Leanred a new recipe(mastered),Craft exp ++
+340,Learned a new recipe,Craft exp +
+341,Learned a new recipe(advanced),Craft exp ++
+342,Learned a new recipe(mastered),Craft exp ++
 400,Use any nautical building,Sailing efficiency +
 401,Use any nautical building(advanced),Sailing efficiency ++
 402,Look out for new islands,Look out range +
@@ -58,12 +58,12 @@
 410,Pray,Nautics exp +
 411,Pray(advanced),Nautics exp ++
 412,Pray(mastered),Nautics exp ++
-420,Drown alive,Defence +
-421,Drown alive(advanced),Defence ++
-422,Drown alive,Hardess up
-430,Go Sailing,Athelete up
-431,Go Sailing,Athelete up
-432,Go Sailing,Athelete up
+420,Drown alive,Defense +
+421,Drown alive(advanced),Defense ++
+422,Drown alive,Hardness up
+430,Go Sailing,Athlete up
+431,Go Sailing,Athlete up
+432,Go Sailing,Athlete up
 440,Walk on the Solid,More Strength
 441,Walk on the Solid,More Strength
 442,Walk on the Solid,More Strength
@@ -83,9 +83,9 @@
 520,Craft Equips,Craft Fight Equips speed +
 521,Craft Equips(advanced),Craft Fight Equips speed ++
 522,Craft Equips(mastered),Craft Fight Equips speed +++
-530,Had a good rest,Defence +
-531,Had a good rest(advanced),Defence +
-532,Had a good rest(mastered),Defence +
+530,Had a good rest,Defense +
+531,Had a good rest(advanced),Defense +
+532,Had a good rest(mastered),Defense +
 540,Stone skipping master,Fight exp +
 541,Stone skipping master(advanced),Fight exp +
 542,Stone skipping master(mastered),Fight exp ++
@@ -95,4 +95,4 @@
 560,Using Bow,Craft Exp +
 561,Using Bow(advanced),"Craft Exp +
 Fight Exp +
-Survial Exp + ++"
+Survival Exp + ++"

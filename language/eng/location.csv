@@ -11,9 +11,9 @@
 12,Water Tank,Put next to a rain collector / water filter to store 5 liters of water.
 13,Work Bench,Craft many useful items.Put it in a room to make a work room.
 14,Wall,Protect your from the attacking of shark.
-15,PirateBody,
-16,SharkBody,
-17,SeagullBody,
+15,Survivor Corpse,
+16,Shark Corpse,
+17,Seagull Corpse,
 18,Mat,Can sleep on it.Or put it in a room with Incense Holder to make a meditation room. Lack of durability.
 19,Weapon Rack,Could store weapons and arrows.
 20,Big Storage Box,More capacity.
@@ -42,7 +42,7 @@
 43,Fence,Try not to fall into water.
 44,Paint,Crystallization of creativity. Good for ease mind.
 45,Dye Mixer,xxxxxxxxx
-46,Locatinging Table,xxxxxxxxx
+46,Locating Table,xxxxxxxxx
 47,Revising Table,xxxxxxxxx
 48,Big Sail,Better speed.
 49,Table,Great for dinner and meeting.Put it in a room to make a dinning room.
@@ -52,7 +52,7 @@
 53,Mortar,Using for smashing. Could craft juice and dye.
 54,Stone Mortar,Harder then wood Mortar.
 55,Tool Bench,Craft melee and range weapons.
-56,Clothes Bench,Craft hats and aromors.
+56,Clothes Bench,Craft hats and armors.
 57,Armor Rack,Could store a full set of armor.
 58,Incense Holder,Good for meditation.
 59,Skull on Wall,Memory of old friend.
@@ -95,13 +95,15 @@
 97,Cabbage,
 98,Spinacia,
 99,Blueberry,
-100,Starwberry,
-101,Posionberry,
+100,Strawberry,
+101,Poisonberry,
 102,Cage,
 103,Mutant,Training crafting skill.
 104,Penguin,Training crafting skill.
 105,Chest On Island,
 106,Preparing Table,Prepare cold dishes.
 107,BrewingBarrel,Convert fruit into wine.
-108,MushroomLog,Convert wood and woodwares into mushroom.
+108,MushroomLog,Convert wood and woodware into mushroom.
 109,Scrap,
+110,Wood Holder,Store about 20 things.
+111,Food Stash,Store about 20 things.

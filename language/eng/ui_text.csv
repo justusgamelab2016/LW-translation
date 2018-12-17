@@ -61,7 +61,7 @@
 504,Skill
 505,Social
 506,Detail
-507,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
+507,Status
 508,Skill
 509,Social
 510,Equipment Slot
@@ -233,7 +233,7 @@
 1411,Should be placed on water surface.
 1412,Reach maximum height.
 844,Rainfall
-845,Day
+845,Day {0}
 846,You need to restart the game to make the settings take effect.
 847,Restart now.
 848,Restart Later.
@@ -304,9 +304,9 @@
 118,Plugins
 119,Plugins Version
 547,Each finished trial would provide additional bonus when upgraded to next level.
-548,Status
+548,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
 722,Required Skill:
-723,Unlock randomly when survivors have an "aha moment".
+723,"Unlock randomly when survivors have an ""aha moment""."
 120,Do you really want to delete this save?
 549,Traits
 550,Specialty
@@ -325,3 +325,14 @@
 1704,SmallTalk_Location_Skeleton_Reserved
 1800,SmallTalk_Skill_Skeleton
 1804,SmallTalk_Skill_Skeleton_Reserved
+1124,saving...
+1125,uploading...
+1126,Save file broken.
+1127,Back stories generated before are invalid.
+1128,"System detects that language in your steam settings ({0}) is different from game settings. Would you like switch language to steam settings? If so, a reboot is required."
+1129,Thanks for your feedback! Uploading job in the background will be done in a few minutes...
+866,Show Guide
+867,Is Azerty Keyboard
+868,[Guide]
+869,[Bug Report]
+870,[Screenshot]

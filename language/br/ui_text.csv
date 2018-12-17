@@ -1,0 +1,338 @@
+0,None
+100,Title Main
+101,New Game
+102,Continue
+103,Load
+104,Credit
+105,Develop
+106,Localization
+107,Exit
+108,Pre-Alpha Supporters
+109,Community Moderator
+200,AutoSave
+201,Simplify Graphics
+202,Save
+203,Enter Text
+204,Load
+205,Restart
+206,Main Menu
+207,BGM Volume
+208,SoundFX Volume
+209,Guide
+210,Option
+211,Guide
+212,Control
+213,Resume
+300,Resource
+301,Structure
+302,Craft
+303,Furniture
+304,Repair
+305,Demolish
+400,Enable
+401,Shave
+402,Harvest
+403,Chop Down
+404,Scavenge
+405,Wipe
+406,Waterproof
+407,Dye
+408,Irrigate
+409,Tillage
+410,Disinsect
+411,Fertilize
+412,Assign
+413,Train
+414,Paddle
+415,Sail
+416,Observe
+417,Watch
+418,Measure
+419,Draw
+420,Steer
+421,TrainCraft
+422,Play
+423,Open
+424,Chat
+500,Carry
+501,Target Location
+502,Target Pile
+503,Status
+504,Skill
+505,Social
+506,Detail
+507,Status
+508,Skill
+509,Social
+510,Equipment Slot
+511,Status Log
+512,Social Log
+513,Character
+514,Relationships
+515,Skill Effects
+516,Recipe Learned
+517,Health
+518,Head
+519,Left Arm
+520,Right Arm
+521,Left Leg
+522,Right Leg
+523,Body
+524,Perks
+525,Personal Interest
+526,Survival
+527,Cook
+528,Craft
+529,Nautics
+530,Fight
+531,"Basic survival skill.Including fishing, planting, gathering materials."
+532,Cook more delicious and nutritious food.
+533,"Skills of creating. Crafting tools, weapons, protection."
+534,"Skills of sailing, navigation and mapping."
+535,"Skills of fighting. Increase strength, speed, use of weapons and battle technic."
+536,Can Upgrade
+600,Tune
+601,Tune sail relaxation
+602,Tune rudder direction
+603,Tune paddle force
+700,Resource
+701,Structure
+702,Craft
+703,Furniture
+704,Sail
+705,Repair
+706,Demolish
+710,Food
+711,Water
+712,Wood
+713,[B] Build
+714,[F9] Reset Camera
+715,[Space] Pause
+716,[Space] Play
+717,[Space] X2 Speed
+718,[Space] X5 Speed
+719,[Tab] or [1]~[9] to Switch Floor
+720,[I] Items
+800,Mass
+801,Buoyancy
+802,Items
+803,[Shift+1] Location
+804,[Shift+2] Pile
+805,[Shift+3] Survivor
+806,[Shift+4] Room
+807,[Shift+5] Island
+808,[Shift+6] Land
+809,Consume
+810,Produce
+811,Show All
+812,Show All and Up
+813,Show All and Down
+814,Show Current Floor
+815,Pick A Name
+816,Personal Interest:
+817,Wealth
+818,Something is going on....
+819,Wealth
+820,Space
+821,Beauty
+822,Corps
+823,Stop Growing
+824,Growing Well
+825,Growing
+826,Growing Poorly
+827,Inactive
+828,Time
+829,Brightness
+830,Humidity
+831,Water Temperature
+832,Wind Temperature
+833,Show All
+834,Show Current Floor
+835,Show All and Down
+836,Show All and Up
+837,Show All
+838,Water Volume
+839,Grow Stage
+840,Little
+841,Some
+842,Much
+843,Need
+900,Bill
+901,Working In Progress
+902,Cancel All
+903,Recipes
+904,Storage
+905,Trader
+906,Are you fooling with me?
+907,That's not enough.
+908,That's ok.
+909,That's a tempting offer
+910,That's very generous of you.
+911,Stop wasting my time!
+912,Deal!
+913,"Take your time, look around."
+1000,Are you fooling with me?
+1001,That's not enough.
+1002,That's ok.
+1003,That's a tempting offer
+1004,That's very generous of you.
+1005,Stop wasting my time!
+1006,Deal!
+1100,OK.
+1101,learned to build a new type of building.
+1102,learned to craft a new type of item.
+1103,Is waiting for trading.
+1104,Caught a strange fish.
+1105,Saved the baby survived.
+1106,Saved a survivor.
+1107,Got some item in the floating box.
+1108,Has caught a treasure chest while fishing.
+1109,find an island!
+1110,Can't draw right now.
+1111,Can't save during an event.
+1112,There is no island nearby.
+1113,stopped outlook.
+1114,"try cooking,but failed."
+1115,make a good dish.
+1116,Cook materials not enough.
+1117,found a baby in the shark body.
+1118,die...
+1119,Cancel
+1120,doesn't want to work anymore.
+1200,Interact
+1201,Help
+1202,Plunder
+1300,that pretty thing.
+1301,I dislike it.
+1302,I want that thing.
+1303,I don't like it anymore.
+1304,I feel nothing about it now.
+1305,I don't want it anymore.
+1306,How did I think before for that thing.
+1307,"I like it for a long time, long for it."
+1308,It's worth changing my mind for it.
+1309,Still like it.
+1310,I dislike anything never satisfied.
+1311,"Something happens in my mind, I want it much."
+1312,"I have it, but I don't care."
+1313,"Finally, I have something which I like."
+1314,I have but I don't like it.
+1315,"Finally, I have what I dream of."
+1316,"I used to have it, but I didn't cherish."
+1400,Location depends on existing floor.
+1401,Can't build here.
+1402,Can't build here.
+1403,There is a raft nearby.
+1404,There is an island nearby.
+1405,There is something nearby.
+1406,Can't place on floor with moss.
+1407,Can't build here.
+1408,Can't build here.
+1409,Should be placed between trees.
+1410,Should be placed nearby water.
+1411,Should be placed on water surface.
+1412,Reach maximum height.
+844,Rainfall
+845,Day {0}
+846,You need to restart the game to make the settings take effect.
+847,Restart now.
+848,Restart Later.
+110,Easy
+111,Normal
+112,Hard
+113,Back
+721,Alert
+849,Total Space
+1121,"Game over, quit now?"
+1122,I'll stay here.
+1123,Quit
+1501,I talk with {0} about men in the world.
+1502,I talk with {0} about women in the world.
+1503,I talk with {0} about the view
+1504,I talk with {0} about our childhood
+1505,I talk with {0} about the Apocalypse
+1506,I talk with {0} about the Eden
+1507,I talk with {0} about the ship of Theseus
+1508,I talk with {0} about our favorite sea food
+1509,I talk with {0} about what thoughts about the Ark
+1510,I talk with {0} about how many persons we met before
+1511,I talk with {0} about the Sea Monster
+1512,I talk with {0} about sharks
+1513,I talk with {0} about seagulls
+1514,I talk with {0} about the Mutant
+1515,I talk with {0} about the Stealer
+1516,I talk with {0} about the traders sell meat only.
+1517,I talk with {0} about the Deep
+1518,I talk with {0} about the Mutant
+1519,I talk with {0} about the Raven
+1520,I talk with {0} about reserved
+1601,I talk with {0} about {1}
+1602,{0} told me something strange about {1}
+1603,{0} taught me something about {1}
+1701,I talk with {0} about {1}
+1702,{0} told me something strange about {1}
+1703,{0} taught me something about {1}
+1801,I talk with {0} about {1}
+1802,{0} told me something strange about {1}
+1803,{0} taught me something about {1}
+114,Initializing
+115,Might take a few minutes for the first time.
+537,No Equipment
+538,Hunger
+539,Thirsty
+540,Sleepy
+541,Health
+542,Sanity
+543,Clean
+544,Excrete
+545,Skill Exp
+546,Skill Upgrade Trials
+850,Backstory
+851,[Build]
+852,[Items]
+853,[Pan Cam]
+854,[Rest Cam]
+855,[Switch Floor]
+856,[Rotate Blueprint]
+857,[Filter]
+858,Drop
+859,Enter Text...
+860,Expand
+861,Fetch
+116,Creative Mode
+117,Story Board Selection
+118,Plugins
+119,Plugins Version
+547,Each finished trial would provide additional bonus when upgraded to next level.
+548,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
+722,Required Skill:
+723,"Unlock randomly when survivors have an ""aha moment""."
+120,Do you really want to delete this save?
+549,Traits
+550,Specialty
+551,Learned Recipes
+552,Perks
+553,Random
+724,Call Back
+862,Produce
+863,Report Bugs
+864,Report
+865,Please describe the bug...
+1500,SmallTalk_Normal_Skeleton
+1600,SmallTalk_Item_Skeleton
+1604,SmallTalk_Item_Skeleton_Reserved
+1700,SmallTalk_Location_Skeleton
+1704,SmallTalk_Location_Skeleton_Reserved
+1800,SmallTalk_Skill_Skeleton
+1804,SmallTalk_Skill_Skeleton_Reserved
+1124,saving...
+1125,uploading...
+1126,Save file broken.
+1127,Back stories generated before are invalid.
+1128,"System detects that language in your steam settings ({0}) is different from game settings. Would you like switch language to steam settings? If so, a reboot is required."
+1129,Thanks for your feedback! Uploading job in the background will be done in a few minutes...
+866,Show Guide
+867,Is Azerty Keyboard
+868,[Guide]
+869,[Bug Report]
+870,[Screenshot]

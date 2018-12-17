@@ -1,0 +1,38 @@
+{
+  "Language": "Español",
+  "Config": {
+    "LocationConfig": "location.csv",
+    "BillConfig": "bill.csv",
+    "ItemConfig": "item.csv",
+    "SocialExchangeEffectConfig": "social.csv",
+    "SkillTriggerConfig": "SkillTriggerConfig.csv",
+    "StoryEventConfig": "StoryEventConfig.csv",
+    "SurvivorEventEntityConfig": "SurvivorEventEntityConfig.csv",
+    "SeaEventEntityConfig": "SeaEventEntityConfig.csv",
+    "SharkEventEntityConfig": "SharkEventEntityConfig.csv",
+    "BirdEventEntityConfig": "BirdEventEntityConfig.csv",
+    "StoryTemplateConfig": "StoryTemplateConfig.csv",
+    "GuideConfig": "GuideConfig.csv",
+    "BackStoryConfig": "BackStoryConfig.csv",
+    "ThingTagConfig": "ThingTagConfig.csv"
+  },
+  "Enum": {
+    "EntityStateType": "entity_state_type.csv",
+    "LocationState": "location_state_type.csv",
+    "TraitType": "trait_type.csv",
+    "SocialStatusType": "status_type.csv",
+    "RoomType": "room_type.csv",
+    "SocialNetworkType": "network_type.csv",
+    "SocialRelationshipType": "relationship_type.csv",
+    "SFKBLabelType": "social_evt_label_type.csv",
+    "CommonSense": "item_common_sense.csv",
+    "Attitude": "item_attitude.csv",
+    "SocialEffectShowType": "SocialEffectShowType.csv",
+    "SocialDisplayType": "SocialDisplayType.csv",
+    "UITextLocalization": "ui_text.csv",
+    "LandMudGrowState": "LandMudGrowState.csv",
+    "SkillType": "SkillType.csv",
+    "PerkType": "PerkType.csv",
+    "SimulateRelationType": "SimulateRelationType.csv"
+  }
+}

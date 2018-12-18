@@ -34,12 +34,12 @@
 300,Tissage,Vitesse  +
 301,Tissage(avancé),Vitesse de Cooking Weave ++
 302,Tissage(maîtrisé),Vitesse de Cooking Weave +++
-310,Fabriquer des marchandises en bois,Vitesse de cuisson des marchandises en bois +
-311,Fabriquer des marchandises en bois(avancé),Vitesse de cuisson des marchandises en bois ++
-312,Fabriquer des marchandises en bois(maîtrisé),Vitesse de cuisson des marchandises en bois +++
-320,Fabriquer des marchandises en pierre,Vitesse de cuisson des marchandises en pierre +
-321,Fabriquer des marchandises en pierre(avancé),Vitesse de cuisson des marchandises en pierre ++
-322,Fabriquer des marchandises en pierre(maîtrisé),Vitesse de cuisson des marchandises en pierre +++
+310,Fabriquer des marchandises en bois,Vitesse de fabrication des marchandises en bois +
+311,Fabriquer des marchandises en bois(avancé),Vitesse de fabrication des marchandises en bois ++
+312,Fabriquer des marchandises en bois(maîtrisé),Vitesse de fabrication des marchandises en bois +++
+320,Fabriquer des marchandises en pierre,Vitesse de fabrication des marchandises en pierre +
+321,Fabriquer des marchandises en pierre(avancé),Vitesse de fabrication des marchandises en pierre ++
+322,Fabriquer des marchandises en pierre(maîtrisé),Vitesse de fabrication des marchandises en pierre +++
 330,Recherche sur les outils de fabrication,Vitesse d'expérience d'artisanat +
 331,Recherche sur les outils de fabrication(avancé),Vitesse d'expérience d'artisanat ++
 340,Brainstorm,Expériences de fabrication +
@@ -58,9 +58,9 @@
 410,Prier,Exp nautique +
 411,Prier(avancé),Exp nautique ++
 412,Prier(maîtrisé),Exp nautique ++
-420,Drown alive,Défence +
-421,Drown alive(avancé),Défence ++
-422,Drown alive,Hardess up
+420,Drown alive,Défense +
+421,Drown alive(avancé),Défense ++
+422,Drown alive,Hardness up
 430,Naviguer,Athlète augmente
 431,Naviguer,Athlète augmente
 432,Naviguer,Athlète augmente

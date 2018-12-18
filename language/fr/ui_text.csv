@@ -61,7 +61,7 @@
 504,Compétences
 505,Social
 506,Détail
-507,"If survivor are too hungry, thirsty, or insanity (UI turn red), he/she would start to lose health."
+507,Statut
 508,Compétences
 509,Social
 510,Emplacement d'équipement
@@ -233,7 +233,7 @@
 1411,Devrait être placé sur l'eau.
 1412,Hauteur max atteinte.
 844,Précipitations
-845,Jour
+845,Jour {0}
 846,Vous devez redémarrer le jeu pour changer de langue.
 847,Redémarrer maintenant.
 848,Redémarrer plus tard.
@@ -304,9 +304,9 @@
 118,Plugins
 119,Versions Plugins
 547,Each finished trial would provide additional bonus when upgraded to next level.
-548,Statut
+548,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
 722,Compétence requise:
-723,Déverouiller aléatoirement lorsque les survivants ont un moment de disponible.
+723,"Déverouiller aléatoirement lorsque les survivants ont un "moment de disponible""."
 120,Voulez-vous vraiment supprimer cette sauvegarde?
 549,Traits de caractère
 550,Spécialité
@@ -325,8 +325,14 @@
 1704,SmallTalk_Location_Skeleton_Reserved
 1800,SmallTalk_Skill_Skeleton
 1804,SmallTalk_Skill_Skeleton_Reserved
-1124,Message_Progress_Save
-1125,Message_Progress_Upload
-1126,Message_Save_File_Broken
-1127,Message_Back_Story_Old
-1128,Message_Language_Different
+1124,sauvegarde en cours...
+1125,uploading...
+1126,Save file broken.
+1127,Back stories generated before are invalid.
+1128,"System detects that language in your steam settings ({0}) is different from game settings. Would you like switch language to steam settings? If so, a reboot is required."
+1129,Merci pour votre commentaire! Uploading job in the background will be done in a few minutes...
+866,Montrer le Guide
+867,Is Azerty Keyboard
+868,[Guide]
+869,[Rapport de Bug]
+870,[Capture d'écran]

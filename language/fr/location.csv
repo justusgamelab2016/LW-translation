@@ -30,9 +30,9 @@
 31,Voile,Un vent favorable peut vous ramener en toute sécurité à la maison.
 32,Surface de sol,"La terre, source de la vie."
 33,Girouette,Indique la direction du vent.
-34,Pagaie de pêcheur, Push forward. 
+34,Pagaie de pêcheur,Push forward.
 35,Bois flottant,Fournit une flottabilité supplémentaire.
-36,Observer l'endroit, Push forward. 
+36,Observer l'endroit,Push forward.
 37,Regarder l'endroit,Méfiez-vous de l'île.
 38,Evaluer l'endroit,Evaluer l'orientation et la vitesse de navigation.
 39,Table Graphique,Dessiner une carte.
@@ -41,7 +41,7 @@
 42,Torche murale,"Pareil qu'une torche, sur un mur."
 43,Barrière,Essayez de ne pas tomber dans l'eau.
 44,Peinture,Cristallisation de créativité. Bon pour l'esprit.
-45,Mixeur de teinture, Push forward. 
+45,Mixeur de teinture,Push forward.
 46,Locating Table,
 47,RevisingTable,
 48,Grande voile,Plus rapide.
@@ -105,5 +105,5 @@
 107,Tonneau à vin,Permet de transformer les fruits en vin.
 108,MushroomLog,Convert wood and woodware into mushroom.
 109,Débris,
-110,Wood Holder, Store about 20 things. 
-111,Food Stash, Store about 20 things. 
+110,Wood Holder,Store about 20 things.
+111,Food Stash,Store about 20 things.

@@ -42,7 +42,7 @@
 322,Fabriquer des marchandises en pierre(maîtrisé),Vitesse de fabrication des marchandises en pierre +++
 330,Recherche sur les outils de fabrication,Vitesse d'expérience d'artisanat +
 331,Recherche sur les outils de fabrication(avancé),Vitesse d'expérience d'artisanat ++
-340,Brainstorm,Expériences de fabrication +
+340,Rechercher des idées,Expériences de fabrication +
 341,Rechercher des idées(avancé),Expériences de fabrication ++
 342,Rechercher des idées(maîtrisé),Expériences de fabrication ++
 400,Hissez les voiles!,Efficacité nautique +
@@ -51,16 +51,16 @@
 403,Chercher des nouvelles îles!(avancé),Look out range ++
 404,New place recored!,Vitesse de dessin +
 405,New place recored!(avancé),Vitesse de dessin ++
-406,Conqured!,Land Speed +
-407,Conqured!(avancé),Land Speed ++
-408,Traded!,Land Speed +
-409,Traded!(avancé),Land Speed ++
+406,Conquis!,Vitesse d'abordage +
+407,Conquis!(avancé),Vitesse d'abordage ++
+408,Négocié!,Vitesse d'abordage +
+409,Négocié!(avancé),Vitesse d'abordage ++
 410,Prier,Exp nautique +
 411,Prier(avancé),Exp nautique ++
 412,Prier(maîtrisé),Exp nautique ++
-420,Drown alive,Défense +
-421,Drown alive(avancé),Défense ++
-422,Drown alive,Hardness up
+420,Se noyer,Défense +
+421,Se noyer(avancé),Défense ++
+422,Se noyer,Hardness up
 430,Naviguer,Athlète augmente
 431,Naviguer,Athlète augmente
 432,Naviguer,Athlète augmente
@@ -71,8 +71,8 @@
 501,Agressif!(avancé),Puissance d'attaque ++
 502,Rapide!,Puissance d'attaque +
 503,Rapide!(avancé),Puissance d'attaque ++
-504,Athlete!,Puissance d'attaque +
-505,Athlete!(avancé),Puissance d'attaque ++
+504,Sportif!,Puissance d'attaque +
+505,Sportif!(avancé),Puissance d'attaque ++
 506,Humain tué!,Puissance d'attaque +
 507,Humain tué!(avancé),Puissance d'attaque ++
 508,Créatures tuées!,Puissance d'attaque +

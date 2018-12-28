@@ -9,16 +9,6 @@
 107,Quitter le jeu
 108,Joueurs Pré-Alpha
 109,Modérateur de la Communauté
-110,Facile
-111,Normal
-112,Difficile
-113,Retour
-114,Initialisation
-115,Le chargement peut prendre quelques minutes lors du premier lancement du jeu
-116,Mode Création
-117,Sélection du scénario
-118,Plugins
-119,Versions Plugins
 200,Sauvegarde Auto
 201,Graphismes simplifiés
 202,Sauvegarder
@@ -101,18 +91,6 @@
 534,"Compétences nautiques, navigation et cartographie."
 535,"Compétences de combat. Augmente force, vitesse, utilisation des armes, techniques de combat."
 536,Promouvoir
-537,Aucun équipement
-538,Faim
-539,Soif
-540,Fatigue
-541,Santé
-542,Equilibre mental
-543,Propreté
-544,Besoins
-545,Exp Compétences
-546,Epreuves pour améliorer la compétence
-547,Each finished trial would provide additional bonus when upgraded to next level.
-548,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
 600,Mélodie
 601,Mélodie relaxante
 602,Mélodie de direction du gouvernail
@@ -135,8 +113,6 @@
 718,[Espace] Vitesse x5
 719,[Tab] ou [1]~[9] pour changer de niveau
 720,[I] Objets
-721,Alerte
-722,Compétence requise:
 800,Poids
 801,Flottabilité
 802,Objets
@@ -181,24 +157,6 @@
 841,Un peu plus de
 842,Beaucoup de
 843,Besoin
-844,Précipitations
-845,Jour {0}
-846,Vous devez redémarrer le jeu pour changer de langue.
-847,Redémarrer maintenant.
-848,Redémarrer plus tard.
-849,Espace total
-850,Trame
-851,[Construire]
-852,[Objets]
-853,[Bouger la Caméra]
-854,[Réinitialiser la Caméra]
-855,[Changer d'étage]
-856,[Faire tourner le modèle]
-857,[Filtre]
-858,Déposer
-859,Entrez un texte...
-860,Développer
-861,Extraire
 900,Addition !
 901,Travail en cours...
 902,Tout annuler
@@ -241,9 +199,6 @@
 1118,est mort...
 1119,Annuler
 1120,ne veut plus travailler.
-1121,"Game over, voulez-vous quitter maintenant?"
-1122,Je resterai là.
-1123,Quitter
 1200,Interragir
 1201,Aider
 1202,Butin
@@ -277,6 +232,20 @@
 1410,Devrait être placé près de l'eau.
 1411,Devrait être placé sur l'eau.
 1412,Hauteur max atteinte.
+844,Précipitations
+845,Jour {0}
+846,Vous devez redémarrer le jeu pour changer de langue.
+847,Redémarrer maintenant.
+848,Redémarrer plus tard.
+110,Facile
+111,Normal
+112,Difficile
+113,Retour
+721,Alerte
+849,Espace total
+1121,"Game over, voulez-vous quitter maintenant?"
+1122,Je resterai là.
+1123,Quitter
 1501,Je parle avec {0} à propos d'un homme dans le monde
 1502,Je parle avec {0} à propos d'une femme dans le monde
 1503,Je parle avec {0} à propos de la vue
@@ -306,38 +275,49 @@
 1801,Je parle avec {0} à propos de {1}
 1802,{0} m'a dit quelque chose d'étrange à propos de {1}
 1803,{0} m'a appris quelque chose à propos de {1}
-120,Title_DeleteSaveDoubleCheck
-214,Resolution
-215,Resolution_fastest
-216,Resolution_fast
-217,Resolution_simple
-218,Resolution_good
-219,Resolution_beautiful
-220,Resolution_fantastic
-221,FullScreen
-222,QualityLevel
-549,characterCreation_Traits
-550,characterCreation_Specialty
-551,characterCreation_LearnedRecipe
-552,characterCreation_Perks
-553,characterCreation_Random
-723,Tooltip_NoRequireSkill
-724,Tooltip_Callback
-862,Storage_OutPut
-863,FastReporBug_FastReporBug
-864,FastReporBug_Report
-865,FastReporBug_PleaseDescribeTheBug
-866,Option_ShowGuide
-867,Option_AzertyKeyboard
-868,Control_Guide
-869,Control_ReportBug
-870,Control_ScreenShot
-1124,Message_Progress_Save
-1125,Message_Progress_Upload
-1126,Message_Save_File_Broken
-1127,Message_Back_Story_Old
-1128,Message_Language_Different
-1129,Message_Bug_Reported
+114,Initialisation
+115,Le chargement peut prendre quelques minutes lors du premier lancement du jeu
+537,Aucun équipement
+538,Faim
+539,Soif
+540,Fatigue
+541,Santé
+542,Equilibre mental
+543,Propreté
+544,Besoins
+545,Exp Compétences
+546,Epreuves pour améliorer la compétence
+850,Trame
+851,[Construire]
+852,[Objets]
+853,[Bouger la Caméra]
+854,[Réinitialiser la Caméra]
+855,[Changer d'étage]
+856,[Faire tourner le modèle]
+857,[Filtre]
+858,Déposer
+859,Entrez un texte...
+860,Développer
+861,Extraire
+116,Mode Création
+117,Sélection du scénario
+118,Plugins
+119,Versions Plugins
+547,Chaque épreuve terminée fournira un bonus supplémentaire au niveau suivant.
+548,"Si le survivant est trop affamé, assoiffé, or perd la tête (UI bascule en rouge), il/elle commencera à perdre des points de vie."
+722,Compétence requise:
+723,"Déverouiller aléatoirement quand les survivants ont un moment de repos""."
+120,Voulez-vous vraiment supprimer cette sauvegarde?
+549,Traits de caractère
+550,Spécialités
+551,Recettes apprises
+552,Avantages
+553,Aléatoire
+724,Call Back
+862,Produire
+863,Rapport de bugs
+864,Rapport
+865,Décrivez svp le bug...
 1500,SmallTalk_Normal_Skeleton
 1600,SmallTalk_Item_Skeleton
 1604,SmallTalk_Item_Skeleton_Reserved
@@ -345,3 +325,23 @@
 1704,SmallTalk_Location_Skeleton_Reserved
 1800,SmallTalk_Skill_Skeleton
 1804,SmallTalk_Skill_Skeleton_Reserved
+1124,sauvegarde en cours...
+1125,téléchargement en cours...
+1126,Fichier de sauvegarde corrompu.
+1127,Les dernières histoires générées auparavant sont invalides.
+1128,"Le système détecte que la langue de vos paramètres Steam ({0}) est différente de celle du jeu. Voudriez-vous changer de langue? Si oui, un redémarrage est nécessaire."
+1129,Merci pour votre commentaire! La durée de téléchargement en arrière-plan sera terminée dans quelques minutes...
+866,Afficher le Guide
+867,Clavier Azerty
+868,[Guide]
+869,[Rapport de Bug]
+870,[Capture d'écran]
+214,Résolution
+215,Le plus rapide
+216,Fapide
+217,Simple
+218,Beau
+219,Superbe
+220,Magnifique
+221,Plein écran
+222,Qualité des graphismes

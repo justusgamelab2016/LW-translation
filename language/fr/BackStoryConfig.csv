@@ -133,15 +133,15 @@
 1222,{1:name} n’a pas réussi à voler un ami.
 1223,{1:name} n’a pas réussi à voler quelque chose que j’aime.
 1224,{1:name} n’a pas réussi à voler quelque chose qui n’en valait pas le coup.
-1250,{1:name} s’est fait voler une malette par un enfant.#
-1251,{1:name} s’est fait voler sa sucette par un adulte.#
+1250,{1:name} s’est fait voler une malette par un enfant.
+1251,{1:name} s’est fait voler sa sucette par un adulte.
 1252,{1:name} était pauvre et se faisait quand même voler par un riche.
-1253,{1:name} s’est fait voler sa montre en or.#
-1254,{1:name} s’est fait voler une icône religieuse.#
+1253,{1:name} s’est fait voler sa montre en or.
+1254,{1:name} s’est fait voler une icône religieuse.
 1255,{1:name} thief success cult.&
-1256,{1:name} thief success friends.&
-1257,{1:name} s’est fait voler son objet favori.#
-1258,"{1:name} s’est fait voler toutes ses possessions, mais heureusement cela ne valait pas grand-chose.#"
+1256,{1:name} a volé son ami avec succcès.&
+1257,{1:name} s’est fait voler son objet favori.
+1258,"{1:name} s’est fait voler toutes ses possessions, mais heureusement cela ne valait pas grand-chose."
 1270,{1:name} thief fail thief child.&
 1271,{1:name} thief fail child.&
 1272,{1:name} thief fail friend.&
@@ -149,19 +149,19 @@
 1274,Quelqu’un a essayé de voler {1:name} mais s’est fait prendre
 1300,{1:name} agressait des gens pour l’argent.
 1301,{1:name} agressait des gens et a accidentuellement tué une de ses victimes.
-1302,{1:name} s’est fait agresser et violer par une connaissance.#
+1302,{1:name} s’est fait agresser et violer par une connaissance.
 1303,{1:name} commettait des agressions et des viols
 1304,{1:name} commettait des agressions et réussissait.
 1305,{1:name} commettait des agressions et a obtenu beaucoup d’argent.
 1320,{1:name} a tenté de commettre une agression mais a seulement manqué de se faire tuer.
-1321,"{1:name} a été victime d’une agression, et a reconnu un de ses amis.#"
+1321,"{1:name} a été victime d’une agression, et a reconnu un de ses amis."
 1322,{1:name} a tenté de commettre une agression mais a échoué.
 1323,{1:name} a commis une agression mais n’a rien récupéré qui en valait le coup.
 1330,{1:name} a vu ses parents être agressés et tués..
 1331,{1:name} a vu ses parents être agressés et tués. {1:pron} a compris que de grands pouvoirs impliquaent de grandes responsabilités.
 1332,{1:name} a vu ses parents être agressés et violés.
 1350,{1:name} a été victime d’une agression et a perdu de l’argent
-1351,{1:name} a été victime d’une agression et a été tué.#
+1351,{1:name} a été victime d’une agression et a été tué.
 1352,{1:name} a été victime d’une agression et d’un viol commis par un ami.
 1353,{1:name} a été victime d’une agression et d’un viol.
 1354,{1:name} a été victime d’une agression et n’a rien pu faire.
@@ -171,57 +171,57 @@
 1372,{1:name} a survévu à une agression en s’apercevant que la personne était un ami.
 1373,"{1:name} a failli être victime d’une agressoin, mais un témoin lui a permit de s’échapper."
 1374,{1:name} failli être victime d’une agression.
-120,"{1:fullname} was born in a wealthy family, {0:relationr} of {1:mother} and {1:father}."
-121,"{1:fullname} was born in a poor family, {0:relationr} of {1:mother} and {1:father}."
-122,"{1:fullname} was born in a mediocre family, {0:relationr} of {1:mother} and {1:father}."
-123,"{1:fullname} was born, {0:relationr} of {1:mother}."
-124,"{1:fullname} was born, {0:relationr} of {1:mother}, haven't got who {1:pronp} father is."
-151,{1:name} were on the mountain of an island when the Apocalpyse occured.
-152,{1:name} bought a ship on the Apocalpyse and survived. But {1:pronp} ship was than robbed by raiders.
-153,{1:name} stay in vault to survive the Apocalypse. But the valut was quickly destory by mutant.
-154,{1:name} was luck to survived the Apocalypse as a child.
-155,{1:name} was luck to survived the Apocalypse as a child.
-156,{1:name} was helped by the follower and survived the Apocalpyse.
-157,{1:name} was helped by others and survived the Apocalpyse.
-158,{1:name} was luck to survived the Apocalypse.
-159,{1:name} survived the Apocalypse with {1:pronp} wisdom.
-170,{1:name} was too old and didn't make it in the Apocaplpse.
-171,{1:name} was too old and {1:his} family gave up on {1:him} in the Apocaplpse.
-172,{1:name} was sailing but die in the strom when the Apocaplpse come.
-173,{1:name} did't have enough time to escape and died in the Apocaplpse.
-2251,{1:name} told {1:his} students about the Apocaplpse on class.
-2252,{1:name} talked about the  {1:his} when interviewed by the TV reporter.
-2253,{1:name} talked {1:his} client about the the Apocaplpse.
-2254,{1:name} talked about the the Apocaplpse in {1:his} campaign speeches .
-2255,{1:name} talked about the the Apocaplpse in {1:his} the TV show .
-2256,{1:name} talked about the the odd creature {1:porn} met in the sea shore.
-2257,{1:name} talked to{1:his} client about the the Apocaplpse.
-2258,{1:name} talked to {1:his} patient about the the Apocaplpse.
-2259,{1:name} talked to {1:his} customer about the the Apocaplpse.
-2260,{1:name} talked to {1:his} family about the the Apocaplpse.
-2261,{1:name} talked to {1:his} frient about the the Apocaplpse.
-2262,{1:name} heared rumors about the the Apocaplpse.
-2263,{1:name} spreaded rumors about some starnge creatures in the seea.
-2264,{1:name} spreaded rumors about the the Apocaplpse form {1:his} child.
-2265,{1:name} heared rumors about the the Apocaplpse form {1:his} boss.
-2266,{1:name} heared rumors about the the Apocaplpse form {1:his} teacher.
-2267,{1:name} heared rumors about the the Apocaplpse.
-2268,{1:name} heared rumors about some starnge creatures in the seea.
-2351,{1:name} told {1:his} students about the Deep Ones on class.
-2352,{1:name} talked about the  {1:his} when interviewed by the TV reporter.
-2353,{1:name} talked {1:his} client about the the Deep Ones.
-2354,{1:name} talked about the the Deep Ones in {1:his} campaign speeches .
-2355,{1:name} talked about the the Deep Ones in {1:his} the TV show .
-2356,{1:name} talked about the the odd creature {1:porn} met in the sea shore.
-2357,{1:name} talked to{1:his} client about the the Deep Ones.
-2358,{1:name} talked to {1:his} patient about the the Deep Ones.
-2359,{1:name} talked to {1:his} customer about the the Deep Ones.
-2360,{1:name} talked to {1:his} family about the the Deep Ones.
-2361,{1:name} talked to {1:his} frient about the the Deep Ones.
-2362,{1:name} heared rumors about the the Deep Ones.
-2363,{1:name} spreaded rumors about some demi god in the seea.
-2364,{1:name} spreaded rumors about the the Deep Ones form {1:his} child.
-2365,{1:name} heared rumors about the the Deep Ones form {1:his} boss.
-2366,{1:name} heared rumors about the the Deep Ones form {1:his} teacher.
-2367,{1:name} heared rumors about the the Deep Ones.
-2368,{1:name} heared rumors about some demi god in the seea.
+120,"{1:fullname} est né dans une famille riche, {0:relationr} de {1:mother} et {1:father}."
+121,"{1:fullname} est né dans une famille pauvre, {0:relationr} de {1:mother} et {1:father}."
+122,"{1:fullname} est né dans une famille médiocre, {0:relationr} de {1:mother} et {1:father}."
+123,"{1:fullname} est né, {0:relationr} de {1:mother}."
+124,"{1:fullname} est né, {0:relationr} de {1:mother}, ne sait pas qui est son père."
+151,{1:name} était sur le sommet de l'île quand l'Apocalypse s'est produit.
+152,{1:name} a acheté un bateau pour l'Apocalypse et a survécu. Mais son bateau a été volé par des voleurs.
+153,{1:name} est resté dans un abris pour survivre à l'Apocalypse. Mais l'abris a été rapidement détruit par des mutants.
+154,{1:name} est chanceux d'avoir survécu à l'Apocalypse pendant qu'il était enfant.
+155,{1:name} est chanceux d'avoir survécu à l'Apocalypse pendant qu'il était enfant.
+156,{1:name} a été aidé par des disciples et a survécu à l'Apocalypse.
+157,{1:name} a été aidé par des inconnus et a survécu à l'Apocalypse.
+158,{1:name} est chanceux d'avoir survécu à l'Apocalypse.
+159,{1:name} a survécu à l'Apocalypse avec sagesse.
+170,{1:name} était trop âgé et n'a pas remarqué que c'était l'Apocalypse.
+171,{1:name} était trop âgé et {1:his} famille l'a abandonné pendant l'Apocalypse.
+172,{1:name} était en train de naviguer et est mort de peur quand l'Apocalypse est arrivé.
+173,{1:name} n'a pas eu assez de temps pour s'échapper et est mort pendant l'Apocalypse.
+2251,{1:name} a parlé à ses étudiants de l'Apocalypse en classe.
+2252,{1:name} parlait avec {1:his} lorsqu'il a été interviewé par un journaliste.
+2253,{1:name} parlait avec {1:his} client de l'Apocalypse.
+2254,{1:name} parlait de l'Apocalypse pendant son discours présidentiel.
+2255,{1:name} parlait de l'Apocalypse pendant son émission TV.
+2256,{1:name} parlait des créatures bizarres avec {1:porn} rencontrées sur le littoral.
+2257,{1:name} parlait à{1:his} client à propos de l'Apocalypse.
+2258,{1:name} parlait avec {1:his} patient à propos de l'Apocalypse.
+2259,{1:name} parlait avec {1:his} client à propos de l'Apocalypse.
+2260,{1:name} parlait avec {1:his} famille à propos de l'Apocalypse.
+2261,{1:name} parlait avec {1:his} ami à propos de l'Apocalypse.
+2262,{1:name} a entendu des rumeurs à propos de l'Apocalypse.
+2263,{1:name} a répandu des rumeurs sur d'étranges crétures dans la mer.
+2264,{1:name} a répandu des rumeurs à propos de l'Apocalypse à son enfant.
+2265,{1:name} a entendu des rumeurs à propos de l'Apocalypse de son boss.
+2266,{1:name} a entendu des rumeurs à propos de l'Apocalypse de son professeur.
+2267,{1:name} a entendu des rumeurs à propos de l'Apocalypse.
+2268,{1:name} a entendu des rumeurs sur d'étranges crétures dans la mer.
+2351,{1:name} a parlé à ses étudiants à propos du Deep Ones en classe.
+2352,{1:name} parlait de  {1:his}lorsqu'il a été interviewé par un journaliste.
+2353,{1:name} parlait avec {1:his} client à propos de Deep Ones.
+2354,{1:name} a parlé du Deep Ones pendant {1:his} campagne présidentielle.
+2355,{1:name} a parlé du Deep Ones pendant {1:his} émission TV.
+2356,{1:name} parlait de la créature bizarre {1:porn} rencontré sur le littoral.
+2357,{1:name} parlait avec {1:his} client à propoos du Deep Ones.
+2358,{1:name} parlait avec {1:his} patient à propos du Deep Ones.
+2359,{1:name} parlait avec {1:his} client à propos du Deep Ones.
+2360,{1:name} parlait avec {1:his} famille à propos du Deep Ones.
+2361,{1:name} parlait avec {1:his} ami à propos du Deep Ones.
+2362,{1:name} a entendu des rumeurs à propos du Deep Ones.
+2363,{1:name} a répandu des rumeurs à propos des demi dieux dans la mer.
+2364,{1:name} a répandu des rumeurs concernant le Deep Ones à son enfant.
+2365,{1:name} a entendu des rumeurs du Deep Ones de {1:his} boss.
+2366,{1:name} a entendu des rumeurs du Deep Ones de {1:his} professeur.
+2367,{1:name} a entendu des rumeurs du Deep Ones.
+2368,{1:name} a entendu des rumeurs à propos des demi dieux dans la mer.

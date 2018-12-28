@@ -1,8 +1,8 @@
 1, Nourriture
 2, Poisson
-3, Cook
+3, Plat
 4, Champs
-5, Naviguer
+5, Navigation
 6, Outil
 7, Arme
 8, Equipement
@@ -11,8 +11,8 @@
 11, Sec
 12, Filtre
 13, Soupe
-14, Sharp
-15, Medicine
+14, Tranchant
+15, Médicament
 16, Matériel
 17, Artisanat
 18, Se sentir malade
@@ -25,7 +25,7 @@
 25, Technologie
 26, Métal
 27, Pierre
-28, Mystic Made
+28, Fabrication mystique
 29, Brut
 30, Parfait
 31, Endommagé
@@ -33,10 +33,10 @@
 33, Combustible
 34, Imperméable
 35, Isolation
-36, Firm
+36, Ferme
 37, Fatigué
 38, Anthypnotique
-39, Thirst quenching 
+39, Etancher la soif
 40, Assoiffé
 41, Affamé
 42, Plénitude

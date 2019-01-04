@@ -1,30 +1,30 @@
-1,{1:Show} conceded to {2:Show} and {0:ShowList_i_r_we_they} stopped being enemies
-2,{2:ShowS} shot down {1:ShowP} attempt to make amends
+1,{1:Show} admettre que {2:Show} et {0:ShowList_i_r_we_they} ont cessé d'être ennemis
+2,{2:ShowS} abattu {1:ShowP} attempt to make amends
 3,{1:Show} {1:ShowPron_was_were}n't swell enough to convince {2:Show} that {0:ShowList_i_r_we_they} should make up
-4,{1:Show} made peace with {2:Show} by letting {2:ShowPron_him_her} speak {1:ShowPron_his_her} mind
+4,{1:Show} fait la paix avec {2:Show} by letting {2:ShowPron_him_her} speak {1:ShowPron_his_her} mind
 5,{0:ShowList_i_r_and} stopped being enemies and wondered why anyone fights at all
-6,{2:ShowS} made fun of {1:ShowO} for thinking it would be easy to concede to {2:ShowPron_him_her}
+6,{2:ShowS} s'est moqué de {1:ShowO} pour avoir pensé qu'il serait facile d'admettre que {2:ShowPron_him_her}
 7,{0:ShowCKB}s brought {0:ShowList_i_r_andp} back together
 8,it turned out {0:ShowCKB}s were not enough to bring {0:ShowList_i_r_andp} back together
-9,{2:ShowS} {2:ShowPron_was_were} nice enough to stop being enemies with {1:ShowO}
+9,{2:ShowS} {2:ShowPron_was_were} est assez agréable pour arrêter d'être ennemis avec {1:ShowO}
 10,{1:Show} concession turned into a declaration of love for {2:Show}
 11,{1:Show} cheerfully settled {1:ShowPron_his_her} differences with {2:Show}
-12,{2:ShowS} opened old wounds when {1:ShowS} tried to make up with {2:ShowPron_him_her}
+12,{2:ShowS} a réouvert d'anciennes plaies lorsque {1:ShowS} a tenté de se réconcilier avec {2:ShowPron_him_her}
 13,{2:ShowS} {2:ShowPron_was_were} too vengeful to settle {2:ShowPron_his_her} differences with {1:ShowO}
 14,{0:ShowList_i_r_and} got over {0:ShowList_i_r_our_their} fight and went back to being a happy couple
-15,{0:ShowList_i_r_and} kept fighting with each other
+15,{0:ShowList_i_r_and} a continué à se battre les uns avec les autres
 16,{1:Show} cleverly settled {1:ShowPron_his_her} differences with {2:Show}
 21,{1:Show} tried to get {2:Show} to help against {3:Show} but {2:ShowPron_he_she} like changed sides
 24,{2:ShowS} felt no remorse for {2:ShowPron_his_her} unfriendly behavior towards {1:ShowO}
-25,{2:ShowS} apologized for being a bad friend to {1:ShowO}
-26,{2:ShowS} helped {1:ShowO} make a decision concerning {3:Show}
-29,{2:ShowS} made excuses to avoid helping {1:ShowO} out
-30,{1:Show} tried to get {2:Show} to help {1:ShowPron_him_her} out but {2:ShowPron_he_she} said the old {2:Show} was dead
-31,{2:ShowS} helped {1:ShowO} out with that embarrassing problem
-33,{2:ShowS} stood up to {1:ShowP} threatening requests for help
-39,{2:ShowS} told {1:ShowO} {2:ShowPron_he_she} would under no circumstances support {1:ShowPron_his_her} dishonest relationship with {3:Show}
+25,{2:ShowS} s'excuse d'avoir été un mauvais ami à  {1:ShowO}
+26,{2:ShowS} a aidé  {1:ShowO} à prendre une décision concernant {3:Show}
+29,{2:ShowS} a présenté des excuses pour éviter d'aider {1:ShowO}
+30,{1:Show} a tenté d'obtenir {2:Show} pour aider {1:ShowPron_him_her} mais {2:ShowPron_he_she} a dit que le vieux {2:Show}  était mort
+31,{2:ShowS} a aidé {1:ShowO} avec ce problème embarassant
+33,{2:ShowS} a résisté à {1:ShowP} concernant des demandes mena?antes
+39,{2:ShowS} a dit à {1:ShowO} {2:ShowPron_he_she} ne supporterait en aucun cas {1:ShowPron_his_her} d'avoir une relation néfaste avec {3:Show}
 41,{2:ShowS} {2:ShowPron_was_were} just too apathy to do whatever favor {1:ShowS} had in mind
-42,{2:ShowS} {2:ShowPron_was_were} a friend in need
+42,{2:ShowS} {2:ShowPron_was_were} un ami dans le besoin
 43,{2:ShowS} let {1:ShowO} down in {1:ShowPron_his_her} moment of need
 44,{2:ShowS} lent {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
 45,{2:ShowS} refused to lend {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
@@ -262,7 +262,7 @@
 332,{0:ShowList_i_o_and} both fawned over {2:Show}
 333,{1:Show} sucked up to {2:Show} but {2:ShowS} {2:ShowPron_was_were}n't really sure who {1:Show} {1:ShowPron_was_were}
 334,{1:Show} insulted {2:Show} but {2:ShowPron_he_she} didn't get it
-335,{1:Show} insulted {2:Show}
+335,{1:Show} a insulté {2:Show}
 336,{0:ShowList_i_r_and} had like a catfight
 337,{1:Show} brought the smackdown to {2:Show}
 338,{1:Show} totally backstabbed {2:Show} even though {0:ShowList_i_r_we_they} were friends
@@ -628,4 +628,4 @@
 856,{2:Show} tragically refused to cheat on {3:Show} and date {1:Show}
 857,{0:ShowList_i_r_and} got into some weird triangle thing with {3:Show}
 858,{1:Show} tried to get {2:Show} into some weird 'it's complicated' relationship with {3:Show}
-859,{0:ShowList_i_r_and} became more than friends
+859,{0:ShowList_i_r_and} sont devenus plus que des amis

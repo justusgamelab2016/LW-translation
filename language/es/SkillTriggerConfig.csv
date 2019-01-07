@@ -34,11 +34,11 @@
 300,Weave,Cooking Weave speed +
 301,Weave(advanced),Cooking Weave speed ++
 302,Weave(mastered),Cooking Weave speed +++
-310,Craft Woodware,Crafting Woodware speed +
-311,Craft Woodware(advanced),Crafting Woodware speed ++
-312,Craft Woodware(mastered),Crafting Woodware speed +++
-320,Craft Stoneware,Crafting stoneware speed +
-321,Craft Stoneware(advanced),Crafting stoneware speed ++
+310,Craft Woodparts,Crafting Woodware speed +
+311,Craft Woodparts(advanced),Crafting Woodware speed ++
+312,Craft woodparts(mastered),Crafting Woodware speed +++
+320,Craft stoneparts,Crafting stoneware speed +
+321,Craft stoneparts(advanced),Crafting stoneware speed ++
 322,Craft Stoneware(mastered),Crafting stoneware speed +++
 330,Research on craft building,Craft exps speed +
 331,Research on craft building(advanced),Craft exps speed ++
@@ -49,8 +49,8 @@
 401,Use any nautical building(advanced),Sailing efficiency ++
 402,Look out for new islands,Look out range +
 403,Look out for new islands(advanced),Look out range ++
-404,Draw New Spot On Map,Drawing speed +
-405,Draw New Spot On Map(advanced),Drawing speed ++
+404,Draw new spot on map,Drawing speed +
+405,Draw new spot on map(advanced),Drawing speed ++
 406,Land on new island,Land Speed +
 407,Land on new island(advanced),Land Speed ++
 408,Traded,Land Speed +

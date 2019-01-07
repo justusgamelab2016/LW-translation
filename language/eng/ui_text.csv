@@ -91,6 +91,7 @@
 534,"Skills of sailing, navigation and mapping."
 535,"Skills of fighting. Increase strength, speed, use of weapons and battle technic."
 536,Can Upgrade
+555,Survive {0} more days to unlock
 600,Tune
 601,Tune sail relaxation
 602,Tune rudder direction
@@ -306,7 +307,7 @@
 547,Each finished trial would provide additional bonus when upgraded to next level.
 548,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
 722,Required Skill:
-723,"Unlock randomly when survivors have an ""aha moment""."
+723,Unlock randomly when survivors have an "aha moment".
 120,Do you really want to delete this save?
 549,Traits
 550,Specialty
@@ -329,7 +330,7 @@
 1125,uploading...
 1126,Save file broken.
 1127,Back stories generated before are invalid.
-1128,"System detects that language in your steam settings ({0}) is different from game settings. Would you like switch language to steam settings? If so, a reboot is required."
+1128,"System detects that language in your steam settings ({0}) is different from game settings. Would you like to switch language to steam settings? If so, a reboot is required."
 1129,Thanks for your feedback! Uploading job in the background will be done in a few minutes...
 866,Show Guide
 867,Is Azerty Keyboard

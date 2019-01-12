@@ -117,7 +117,7 @@
 800,Mass
 801,Buoyancy
 802,Items
-803,[Shift+1] Location
+803,[Shift+1] Building
 804,[Shift+2] Pile
 805,[Shift+3] Survivor
 806,[Shift+4] Room
@@ -307,7 +307,7 @@
 547,Each finished trial would provide additional bonus when upgraded to next level.
 548,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
 722,Required Skill:
-723,Unlock randomly when survivors have an "aha moment".
+723,"Unlock randomly when survivors have an ""aha moment""."
 120,Do you really want to delete this save?
 549,Traits
 550,Specialty
@@ -346,3 +346,9 @@
 220,Fantastic
 221,Full Screen
 222,Graphic Quality
+121,Forums
+554,Take Off
+871,[Shift+7] Wall
+872,Gravity
+873,Map
+874,TearUp

@@ -7,7 +7,7 @@
 7, Arme
 8, Equipement
 9, Bois
-10, Tisser
+10, Tissage
 11, Sec
 12, Filtre
 13, Soupe
@@ -29,14 +29,14 @@
 29, Brut
 30, Parfait
 31, Endommagé
-32, Eclairage
+32, Eclaire
 33, Combustible
 34, Imperméable
-35, Isolation
+35, Isolant
 36, Ferme
 37, Fatigué
 38, Anthypnotique
-39, Etancher la soif
+39, Etanche la soif
 40, Assoiffé
 41, Affamé
 42, Plénitude
@@ -49,7 +49,7 @@
 49, Arbre
 50, Satisfaire
 51, Viande
-52, Colorer
+52, Colorant
 53, Exploitable
 54, Combattre
 55, Fruit

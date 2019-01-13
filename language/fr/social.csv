@@ -1,69 +1,69 @@
-1,{1:Show} admettre que {2:Show} et {0:ShowList_i_r_we_they} ont cessé d'être ennemis
-2,{2:ShowS} abattu {1:ShowP} attempt to make amends
-3,{1:Show} {1:ShowPron_was_were}n't swell enough to convince {2:Show} that {0:ShowList_i_r_we_they} should make up
-4,{1:Show} fait la paix avec {2:Show} by letting {2:ShowPron_him_her} speak {1:ShowPron_his_her} mind
-5,{0:ShowList_i_r_and} stopped being enemies and wondered why anyone fights at all
-6,{2:ShowS} s'est moqué de {1:ShowO} pour avoir pensé qu'il serait facile d'admettre que {2:ShowPron_him_her}
+1,{1:Show} a avoué que {2:Show} et {0:ShowList_i_r_we_they} ont cessé d'être ennemis
+2,{2:ShowS} a abattu {1:ShowP} et s'attend à avoir une amende
+3,{1:Show} n'{1:ShowPron_was_were}pas assez gonfler pour convaincre {2:Show} qu'ils devraient se décider
+4,{1:Show} fait la paix avec {2:Show} en {2:ShowPron_him_her} laissant exprimer {1:ShowPron_his_her} point de vue
+5,{0:ShowList_i_r_and} ont arrêté d'être ennemis et se sont demandés pourquoi pesonne ne voulait se battre contre eux
+6,{2:ShowS} s'est moqué de {1:ShowO} pour avoir pensé qu'il serait facile de tout avouer
 7,{0:ShowCKB}s brought {0:ShowList_i_r_andp} back together
-8,it turned out {0:ShowCKB}s were not enough to bring {0:ShowList_i_r_andp} back together
-9,{2:ShowS} {2:ShowPron_was_were} est assez agréable pour arrêter d'être ennemis avec {1:ShowO}
-10,{1:Show} concession turned into a declaration of love for {2:Show}
-11,{1:Show} cheerfully settled {1:ShowPron_his_her} differences with {2:Show}
+8,il s'est avéré que {0:ShowCKB} n'étaient pas suffisant pour {0:ShowList_i_r_andp} remettre ensemble
+9,{2:ShowS} {2:ShowPron_was_were} assez agréable pour arrêter d'être ennemis avec {1:ShowO}
+10,{1:Show} a modifié son attirance actuelle par une déclaration d'amour à {2:Show}
+11,{1:Show} a fièrement réglé ses problèmes avec {2:Show}
 12,{2:ShowS} a réouvert d'anciennes plaies lorsque {1:ShowS} a tenté de se réconcilier avec {2:ShowPron_him_her}
-13,{2:ShowS} {2:ShowPron_was_were} too vengeful to settle {2:ShowPron_his_her} differences with {1:ShowO}
-14,{0:ShowList_i_r_and} got over {0:ShowList_i_r_our_their} fight and went back to being a happy couple
-15,{0:ShowList_i_r_and} a continué à se battre les uns avec les autres
-16,{1:Show} cleverly settled {1:ShowPron_his_her} differences with {2:Show}
-21,{1:Show} tried to get {2:Show} to help against {3:Show} but {2:ShowPron_he_she} like changed sides
-24,{2:ShowS} felt no remorse for {2:ShowPron_his_her} unfriendly behavior towards {1:ShowO}
-25,{2:ShowS} s'excuse d'avoir été un mauvais ami à  {1:ShowO}
+13,{2:ShowS} {2:ShowPron_was_were} trop rancunier pour régler son problème avec {1:ShowO}
+14,{0:ShowList_i_r_and} a obtenu gain de cause de leur dispute et vont devenir un couple heureux
+15,{0:ShowList_i_r_and} ont continué à se battre les uns avec les autres
+16,{1:Show} a réglé intelligemment son problème avec {2:Show}
+21,{1:Show} a essayé d'aider {2:Show} contre {3:Show} mais {2:ShowPron_he_she} a changé de côté
+24,{2:ShowS} n'a ressenti aucun remord pour son comportement inadapté envers {1:ShowO}
+25,{2:ShowS} s'excuse d'avoir été un mauvais ami pour  {1:ShowO}
 26,{2:ShowS} a aidé  {1:ShowO} à prendre une décision concernant {3:Show}
 29,{2:ShowS} a présenté des excuses pour éviter d'aider {1:ShowO}
-30,{1:Show} a tenté d'obtenir {2:Show} pour aider {1:ShowPron_him_her} mais {2:ShowPron_he_she} a dit que le vieux {2:Show}  était mort
+30,{1:Show} a tenté de rallier {2:Show} pour l'aider mais {2:ShowPron_he_she} a dit que le vieux {2:Show} était mort
 31,{2:ShowS} a aidé {1:ShowO} avec ce problème embarassant
-33,{2:ShowS} a résisté à {1:ShowP} concernant des demandes mena?antes
-39,{2:ShowS} a dit à {1:ShowO} {2:ShowPron_he_she} ne supporterait en aucun cas {1:ShowPron_his_her} d'avoir une relation néfaste avec {3:Show}
-41,{2:ShowS} {2:ShowPron_was_were} just too apathy to do whatever favor {1:ShowS} had in mind
+33,{2:ShowS} a résisté à {1:ShowP} concernant des demandes menacantes
+39,{2:ShowS} a dit à {1:ShowO} qu' {2:ShowPron_he_she} ne supporterait en aucun cas sa relation néfaste avec {3:Show}
+41,{2:ShowS} {2:ShowPron_was_were} indifférent pour faire quelque faveur à {1:ShowS}
 42,{2:ShowS} {2:ShowPron_was_were} un ami dans le besoin
-43,{2:ShowS} let {1:ShowO} down in {1:ShowPron_his_her} moment of need
-44,{2:ShowS} lent {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
-45,{2:ShowS} refused to lend {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
-46,{2:ShowS} helped {2:ShowPron_his_her} sweetie out
-49,{1:Show} tried to backstab {2:Show} to get out of the relationship
-50,{1:Show} destroyed {1:ShowPron_his_her} friendship with {2:Show}
-51,{1:Show} tried to stab {2:Show} in the back but {2:ShowS} didn't care
-52,{1:Show} tried to ruin {2:ShowP} social life
-55,"{1:Show} confessed to dating {2:ShowP} crush, but {2:ShowS} let it go"
-56,{1:Show} let that secret slip and backstabbed {1:ShowPron_his_her} {2:ShowGender_boyfriend_girlfriend}
-58,{1:Show} spilled {2:ShowP} secret and totally ruined {2:ShowPron_his_her} reputation
-59,{2:Show} laughed when {1:ShowS} threatened to backstab {2:ShowPron_him_her}
-60,{1:Show} stabbed {2:Show} in the back
-61,{2:Show} apologized for the mean thing {2:ShowPron_he_she} did to {1:Show}
-63,{1:Show} tried to diss {2:ShowP} hair but {2:ShowPron_he_she} {2:ShowPron_was_were} totally zen about it
-65,{0:ShowList_i_r_and} had like a psychic fight
-66,{1:Show} kept bringing up that lame thing that {2:ShowS} did
-67,{2:Show} kept doing that thing {1:ShowS} thought was gross
-68,{0:ShowList_i_r_and} were really getting on each others' nerves
-69,{0:ShowList_i_r_and} were bickering like an old married couple
-71,{1:Show} accused {2:Show} of harboring romantic feelings
-72,{3:Show} came between {0:ShowList_i_r_andp} friendship
+43,{2:ShowS} a laissé {1:ShowO} sombrer dans ses besoins
+44,{2:ShowS} a prêté à {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
+45,{2:ShowS} a refusé de prêter à {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
+46,{2:ShowS} a aidé son amour
+49,{1:Show} a tenté de poignarder dans le dos {2:Show} pour quitter la relation
+50,{1:Show} a détruit son amitié avec {2:Show}
+51,{1:Show} a tenté de poignarder {2:Show} dans le dos mais {2:ShowS} ne s'en ai pas inquiété
+52,{1:Show} a tenté de ruiner la vie sociale de {2:ShowP}
+55,"{1:Show} a avoué quelque chose au rencard à {2:ShowP} , mais {2:ShowS} l'a laissé partir"
+56,{1:Show} a laissé passé ce secret et a poignardé dans le dos {1:ShowPron_his_her} {2:ShowGender_boyfriend_girlfriend}
+58,{1:Show} a renversé {2:ShowP} en secret et a totalement ruiné sa réputation
+59,{2:Show} a ri quand {1:ShowS} l'a menacé de {2:ShowPron_him_her} poignarder
+60,{1:Show} a poignardé {2:Show} dans le dos
+61,{2:Show} s'est excusé pour la chose qu' {2:ShowPron_he_she} a fait à {1:Show}
+63,{1:Show} a tenté de persuader {2:ShowP} de couper ses cheveux mais {2:ShowPron_he_she} {2:ShowPron_was_were} totalement à l'aise avec cela
+65,{0:ShowList_i_r_and} ont eu un combat étonnant
+66,{1:Show} a continué à élever cette chose que {2:ShowS} avait
+67,{2:Show} a continué à aider {1:ShowS}
+68,{0:ShowList_i_r_and} étaient vraiment sur les nerfs l'un et l'autre
+69,{0:ShowList_i_r_and} se chamaillaient comme un vieux couple marié
+71,{1:Show} a accusé {2:Show} d'avoir des sentiments romantiques
+72,{3:Show} est devenu {0:ShowList_i_r_andp} ami
 73,{0:ShowList_i_r_and} got into some snide bickering action
-74,{1:Show} bickered with {2:Show} but it kinda turned into a compliment
-75,{1:Show} bickered about {2:Show} being too clingy
-76,{1:Show} bickered about {2:Show} 'hanging out' with other people
-77,"{1:Show} bickered about {2:ShowP} style, and found out about 'the competition'"
-78,{1:Show} warned {2:Show} to stay away from {3:Show}
-79,{1:Show} bickered with that homewrecker {2:Show} but gave a compliment instead
-80,{1:Show} tried to be bitchy but {2:ShowS} totally shut {1:ShowPron_him_her} down
-84,{1:Show} bickered about why {2:ShowS} was friends with {3:Show}
-87,{1:Show} tried to blow off plans with {2:Show}
-88,{1:Show} blew off {1:ShowPron_his_her} plans with {2:Show}
-89,{1:Show} blew off those plans with {2:Show}
-90,{1:Show} totally blew off {1:ShowPron_his_her} plans with {2:Show}
+74,{1:Show} s'est chamaillé avec {2:Show} mais ca c'est transformé en compliment
+75,{1:Show} s'est chamaillé avec {2:Show} à cause de son attitude collante
+76,{1:Show} s'est chamaillé avec {2:Show}
+77,"{1:Show} s'est chamaillé avec {2:ShowP} à cause de son style
+78,{1:Show} a averti {2:Show} de rester loin de {3:Show}
+79,{1:Show} s'est chamaillé avec {2:Show} mais lui a ensuite donné un compliment
+80,{1:Show} a essayé d'être une garce mais {2:ShowS} l'a tout de suite arrêter
+84,{1:Show} s'est chamaillé à propos du fait que {2:ShowS} était ami avec {3:Show}
+87,{1:Show} a essayé de faire échoucher les plans de {2:Show}
+88,{1:Show} a fait échoué ses plans avec {2:Show}
+89,{1:Show} a fait échoué les plans avec {2:Show}
+90,{1:Show} a totalemnt échoué ses plans avec {2:Show}
 91,{1:Show} tried to flake out on {2:Show}
-92,{2:Show} thought {1:Show} {1:ShowPron_was_were} joking about blowing off plans to hang out
-93,{1:Show} {1:ShowPron_was_were} too nice to blow off plans with {2:Show}
-94,{1:Show} blew off plans with {2:Show} to be with {3:Show}
+92,{2:Show} a pensé que {1:Show} rigolait de ses échecs romantiques
+93,{1:Show} {1:ShowPron_was_were} trop agréable pour échouer ses plans avec {2:Show}
+94,{1:Show} blew off plans with {2:Show} pour être avec {3:Show}
 95,{1:Show} blew off plans with {2:Show} even though {0:ShowList_i_r_we_they} were dating
 97,{1:Show} pretended to make plans with {2:Show} because {0:ShowList_i_r_we_they} were like frenemies or something
 98,{1:Show} tried to blow off plans with {2:Show} but despite the mutual hatred didn't succeed
@@ -74,66 +74,66 @@
 103,{0:ShowList_i_r_and} traded grade-based insults
 106,{1:Show} told {2:Show} about some brilliant stuff {1:ShowPron_he_she} did
 107,{1:Show} tried to make some lame thing sound brilliant to {2:Show}
-108,{1:Show} surprised {2:Show} with that brilliant story
-109,{1:Show} told {2:Show} that badass story
-110,{1:Show} bragged to {2:Show} about being like a prodigy or whatever
-112,{2:Show} confronted {1:Show} about {1:ShowPron_his_her} compulsive exaggeration problems
-113,{2:Show} {2:ShowPron_was_were} too clueless to realize {1:ShowS} {1:ShowPron_was_were} trying to brag
-114,{1:Show} had to convince {2:Show} that {1:ShowPron_he_she} did something brilliant
-115,{2:Show} {2:ShowPron_was_were} too smart to fall for {1:ShowP} ridiculous bragging
-116,{1:Show} tried to brag about {1:ShowPron_his_her} swell but it seriously backfired
-117,{1:Show} sort of walked all over {2:Show} while bragging about stuff
-118,{2:Show} {2:ShowPron_was_were} too annoyed with {1:Show} to listen to {1:ShowPron_him_her} brag
-119,"{1:Show} bragged to {2:Show} about being romantic with someone else, which was probably a bad idea"
+108,{1:Show} a surpris {2:Show} avec cette brillante histoire
+109,{1:Show} a raconté à {2:Show} cette vilaine histoire
+110,{1:Show} s'est vanté auprès de {2:Show} d'être un prodige ou un truc du genre
+112,{2:Show} a attaqué verbalement {1:Show} concernant ses problèmes d'exagérations compulsives
+113,{2:Show} {2:ShowPron_was_were} trop désemparé pour réaliser que {1:ShowS} {1:ShowPron_was_were} en train de se vanter
+114,{1:Show} a dû convaincre {2:Show} qu' {1:ShowPron_he_she} a fait quelque chose de brillant
+115,{2:Show} {2:ShowPron_was_were} trop intelligent pour se faire passer comme un ridicule auprès de {1:ShowP}
+116,{1:Show} a essayé de se vanter mais cela a eu l'effet inverse
+117,{1:Show} a marché avec {2:Show} tout en se vantant de plein de choses
+118,{2:Show} s'était trop ennuyé avec {1:Show} pour écouter ses fanfaronnades
+119,"{1:Show} s'était vanté auprès de {2:Show} d'avoir été romantique avec une autre personne, ce qui était une mauvaise idée"
 120,{1:Show} grossed {2:Show} out with all that bragging
 126,{1:Show} tried to brag to {1:ShowPron_his_her} enemy's {2:ShowGender_boyfriend_girlfriend} about how superior {1:ShowPron_he_she} {1:ShowPron_was_were}
-127,{1:Show} bragged to {2:Show} about being superior to {2:ShowPron_his_her} {3:ShowGender_boy_girl}friend
-128,{1:Show} schemed to steal {2:ShowP} {3:ShowGender_boy_girl}friend
-129,{1:Show} got all smug about stealing {3:Show} from {2:Show}
-130,{2:Show} never got over {1:ShowP} mean actions
-131,{1:Show} tried to brag to {2:Show} but {1:ShowPron_was_were} overwhelmed with burning hatred instead
-132,{1:Show} bragged to {2:Show} about dating {3:Show}
-133,{1:Show} bragged to {2:Show} about dating {3:Show}
-134,{1:Show} tried bragging to {2:Show} about dating {3:Show} but it sorta backfired
-135,{1:Show} unwisely tried bragging to {2:Show} about dating the {3:ShowGender_boy_girl} of {2:ShowPron_his_her} dreams
-136,{1:Show} tried to brag to {2:Show} and it went over about like you'd expect
-137,{1:Show} bragged about cheating on {3:Show}
-138,{2:Show} lost respect for {1:Show} after {1:ShowPron_he_she} bragged about being a cheater
-139,{2:Show} put up with {1:ShowP} bragging
-140,{1:Show} acted like a fool trying to brag to {2:Show}
+127,{1:Show} s'est vanté auprès de {2:Show} d'être supérieur à {2:ShowPron_his_her} {3:ShowGender_boy_girl}friend
+128,{1:Show} complotait de piquer {2:ShowP}{3:ShowGender_boy_girl}ami
+129,{1:Show} a obtenu du dédain concernant le vol de {3:Show} de la part de {2:Show}
+130,{2:Show} n'a jamais oublié les vilaines actions de {1:ShowP}
+131,{1:Show} a essayé de se vanter auprès de {2:Show} mais sa haine le bouleverse par dessus tout
+132,{1:Show} s'est vanté auprès de {2:Show} de son rendez-vous avec {3:Show}
+133,{1:Show} s'est vanté auprès de {2:Show} de son rendez-vous avec {3:Show}
+134,{1:Show} a essayé de se vanter auprès de {2:Show} de son rendez-vous avec {3:Show} mais cela a eu une conséquence inverse
+135,{1:Show} a essayé de se vanter auprès de {2:Show} de son rendez-vous avec l' {3:ShowGender_boy_girl} de ses rêves
+136,{1:Show} a essayé de se vanter auprès de {2:Show} et ca été plus loin que son espérance
+137,{1:Show} s'est vanté d'avoir tricher auprès de {3:Show}
+138,{2:Show} a perdu la confiance de {1:Show} après qu' {1:ShowPron_he_she} s'est vanté d'avoir triché
+139,{2:Show} a supporté les fanfarons de {1:ShowP}
+140,{1:Show} a agi bêtement en essayant de se vanter auprès de {2:Show}
 141,{2:Show} {2:ShowPron_was_were} super into {1:ShowP} story
-142,{1:Show} expected {2:Show} to be impressed by some swell stuff {1:ShowPron_he_she} did
-143,"{1:Show} bragged to {2:Show} about being romantic with someone else, and {2:ShowPron_he_she} was into it"
-144,{1:Show} put {1:ShowPron_his_her} foot in {1:ShowPron_his_her} mouth
-145,{2:Show} took that insult from {1:Show} WAY too nicely
+142,{1:Show} s'attendait que {2:Show} soit impressionné par le nombre d'objets qu' {1:ShowPron_he_she} possède
+143,"{1:Show}s'est vanté auprès de {2:Show} d'avoir été amoureux de qqun d'autre
+144,{1:Show} a mis le pied dans le plat
+145,{2:Show} a pris l'insulte de {1:Show} d'une manière trop gentille
 148,{1:Show} checked out {3:Show} and {2:ShowS} got pissed
 149,{1:Show} checked out {3:Show} and {2:ShowS} was totally into it
-150,{1:Show} thought it was a good idea to compare {2:Show} to {3:Show}
-151,{1:Show} said {3:ShowS} {3:ShowPron_was_were} sweller than {2:Show}
-152,{1:Show} said {3:ShowS} {3:ShowPron_was_were} sweller than {2:Show}
-153,{1:Show} made a thoughtless remark about {2:ShowP} {0:ShowCKB}s
-154,{2:Show} added {0:ShowCKB}s to the list of forbidden topics to discuss with {1:Show}
-155,{1:Show} accidentally called {2:Show} *{3:Show}*
-156,{1:Show} covered up talking to {3:Show} in front of {2:Show}
-157,{1:Show} accidently revealed that embarrassing story about {2:Show} to the world
-159,{2:Show} broke {1:ShowP} heart by cheating on {1:ShowPron_him_her} with {3:Show}
-160,{2:Show} managed to convince {1:Show} {2:ShowPron_he_she} really loved {1:ShowPron_him_her}
-161,{2:Show} broke {1:ShowP} heart by cheating on {1:ShowPron_him_her} with {3:Show} (and not liking {0:ShowCKB}s)
+150,{1:Show} a pensé que c'était une bonne idée de comparer {2:Show} à {3:Show}
+151,{1:Show} a dit à {3:ShowS} qu'{1:ShowPron_he_she} {3:ShowPron_was_were} plus énorme que {2:Show}
+152,{1:Show} a dit à {3:ShowS} qu'{1:ShowPron_he_she} {3:ShowPron_was_were} plus énorme que {2:Show}
+153,{1:Show} a fait une remarque déplacée sur {2:ShowP} {0:ShowCKB}s
+154,{2:Show} a ajouté {0:ShowCKB}s à la liste des sujets interdits à parler avec {1:Show}
+155,{1:Show} a appelé accidentellement {2:Show} *{3:Show}*
+156,{1:Show} s'est caché en parlant à {3:Show} face à {2:Show}
+157,{1:Show} a accenditellement révélé l'histoire ambarassante à propos de {2:Show} au monde
+159,{2:Show} a brisé le coeur de {1:ShowP} en parlant sur {1:ShowPron_him_her} avec {3:Show}
+160,{2:Show} a réussi à convaincre {1:Show} qu' {2:ShowPron_he_she} était amoureux de {1:ShowPron_him_her}
+161,{2:Show} a brisé le coeur de {1:ShowP} en parlant sur {1:ShowPron_him_her} avec {3:Show} (and not liking {0:ShowCKB}s)
 162,"{1:Show} had lost interest in {2:Show}, but it turned out {2:Show} {2:ShowPron_was_were} actually already cheating on {1:ShowPron_him_her} anyway"
-163,"{2:Show} tried to take advantage of {1:ShowP} nice side, but still broke {1:ShowPron_his_her} heart"
-164,{2:Show} tricked {1:Show} into thinking those rumors {2:ShowPron_he_she} {2:ShowPron_was_were} a cheater were false
-165,{2:Show} tried to maintain the friendship after cheating on {1:Show}
+163,"{2:Show} a essayé de profiter du bon côté de {1:ShowP} , mais son coeur reste toujours brisé"
+164,{2:Show} a trompé {1:Show} en pensant que les rumeurs qu' {2:ShowPron_he_she} {2:ShowPron_was_were} un tricheur étaient fausses
+165,{2:Show} a essayé d'entretenir la relation après avoir parlé à {1:Show}
 166,{1:Show} {1:ShowPron_was_were} too introverted to confront {2:Show} about {2:ShowPron_his_her} cheating ways
 167,{1:Show} {1:ShowPron_was_were} too ridden with loneliness to let {2:ShowP} cheating behavior get in the way of {0:ShowList_i_r_our_their} relationship
 168,{1:Show} {1:ShowPron_was_were} too introverted to confront {2:Show} about {2:ShowPron_his_her} cheating ways
-169,{1:Show} brutally broke {2:ShowP} heart with {3:Show}
-171,{2:Show} said {3:Show} {3:ShowPron_was_were} totally out of {1:ShowP} league
+169,{1:Show} a brisé brutalement le coeur de {2:ShowP} avec {3:Show}
+171,{2:Show} a dit à {3:Show} être totalement hors catégorie
 172,{0:ShowList_i_r_and} told {2:Show} {1:ShowPron_he_she} {1:ShowPron_was_were} just using {2:ShowPron_him_her} but {2:ShowS} was all like 'I'm just using you too'
 173,{1:Show} called up 'the relationship police' to put out a restraining order on {2:Show}
 174,{1:Show} tried to use 'the relationship police' to break up with {2:Show} but {2:ShowPron_he_she} {2:ShowPron_was_were}n't having it
 175,{1:Show} {1:ShowPron_was_were} so into {1:ShowPron_him_her}self {1:ShowPron_he_she} didn't really notice {2:ShowP} feelings while breaking up with {2:ShowPron_him_her}
 177,{0:ShowList_i_r_and} broke up with each other without really listening
-178,{1:Show} brutally insulted {2:Show} to break up
+178,{1:Show} a brutalement insulté {2:Show} de rompre
 179,"{1:Show} tried to brutally break up with {2:Show}, but {2:ShowS} thought {1:ShowPron_he_she} {1:ShowPron_was_were} joking"
 180,{1:Show} went nuclear over {2:Show} flirting with {3:Show}
 181,{1:Show} {1:ShowPron_was_were} a total jerk breaking things off with {2:Show}
@@ -168,14 +168,14 @@
 220,{1:Show} did that embarrassing performance for {2:Show}
 221,{1:Show} told {2:Show} that hilarious joke
 222,{1:Show} further humiliated {1:ShowPron_him_her}self in front of {2:Show}
-223,{1:Show} flirted with {2:Show}
-224,{1:Show} tried to hit on {2:Show}
+223,{1:Show} a flirté avec {2:Show}
+224,{1:Show} a essayé de frapper sur {2:Show}
 225,{1:Show} {1:ShowPron_was_were} being cute with {2:Show}
-226,{1:Show} tried to flirt with {2:Show}
-227,{1:Show} unwisely flirted with {2:Show}
-228,{1:Show} flirted with {2:Show} in like a totally swell way
-229,{2:ShowS} got bored with {1:ShowP} constant flirting
-230,{1:Show} tried to flirt with {2:Show} by insulting {2:ShowPron_him_her}
+226,{1:Show} a essayé de flirter avec {2:Show}
+227,{1:Show} a flirté imprudemment avec {2:Show}
+228,{1:Show} a flirté avec {2:Show} d'une manière totalement délirante
+229,{2:ShowS} s'ennuyait de flirter constamment avec {1:ShowP}
+230,{1:Show} a essayé de flirter avec {2:Show} en l'insultant
 231,{1:Show} swept {2:Show} off {2:ShowPron_his_her} feet with all that flirting
 233,{1:Show} {1:ShowPron_was_were} too inarticulate to flirt well but {2:ShowS} {2:ShowPron_was_were} still flattered
 234,{1:Show} tried so hard to flirt with {2:Show} but couldn't get the words out
@@ -183,14 +183,14 @@
 237,{0:ShowList_i_r_and} were just friends but then {0:ShowList_i_r_we_they} kindled a romance
 238,{1:Show} tried to flirt with {2:Show} without demonstrating much flair for timing
 239,{1:Show} tried to flirt with {2:Show} at exactly the right time
-240,{1:Show} got a reputation as a serial flirter
-243,{1:Show} flirted with {1:ShowPron_his_her} enemy's {2:ShowGender_boyfriend_girlfriend}
+240,{1:Show} a une réputation de serial dragueur
+243,{1:Show} a flirté avec l'ennemi de {1:ShowPron_his_her} {2:ShowGender_boyfriend_girlfriend}
 244,{1:Show} didn't have the moves to get with {1:ShowPron_his_her} enemy's {2:ShowGender_boyfriend_girlfriend}
-245,"{1:Show} flirted with {2:Show}, {1:ShowPron_his_her} old flame"
-246,{1:Show} flirted with {2:Show} just because {0:ShowList_i_r_we_they} used to date but it was totally inappropriate
-247,"{1:Show} scandalously flirted with {2:Show}, {1:ShowPron_his_her} new {2:ShowGender_boytoy_mistress}"
-248,"{1:Show} totally flirted with {2:Show}, {1:ShowPron_his_her} {3:ShowGender_boy_girl}friend's {1:ShowGender_boy_girl}friend"
-249,"{1:Show} totally tried to flirt with {2:Show}, {1:ShowPron_his_her} {3:ShowGender_boy_girl}friend's {1:ShowGender_boy_girl}friend, and got shot down hard"
+245,"{1:Show} a flirté avec {2:Show}, {1:ShowPron_his_her} ex"
+246,{1:Show} a flirté juste avec {2:Show} parce qu' {0:ShowList_i_r_we_they} used to date but it was totally inappropriate
+247,"{1:Show} a flirté scandaleusement avec {2:Show}, {1:ShowPron_his_her} {2:ShowGender_boytoy_mistress}"
+248,"{1:Show} a flirté avec {2:Show}, {1:ShowPron_his_her} {3:ShowGender_boy_girl}friend's {1:ShowGender_boy_girl}friend"
+249,"{1:Show} a essayé de flirter avec {2:Show}, {1:ShowPron_his_her} {3:ShowGender_boy_girl}friend's {1:ShowGender_boy_girl}friend, et a été abattu"
 254,{1:Show} tried to lecture {2:Show} about phonies and got totally burned
 255,{1:Show} gave {2:Show} perspective on {2:ShowPron_his_her} friends
 256,{1:Show} tried to tell {2:Show} to ditch {2:ShowPron_his_her} friends
@@ -612,20 +612,20 @@
 840,{1:Show} {1:ShowPron_was_were} like 'we should date' and {2:Show} {2:ShowPron_was_were} like 'ew'
 841,{1:Show} got with {3:ShowP} {2:ShowGender_boyfriend_girlfriend}
 842,{1:Show} got shut down by {3:Show} when trying to get with {3:ShowPron_his_her} {2:ShowGender_boyfriend_girlfriend}
-843,{1:Show} got back together with {2:Show}
-844,{1:Show} tried to get back together with {2:Show} but it wasn't meant to be
-845,{1:Show} drifted back into a relationship with {2:Show}
-846,{1:Show} tried to get back together with {2:Show} but {2:ShowPron_he_she} {2:ShowPron_was_were}n't interested
-847,{1:Show} tried to get back together with {2:Show} and it was kinda pathetic
-848,{1:Show} got back together with {2:Show} after a recent break-up
-849,{1:Show} got rejected by {2:Show} for trying to get back together so soon
-850,{1:Show} begged {2:Show} back after cheating on {2:ShowPron_him_her}
-851,{1:Show} got rejected by {2:Show} for being a begging cheater
-852,{1:Show} got back with {1:ShowPron_his_her} traitorous ex
-853,{1:Show} pathetically failed to beg {1:ShowPron_his_her} traitorous ex back
+843,{1:Show} s'est réunit avec {2:Show}
+844,{1:Show} a tenté de se réunir avec {2:Show} mais ce n'était pas prévu
+845,{1:Show} est retourné dans sa relation avec {2:Show}
+846,{1:Show} a tenté de se réunir avec {2:Show} mais {2:ShowPron_he_she} {2:ShowPron_was_were}n'était pas intéresé
+847,{1:Show} a enté de se réunir avec {2:Show} et c'était vraiment pathétique
+848,{1:Show} s'est réunit avec {2:Show} après une récente séparation
+849,{1:Show} a été rejeté par {2:Show} pour sa tentative de se remettre ensemble
+850,{1:Show} a supplié {2:Show} de revenir après l'avoir trompé
+851,{1:Show} a été rejeté par {2:Show} pour être un tricheur mendiant
+852,{1:Show} est rentré avec {1:ShowPron_his_her} traître d'ex
+853,{1:Show} a pathétiquement omis de supplier le retour de son traître d'ex
 854,{1:Show} got all 'it's complicated' with {0:ShowList_r_o_and}
-855,{2:Show} refused to cheat on {3:Show} and date {1:Show}
-856,{2:Show} tragically refused to cheat on {3:Show} and date {1:Show}
-857,{0:ShowList_i_r_and} got into some weird triangle thing with {3:Show}
-858,{1:Show} tried to get {2:Show} into some weird 'it's complicated' relationship with {3:Show}
+855,{2:Show} a refusé de tromper {3:Show} et de rencontrer {1:Show}
+856,{2:Show} a refusé de tromper {3:Show} et rencontrer {1:Show}
+857,{0:ShowList_i_r_and} a obtenu une chose bizarre de {3:Show}
+858,{1:Show} a tenté d'obtenir de {2:Show} quelque chose dans la relation bizarre avec {3:Show}
 859,{0:ShowList_i_r_and} sont devenus plus que des amis

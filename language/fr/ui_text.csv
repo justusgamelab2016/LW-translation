@@ -9,10 +9,6 @@
 107,Quitter le jeu
 108,Joueurs Pré-Alpha
 109,Modérateur de la Communauté
-110,Facile
-111,Normal
-112,Difficile
-113,Retour
 114,Initialisation
 115,Le chargement peut prendre quelques minutes lors du premier lancement du jeu
 116,Mode Création
@@ -78,11 +74,11 @@
 501,Emplacement cible
 502,Pile cible
 503,Statut
-504,Compétences
+504,Compétence
 505,Social
 506,Détail
 507,Statut
-508,Compétences
+508,Compétence
 509,Social
 510,Emplacement d'équipement
 511,Journal (statut)
@@ -128,6 +124,7 @@
 551,Recettes apprises
 552,Avantages
 553,Aléatoire
+555,Survivre plus de {0} jours pour déverouiller
 600,Mélodie
 601,Mélodie relaxante
 602,Mélodie de direction du gouvernail
@@ -152,12 +149,12 @@
 720,[I] Objets
 721,Alerte
 722,Compétence requise:
-723,"Déverouiller aléatoirement quand les survivants ont un moment de repos""."
+723,"Déverouiller aléatoirement quand les survivants ont un ""moment de repos""."
 724,Call Back
 800,Poids
 801,Flottabilité
 802,Objets
-803,[Shift+1] Emplacement
+803,[Shift+1] Construction
 804,[Shift+2] Pile
 805,[Shift+3] Survivant
 806,[Shift+4] Pièce
@@ -203,6 +200,10 @@
 846,Vous devez redémarrer le jeu pour changer de langue.
 847,Redémarrer maintenant.
 848,Redémarrer plus tard.
+110,Facile
+111,Normal
+112,Difficile
+113,Retour
 849,Espace total
 850,Trame
 851,[Construire]
@@ -345,10 +346,9 @@
 1802,{0} m'a dit quelque chose d'étrange à propos de {1}
 1803,{0} m'a appris quelque chose à propos de {1}
 1804,SmallTalk_Skill_Skeleton_Reserved
-554,CharacterPanel_TakeOffEquipment
-871,Filter_Wall
-872,MiscPanel_Gravity
-121,Title_Forums
-555,characterCreation_Unlock
-873,Map
-874,Map_Delete
+121,Forums
+554,Retirer
+871,[Shift+7] Mur
+872,Gravité
+873,Carte
+874,Déchirer

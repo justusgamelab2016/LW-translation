@@ -5,32 +5,32 @@
 5,not used yet.
 6,not used yet.
 7,not used yet.
-20,"{1:name}'s {0:relation} est décédé lorsque {1:pron} avait {1:age} ans. Ce jour-là, {1:pron} était à la maison, en attente de {1:pronp} {0:relation} de retour.&"
-21,"{1:name}'s {0:relation} est décédé. Ce jour-là, {1:pron} a ressenti une douleur, et dormait sur le lit depuis une journée entière.&"
-22,"{1:name}'s {0:relation} est décédé lorsque {1:pron} avait {1:age} ans. Ce jour-là, {1:pron} ne savait rien, et jouait à l'extérieur.&"
-23,"{1:name}'s {0:relation} est décédé. Ce jour-là, {1:pron} a ressenti une douleur.&"
-24,{1:name} a appris que {0:relation} est décédé. {1:pron} ne savait plus quoi faire ensuite.&
-25,"{1:name} a appris que {0:relation} est décédé, mais je ne savais pas ce que cela signifiait.&"
-26,"{1:name} a appris que {0:relation} est décédé. {1:pron} a versé des larmes, n'avait aucune idée de si {1:pron} était content ou non.&"
-27,{1:name}'s {0:relation} est décédé.&
+20,"{1:name}'s {0:relation} est décédé lorsque {1:pron} avait {1:age} ans. Ce jour-là, {1:pron} était à la maison, en attente de {1:pronp} {0:relation} de retour."
+21,"{1:name}'s {0:relation} est décédé. Ce jour-là, {1:pron} a ressenti une douleur, et dormait sur le lit depuis une journée entière."
+22,"{1:name}'s {0:relation} est décédé lorsque {1:pron} avait {1:age} ans. Ce jour-là, {1:pron} ne savait rien, et jouait à l'extérieur."
+23,"{1:name}'s {0:relation} est décédé. Ce jour-là, {1:pron} a ressenti une douleur."
+24,{1:name} a appris que {0:relation} est décédé. {1:pron} ne savait plus quoi faire ensuite.
+25,"{1:name} a appris que {0:relation} est décédé, mais je ne savais pas ce que cela signifiait."
+26,"{1:name} a appris que {0:relation} est décédé. {1:pron} a versé des larmes, n'avait aucune idée de si {1:pron} était content ou non."
+27,{1:name}'s {0:relation} est décédé.
 100,"{1:fullname} n'a aucune idée d'où {1:pron} venait, et savait seulement que {1:pron} avait {1:age} ans."
-101,"{1:fullname} est né, {1:son} de {1:mother} et {1:father}.#"
+101,"{1:fullname} est né, {1:son} de {1:mother} et {1:father}."
 102,{1:name} a épousé {2:fullname}.
 103,{1:name} a mit au monde {2:name}.
-104,"{1:name} est décédé, à {1:age} ans.#"
-150,"{1:name} were out on sea and survived the Apocalypse, but lose all the wealth on land."
-200,"{1:name} a été malmené par d'autres enfants, pas si mesquins pourtant. {1:pron} se souviendra de ces noms pour toujours : {2:fullname} et {3:fullname}.#"
-201,"{1:name} a été malmené par d'autres enfants, et a énormément souffert. {1:pron} déteste {2:fullname} et {3:fullname} du plus profond de son âme.#"
-202,"{1:name} a été malmené par d'autres enfants, pas si mesquins pourtant. {1:pron} ne s’en souvient plus maintenant.#"
-203,"{1:name} a été malmené par d'autres enfants, et a énormément souffert. Mais {1:pron} a fait en sorte de l’oublier.#"
+104,"{1:name} est décédé, à {1:age} ans."
+150,"{1:name} était sur la mer et a survécu à l'Apocalypse, mais a perdu tous ses biens qui étaient sur terre."
+200,"{1:name} a été malmené par d'autres enfants, pas si mesquins pourtant. {1:pron} se souviendra de ces noms pour toujours : {2:fullname} et {3:fullname}."
+201,"{1:name} a été malmené par d'autres enfants, et a énormément souffert. {1:pron} déteste {2:fullname} et {3:fullname} du plus profond de son âme."
+202,"{1:name} a été malmené par d'autres enfants, pas si mesquins pourtant. {1:pron} ne s’en souvient plus maintenant."
+203,"{1:name} a été malmené par d'autres enfants, et a énormément souffert. Mais {1:pron} a fait en sorte de l’oublier."
 204,"{1:name} a malmené un enfant, nomé {3:name}. C'était un des plaisirs d'être enfant."
 205,"{1:name} a malmené un enfant, dont {1:pron} a oublié le nom il y a longtemps. {1:pron} n'avait pas vu cet enfant depuis longtemps."
 206,"{1:name} a malmené un enfant, et a révélé qu’{1:pron} le voulait."
 207,"{1:name} a malmené un enfant, et a tenté de tuer {3:prono}, mais a échoué."
 208,"{1:name} était à la fête d’un autre enfant, et a fait des choses dont {1:pron} n’avait pas l’intention."
-209,{1:name} a oublié les détails de ce que {1:pron} et {2:name} ont fait à {3:name}. Mais {1:pron} était seul ensuite.#
+209,{1:name} a oublié les détails de ce que {1:pron} et {2:name} ont fait à {3:name}. Mais {1:pron} était seul ensuite.
 210,"{1:name} a participer à brutaliser un autre enfant, et {1:pron} a adoré ça."
-211,"{1:name} a participer à brutaliser un autre enfant. {2:pron} a essayé plusieurs fois de s’excuser auprès de {3:name}, mais n’a pas réussi.#"
+211,"{1:name} a participer à brutaliser un autre enfant. {2:pron} a essayé plusieurs fois de s’excuser auprès de {3:name}, mais n’a pas réussi."
 300,"{1:name} a entendu quelque chose d'étrange, mais {1:pron} n'y a pas prêté attention."
 301,"{1:name} a vu quelque chose d'étrange lors d'un pic-nique, mais {1:pron} ne savait pas ce que c'était."
 302,"{1:name} a vu un homme mi-poisson mi-humain dans un rêve, {1:pron} a eu peur."
@@ -44,27 +44,27 @@
 310,"{1:name} a entendu une voix étrange quand {1:pron} voyageait sur l'eau, {1:pron} l'a dit à mes amis mais ils ne l'ont pas écouté."
 311,"{1:name} a encore vu les anciens dieux, {1:pron} pense qu’{1:pron} a trouvé le but de la vie."
 312,"{1:name} a vu un demi dieu sur l'eau , {1:pron} était prêt à lui consacrer {1:pronp} vie."
-313,"Le riche {1:name} a entendu {1:pronp} un homme a attrapé une sirère,mais il s'est échappé {1:pron} avait une chance de l'avoir vu.#"
+313,"Le riche {1:name} a entendu {1:pronp} un homme a attrapé une sirère,mais il s'est échappé {1:pron} avait une chance de l'avoir vu."
 400,L’ordinaire {1:name} a un emploi ordinaire. Juste pour s'amuser.
 401,L’ordinaire {1:name} a un emploi ordinaire. Aucun rêve ne vient à {1:prono}.
 402,L’ordinaire {1:name} a un emploi ordinaire. L'argent est plus important que le reste pour {1:prono}.
 403,L’ordinaire {1:name} a un emploi ordinaire. {1:pron} voulait vivre dans un monde meilleur.
 404,"{1:name} a reçu une bonne éducation, qui {1:pron} lui a permis de devenir ingénieur."
 405,"{1:name} a reçu une bonne éducation, qui {1:pron} lui a permis de devenir professeur de géographie."
-406,"{1:name} a préconisé un monde meilleur, {1:pron} est devenu soldat.#"
-407,"{1:name} a préconisé un monde meilleur, {1:pron} est devenu agent de police.#"
+406,"{1:name} a préconisé un monde meilleur, {1:pron} est devenu soldat."
+407,"{1:name} a préconisé un monde meilleur, {1:pron} est devenu agent de police."
 408,"{1:name} en avait marre de vendre du savon, {1:pron} a donc rejoint un club de combat et devint un combattant."
-409,{1:name} was a money grubber and became a broker.&
+409,{1:name} était un marchands de soupe et est devenu courtier.
 410,"{1:name} a un grand talent pour les discours, {1:pron} a donc fait de la politique."
-411,"{1:name} a du talent pour agir, {1:pron} est maintenant professionnel dans les programmes de survie.#"
+411,"{1:name} a du talent pour agir, {1:pron} est maintenant professionnel dans les programmes de survie."
 412,"{1:name} a du talent en natation, {1:pron} est désormais athlète."
 413,"{1:name} était bloqué dans sa mémoire, {1:pron} a choisi de se prostituer."
-414,"{1:name} was stuck on {1:pronp} memory, becoming a scavenger.&"
-415,"{1:name} sait prendre soin des gens, {1:pron} a choisi d’être infirmier.#"
+414,"{1:name} a eu problème neurologique, en devenant un éliminateur."
+415,"{1:name} sait prendre soin des gens, {1:pron} a choisi d’être infirmier."
 416,"{1:name} a un bon sens du goût, {1:pron} a choisi le métier de chef cuisinier."
 417,"{1:name} sait utiliser ses mains, {1:pron} a choisi d’être artisan."
 418,"{1:name} adorait les pièces détachées, {1:pron} a choisi de devenir mécanicien."
-419,"{1:name} a hérité d’un bateau a boat, {1:pron} est donc devenu marin.#"
+419,"{1:name} a hérité d’un bateau a boat, {1:pron} est donc devenu marin."
 420,{1:name} trouvait la pêche agréable.{1:pron} travaille désormais dans la pêche.
 450,{1:name} avait un talent pour la négoce et devint trader.
 451,"{1:name} sait manier les armes, {1:pron} est maintenant militaire."
@@ -81,7 +81,7 @@
 506,"{1:name} a grandi comme enfant unique. Un peu solitaire, mais {1:pron} a reçu beaucoup d’amour."
 507,{1:name} a eu une enfance heureuse après l’apocalypse.
 508,"Après l’apocalypse, {1:name} a eu une enfance malheureuse."
-509,{1:name} a grandi normalement après l’apocalypse/
+509,{1:name} a grandi normalement après l’apocalypse.
 600,{1:name} se faisait honte tout seul étant enfant.
 601,{1:name} a beaucoup voyagé dans sa jeunesse.
 602,{1:name} a manqué de tuer quelqu’un par accident quand {1:pron} était jeune.
@@ -89,41 +89,41 @@
 606,{1:name} attendait un enfant mais {1:pron} regrettait un peu.
 607,{1:name} a trouvé un hobby en arrivant à la retraite.
 608,{1:name} n’a pas trouvé de hobby en arrivant à la retraite.
-609,{1:name} mouru dans la solitude.
+609,{1:name} est mort dans la solitude.
 610,{1:name} s’ennuie souvent.
 611,"{1:name} considère sa professeure comme un modèle, et a beaucoup appris grâce à elle."
 612,{1:name} a rejoint une troupe de scouts et sait maintenant construire des choses.
 613,{1:name} a rejoint un club d’activités manuelles et sait maintenant fabriquer des choses.
 614,{1:name} a lu un livre et pense avoir appris des choses.
 615,{1:name} a gagné beaucoup d’argent à la lotterie.
-616,"{1:name} a trouvé un temple pendant un voyage, et s’est trouvé purifié.#"
+616,"{1:name} a trouvé un temple pendant un voyage, et s’est trouvé purifié."
 700,{1:name} a touvé un spécimen étrange de créature dans un laboratoire.
 701,"{1:name} a eu vent d’une étrange rumeur, à propos d’un monstre marin."
 702,{1:name} a trouvé la tête de son chat machouillée par une créature aux dents pointues.
 703,{1:name} a trouvé d’étranges empreintes dans son jardin.
 800,{1:name} a beaucoup commercé avec des voleurs.
 801,{1:name} a entendu parler d’un mutant amical ouvert aux propositions commerciales.
-802,"{1:name} a commercé avec un voleur, mais a été dévalisé le lendemain.#"
+802,"{1:name} a commercé avec un voleur, mais a été dévalisé le lendemain."
 803,{1:name} pensait que les cambrioleurs étaient un mythe.
-900,"{1:name} wanted to join Raven, but was rejected.&"
-901,{1:name}'s tribe were robbed by Raven.&
-902,{1:name} saw raven raiding the tribe.Luckly {1:porn} managed to escape.&
-903,{1:name} tried to negotiate with Raven and survived.&
+900,"{1:name} a voulu rejoindre le Raven, mais a été rejeté."
+901,La tribut de {1:name} a été pillée par le Raven.
+902,{1:name} a vu le Raven en train de piller la tribu.Par chance {1:name} a réussi à s'échapper.
+903,{1:name} a essayé de négocier avec le Raven et a survécu.
 1000,{1:name} a dérivé pendant des jours après l’apocalypse.
 1001,{1:name} a dérivé pendant des semaines après l’apocalypse.
 1002,{1:name} a dérivé pendant des mois après l’apocalypse.
 1003,{1:name} a perdu le compte des jours où {1:pron} a dérivé après l’apocalypse.
 1100,Le riche {1:name} a perdu tout son argent et a terminé sombré dans la drogue.
-1101,Believer {1:name} discard all {1:nameo} property became a junkman.&
+1101,Le croyant {1:name} a abandonné toutes les propriétés {1:nameo} est est devenu un brocanteur.
 1102,Les deux parents de {1:name} sont morts. {1:porn} a dû se nourrir dans les poubelles pour survivre.
-1103,no mate {1:name} became a junkman.&
+1103,{1:name} est devenu un brocanteur.
 1104,{1:name} a perdu tout son argent dans un casino et a sombré dans la drogue.
 1105,{1:name} a été licencié et a développé un problème d’alcoolisme. {1:pron} a finalement sombré dans la drogue.
 1200,{1:name} a réussi à voler un adulte.
 1201,{1:name} a volé la sucette d’un enfant.
 1202,{1:name} a volé quelque chose à une personne pauvre.
 1203,{1:name} a volé la montre en or d’une personne riche.
-1204,{1:name} stole something for my religion believe.&
+1204,{1:name} stole something for my religion believe.
 1205,{1:name} a volé quelque chose à un pratiquant.
 1206,{1:name} a volé un de ses amis.
 1207,{1:name} a volé quelque chose que j’aime
@@ -138,13 +138,13 @@
 1252,{1:name} était pauvre et se faisait quand même voler par un riche.
 1253,{1:name} s’est fait voler sa montre en or.
 1254,{1:name} s’est fait voler une icône religieuse.
-1255,{1:name} thief success cult.&
-1256,{1:name} a volé son ami avec succcès.&
+1255,{1:name} a volé avec succès le culte.
+1256,{1:name} a volé son ami avec succcès.
 1257,{1:name} s’est fait voler son objet favori.
 1258,"{1:name} s’est fait voler toutes ses possessions, mais heureusement cela ne valait pas grand-chose."
-1270,{1:name} thief fail thief child.&
-1271,{1:name} thief fail child.&
-1272,{1:name} thief fail friend.&
+1270,{1:name} a raté son vol auprès d'enfant.
+1271,{1:name} a raté son vol auprès d'enfant.
+1272,{1:name} a raté son vol auprès de son ami.
 1273,Quelqu’un a essayé de voler {1:name} mais a échoué.
 1274,Quelqu’un a essayé de voler {1:name} mais s’est fait prendre
 1300,{1:name} agressait des gens pour l’argent.

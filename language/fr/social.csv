@@ -119,33 +119,33 @@
 159,{2:Show} a brisé le coeur de {1:ShowP} en parlant sur {1:ShowPron_him_her} avec {3:Show}
 160,{2:Show} a réussi à convaincre {1:Show} qu' {2:ShowPron_he_she} était amoureux de {1:ShowPron_him_her}
 161,{2:Show} a brisé le coeur de {1:ShowP} en parlant sur {1:ShowPron_him_her} avec {3:Show} (and not liking {0:ShowCKB}s)
-162,"{1:Show} had lost interest in {2:Show}, but it turned out {2:Show} {2:ShowPron_was_were} actually already cheating on {1:ShowPron_him_her} anyway"
+162,"{1:Show} avait perdu l'attention de {2:Show}, mais il s'est avéré que {2:Show} {2:ShowPron_was_were} déjà en train de le tromper"
 163,"{2:Show} a essayé de profiter du bon côté de {1:ShowP} , mais son coeur reste toujours brisé"
 164,{2:Show} a trompé {1:Show} en pensant que les rumeurs qu' {2:ShowPron_he_she} {2:ShowPron_was_were} un tricheur étaient fausses
 165,{2:Show} a essayé d'entretenir la relation après avoir parlé à {1:Show}
-166,{1:Show} {1:ShowPron_was_were} too introverted to confront {2:Show} about {2:ShowPron_his_her} cheating ways
-167,{1:Show} {1:ShowPron_was_were} too ridden with loneliness to let {2:ShowP} cheating behavior get in the way of {0:ShowList_i_r_our_their} relationship
-168,{1:Show} {1:ShowPron_was_were} too introverted to confront {2:Show} about {2:ShowPron_his_her} cheating ways
+166,{1:Show} {1:ShowPron_was_were} trop introverti pour se confronter à {2:Show} concernant ses manières de tricher
+167,{1:Show} {1:ShowPron_was_were} trop touché par la solitude pour laisser {2:ShowP} avoir un comportement de tricheur
+168,{1:Show} {1:ShowPron_was_were} trop introverti pour se confronter à {2:Show} concernant ses façons de tricher
 169,{1:Show} a brisé brutalement le coeur de {2:ShowP} avec {3:Show}
 171,{2:Show} a dit à {3:Show} être totalement hors catégorie
-172,{0:ShowList_i_r_and} told {2:Show} {1:ShowPron_he_she} {1:ShowPron_was_were} just using {2:ShowPron_him_her} but {2:ShowS} was all like 'I'm just using you too'
-173,{1:Show} called up 'the relationship police' to put out a restraining order on {2:Show}
-174,{1:Show} tried to use 'the relationship police' to break up with {2:Show} but {2:ShowPron_he_she} {2:ShowPron_was_were}n't having it
+172,{0:ShowList_i_r_and} a dit à {2:Show} qu' {1:ShowPron_he_she} {1:ShowPron_was_were} juste en train de l'utiliser mais {2:ShowS} a répondu 'Je t'utilise également'
+173,{1:Show} a appelé 'les services de police' pour déposer une ordonnance restrictive concernant {2:Show}
+174,{1:Show} a essayé d'utilisé 'les services de police' pour plaquer {2:Show} mais ça n'a pas fonctionné
 175,{1:Show} {1:ShowPron_was_were} so into {1:ShowPron_him_her}self {1:ShowPron_he_she} didn't really notice {2:ShowP} feelings while breaking up with {2:ShowPron_him_her}
-177,{0:ShowList_i_r_and} broke up with each other without really listening
+177,{0:ShowList_i_r_and} ont rompu les uns avec les autres sans vraiment s'écouter
 178,{1:Show} a brutalement insulté {2:Show} de rompre
-179,"{1:Show} tried to brutally break up with {2:Show}, but {2:ShowS} thought {1:ShowPron_he_she} {1:ShowPron_was_were} joking"
+179,"{1:Show} a essayé de rompre brutallement avec {2:Show}, mais {2:ShowS} pensait qu' {1:ShowPron_he_she} était en train de rigoler"
 180,{1:Show} went nuclear over {2:Show} flirting with {3:Show}
 181,{1:Show} {1:ShowPron_was_were} a total jerk breaking things off with {2:Show}
-182,{1:Show} punched {2:Show}
-183,{1:Show} punched {2:Show} but it was all good
-184,{1:Show} called {2:Show} a nobody
-185,{1:Show} told {2:Show} to shut up
-186,{1:Show} tried to take {2:Show} {0:ShowCKB}
-189,{1:Show} got revenge on {2:Show}
-190,{1:Show} tried to bully {2:Show} but it didn't shake {2:ShowP} confidence
+182,{1:Show} a donné un coup de poing à {2:Show}
+183,{1:Show} a donné un coup de poing à {2:Show}
+184,{1:Show} a appelé {2:Show} personne sans importance
+185,{1:Show} a dit à {2:Show} de la fermer
+186,{1:Show} a essaye de prendre à {2:Show} {0:ShowCKB}
+189,{1:Show} s'est vengé de {2:Show}
+190,{1:Show} a essayé d'intimider {2:Show} mais ça n'a pas ébranler la conviction de {2:ShowP}
 192,{2:ShowS} responded gracefully to {1:ShowP} bullying
-193,{1:Show} tried to bully {2:Show} which was probably a bad idea since {2:ShowPron_he_she} {2:ShowPron_was_were} already on a bullying streak
+193,{1:Show} a essayé d'intimider {2:Show} mais c'était une mauvaise idée depuis qu' {2:ShowPron_he_she} {2:ShowPron_was_were} already on a bullying streak
 194,{1:Show} picked on the first person {1:ShowPron_he_she} could find
 196,{2:ShowS} used {2:ShowPron_his_her} appearance to get out of being bullied
 200,{1:Show} threatened {2:Show} for picking on {1:ShowPron_his_her} {3:ShowGender_boy_girl}friend
@@ -191,38 +191,38 @@
 247,"{1:Show} a flirté scandaleusement avec {2:Show}, {1:ShowPron_his_her} {2:ShowGender_boytoy_mistress}"
 248,"{1:Show} a flirté avec {2:Show}, {1:ShowPron_his_her} {3:ShowGender_boy_girl}friend's {1:ShowGender_boy_girl}friend"
 249,"{1:Show} a essayé de flirter avec {2:Show}, {1:ShowPron_his_her} {3:ShowGender_boy_girl}friend's {1:ShowGender_boy_girl}friend, et a été abattu"
-254,{1:Show} tried to lecture {2:Show} about phonies and got totally burned
+254,{1:Show} a essayé de faire la morale à {2:Show} sur les mensonges et a été totalement grondé
 255,{1:Show} gave {2:Show} perspective on {2:ShowPron_his_her} friends
-256,{1:Show} tried to tell {2:Show} to ditch {2:ShowPron_his_her} friends
-257,{1:Show} told {2:Show} to stand by {2:ShowPron_his_her} {3:ShowGender_man_woman}
-258,{1:Show} tried to lecture {2:Show} about cheating
-259,{1:Show} lifted {2:ShowP} spirits
-260,{1:Show} dissed {2:ShowP} {3:ShowGender_boy_girl}friend
-261,{1:Show} gave {2:Show} some advice on how to get with the times
-262,{1:Show} gave {2:Show} some timely advice
-263,{2:Show} shot {1:ShowO} down even though {1:ShowPron_he_she} {1:ShowPron_was_were} just trying to give {2:ShowPron_him_her} some advice
-264,{1:Show} gave {2:ShowO} some unwanted advice
-266,{2:Show} got bored of {1:ShowP} rant and took off with {3:Show}
-267,"{3:Show} {3:ShowPron_was_were} too pissed at {1:ShowO} to listen to {1:ShowPron_his_her} inspirational advice, but {2:ShowS} did"
-268,{1:Show} told {2:Show} to stand up to {3:Show}
-269,{1:Show} gave advice to {0:ShowList_r_o_andp}
-272,{1:Show} pushed {2:Show} to hook up with {3:Show}
-273,{1:Show} told {2:Show} to get out of {2:ShowPron_his_her} crappy relationship with {3:Show}
-274,{1:Show} made up stories about {3:Show} in order to make {2:Show} jealous
-278,{2:Show} agreed to give {3:Show} another chance for the sake of {2:ShowPron_his_her} {1:ShowGender_boy_girl}friend
+256,{1:Show} a essayé de dire à {2:Show} de laisser tomber ses amis
+257,{1:Show} a dit à {2:Show} de soutenir {2:ShowPron_his_her} {3:ShowGender_man_woman}
+258,{1:Show} a essayé de faire la morale à {2:Show} concernant les tricheries
+259,{1:Show} a remonté le moral de {2:ShowP}
+260,{1:Show} a critiqué {2:ShowP} {3:ShowGender_boy_girl}ami
+261,{1:Show} a donné à {2:Show} des conseils sur ses priorités
+262,{1:Show} a donné à {2:Show} un conseil opportun
+263,{2:Show} a abattu {1:ShowO} quand {1:ShowPron_he_she} {1:ShowPron_was_were} en train de lui donner un conseil
+264,{1:Show} a donné à {2:ShowO} un conseil indésirable
+266,{2:Show} s'ennuyait de {1:ShowP} et a commencé une relation avec {3:Show}
+267,"{3:Show} {3:ShowPron_was_were} énervé contre {1:ShowO} pour écouter son conseil inspiré, mais {2:ShowS} l'a écouté quand même"
+268,{1:Show} a dit à {2:Show} de résister à {3:Show}
+269,{1:Show} a donné des conseils pour {0:ShowList_r_o_andp}
+272,{1:Show} a forcé {2:Show} de le /la brancher avec {3:Show}
+273,{1:Show} a dit à {2:Show} de sortir de sa relation folle avec {3:Show}
+274,{1:Show} s'est réconcilé avec {3:Show} pour rendre {2:Show} jaloux
+278,{2:Show} a accepté de donné à {3:Show} une autre chance pour le manque de {2:ShowPron_his_her} {1:ShowGender_boy_girl}ami
 279,{2:Show} just couldn't imagine taking {1:ShowP} advice to become friends with {3:Show}
-280,{1:Show} told {2:Show} it was swell if {2:ShowPron_he_she} hung out with {3:Show} more often
-281,"{1:Show} failed to make nice with {1:ShowPron_his_her} {3:ShowGender_boyfriend_girlfriend}'s friend, {2:Show}"
-282,{1:Show} advised {2:Show} to back off {1:ShowPron_his_her} {3:ShowGender_man_woman}
-283,{2:ShowS} slapped {1:ShowO} for advising {2:ShowPron_him_her} to forget about {3:Show}
-284,{1:Show} told {2:Show} to break it off with {3:Show} for good
-285,{1:Show} gave {2:Show} some words of wisdom
-286,{1:Show} spouted some boring crap at {2:Show}
-287,{1:Show} gave {2:Show} some relationship advice
-288,{1:Show} tried to get {2:Show} into {0:ShowCKB}s
-289,{1:Show} tried to get {2:Show} into {0:ShowCKB}s
-290,{2:ShowS} told {1:ShowO} {1:ShowPron_he_she} could pry {2:ShowPron_his_her} {0:ShowCKB}s from {2:ShowPron_his_her} cold dead hands
-292,{1:Show} told {2:Show} {1:ShowPron_he_she} {1:ShowPron_was_were} not a hero
+280,{1:Show} a dit à {2:Show} que c'était gonflé si {2:ShowPron_he_she} passait plus de temps avec {3:Show}
+281,"{1:Show} a échoué d'être agréable avec {1:ShowPron_his_her} {3:ShowGender_boyfriend_girlfriend}, {2:Show}"
+282,{1:Show} a conseillé {2:Show} de renoncer à {1:ShowPron_his_her} {3:ShowGender_man_woman}
+283,{2:ShowS} a gifflé {1:ShowO} pour avoir annoncé qu' {2:ShowPron_him_her} l'avait oublié {3:Show}
+284,{1:Show} a dit à {2:Show} de rompre avec {3:Show} pour de bon
+285,{1:Show} a dit à {2:Show} des mots sensés
+286,{1:Show} a débité des conneries à {2:Show}
+287,{1:Show} a dit à {2:Show} des conseils sur les relations amoureuses
+288,{1:Show} a essayé d'obtenir de {2:Show} le {0:ShowCKB}
+289,{1:Show} a essayé d'obtenir de {2:Show} le {0:ShowCKB}
+290,{2:ShowS} a dit à {1:ShowO} {1:ShowPron_he_she} pourrait prier {2:ShowPron_his_her} {0:ShowCKB}s from {2:ShowPron_his_her} cold dead hands
+292,{1:Show} a dit à {2:Show} {1:ShowPron_he_she} n'était pas un héro
 294,{1:Show} humbled {1:ShowPron_him_her}self and made {3:Show} look good instead
 295,{1:Show} tried to humble {1:ShowPron_him_her}self but {2:ShowS} wouldn't hear of it
 296,{1:Show} tried to downplay that swell story but {1:ShowPron_was_were} really building {1:ShowPron_him_her}self up for {2:Show}
@@ -246,10 +246,10 @@
 315,{1:Show} started acting way too much like {2:Show}
 316,{1:Show} praised {2:ShowP} virtues
 317,{1:Show} said {2:Show} was the best friend evar
-318,{1:Show} sucked up to {2:Show}
-319,{1:Show} tried to suck up to {2:Show}
-320,{1:Show} immortalized {2:Show} in the form of art
-321,{2:Show} shot down {1:ShowP} attempt to immortalize {2:ShowPron_him_her} in the form of art
+318,{1:Show} a sussuré à l'oreille de {2:Show}
+319,{1:Show} a essaué de sussuré à l'oreille de {2:Show}
+320,{1:Show} a immortailisé {2:Show} dans les forme de l'art
+321,{2:Show} a abattu {1:ShowP} en tentant de l'imortaliser dans les formes de l'art
 322,{1:Show} idolized {2:Show} for being {1:ShowPron_his_her} sweetie
 323,{1:Show} tricked {2:Show} into admitting {2:ShowPron_he_she} {2:ShowPron_was_were} cheating on {1:ShowPron_him_her}
 324,{1:Show} thought it was somehow okay to say both {0:ShowList_r_o_and} were pretty
@@ -260,8 +260,8 @@
 329,{1:Show} came off like a serial killer in {1:ShowPron_his_her} attempt to idolize {2:Show}
 330,{1:Show} lifted {2:ShowP} spirits with memories of good times
 332,{0:ShowList_i_o_and} both fawned over {2:Show}
-333,{1:Show} sucked up to {2:Show} but {2:ShowS} {2:ShowPron_was_were}n't really sure who {1:Show} {1:ShowPron_was_were}
-334,{1:Show} insulted {2:Show} but {2:ShowPron_he_she} didn't get it
+333,{1:Show} a sussuré à l'oreille de {2:Show} mais {2:ShowS} {2:ShowPron_was_were}n'étais pas certain de {1:Show}
+334,{1:Show} a insulté {2:Show} mais {2:ShowPron_he_she} n'a pas été atteint
 335,{1:Show} a insulté {2:Show}
 336,{0:ShowList_i_r_and} had like a catfight
 337,{1:Show} brought the smackdown to {2:Show}

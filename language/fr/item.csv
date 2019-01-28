@@ -1,17 +1,17 @@
 1,Sardine,Petit poisson gras. Très courant.
 2,Brochette,Mélange la viande avec des fruits. Ça sent bon.
-3,Bois,Vous pouvez fabriquer plein de choses avec.
-4,Corde,Utile.
-5,Poisson cru,"Salé, reste frais pendant une longue période."
+3,Bois,Vous pouvez fabriquer plein de choses avec
+4,Corde,Utile
+5,Poisson cru,"Salé, reste frais pendant une longue période"
 6,Lin,Produit des grosses fibres. Peut être transformé en cordes.
-7,Eau,De l'eau douce.
+7,Eau,De l'eau douce
 8,Cuisse,Arrachée d'une mouette. Plein de saveur.
 9,Plume,Plume moelleuse. Je me demande si je pourrais fabriquer un oreiller avec.
-10,Soupe de poisson,Faites cuire le poisson dans l'eau.
-11,Viande bizarre,Je ne connais pas son origine.
-12,Os,Os dur. Utile pour fabriquer des objets tranchants.
-13,Arc,Permet d'attaquer en tout sécurité.
-14,Flèche,"Un bâton affûté, inflige de légers dégâts. "
+10,Soupe de poisson,Faites cuire le poisson dans l'eau
+11,Viande bizarre,Je ne connais pas son origine
+12,Os,Os dur. Utile pour fabriquer des objets tranchants
+13,Arc,Permet d'attaquer en tout sécurité
+14,Flèche,"Un bâton affûté, inflige de légers dégâts"
 15,Dents de requin,Dents d'une créature morte. Peut servir de fabrication d'arme.
 16,Pomme de terre,Succulent pour les ventres vides.
 17,Carotte,Peut guérir la cécité nocturne.
@@ -151,3 +151,45 @@
 153,Vin,A base de fruits. C'est rafraîchissant.
 154,Champignon,Pousse sur une bûche. C'est mignon.
 155,Sang,Le sang d'une créature. Une collation pour un vampire.
+501,Bras Droit,
+502,Bras Gauche,
+503,Jambe Droite,
+504,Jambe Gauche,
+505,Bras Droit en Bois,
+506,Bras Gauche en Bois,
+507,Jambre Droite en Bois,
+508,Jambe Gauche en Bois,
+1000,Arc,
+1001,Flèche,
+1002,Lance,
+1003,Massue,
+1004,Epée en Os de Poisson,
+1005,Lance d'Os,
+1006,Javelot,
+1007,Javelot en Os,
+1008,Flèche d'Os,
+1009,Flèchette,
+1010,Sarbacane,
+1011,Bandage,
+1012,Bandage Désinfecté,
+1013,Epée,
+1014,Dague,
+1015,Boomerang,
+1016,Fronde,
+1017,Shield,
+1018,Claymore,
+1019,WarHammer,
+1020,SpikeClub,
+1021,BoneAxe,
+1022,TridentIce,
+1023,TridentFire,
+2001,WoodArmor,
+2002,WoodHat,
+2003,BoneArmor,
+2004,BoneHat,
+2005,FlaxArmor,
+2006,FlaxHat,
+2007,ClothArmor,
+2008,ClothHat,
+2009,ShellBra,
+2010,CoCoNutHelmet,

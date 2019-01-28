@@ -3,23 +3,23 @@
 101,Nouvelle Partie
 102,Continuer
 103,Charger
-104,Crédit
-105,Développeur
+104,Crédits
+105,Développeurs
 106,Traductions
 107,Quitter le jeu
 108,Joueurs Pré-Alpha
 109,Modérateur de la Communauté
 114,Initialisation
-115,Le chargement peut prendre quelques minutes lors du premier lancement du jeu
+115,Le chargement peut durer quelques minutes ...
 116,Mode Création
 117,Sélection du scénario
-118,Mod
-119,Version Mod
+118,Mods
+119,Version Mods
 120,Voulez-vous vraiment supprimer cette sauvegarde?
 200,Sauvegarde Auto
 201,Graphismes simplifiés
 202,Sauvegarder
-203,Entrer Texte
+203,Saisir le texte
 204,Charger
 205,Redémarrer
 206,Menu principal
@@ -39,17 +39,17 @@
 220,Magnifique
 221,Plein écran
 222,Qualité des graphismes
-300,Ressource
-301,Construction
-302,Fabrication
-303,Mobilier
+300,Ressources
+301,Constructions
+302,Fabrications
+303,Mobiliers
 304,Réparer
 305,Démolir
 400,Activer
 401,Raser
 402,Récolter
 403,Abattre
-404,Chercher
+404,Fouiller
 405,Essuyer
 406,Imperméable
 407,Teindre
@@ -80,9 +80,9 @@
 507,Statut
 508,Compétences
 509,Social
-510,Emplacement d'équipement
+510,Emplacements d'équipements
 511,Journal (statut)
-512,Journal (social)
+512,Journal (Rapports Sociaux)
 513,Personnage
 514,Relations
 515,Effets des compétences
@@ -101,7 +101,7 @@
 528,Artisanat
 529,Nautique
 530,Combat
-531,"Compétences de survie de base.Pêcher, planter, récolter des matériaux"
+531,"Compétences de survie de base. Pêcher, planter, récolter des matériaux"
 532,Cuisiner des repas plus nutritifs et délicieux
 533,"Compétences de création. Fabrication d'outils, armes, protections"
 534,"Compétences nautiques, navigation et cartographie"
@@ -116,8 +116,8 @@
 543,Propreté
 544,Besoins
 545,Exp Compétences
-546,Epreuves pour améliorer la compétence
-547,Chaque épreuve terminée fournira un bonus supplémentaire au niveau suivant
+546,Objectifs pour améliorer la compétence
+547,Chaque objectif terminé fournira un bonus supplémentaire au niveau suivant
 548,"Si le survivant est trop affamé, assoiffé, or perd la tête (l'interface bascule en rouge), il/elle commencera à perdre des points de vie"
 549,Traits de caractère
 550,Spécialités
@@ -162,11 +162,11 @@
 808,[Shift+6] Terrain
 809,Consomme
 810,Produit
-811,Tout afficher
+811,Afficher TOUT
 812,Afficher tout et en haut
 813,Afficher tout et en bas
 814,Afficher le niveau actuel
-815,Choisir un nom
+815,Nom de la partie?
 816,Intérêt perso :
 817,Richesse
 818,Il se passe quelque chose...
@@ -214,7 +214,7 @@
 856,[Faire tourner le modèle]
 857,[Filtre]
 858,Déposer
-859,Entrez un texte...
+859,Saisir un texte...
 860,Développer
 861,Extraire
 862,Produire
@@ -239,15 +239,15 @@
 910,C'est très généreux de ta part
 911,Arrête de me faire perdre mon temps!
 912,Marché conclu!
-913,"Prenez votre temps, regardez aux alentours."
+913,"Prenez votre temps, regardez aux alentours"
 1000,Est-ce que tu te moques de moi?
 1001,Ce n'est pas assez!
-1002,COk.
+1002,Ok
 1003,C'est une offre alléchante!
 1004,C'est très généreux de ta part!
 1005,Arrête de me faire perdre mon temps!
 1006,Marché conclu!
-1100,OK
+1100,Ok
 1101,a appris à construire un nouveau bâtiment
 1102,a appris à fabriquer de nouveaux objets
 1103,attend pour l'échange
@@ -263,20 +263,20 @@
 1113,a arrêté de faire le guet
 1114,a tenté de cuisiner mais ca a raté
 1115,cuisine un bon plat
-1116," ""n'a pas assez de matériels pour cuisiner."""
+1116," ""n'a pas assez de matériels pour cuisiner"""
 1117,a trouvé un bébé dans le ventre d'un requin
 1118,est mort...
 1119,Annuler
 1120,ne veut plus travailler
-1121,"Game over, voulez-vous quitter maintenant?"
+1121,"Fin de partie, voulez-vous quitter maintenant?"
 1122,Je resterai là
 1123,Quitter
 1124,sauvegarde en cours...
 1125,téléchargement en cours...
 1126,Fichier de sauvegarde corrompu
 1127,Les dernières histoires générées auparavant sont invalides
-1128,"Le système détecte que la langue de vos paramètres Steam ({0}) est différente de celle du jeu. Voudriez-vous changer de langue? Si oui, un redémarrage est nécessaire"
-1129,Merci pour votre commentaire! La durée de téléchargement en arrière-plan sera terminée dans quelques minutes...
+1128,"Le système détecte que la langue de vos paramètres Steam ({0}) est différente de celle du jeu. Voulez-vous changer de langue? Si oui, un redémarrage est nécessaire"
+1129,Merci pour votre commentaire! La durée du téléchargement en arrière-plan sera terminée dans quelques minutes...
 1200,Interragir
 1201,Aider
 1202,Butin
@@ -287,17 +287,17 @@
 1304,Je ne ressens rien à propos de cela
 1305,Je n'en veux plus
 1306,Comment ai-je pensé auparavant pour cette chose?
-1307,"je l'aime depuis longtemps, longtemps pour cela. "
+1307,"je l'aime depuis longtemps, longtemps pour cela"
 1308,Ca vaut la peine de modifier mon esprit
 1309,Toujours comme ça
 1310,"Je n'aime rien, je ne suis jamais satisfait"
-1311,"Quelque chose se passe dans mon esprit, I want it much"
+1311,"Quelque chose se passe dans mon esprit"
 1312,"J'ai compris, mais je m'en fiche"
 1313,Enfin quelque chose que j'aime
 1314,Mais je n'aime pas ça
 1315,J'ai enfin ce dont je rêve
-1316,"I used to have it, but I didn't cherish"
-1400,L'emplacement dépend on exiting floor
+1316,"J'avais l'habitude de l'avoir"
+1400,L'emplacement dépend de l'étage actuel
 1401,Impossible de construire
 1402,Impossible de construire
 1403,Il y a un radeau proche
@@ -347,8 +347,13 @@
 1803,{0} m'a appris quelque chose à propos de {1}
 1804,SmallTalk_Skill_Skeleton_Reserved
 121,Forums
-554,Retirer
+554,Déséquipper
 871,[Shift+7] Mur
 872,Gravité
 873,Carte
+874,Déchirer
+122,Patch Notes
+123,Rejoindre Discord
+875,Priorités
+876,Rapport de Bug
 874,Déchirer

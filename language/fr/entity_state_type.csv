@@ -6,14 +6,14 @@
 5,Dort
 6,Excréte
 7,Nettoie
-8,Social
+8,Parle
 9,Prie
 10,Recherche un abris
 11,Perd la tête
 12,Construit
 13,Interragit
 14,Récolte
-15,Essuye
+15,Essuie
 16,Imperméabilise
 17,Pêche
 18,Recherche
@@ -31,13 +31,13 @@
 30,Répare
 31,Démolit
 32,Range
-33,Nourrit
+33,Alimente
 34,Alimente en eau de mer
 35,Evacue
 36,Va chercher
 37,Fait l'amour
 38,Allume
-39,Range Attack
+39,Attaque à distance
 40,Jete la pile
 41,Retourne au radeau
 42,Attaque le terrain
@@ -56,7 +56,7 @@
 55,Regarde le ciel
 56,Danse
 57,Regarde la mer
-58,Joue à la mer
+58,Joue dans l'eau
 59,Joue de la flûte
 60,Aborde
 61,Echange
@@ -75,3 +75,6 @@
 74,Rentre chez lui
 75,Se présente
 76,Plonge
+77,EatField
+78,Soigne
+79,Attend d'être soigné

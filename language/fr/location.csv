@@ -4,7 +4,7 @@
 4,Petite boîte de stockage,Stocke toutes sortes de choses.
 5,Escalier,Se développe verticalement.Supporte 8 radeaux.
 7,Hamac,Se sentir comme en vacances.
-8,Pilier,Supporte 9 radeaux.
+8,Pillier,Supporte 9 radeaux.
 9,Champs de lin,Le lin peut être transformé en cordes.
 10,Porte-Viande,Transforme la viande en viande séchée
 11,Collecteur d'eau de pluie,"Collecte la pluie, peut stocker 5l d'eau."
@@ -15,7 +15,7 @@
 16,Carcasse de requin,
 17,Carcasse de mouette,
 18,Tapis,"Vous pouvez dormir dessus, ou le déposer dans une pièce avec de l'encens pour créer une pièce de méditation. Faible durabilité."
-19,Râtelier d'armes,Permet de stocker des armes et des flèches.
+19,Support d'arme,Permet de stocker des armes et des flèches.
 20,Grande caisse de stockage,Une plus grande capacité.
 21,Filtre à eau,Versez-y de l'eau de mer pour la déssaler.
 22,Champs de pomme de terre,
@@ -88,7 +88,7 @@
 90,Champs de baie,Produit des baies. Convient pour les desserts et la teinture.
 91,Arbre,
 92,Algue,A un goût de catouchouc salé.
-93,Echec de l'homme poisson,GG.
+93,Echecs de l'homme poisson,GG.
 94,Swing,Amusez-vous!
 95,Coffre,Il y a quelque chose dedans.
 96,Radeau étanche humide,Garder le sec et propre.
@@ -105,5 +105,5 @@
 107,Tonneau à vin,Permet de transformer les fruits en vin.
 108,Bûche de champignons,Convertir bois et articles en bois en champignons.
 109,Débris,
-110,Réserve de bois,20 emplacements.
+110,Support à bois,20 emplacements.
 111,Réserve de nourritures,20 emplacements.

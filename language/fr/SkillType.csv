@@ -4,4 +4,11 @@
 3,Artisanat,"Compétence de fabrication. Inclus les outils de fabrication, les armes, la protection."
 4,Nautique,"Compétence de navigation, la navigation et la cartographie."
 5,Combat,"Compétence de combat. Augmente la force, la vitesse, l'utilisation des armes et la technique de combat."
-6,Tout
+6,Soins,
+7,Epée,
+8,Lance,
+9,Arc,
+10,Couteau,
+11,Contondant,
+12,Pointe,
+13,Tout,

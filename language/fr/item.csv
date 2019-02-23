@@ -70,8 +70,8 @@
 72,Cendre de bois,Peut être récoltée dans un feu de camp.
 73,Herbes rudimentaires,Des herbes vertes.
 74,Herbes sanguines,Des herbes rouges.
-76,Herbes solaires,Des herbes jaunes.
 75,Herbes bleues,Des herbes bleues.
+76,Herbes solaires,Des herbes jaunes.
 77,Mélange curatif,Utile pour guérir des plaies.
 78,Mélange énergétique,Utile pour supprimer la fatigue.
 79,Mélange glacial,Utile pour retrouver une bonne santé mentale.
@@ -170,6 +170,7 @@
 1008,Flèche d'Os,
 1009,Flèchette,
 1010,Sarbacane,
+1010,BlowGunArrow,
 1011,Bandage,
 1012,Bandage Désinfecté,
 1013,Epée,

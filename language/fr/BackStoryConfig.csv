@@ -18,7 +18,25 @@
 102,{1:name} a épousé {2:fullname}.
 103,{1:name} a mit au monde {2:name}.
 104,"{1:name} est décédé, à {1:age} ans."
+120,"{1:fullname} est né dans une famille riche, {0:relationr} de {1:mother} et {1:father}."
+121,"{1:fullname} est né dans une famille pauvre, {0:relationr} de {1:mother} et {1:father}."
+122,"{1:fullname} est né dans une famille médiocre, {0:relationr} de {1:mother} et {1:father}."
+123,"{1:fullname} est né, {0:relationr} de {1:mother}."
+124,"{1:fullname} est né, {0:relationr} de {1:mother}, ne sait pas qui est son père."
 150,"{1:name} était sur la mer et a survécu à l'Apocalypse, mais a perdu tous ses biens qui étaient sur terre."
+151,{1:name} était sur le sommet de l'île quand l'Apocalypse s'est produit.
+152,{1:name} a acheté un bateau pour l'Apocalypse et a survécu. Mais son bateau a été volé par des voleurs.
+153,{1:name} est resté dans un abris pour survivre à l'Apocalypse. Mais l'abris a été rapidement détruit par des mutants.
+154,{1:name} est chanceux d'avoir survécu à l'Apocalypse pendant qu'il était enfant.
+155,{1:name} est chanceux d'avoir survécu à l'Apocalypse pendant qu'il était enfant.
+156,{1:name} a été aidé par des disciples et a survécu à l'Apocalypse.
+157,{1:name} a été aidé par des inconnus et a survécu à l'Apocalypse.
+158,{1:name} est chanceux d'avoir survécu à l'Apocalypse.
+159,{1:name} a survécu à l'Apocalypse avec sagesse.
+170,{1:name} était trop âgé et n'a pas remarqué que c'était l'Apocalypse.
+171,{1:name} était trop âgé et {1:his} famille l'a abandonné pendant l'Apocalypse.
+172,{1:name} était en train de naviguer et est mort de peur quand l'Apocalypse est arrivé.
+173,{1:name} n'a pas eu assez de temps pour s'échapper et est mort pendant l'Apocalypse.
 200,"{1:name} a été malmené par d'autres enfants, pas si mesquins pourtant. {1:pron} se souviendra de ces noms pour toujours : {2:fullname} et {3:fullname}."
 201,"{1:name} a été malmené par d'autres enfants, et a énormément souffert. {1:pron} déteste {2:fullname} et {3:fullname} du plus profond de son âme."
 202,"{1:name} a été malmené par d'autres enfants, pas si mesquins pourtant. {1:pron} ne s’en souvient plus maintenant."
@@ -171,24 +189,6 @@
 1372,{1:name} a survévu à une agression en s’apercevant que la personne était un ami.
 1373,"{1:name} a failli être victime d’une agressoin, mais un témoin lui a permit de s’échapper."
 1374,{1:name} failli être victime d’une agression.
-120,"{1:fullname} est né dans une famille riche, {0:relationr} de {1:mother} et {1:father}."
-121,"{1:fullname} est né dans une famille pauvre, {0:relationr} de {1:mother} et {1:father}."
-122,"{1:fullname} est né dans une famille médiocre, {0:relationr} de {1:mother} et {1:father}."
-123,"{1:fullname} est né, {0:relationr} de {1:mother}."
-124,"{1:fullname} est né, {0:relationr} de {1:mother}, ne sait pas qui est son père."
-151,{1:name} était sur le sommet de l'île quand l'Apocalypse s'est produit.
-152,{1:name} a acheté un bateau pour l'Apocalypse et a survécu. Mais son bateau a été volé par des voleurs.
-153,{1:name} est resté dans un abris pour survivre à l'Apocalypse. Mais l'abris a été rapidement détruit par des mutants.
-154,{1:name} est chanceux d'avoir survécu à l'Apocalypse pendant qu'il était enfant.
-155,{1:name} est chanceux d'avoir survécu à l'Apocalypse pendant qu'il était enfant.
-156,{1:name} a été aidé par des disciples et a survécu à l'Apocalypse.
-157,{1:name} a été aidé par des inconnus et a survécu à l'Apocalypse.
-158,{1:name} est chanceux d'avoir survécu à l'Apocalypse.
-159,{1:name} a survécu à l'Apocalypse avec sagesse.
-170,{1:name} était trop âgé et n'a pas remarqué que c'était l'Apocalypse.
-171,{1:name} était trop âgé et {1:his} famille l'a abandonné pendant l'Apocalypse.
-172,{1:name} était en train de naviguer et est mort de peur quand l'Apocalypse est arrivé.
-173,{1:name} n'a pas eu assez de temps pour s'échapper et est mort pendant l'Apocalypse.
 2251,{1:name} a parlé à ses étudiants de l'Apocalypse en classe.
 2252,{1:name} parlait avec {1:his} lorsqu'il a été interviewé par un journaliste.
 2253,{1:name} parlait avec {1:his} client de l'Apocalypse.

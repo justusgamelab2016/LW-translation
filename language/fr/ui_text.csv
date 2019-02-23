@@ -9,6 +9,10 @@
 107,Quitter le jeu
 108,Joueurs Pré-Alpha
 109,Modérateur de la Communauté
+110,Facile
+111,Normal
+112,Difficile
+113,Retour
 114,Initialisation
 115,Le chargement peut durer quelques minutes ...
 116,Mode Création
@@ -16,6 +20,9 @@
 118,Mods
 119,Version Mods
 120,Voulez-vous vraiment supprimer cette sauvegarde?
+121,Forums
+122,Patch Notes
+123,Rejoindre Discord
 200,Sauvegarde Auto
 201,Graphismes simplifiés
 202,Sauvegarder
@@ -43,6 +50,7 @@
 301,Constructions
 302,Fabrications
 303,Mobiliers
+303,Mobilier
 304,Réparer
 305,Démolir
 400,Activer
@@ -124,7 +132,10 @@
 551,Recettes apprises
 552,Avantages
 553,Aléatoire
+554,Déséquipper
 555,Survivre plus de {0} jours pour déverouiller
+556,Status_Cripple
+557,Status_LoseLimb
 600,Mélodie
 601,Mélodie relaxante
 602,Mélodie de direction du gouvernail
@@ -200,10 +211,6 @@
 846,Vous devez redémarrer le jeu pour changer de langue
 847,Redémarrer maintenant
 848,Redémarrer plus tard
-110,Facile
-111,Normal
-112,Difficile
-113,Retour
 849,Espace total
 850,Trame
 851,[Construire]
@@ -226,7 +233,20 @@
 868,[Guide]
 869,[Rapport de Bug]
 870,[Capture d'écran]
+871,[Shift+7] Mur
+872,Gravité
+873,Carte
+874,Déchirer
+874,Déchirer
+875,Priorités
+876,Rapport de Bug
 900,A table !
+879,Pile_Quality_Soso
+880,Pile_Quality_Normal
+881,Pile_Quality_Good
+882,Pile_Quality_Best
+883,PlantManager
+900,Addition !
 901,Travail en cours...
 902,Tout annuler
 903,Recettes
@@ -291,12 +311,12 @@
 1308,Ca vaut la peine de modifier mon esprit
 1309,Toujours comme ça
 1310,"Je n'aime rien, je ne suis jamais satisfait"
-1311,"Quelque chose se passe dans mon esprit"
+1311,Quelque chose se passe dans mon esprit
 1312,"J'ai compris, mais je m'en fiche"
 1313,Enfin quelque chose que j'aime
 1314,Mais je n'aime pas ça
 1315,J'ai enfin ce dont je rêve
-1316,"J'avais l'habitude de l'avoir"
+1316,J'avais l'habitude de l'avoir
 1400,L'emplacement dépend de l'étage actuel
 1401,Impossible de construire
 1402,Impossible de construire
@@ -346,14 +366,10 @@
 1802,{0} m'a dit quelque chose d'étrange à propos de {1}
 1803,{0} m'a appris quelque chose à propos de {1}
 1804,SmallTalk_Skill_Skeleton_Reserved
-121,Forums
-554,Déséquipper
-871,[Shift+7] Mur
-872,Gravité
-873,Carte
-874,Déchirer
-122,Patch Notes
-123,Rejoindre Discord
-875,Priorités
-876,Rapport de Bug
-874,Déchirer
+2000,Focus_Island
+2001,Focus_Survivor
+2002,Focus_Building
+2003,Focus_Pile
+2004,Focus_EventEntity
+2005,Focus_Room
+5000,Survivor_s_Corpse

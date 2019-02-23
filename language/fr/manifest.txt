@@ -1,5 +1,8 @@
 {
   "Language": "french",
+  "Title": null,
+  "Description": null,
+  "PlainText": "plain_text.csv",
   "Config": {
     "LocationConfig": "location.csv",
     "BillConfig": "bill.csv",
@@ -14,7 +17,8 @@
     "StoryTemplateConfig": "StoryTemplateConfig.csv",
     "GuideConfig": "GuideConfig.csv",
     "BackStoryConfig": "BackStoryConfig.csv",
-    "ThingTagConfig": "ThingTagConfig.csv"
+    "ThingTagConfig": "ThingTagConfig.csv",
+    "PriorityConfig": "PriorityConfig.csv"
   },
   "Enum": {
     "EntityStateType": "entity_state_type.csv",

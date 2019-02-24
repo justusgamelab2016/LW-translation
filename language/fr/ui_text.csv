@@ -46,10 +46,11 @@
 220,Magnifique
 221,Plein écran
 222,Qualité des graphismes
+223,Luminosité
+224,Etes-vous sûr de quitter Last Wood?
 300,Ressources
 301,Constructions
 302,Fabrications
-303,Mobiliers
 303,Mobilier
 304,Réparer
 305,Démolir
@@ -134,8 +135,9 @@
 553,Aléatoire
 554,Déséquipper
 555,Survivre plus de {0} jours pour déverouiller
-556,Status_Cripple
-557,Status_LoseLimb
+556,Infirme
+557,Perdre un membre
+558,NV
 600,Mélodie
 601,Mélodie relaxante
 602,Mélodie de direction du gouvernail
@@ -237,15 +239,22 @@
 872,Gravité
 873,Carte
 874,Déchirer
-874,Déchirer
 875,Priorités
-876,Rapport de Bug
-900,A table !
+876,Signaler un Bug
+877,BillManager
+878,Mauvais
 879,Pile_Quality_Soso
-880,Pile_Quality_Normal
-881,Pile_Quality_Good
-882,Pile_Quality_Best
+880,Normal
+881,Bon
+882,Excellent
 883,PlantManager
+884,Durée de la Partie
+885,Heures réelles
+886,Temps de Jeu
+887,File d'attente
+888,Temps de Jeu
+889,File d'attente
+890,Appuyez sur Alt Gauche pour afficher les info-bulles.\nLMB/RMB pour gérer la quantité de stockage.
 900,Addition !
 901,Travail en cours...
 902,Tout annuler
@@ -260,6 +269,8 @@
 911,Arrête de me faire perdre mon temps!
 912,Marché conclu!
 913,"Prenez votre temps, regardez aux alentours"
+914,Marché conclu#
+915,Normal
 1000,Est-ce que tu te moques de moi?
 1001,Ce n'est pas assez!
 1002,Ok
@@ -327,9 +338,10 @@
 1407,Impossible de construire
 1408,Impossible de construire
 1409,Devrait être placé entre les arbres
-1410,Devrait être placé près de l'eau
+1410,Devrait être placé proche de l'eau
 1411,Devrait être placé sur l'eau
 1412,Hauteur max atteinte
+1413,Devrait être placé proche de l'eau
 1500,SmallTalk_Normal_Skeleton
 1501,Je parle avec {0} à propos d'un homme dans le monde
 1502,Je parle avec {0} à propos d'une femme dans le monde
@@ -366,10 +378,14 @@
 1802,{0} m'a dit quelque chose d'étrange à propos de {1}
 1803,{0} m'a appris quelque chose à propos de {1}
 1804,SmallTalk_Skill_Skeleton_Reserved
-2000,Focus_Island
-2001,Focus_Survivor
-2002,Focus_Building
-2003,Focus_Pile
-2004,Focus_EventEntity
-2005,Focus_Room
-5000,Survivor_s_Corpse
+2000,Ile
+2001,<color=yellow>Survivant {0}</color>
+2002,<color=aqua>Objet {0}</color>
+2003,<color=green>{0} X {1}</color>
+2004,<color=orange>{0}</color>
+2005,<color=teal>Pièce {0}</color>
+5000,{0}corps
+5001,j
+5002,h
+5003,m
+5004,s

@@ -18,9 +18,11 @@
 106,son
 107,sa
 108,Peu de temps après
-109,{0} ans avant l'Apocalypse
-110,{0} ans après l'Apocalypse
+109,{0} ans avant l'Apocalypse (BtF)
+110,{0} ans après l'Apocalypse (AtF)
 111,L'année de l'Apocalyspe
 112,Elle
-113,SaP
-114,SaO
+113,HerP
+114,HerO
+1000,BtF
+1001,AtF

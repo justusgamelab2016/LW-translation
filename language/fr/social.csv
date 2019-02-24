@@ -51,7 +51,7 @@
 74,{1:Show} s'est chamaillé avec {2:Show} mais ca c'est transformé en compliment
 75,{1:Show} s'est chamaillé avec {2:Show} à cause de son attitude collante
 76,{1:Show} s'est chamaillé avec {2:Show}
-77,"{1:Show} s'est chamaillé avec {2:ShowP} à cause de son style
+77,{1:Show} s'est chamaillé avec {2:ShowP} à cause de son style
 78,{1:Show} a averti {2:Show} de rester loin de {3:Show}
 79,{1:Show} s'est chamaillé avec {2:Show} mais lui a ensuite donné un compliment
 80,{1:Show} a essayé d'être une garce mais {2:ShowS} l'a tout de suite arrêter
@@ -103,7 +103,7 @@
 140,{1:Show} a agi bêtement en essayant de se vanter auprès de {2:Show}
 141,{2:Show} {2:ShowPron_was_were} super into {1:ShowP} story
 142,{1:Show} s'attendait que {2:Show} soit impressionné par le nombre d'objets qu' {1:ShowPron_he_she} possède
-143,"{1:Show}s'est vanté auprès de {2:Show} d'avoir été amoureux de qqun d'autre
+143,{1:Show}s'est vanté auprès de {2:Show} d'avoir été amoureux de qqun d'autre
 144,{1:Show} a mis le pied dans le plat
 145,{2:Show} a pris l'insulte de {1:Show} d'une manière trop gentille
 148,{1:Show} checked out {3:Show} and {2:ShowS} got pissed

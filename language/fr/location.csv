@@ -105,10 +105,11 @@
 107,Tonneau à vin,Permet de transformer les fruits en vin.
 108,Bûche de champignons,Convertir bois et articles en bois en champignons.
 109,Débris,
-110,Support à bois,20 emplacements.
+110,Réserve de bois,20 emplacements.
 111,Réserve de nourritures,20 emplacements.
-112,BoltDoor,Solid protection.
-113,BirdNest,
-114,WaterPond,
-115,Sand,
+112,Verrou de porte,une solide protection.
+113,Nid d'oiseau,
+114,Eau de mare,
+115,Sable,
 116,ManageTable,Push forward.
+117,CraftManageTable,Push forward.

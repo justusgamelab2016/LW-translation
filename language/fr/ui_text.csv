@@ -47,11 +47,11 @@
 221,Plein écran
 222,Qualité des graphismes
 223,Luminosité
-224,Etes-vous sûr de quitter Last Wood?
+224,Etes-vous sûr de vouloir quitter Last Wood?
 300,Ressources
 301,Constructions
 302,Fabrications
-303,Mobilier
+303,Mobiliers
 304,Réparer
 305,Démolir
 400,Activer
@@ -60,7 +60,7 @@
 403,Abattre
 404,Fouiller
 405,Essuyer
-406,Imperméable
+406,Imperméabiliser
 407,Teindre
 408,Arroser
 409,Labourer
@@ -90,7 +90,7 @@
 508,Compétences
 509,Social
 510,Emplacements d'équipements
-511,Journal (statut)
+511,Journal (statuts)
 512,Journal (Rapports Sociaux)
 513,Personnage
 514,Relations
@@ -155,14 +155,14 @@
 713,[B] Construire
 714,[F9] Réinitialiser la camera
 715,[Espace] Pause
-716,[Espace] Jouer
-717,[Espace] Vitesse x2
-718,[Espace] Vitesse x5
+716,Jouer
+717,Vitesse x2
+718,Vitesse x5
 719,[Tab] ou [1]~[9] pour changer de niveau
 720,[I] Objets
 721,Alerte
 722,Compétence requise:
-723,"Déverouiller aléatoirement quand les survivants ont un ""moment de repos""."
+723,"A déverouiller"
 724,Rappeler
 800,Poids
 801,Flottabilité
@@ -227,13 +227,13 @@
 860,Développer
 861,Extraire
 862,Produire
-863,Rapport de bug
+863,Signaler un Bug
 864,Envoyer...
 865,Merci de décrire le bug (en anglais si possible)...
 866,Afficher le Guide
 867,Clavier Azerty
 868,[Guide]
-869,[Rapport de Bug]
+869,[Signaler un Bug]
 870,[Capture d'écran]
 871,[Shift+7] Mur
 872,Gravité
@@ -254,7 +254,7 @@
 887,File d'attente
 888,Temps de Jeu
 889,File d'attente
-890,Appuyez sur Alt Gauche pour afficher les info-bulles.\nLMB/RMB pour gérer la quantité de stockage.
+890,Appuyez sur Alt Gauche pour afficher les info-bulles.LMB/RMB pour gérer la quantité de stockage.
 900,Addition !
 901,Travail en cours...
 902,Tout annuler
@@ -269,7 +269,7 @@
 911,Arrête de me faire perdre mon temps!
 912,Marché conclu!
 913,"Prenez votre temps, regardez aux alentours"
-914,Marché conclu#
+914,Marché conclu
 915,Normal
 1000,Est-ce que tu te moques de moi?
 1001,Ce n'est pas assez!

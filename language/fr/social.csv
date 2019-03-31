@@ -1,30 +1,30 @@
 1,{1:Show} a avoué que {2:Show} et {0:ShowList_i_r_we_they} ont cessé d'être ennemis
 2,{2:ShowS} a abattu {1:ShowP} et s'attend à avoir une amende
-3,{1:Show} n'était pas assez gonfler pour convaincre {2:Show} qu'ils devraient se décider
-4,{1:Show} fait la paix avec {2:Show} en lui laissant exprimer son point de vue
+3,{1:Show} n'{1:ShowPron_was_were}pas assez gonfler pour convaincre {2:Show} qu'ils devraient se décider
+4,{1:Show} fait la paix avec {2:Show} en {2:ShowPron_him_her} laissant exprimer {1:ShowPron_his_her} point de vue
 5,{0:ShowList_i_r_and} ont arrêté d'être ennemis et se sont demandés pourquoi pesonne ne voulait se battre contre eux
 6,{2:ShowS} s'est moqué de {1:ShowO} pour avoir pensé qu'il serait facile de tout avouer
 7,{0:ShowCKB}s brought {0:ShowList_i_r_andp} back together
 8,il s'est avéré que {0:ShowCKB} n'étaient pas suffisant pour {0:ShowList_i_r_andp} remettre ensemble
-9,{2:ShowS} était assez agréable pour arrêter d'être ennemis avec {1:ShowO}
+9,{2:ShowS} {2:ShowPron_was_were} assez agréable pour arrêter d'être ennemis avec {1:ShowO}
 10,{1:Show} a modifié son attirance actuelle par une déclaration d'amour à {2:Show}
 11,{1:Show} a fièrement réglé ses problèmes avec {2:Show}
 12,{2:ShowS} a réouvert d'anciennes plaies lorsque {1:ShowS} a tenté de se réconcilier avec {2:ShowPron_him_her}
-13,{2:ShowS} était trop rancunier pour régler son problème avec {1:ShowO}
+13,{2:ShowS} {2:ShowPron_was_were} trop rancunier pour régler son problème avec {1:ShowO}
 14,{0:ShowList_i_r_and} a obtenu gain de cause de leur dispute et vont devenir un couple heureux
 15,{0:ShowList_i_r_and} ont continué à se battre les uns avec les autres
 16,{1:Show} a réglé intelligemment son problème avec {2:Show}
 21,{1:Show} a essayé d'aider {2:Show} contre {3:Show} mais {2:ShowPron_he_she} a changé de côté
 24,{2:ShowS} n'a ressenti aucun remord pour son comportement inadapté envers {1:ShowO}
-25,{2:ShowS} s'excuse d'avoir été un mauvais ami pour {1:ShowO}
-26,{2:ShowS} a aidé {1:ShowO} à prendre une décision concernant {3:Show}
+25,{2:ShowS} s'excuse d'avoir été un mauvais ami pour  {1:ShowO}
+26,{2:ShowS} a aidé  {1:ShowO} à prendre une décision concernant {3:Show}
 29,{2:ShowS} a présenté des excuses pour éviter d'aider {1:ShowO}
 30,{1:Show} a tenté de rallier {2:Show} pour l'aider mais {2:ShowPron_he_she} a dit que le vieux {2:Show} était mort
 31,{2:ShowS} a aidé {1:ShowO} avec ce problème embarassant
 33,{2:ShowS} a résisté à {1:ShowP} concernant des demandes menacantes
 39,{2:ShowS} a dit à {1:ShowO} qu' {2:ShowPron_he_she} ne supporterait en aucun cas sa relation néfaste avec {3:Show}
-41,{2:ShowS} était indifférent pour faire quelque faveur à {1:ShowS}
-42,{2:ShowS} était un ami dans le besoin
+41,{2:ShowS} {2:ShowPron_was_were} indifférent pour faire quelque faveur à {1:ShowS}
+42,{2:ShowS} {2:ShowPron_was_were} un ami dans le besoin
 43,{2:ShowS} a laissé {1:ShowO} sombrer dans ses besoins
 44,{2:ShowS} a prêté à {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
 45,{2:ShowS} a refusé de prêter à {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
@@ -200,7 +200,7 @@
 260,{1:Show} a critiqué {2:ShowP} {3:ShowGender_boy_girl}ami
 261,{1:Show} a donné à {2:Show} des conseils sur ses priorités
 262,{1:Show} a donné à {2:Show} un conseil opportun
-263,{2:Show} m'a abattu quand {1:ShowPron_he_she} {1:ShowPron_was_were} en train de lui donner un conseil
+263,{2:Show} a abattu {1:ShowO} quand {1:ShowPron_he_she} {1:ShowPron_was_were} en train de lui donner un conseil
 264,{1:Show} a donné à {2:ShowO} un conseil indésirable
 266,{2:Show} s'ennuyait de {1:ShowP} et a commencé une relation avec {3:Show}
 267,"{3:Show} {3:ShowPron_was_were} énervé contre {1:ShowO} pour écouter son conseil inspiré, mais {2:ShowS} l'a écouté quand même"

@@ -1,153 +1,201 @@
-1,sardine,"Small, oily fish. Very common."
-2,kebab,Combine meat with fruit. Smells good.
-3,Wood,You could do almost anything with it.
-4,Rope,Useful.
-5,Dried Fish,"Salty, can stay fresh for a long time."
-6,Flax,Produce strong fiber. Can be made into ropes.
-7,Water,Fresh water.
-8,Drum Stick,Ripped from a seagull. Full of flavor.
-9,Feather,Fluffy feather. I wonder if I could make a pillow with it.
-10,Fish Soup,Cook fish in water.
-11,Strange Meat,Can't tell what it comes from.
-12,Bone,Hard bone. Useful for making sharp items.
-13,Bow,Can attack in a safer position.
-14,Arrow,"A thin sharpen stick, can deal minor damage."
-15,SharkTeeth,Teeth of a deadly creature. Can be made it no weapon.
-16,Potato,Good for filling empty bellies.
-17,Carrot,Can cure night blindness.
-18,Seed,Produce random crops.
-19,Moss,Grow on rafts on wet days. Could make into cloth.
-21,Cloth,Rough fiber mesh.
-22,Spear,A thick sharpen sticks. Basic weapon.
-23,Wood Armor,Protect body. Kind of heavy.
-24,Wood Helmet,Protect head. Kind of heavy.
-25,Barrel,Smear wood tar on the inner surface. A waterproof container.
-26,SeaWater,Salty. Not drinkable.
-27,Lemon,"Fresh, but bitter and sour. Just like life."
-28,Bone Armor,Protect body. Kind of tickle.
-29,Bone  Helmet,Protect head. Kind of tickle.
-30,Flax Armor,Protect body. Stay away from fire.
-31,Flax Head Band,Protect head. Stay away from fire.
-32,Rags,Simple clothes.
-33,Head Band,Simple head band.
-34,Rot,Convert from food. Important resource to build the soil floor.
-35,Soil,Collect from mud on island. Important resource to build the soil floor.
-36,Red Snapper,It's got a weird color. But taste good.
-37,Dye,Use to dye buildings.
-38,Club,"Heavy, but have a chance to knock out your enemy."
-39,Paper,Made from the pulp.
-40,Map,Record locations and directions.
-41,Pulp,Smash and cook wood to make pulp.
-42,Wood Tar,Produce when burning wood. Could be used to waterproof stuff.
-43,Charcoal,It's wood without water.
-44,Fishing Rod,"Fishing, it calm nerves."
-45,tentacle,Loot from the mystery tentacle. Might be good for trading.
-46,Fish Bone Sword,"Spiky, light weighted."
-47,Bone Spear,Spear made of bone. Much sharper.
-48,Throwing Spear,Throwing to deal lots of damage.
-49,Bone Throwing Spear,Throwing to deal lots of damage.
-50,Bone Arrow,Sharper than wood arrow.
-51,Wood Plank,"Nicely cut wood, used for advanced recipes."
-52,Wood Part,Refined wood part. Used for more complicated recipes.
-53,Green Dye,"Can dye floor, wall and roof into green."
-54,Blue Dye,"Can dye floor, wall and roof into blue."
-55,Red Dye,"Can dye floor, wall and roof into the red."
-56,Yellow Dye,"Can dye floor, wall and roof into yellow."
-57,White Dye,"Can dye floor, wall and roof into white."
-58,Black Dye,"Can dye floor, wall and roof into the black."
-60,Flute,Play instrument calm
-61,Blow Gun,Can blow darts to deal damage.
-62,Blow Gun Arrow,Use with a blow gun.
-63,Poison Fruit,Good for making poison.
-64,Perfume Fish,Could be used to make incense.
-65,Incense,Put it in an incense holder to meditate.
-66,Skull,It looks scary.
-67,Lemonade,When life gives you a lemon. Make lemonade.
-68,Excreta,Smelly.
-69,Nautical Chart,Record locations and directions.
-70,Tuna,Big and fat.
-71,Stone,Can be found on the island.
-72,Wood Ashes,Can be gathered in a campfire.
-73,Basic Herb,Green herbs.
-74,Blood Herb,Red herbs.
-76,Sunshine Herb,Yellow herbs.
-75,Blue Herb,Blue herbs.
-77,Cure Mix,Used to heal wounds.
-78,Energy Mix,Used to remove sleepy.
-79,Chill Mix,Used to recover sanity.
-80,Bandage,Used to heal wounds.
-81,Disinfected Bandage,Used to heal wounds.Decrease the chance of infection.
-82,Coconut,There's some water inside.
-83,Coconut Shell,Shell of a coconut.
-84,Roast Fish,Crispy.
-85,Mash Potato,It makes your stomach full
-86,Vegetable Soup,Savory liquid made from vegetable.
-87,Broth,Savory liquid made from meat chunk.
-88,Herb Steak,Juicy steak with herb on it.
-89,Hoe,Used for plowing.
-90,Pesticide,Used for deworming.
-91,SwordFish,Fish with a sword nose.
-92,SeaWeed,Taste like rubber.
-93,Salmon,Fat
-94,Octopus,There's ink inside.
-95,Ink,"Dark liquid, good for writing."
-96,Scallop,Good protein if you can crack it open.
-97,Scallop Soup,Savory liquid made from scallop.
-98,Pearl,Precious.
-99,ShellBra,Looks like a mermaid now.
-100,CoCoNut Helmet,Protect your head. But will obstruct view.
-101,Ship Model In Bottle,A little ship model put inside a bottle.Looks delicate.
-102,Wood Figurine,A little figurine made of wood.
-103,Wood Ring,A little ring made of wood.
-104,Wood Fish,A little fish made of wood.
-105,Coral,Colorful.
-106,Ancient Coin,"An old, golden coin."
-107,Root Seed,Produce random rhizomatous crops. Provide energy and fullness.
-108,Leaf Seed,Produce random leafy vegetables. Provide vitamine for survivors.
-109,Fruit Seed,Produce random herbs.Use for cures wounds.
-110,Flower Seed,Produce berry. Good for dessert and dye.
-111,Poison Fish,Fish with poison inside. Not edible.
-112,Blueberry,"Blue berry, taste sour."
-113,Strawberry,"Red berry, taste sweet."
-114,Cabbage,Green leafy vegetable.
-115,Spinacia,Green leafy vegetable.
-116,Leaking Barrel,"Simple barrel, leaks a little."
-117,Salad,Fresh.
-118,FruitMix,Fresh.
-119,Sand,A granular material
-120,Sandglass,Used to measure and calculate sailing speed.
-121,Telescope,Increase look out range.
-122,Leather,Good for making clothes and armor.
-123,Quartz,Crystal clear.
-124,FoodJunk,Don't try to eat it.
-125,Roast Vege Mix,Fresh.
-126,Vege Salad,Fresh.
-127,Juice Mix,Smell fruity.
-128,Simmered Fruit,Sweet and warm.
+1,Sardinha,Peixe pequeno e oleoso. Muito comum.
+2,Churrasquinho,Combina carne com frutas. Cheira bem.
+3,Madeira,Você poderia fazer quase qualquer coisa com isso.
+4,Corda,Útil.
+5,Peixe seco,"Salgado, pode ficar fresco por muito tempo."
+6,Linho,Dá origem a uma fibra forte. Pode ser transformado em cordas.
+7,Água,Água doce.
+8,Coxa,Arrancada de uma gaivota. Cheia de sabor.
+9,Pena,Penas macias. Eu me pergunto se poderia fazer um travesseiro com isso.
+10,Sopa de peixe,Peixe cozido em água.
+11,Carne estranha,Não sei dizer do que vem.
+12,Osso,Osso duro. Útil para fazer itens afiados.
+13,Arco,Pode atacar de uma posição segura.
+14,Flecha,Uma vara fina com ponta afiada que pode causar danos menores.
+15,Dentes de tubarão,Dentes de uma criatura mortal. Podem ser transformados em arma.
+16,Batata,Bom para encher barrigas vazias.
+17,Cenoura,Pode curar cegueira noturna.
+18,Semente,Produz plantas aleatórias.
+19,Musgo,Cresce em jangadas em dias úmidos. Pode ser transformado em tecido.
+21,Tecido,Malha de fibra áspera.
+22,Lança,Uma vara grossa e afiada. Arma básica.
+23,Armadura de madeira,Protege o corpo. Meio pesado.
+24,Capacete de madeira,Protege a cabeça. Meio pesado.
+25,Barril,A superfície interna é impermeabilizada com verniz. Um recipiente à prova d'água.
+26,Água do mar,Salgada. Não potável.
+27,Limão,"Fresco, mas amargo e azedo. Assim como a vida."
+28,Armadura de ossos,Protege o corpo. Faz cócegas.
+29,Capacete de ossos,Protege a cabeça. Faz cócegas.
+30,Armadura de linho,Protege o corpo. Fique longe do fogo.
+31,Chapéu de linho,Protege a cabeça. Fique longe do fogo.
+32,Trapos,Roupas simples.
+33,Chapéu,Chapéu simples.
+34,Adubo,Feito a partir de comida. Recurso importante para fazer um solo fértil.
+35,Terra,Recolhida da lama da ilha. Recurso importante para fazer um solo fértil.
+36,Peixe vermelho,"Tem uma cor estranha, mas um gosto bom."
+37,Tintura,Use para tingir as construções.
+38,Clava,"Pesado, mas tem chances de nocautear seu inimigo."
+39,Papel,Feito da polpa.
+40,Mapa,Registra locais e direções.
+41,Polpa,Moa e cozinhe madeira para fazer polpa.
+42,Verniz,Produzido quando se queima madeira. Pode ser usado como material impermeável.
+43,Carvão,É madeira sem água.
+44,Vara de pesca,Pescar acalma os nervos.
+45,Tentáculo,Pego do tentáculo misterioso. Pode ser bom para negociação.
+46,Espada de osso de peixe,"Afiada, bem leve."
+47,Lança de osso,Lança feita de osso. Bem afiada.
+48,Dardo,Jogue para causar muito dano.
+49,Dardo de osso,Jogue para causar muito dano.
+50,Flecha de osso,Mais afiada que a flecha de madeira.
+51,Tábua de madeira,"Madeira bem cortada, usada para receitas avançadas."
+52,Peça de madeira,Pedaço de madeira refinado. Usado para receitas mais complexas.
+53,Tintura verde,"Pode tingir o chão, a parede e o teto de verde."
+54,Tintura azul,"Pode tingir o chão, a parede e o teto de azul."
+55,Tintura vermelha,"Pode tingir o chão, a parede e o teto de vermelho."
+56,Tintura amarela,"Pode tingir o chão, a parede e o teto de amarelo."
+57,Tintura branca,"Pode tingir o chão, a parede e o teto de branco."
+58,Tintura preta,"Pode tingir o chão, a parede e o teto de preto."
+60,Flauta,Tocar instrumentos acalma.
+61,Zarabatana,Pode atirar dardos para causar dano.
+62,Dardo de zarabatana,Use com uma zarabatana.
+63,Fruta venenosa,Boa para fazer veneno.
+64,Peixe perfumado,Pode ser usado para fazer incenso.
+65,Incenso,Coloque em um incensário para meditar.
+66,Caveira,Parece assustador.
+67,Limonada,"Quando a vida te der um limão, faça uma limonada."
+68,Fezes,Fedorento.
+69,Carta náutica,Registra locais e direções.
+70,Atum,Grande e gordo.
+71,Pedra,Pode ser encontrada em ilhas.
+72,Cinzas de madeira,Podem ser recolhidas de uma fogueira.
+73,Erva básica,Ervas verdes.
+74,Erva de sangue,Ervas vermelhas.
+75,Erva azul,Ervas azuis.
+76,Erva do Sol,Ervas amarelas.
+77,Mistura de cura,Usado para curar feridas.
+78,Mistura de energia,Usado para tirar o sono.
+79,Mistura tranquilizante,Usado para recuperar a sanidade.
+80,Bandagem,Usado para curar feridas.
+81,Bandagem desinfectada,Usado para curar feridas. Diminui a chance de infecção.
+82,Coco,Tem um pouco de água dentro.
+83,Casca de coco,A casca de um coco.
+84,Peixe assado,Crocante.
+85,Purê de batata,Faz seu estômago ficar cheio.
+86,Sopa de vegetais,Líquido saboroso feito de vegetais.
+87,Caldo de carne,Líquido saboroso feito de pedaços de carne.
+88,Bife de ervas,Bife suculento com ervas.
+89,Enxada,Usada para lavrar.
+90,Pesticida,Usado para desparasitação.
+91,Peixe espada,Peixe com um nariz de espada.
+92,Algas marinhas,Tem gosto de borracha.
+93,Salmão,Gordo.
+94,Polvo,Tem tinta por dentro.
+95,Tinta,"Líquido escuro, bom para escrever."
+96,Vieira,Boa proteína se você conseguir abrir.
+97,Sopa de vieira,Líquido saboroso feito de vieira.
+98,Pérola,Preciosa.
+99,Sutiã de conchas,Parece uma sereia agora.
+100,Capacete de coco,"Protege sua cabeça, mas vai obstruir a sua visão."
+101,Modelo de navio em garrafa,Um pequeno modelo de navio colocado dentro de uma garrafa. Parece delicado.
+102,Estatueta de madeira,Uma estatueta feita de madeira.
+103,Anel de madeira,Um pequeno anel feito de madeira.
+104,Peixe de madeira,Um pequeno peixe feito de madeira.
+105,Coral,Colorido.
+106,Moeda antiga,Uma velha moeda de ouro.
+107,Semente de legume,Produz uma planta rizomatosa. Fornece energia e satisfação.
+108,Semente de folha,Produz verduras aleatórias. Fornece vitamina para os sobreviventes.
+109,Semente de fruta,Produz ervas aleatórias. Use para curar feridas.
+110,Semente de flor,Produz bagas. Bom para sobremesas e tinturas.
+111,Peixe venenoso,Peixe com veneno dentro. Não comestível.
+112,Mirtilo,"Baga azul, gosto azedo."
+113,Morango,"Baga vermelha, gosto doce."
+114,Repolho,Vegetal de folhas verdes.
+115,Spinacia,Vegetal de folhas verdes.
+116,Barril furado,"Barril simples, vaza um pouco."
+117,Salada,Fresca.
+118,Mistura de frutas,Fresca.
+119,Areia,Um material granulado.
+120,Ampulheta,Usado para medir e calcular a velocidade de navegação.
+121,Telescópio,Aumenta o alcance visual.
+122,Couro,Bom para fazer roupas e armaduras.
+123,Quartzo,Claro como cristal.
+124,Restos de comida,Não tente comer isso.
+125,Mistura de vegetais assados,Fresca.
+126,Salada de vegetais,Fresca.
+127,Mistura de sucos,Tem cheiro de fruta.
+128,Fruta cozida,Doce e quente.
 129,Churrasco,descriptions here...
-130,Meat Ball,Crispy.
-131,Roast Fish,Crispy.
-132,Sashimi,It's raw. But tasty.
-133,Fruit And Vege Kebab,Crispy.
-134,Fruit Salad,Fresh.
-135,Meat And Vege Kebab,Crispy.
-136,Meat Salad,Fresh.
-137,Seafood And Vege Kebab,Crispy.
-138,Seafood Salad,Fresh.
-139,Fruit And Meat Kebab,Crispy.
-140,FruitySteak Stew,Rich.
-141,Fruity And Seafood Kebab,Crispy.
-142,Fruity Seafood Stew,Rich.
-143,Seafood And Meat Kebab,Crispy.
-144,Seafood And Meat Stew,Rich.
-145,Steak with Jam,Luxury.
-146,Fish Filet with Jam,Luxury.
-147,Luxury Meat Stew,Luxury.
-148,Supreme Seafood Chowder,Luxury.
-149,Egg,Laid by a seagull.
-150,Salt,Makes nearby food decay slower.
-151,SaltBlock,Makes nearby food decay slower.
-152,FishJerky,"Salty, can stay fresh for a long time."
-153,Wine,Made by fruit. It's refreshing.
-154,Mushroom,Grow on a log. Looks cute.
-155,Blood,Blood of a creature. Great snack for a vampire.
+130,Almôndega,Crocante.
+131,Peixe assado,Crocante.
+132,Sashimi,"É cru, mas gostoso."
+133,Churrasquinho de frutas e vegetais,Crocante.
+134,Salada de frutas,Fresca.
+135,Churrasquinho de carne com vegetais,Crocante.
+136,Salada de carnes,Fresca.
+137,Churrasquinho de frutos do mar com vegetais,Crocante.
+138,Salada de frutos do mar,Fresca.
+139,Churrasquinho de fruta com carne,Crocante.
+140,Ensopado de bife com frutas,Nutritivo.
+141,Churrasquinho de frutos do mar com frutas,Crocante.
+142,Ensopado de frutos do mar com frutas,Nutritivo.
+143,Churrasquinho de frutos do mar com carne,Crocante.
+144,Ensopado de frutos do mar com carne,Nutritivo.
+145,Bife com geleia,Luxoso.
+146,Filé de peixe com geleia,Luxoso.
+147,Ensopado de carne luxuoso,Luxoso.
+148,Ensopado de frutos do mar supremo,Luxoso.
+149,Ovo,Botado por uma gaivota.
+150,Sal,Faz a comida estragar mais devagar.
+151,Cubo de sal,Faz a comida estragar mais devagar.
+152,Carne seca de peixe,"Salgado, pode ficar fresco por muito tempo."
+153,Vinho,Feito com frutas. É refrescante.
+154,Cogumelo,Cresce em um tronco. É bonitinho.
+155,Sangue,Sangue de uma criatura. Ótimo lanche para um vampiro.
+156,Shrimp,Tiny shrimps. Good bait for fishing.
+157,Pickle,Salty vegetables. Could preserve for a long time.
+158,Holy Water,Hold it when preying would result in something lucky.
+159,RoastBirdMeat,
+160,Bottle,
+501,Human Right Arm,An arm of human.
+502,Human Left Arm,An arm of human.
+503,Human Right Leg,A leg of human.
+504,Human Left Leg,A leg of human.
+505,Wooden Right Arm,A wooden artificial arm with a hook.
+506,Wooden Left Arm,A wooden artificial arm with a hook.
+507,Wooden Right Leg,A wooden artificial leg.
+508,Wooden Left Leg,A wooden artificial leg.
+1000,Bow,Can attack in a safer position.
+1001,Arrow,"A thin sharpen stick, can deal minor damage."
+1002,Spear,A thick sharpen sticks. Basic weapon.
+1003,Club,"Heavy, but have a chance to knock out your enemy."
+1004,Fish Bone Sword,"Spiky, light weighted."
+1005,Bone Spear,Spear made of bone. Much sharper.
+1006,Throwing Spear,Throwing to deal lots of damage.
+1007,Bone Throwing Spear,Throwing to deal lots of damage.
+1008,Bone Arrow,Sharper than wood arrow.
+1009,Blow Gun,Can blow darts to deal damage.
+1010,Blow Gun Arrow,Use with a blow gun.
+1011,Bandage,Used to heal wounds.
+1012,Disinfected Bandage,Used to heal wounds.Decrease the chance of infection.
+1013,Sword,"Balanced weapon, mediocre in any way."
+1014,Dagger,It's lightweight and could cause blood loss in a snap.
+1015,Boomerang,Could fly back if you are lucky enough.
+1016,Slingshot,It's not a toy. And it doesn't require ammunition.
+1017,Shield,Could block most projectiles in the front.
+1018,Claymore,"Heavy, only strong survivors could use it properly."
+1019,War Hammer,"Heavy, could stun a target easily."
+1020,Spike Club,Clube with more lethal decorations.
+1021,Bone Axe,"Swift and sharp, pretty handy."
+1022,Trident of Ice,A trident that shots ice. It's a tech weapon from the deep ones.
+1023,Trident of flame,A trident that shots flame. It's a tech weapon from the deep ones.
+1024,Grenade,
+2001,Wood Armor,Protect the body. Kind of heavy.
+2002,Wood Helmet,Protect head. Kind of heavy.
+2003,Bone Armor,Protect the body. Kind of tickle.
+2004,Bone  Helmet,Protect head. Kind of tickle.
+2005,Flax Armor,Protect the body. Stay away from the fire.
+2006,Flax Head Band,Protect head. Stay away from the fire.
+2007,Rags,Simple clothes.
+2008,Head Band,Simple headband.
+2009,ShellBra,Looks like a mermaid now.
+2010,CoCoNut Helmet,Protect your head. But will obstruct the view.

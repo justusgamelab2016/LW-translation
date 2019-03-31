@@ -1,157 +1,164 @@
-0,None
-1,I feel cheerful.
-2,I'm popular.
-3,I admire...
-4,I was pissed off.
-5,I fall in love.
-6,I pity..
-7,embarrassed
-8,cheater
-9,shaken
-10,desperate
-11,I was bullied by someone.
-12,Love struck
-13,Grossed out
-14,excited
-15,I'm sad.
-16,anxious
-17,Looking for trouble
-18,I feel guilty.
-19,Feels out of place
-20,Heart broken
-21,confused
-22,lonely
-23,Home wrecker
-24,Wants to pick on
-25,Annoyed with
-26,I was scared.
-27,I envies..
-28,I am grateful.
-29,I feel I can trust others.
-30,Feels superior to...
-31,Cheating on...
-32,Cheated on by...
-33,Home wrecked by...
-34,I just caught a fish!
-35,I failed to catch a fish. :(
-36,I had just prayed. Wish me good luck.
-37,I just saw a bird leaving seed on the ground.
-38,Saw corpse.
-39,Skill Level Up
-40,I just ate something tasty.
-41,I slept well last night.
-42,I have never slept so well.
-43,I was disturbed when sleeping.
-44,I slept on the ground last night. My back hurts.
-45,I just eat on the ground.
-46,I took a dump in sea water.
-47,I just took a shower in the sea.
-48,I just used the shower. But we don't have any fresh water.
-49,I just stared at the starry night. It makes me calm.
-50,Stare At Sea
-51,I just stone skipping on the sea.
-52,I played flute for a while. That was fun.
-53,I just listened to some good music.
-54,I hurt myself while building.
-55,I found a new island!
-56,I just killed someone.
-57,We land on a new island!
-58,"I fell into the sea. Fortunately, I survived."
-59,It's so messy.
-60,I fell and hurt my leg.
-61,I just saw something horrific.
-62,I suddenly realize I could create something brand new.
-63,I just swam.
-64,I'm hungry. Wish we have more food.
-65,I'm thirsty. I think we need to find more fresh water.
-66,I'm so tired. I wonder what was the last time I had some good sleep.
-67,I need to go to number 2.
-68,Need to take a shower.
-69,I'm so lonely. Need to find someone to talk to.
-70,"I'm starving. If I couldn't find more food, I don't think I'm going to make it."
-71,I'm dehydrated. My throat is so dry I can't say a word.
-72,I'm exhausted. I could fall asleep any second.
-73,I need to take a dump now! I can't hold no more.
-74,I smell terrible. Have to take a shower now.
-75,I'm so upset.
-76,I think I lost my mind
-77,I feel sick
-78,Sleep In BedRoom
-79,Sleep In my own BedRoom
-80,Sleep In Dormitory
-81,Shower In showers
-82,Shower In My Room
-83,Eat In Room
-84,Eat In My Room
-85,Work In Room
-86,Work In My Room
-87,Take something From My StoreRoom
-88,Meditate In Room
-89,Want my own BedRoom
-90,Want my own DiningRoom
-91,Want my own WorkRoom
-92,Want my own ShowerRoom
-93,Want my own StoreRoom
-94,Slept On Pile
-95,Enjoy some great Paint
-96,See Paint I don't like
-97,Dyspepsia
-98,Collywobbles
-99,I feel weak.
-100,Malnutrition
-101,Feel Greasy
-102,I can't focus.
-103,Be Commanded Too Much.
-104,I feel tired working.
-105,Arrange items too much
-106,Build too much.
-107,Commend me more.
-108,I need more work.
-109,want to Arrange more items
-110,want to build more stuff
-111,It's too dark. I think we should build more light source.
-112,It's so hot. I think we should find some way to cool down.
-113,It's so cold. I think we could build some camp fire.
-114,t's too damp. I think we should find some way to make us cool and dry.
-115,I just smell something sink.
-116,I can't breathe.
-117,I just saw something ugly
-118,I just saw something beautiful
-119,I want a larger BedRoom
-120,I want a larger Dining Room
-121,I want a larger WorkRoom
-122,I want a larger StoreRoom
-123,I want a More Beautiful BedRoom
-124,I want a More Beautiful Dining Room
-125,I want a More Wealthy BedRoom
-126,I want a More Wealthy DiningRoom
-127,I'm satisfied of my own BedRoom
-128,I'm satisfied of my own Dining Room
-129,I'm satisfied of my own WorkRoom
-130,I'm satisfied of my own Shower Room
-131,I'm satisfied of my own StoreRoom
-132,I think I caught a cold.
-133,I just get scratched.
-134,I just get some bruise.
-135,I just twist my muscles.
-136,I think I got infected.
-137,I feel depressed.
-138,I have a headache.
-139,My lungs hurt.
-140,My skin rash is spreading.
-141,My skin itchy at night
-142,Venereal
-143,I probably ate something bad.
-144,Loose Bowels
-145,Sea sickness
-146,Rheumatism
+0,Nada
+1,Me sinto alegre.
+2,Sou popular.
+3,Admiro...
+4,Fiquei irritado(a).
+5,Me apaixonei.
+6,Tenho pena...
+7,constrangido(a)
+8,traidor(a)
+9,abalado(a)
+10,desesperado(a)
+11,Me intimidaram.
+12,Apaixonado(a)
+13,Enojado(a)
+14,animado(a)
+15,Estou triste.
+16,ansioso(a)
+17,Caçando confusão
+18,Me sinto culpado(a).
+19,Sente-se deslocado(a)
+20,De coração partido
+21,confuso(a)
+22,solitário(a)
+23,Destruidor(a) de lares
+24,Quer implicar
+25,Irritado(a)
+26,Fiquei com medo.
+27,Sinto inveja.
+28,Sinto gratidão.
+29,Sinto que posso confiar nas pessoas.
+30,Sente-se superior a...
+31,Traindo...
+32,Foi traído(a)
+33,Teve a família foi destruída
+34,Peguei um peixe!
+35,Não consegui pegar um peixe. :(
+36,Eu orei. Me deseje sorte.
+37,Vi um pássaro deixar sementes no chão.
+38,Vi um corpo.
+39,A habilidade subiu de nível
+40,Comi algo gostoso.
+41,Dormi bem essa noite.
+42,Nunca dormi tão bem.
+43,Perturbaram meu sono.
+44,Dormi no chão essa noite. Que dor nas costas!
+45,Comi no chão.
+46,Soltei um barro no mar.
+47,Tomei banho no mar.
+48,Usei o chuveiro. Mas não temos água fresca.
+49,Admirei a noite estrelada. Me acalma.
+50,Olhei o mar
+51,Joguei pedra no mar.
+52,Toquei um pouco de flauta. Foi legal.
+53,Ouvi música boa.
+54,Me machuquei construindo.
+55,Achei uma ilha nova!
+56,Matei alguém.
+57,Chegamos a uma nova ilha!
+58,Caí no mar. Felizmente sobrevivi.
+59,Que bagunça.
+60,Caí e machuquei a perna.
+61,Vi uma coisa terrível.
+62,Percebi que eu poderia criar algo novo.
+63,Nadei.
+64,Estou com fome. Queria ter mais comida.
+65,Estou com sede. Acho que precisamos achar mais água fresca.
+66,Que cansaço! Não lembro a última vez que dormi direito.
+67,Preciso fazer o número 2.
+68,Preciso tomar banho.
+69,Me sinto só. Preciso conversar com alguém.
+70,"Que fome! Se eu não achar mais comida, acho que não vou sobreviver."
+71,Estou desidratado(a). Minha garganta está tão seca que não consigo falar.
+72,Estou exausto(a). Eu poderia dormir a qualquer instante.
+73,Preciso soltar um barro agora! Não consigo segurar mais.
+74,Estou fedendo. Tenho que tomar banho agora.
+75,Estou tão triste.
+76,Acho que enlouqueci.
+77,Me sinto enjoado(a).
+78,Dormi no quarto
+79,Dormi no meu próprio quarto
+80,Dormi no dormitório
+81,Tomei banho no banheiro
+82,Tomei banho no meu próprio banheiro
+83,Comi na sala
+84,Comi na minha própria sala
+85,Trabalhei na sala
+86,Trabalhei na minha própria sala
+87,Peguei algo no meu depósito
+88,Meditei no quarto
+89,Quero meu próprio quarto
+90,Quero minha própria sala de jantar
+91,Quero minha própria sala de trabalho
+92,Quero meu próprio banheiro
+93,Quero meu próprio depósito
+94,Dormi no estoque
+95,Apreciei uma pintura
+96,Vi uma pintura que não gostei
+97,Indigestão
+98,Dor de barriga
+99,Me sinto fraco(a).
+100,Malnutrido
+101,Se sente sujo
+102,Não consigo me concentrar.
+103,Recebi ordens demais
+104,O trabalho me cansa.
+105,Organizei demais
+106,Construí demais.
+107,Me dê mais ordens.
+108,Preciso de mais trabalho.
+109,quero organizar mais coisas
+110,quero construir mais coisas
+111,Está muito escuro. Devíamos construir mais fontes de luz.
+112,Está muito quente. Devíamos achar um jeito de resfriar.
+113,Está muito frio. Podíamos fazer uma fogueira.
+114,Está muito úmido. Devíamos dar um jeito de ficarmos frescos e secos.
+115,Algo está fedendo.
+116,Não consigo respirar.
+117,Vi algo feio
+118,Vi algo bonito
+119,Quero um quarto maior
+120,Quero uma sala de jantar maior
+121,Quero uma sala de trabalho maior
+122,Quero um depósito maior
+123,Quero um quarto mais bonito
+124,Quero uma sala de jantar mais bonita
+125,Quero um quarto mais luxuoso
+126,Quero uma sala de jantar mais luxuosa
+127,Estou satisfeito com o meu quarto
+128,Estou satisfeito com a minha sala de jantar
+129,Estou satisfeito com a minha sala de trabalho
+130,Estou satisfeito com o meu banheiro
+131,Estou satisfeito com o meu depósito
+132,Acho que peguei um resfriado.
+133,Me arranhei.
+134,Me machuquei.
+135,Torci meu músculo.
+136,Acho que peguei uma infecção.
+137,Estou deprimido(a).
+138,Estou com dor de cabeça.
+139,Estou com dor nos pulmões.
+140,Minha erupção cutânea está se espalhando.
+141,Minha pele coça à noite.
+142,Venéreo
+143,Algo não me caiu bem.
+144,Intestino solto
+145,Enjoo marítimo
+146,Reumatismo
 147,Septicemia
-148,I just had good sex.
-149,I just give birth to a baby.
-150,I had just walked on an island. I feel great.
-151,I had stayed at sea for too long. I miss the feeling of walking on solid land.
-152,I just ate something I like.
-153,I just ate something I hate.
-154,I just ate something uncooked.
-155,I want that property.
-156,I succeeded in obtaining that property.
+148,Fiz amor.
+149,Tive um bebê.
+150,Caminhei numa ilha. Me sinto ótimo(a).
+151,Fiquei no mar por muito tempo. Sinto saudade de andar em terra firme.
+152,Comi algo que gosto.
+153,Comi algo que odeio.
+154,Comi algo cru.
+155,Quero aquilo.
+156,Consegui aquilo.
+157,I am unable to land that island.
+158,New life here. Hope we could find Noah eventually.
+159,I still believe in Noah.
+160,We must find Noah before we die.
+161,"Damn bird, shitted on my head."
+162,There must be a storm comming.
+163,There must be a tornado comming.

@@ -18,7 +18,25 @@
 102,{1:name} married {2:fullname}.
 103,{1:name} delievered a child {2:name}.
 104,"{1:name} died, at {1:age} years old"
+120,"{1:fullname} was born in a wealthy family, {0:relationr} of {1:mother} and {1:father}."
+121,"{1:fullname} was born in a poor family, {0:relationr} of {1:mother} and {1:father}."
+122,"{1:fullname} was born in a mediocre family, {0:relationr} of {1:mother} and {1:father}."
+123,"{1:fullname} was born, {0:relationr} of {1:mother}."
+124,"{1:fullname} was born, {0:relationr} of {1:mother}, haven't got who {1:pronp} father is."
 150,"{1:name} were out on sea and survived the Apocalypse, but lose all the wealth on land."
+151,{1:name} were on the mountain of an island when the Apocalpyse occured.
+152,{1:name} bought a ship on the Apocalpyse and survived. But {1:pronp} ship was than robbed by raiders.
+153,{1:name} stay in vault to survive the Apocalypse. But the valut was quickly destory by mutant.
+154,{1:name} was luck to survived the Apocalypse as a child.
+155,{1:name} was luck to survived the Apocalypse as a child.
+156,{1:name} was helped by the follower and survived the Apocalpyse.
+157,{1:name} was helped by others and survived the Apocalpyse.
+158,{1:name} was luck to survived the Apocalypse.
+159,{1:name} survived the Apocalypse with {1:pronp} wisdom.
+170,{1:name} was too old and didn't make it in the Apocalypse.
+171,{1:name} was too old and {1:his} family gave up {1:him} in the Apocalypse.
+172,{1:name} was sailing but died in the strom when the Apocalypse come.
+173,{1:name} did't have enough time to escape and died in the Apocalypse.
 200,"{1:name} was bullied by other children, not so scurvy though. {1:pron} remembered those names forever, which are {2:fullname} and {3:fullname}."
 201,"{1:name} was bullied by other children, suffered so much. {1:pron} hated them to the core, which are {2:fullname} and {3:fullname}."
 202,"{1:name} was bullied by other children, not so scurvy though. {1:pron} can't remember it now."
@@ -171,24 +189,6 @@
 1372,{1:name} survived a robbery by recongnized the robber was {1:prono} friend.
 1373,{1:name} was nearly robbed but {1:pronp} wisdom help {1:prono} escape.
 1374,{1:name} was nearly robbed.
-120,"{1:fullname} was born in a wealthy family, {0:relationr} of {1:mother} and {1:father}."
-121,"{1:fullname} was born in a poor family, {0:relationr} of {1:mother} and {1:father}."
-122,"{1:fullname} was born in a mediocre family, {0:relationr} of {1:mother} and {1:father}."
-123,"{1:fullname} was born, {0:relationr} of {1:mother}."
-124,"{1:fullname} was born, {0:relationr} of {1:mother}, haven't got who {1:pronp} father is."
-151,{1:name} were on the mountain of an island when the Apocalpyse occured.
-152,{1:name} bought a ship on the Apocalpyse and survived. But {1:pronp} ship was than robbed by raiders.
-153,{1:name} stay in vault to survive the Apocalypse. But the valut was quickly destory by mutant.
-154,{1:name} was luck to survived the Apocalypse as a child.
-155,{1:name} was luck to survived the Apocalypse as a child.
-156,{1:name} was helped by the follower and survived the Apocalpyse.
-157,{1:name} was helped by others and survived the Apocalpyse.
-158,{1:name} was luck to survived the Apocalypse.
-159,{1:name} survived the Apocalypse with {1:pronp} wisdom.
-170,{1:name} was too old and didn't make it in the Apocalypse.
-171,{1:name} was too old and {1:his} family gave up {1:him} in the Apocalypse.
-172,{1:name} was sailing but died in the strom when the Apocalypse come.
-173,{1:name} did't have enough time to escape and died in the Apocalypse.
 2251,{1:name} told {1:his} students about the Apocaplpse on class.
 2252,{1:name} talked about the  {1:his} when interviewed by the TV reporter.
 2253,{1:name} talked {1:his} client about the the Apocalypse.

@@ -1,4 +1,4 @@
-1,sardine,"Small, oily fish. Very common."
+1,Sardine,"Small, oily fish. Very common."
 2,kebab,Combine meat with fruit. Smells good.
 3,Wood,You could do almost anything with it.
 4,Rope,Useful.
@@ -70,8 +70,8 @@
 72,Wood Ashes,Can be gathered in a campfire.
 73,Basic Herb,Green herbs.
 74,Blood Herb,Red herbs.
-76,Sunshine Herb,Yellow herbs.
 75,Blue Herb,Blue herbs.
+76,Sunshine Herb,Yellow herbs.
 77,Cure Mix,Used to heal wounds.
 78,Energy Mix,Used to remove sleepy.
 79,Chill Mix,Used to recover sanity.
@@ -86,7 +86,7 @@
 88,Herb Steak,Juicy steak with herb on it.
 89,Hoe,Used for plowing.
 90,Pesticide,Used for deworming.
-91,SwordFish,Fish with a sword nose.
+91,Sword Fish,Fish with a sword nose.
 92,SeaWeed,Taste like rubber.
 93,Salmon,Fat
 94,Octopus,There's ink inside.
@@ -151,3 +151,51 @@
 153,Wine,Made by fruit. It's refreshing.
 154,Mushroom,Grow on a log. Looks cute.
 155,Blood,Blood of a creature. Great snack for a vampire.
+156,Shrimp,Tiny shrimps. Good bait for fishing.
+157,Pickle,Salty vegetables. Could preserve for a long time.
+158,Holy Water,Hold it when preying would result in something lucky.
+159,RoastBirdMeat,
+160,Bottle,
+501,Human Right Arm,An arm of human.
+502,Human Left Arm,An arm of human.
+503,Human Right Leg,A leg of human.
+504,Human Left Leg,A leg of human.
+505,Wooden Right Arm,A wooden artificial arm with a hook.
+506,Wooden Left Arm,A wooden artificial arm with a hook.
+507,Wooden Right Leg,A wooden artificial leg.
+508,Wooden Left Leg,A wooden artificial leg.
+1000,Bow,Can attack in a safer position.
+1001,Arrow,"A thin sharpen stick, can deal minor damage."
+1002,Spear,A thick sharpen sticks. Basic weapon.
+1003,Club,"Heavy, but have a chance to knock out your enemy."
+1004,Fish Bone Sword,"Spiky, light weighted."
+1005,Bone Spear,Spear made of bone. Much sharper.
+1006,Throwing Spear,Throwing to deal lots of damage.
+1007,Bone Throwing Spear,Throwing to deal lots of damage.
+1008,Bone Arrow,Sharper than wood arrow.
+1009,Blow Gun,Can blow darts to deal damage.
+1010,Blow Gun Arrow,Use with a blow gun.
+1011,Bandage,Used to heal wounds.
+1012,Disinfected Bandage,Used to heal wounds.Decrease the chance of infection.
+1013,Sword,"Balanced weapon, mediocre in any way."
+1014,Dagger,It's lightweight and could cause blood loss in a snap.
+1015,Boomerang,Could fly back if you are lucky enough.
+1016,Slingshot,It's not a toy. And it doesn't require ammunition.
+1017,Shield,Could block most projectiles in the front.
+1018,Claymore,"Heavy, only strong survivors could use it properly."
+1019,War Hammer,"Heavy, could stun a target easily."
+1020,Spike Club,Clube with more lethal decorations.
+1021,Bone Axe,"Swift and sharp, pretty handy."
+1022,Trident of Ice,A trident that shots ice. It's a tech weapon from the deep ones.
+1023,Trident of flame,A trident that shots flame. It's a tech weapon from the deep ones.
+1024,Grenade,
+2001,Wood Armor,Protect the body. Kind of heavy.
+2002,Wood Helmet,Protect head. Kind of heavy.
+2003,Bone Armor,Protect the body. Kind of tickle.
+2004,Bone  Helmet,Protect head. Kind of tickle.
+2005,Flax Armor,Protect the body. Stay away from the fire.
+2006,Flax Head Band,Protect head. Stay away from the fire.
+2007,Rags,Simple clothes.
+2008,Head Band,Simple headband.
+2009,ShellBra,Looks like a mermaid now.
+2010,CoCoNut Helmet,Protect your head. But will obstruct the view.

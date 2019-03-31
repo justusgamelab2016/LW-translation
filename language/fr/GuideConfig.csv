@@ -25,3 +25,13 @@ Ensuite, cliquez sur le bouton [ALERTE] à côté du portrait du personnage (au 
 16,Déverouillage,Déverouillage,Augmenter les compétences débloque des bâtiments et des recettes. Vous pouvez déverouiller d'autres bâtiments et recettes en les recherchant dans une salle de travail(et en fournissant des matériaux corrects) ou en fouillant une île. Les survivants auront parfois un moment de libre quand ils méditent dans la salle de méditation ou en regardant des peintures.
 17,Mode Création,Mode Création,Via le mode création vous pouvez construire librement. Mais vous ne pouvez construire des choses que si vous les avez déverrouillées en mode normal.
 18,Placer une pagaie ,,La pagaie devrait être placée à côté de l'eau. Both front and back side of paddle should be water.
+101,GetWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+102,GetFish,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+103,GetWater,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+104,GetKebab,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+105,FightSeagull,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+106,BuildSoilFloor,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+107,FightShark,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+109,BuildAPaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+110,NoWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.

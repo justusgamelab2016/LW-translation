@@ -23,6 +23,20 @@
 121,Forums
 122,Patch Notes
 123,Rejoindre Discord
+124,Title_Plugins_Open_Steam_WorkShop
+125,Title_Plugins_Get_Mod_From_Forum
+126,Close
+127,Title_Plugins_Current_Mod_Workshop_Page
+128,Title_Plugins_Unsubscribe_Mod
+129,Title_BuildTime
+130,Title_Creative
+131,Title_MusicAndSound
+132,Title_HelpTranslate
+133,Title_Translators
+134,Title_CallForTranslators
+135,Title_CallForTranslators_CountMeIn
+136,Title_CallForTranslators_NO
+137,Title_Steam
 200,Sauvegarde Auto
 201,Graphismes simplifiés
 202,Sauvegarder
@@ -46,12 +60,17 @@
 220,Magnifique
 221,Plein écran
 222,Qualité des graphismes
-223,Luminosité
-224,Etes-vous sûr de vouloir quitter Last Wood?
+223,Brightness
+224,System_Are_you_sure_quit
+225,GuideGame
+226,GameTODO
+227,ThanksForPlayingDemo
+228,HopeLikeDemo
+229,JoinDiscordWithUs
 300,Ressources
 301,Constructions
 302,Fabrications
-303,Mobiliers
+303,Mobilier
 304,Réparer
 305,Démolir
 400,Activer
@@ -60,7 +79,7 @@
 403,Abattre
 404,Fouiller
 405,Essuyer
-406,Imperméabiliser
+406,Imperméable
 407,Teindre
 408,Arroser
 409,Labourer
@@ -79,6 +98,12 @@
 422,Jouer
 423,Ouvrir
 424,Parler
+425,Location_BoltDoor_Open
+426,Location_BoltDoor_Close
+427,Location_PaddleForward
+428,Location_PaddleBackward
+429,Location_SailClose
+430,Location_SailOpen
 500,Transporter
 501,Emplacement cible
 502,Pile cible
@@ -90,7 +115,7 @@
 508,Compétences
 509,Social
 510,Emplacements d'équipements
-511,Journal (statuts)
+511,Journal (statut)
 512,Journal (Rapports Sociaux)
 513,Personnage
 514,Relations
@@ -135,9 +160,18 @@
 553,Aléatoire
 554,Déséquipper
 555,Survivre plus de {0} jours pour déverouiller
-556,Infirme
-557,Perdre un membre
-558,NV
+556,Status_Cripple
+557,Status_LoseLimb
+558,skill_level
+559,Skill_Care
+560,Skill_CareDes
+561,characterCreation
+562,Status_body
+563,Status_head
+564,Status_Ill_Attack
+565,Status_Ill_Defense
+566,Status_Ill_Speed
+567,Status_Ill_Carry
 600,Mélodie
 601,Mélodie relaxante
 602,Mélodie de direction du gouvernail
@@ -155,15 +189,20 @@
 713,[B] Construire
 714,[F9] Réinitialiser la camera
 715,[Espace] Pause
-716,Jouer
-717,Vitesse x2
-718,Vitesse x5
+716,[Espace] Jouer
+717,[Espace] Vitesse x2
+718,[Espace] Vitesse x5
 719,[Tab] ou [1]~[9] pour changer de niveau
 720,[I] Objets
 721,Alerte
 722,Compétence requise:
-723,"A déverouiller"
+723,"Déverouiller aléatoirement quand les survivants ont un ""moment de repos""."
 724,Rappeler
+725,Tooltip_UpStair
+726,Tooltip_DownStair
+727,Tooltip_Fight
+728,Tooltip_TaskEfficiency
+729,Tooltip_TaskEfficiency_All
 800,Poids
 801,Flottabilité
 802,Objets
@@ -227,34 +266,43 @@
 860,Développer
 861,Extraire
 862,Produire
-863,Signaler un Bug
+863,Rapport de bug
 864,Envoyer...
 865,Merci de décrire le bug (en anglais si possible)...
 866,Afficher le Guide
 867,Clavier Azerty
 868,[Guide]
-869,[Signaler un Bug]
+869,[Rapport de Bug]
 870,[Capture d'écran]
 871,[Shift+7] Mur
 872,Gravité
 873,Carte
 874,Déchirer
 875,Priorités
-876,Signaler un Bug
+876,Rapport de Bug
 877,BillManager
-878,Mauvais
+878,Pile_Quality_Bad
 879,Pile_Quality_Soso
-880,Normal
-881,Bon
-882,Excellent
+880,Pile_Quality_Normal
+881,Pile_Quality_Good
+882,Pile_Quality_Best
 883,PlantManager
-884,Durée de la Partie
-885,Heures réelles
-886,Temps de Jeu
-887,File d'attente
-888,Temps de Jeu
-889,File d'attente
-890,Appuyez sur Alt Gauche pour afficher les info-bulles.LMB/RMB pour gérer la quantité de stockage.
+884,GameDuration
+885,RealTime
+886,GameTime
+887,Queue
+888,GameTime
+889,Queue
+890,Storage_hint
+891,Title_ModRestart
+892,Title_WaitForPatchNotes
+893,Floor
+894,Filter
+895,Help_Tag
+896,Help_Material
+897,Help_Use
+898,Help_RequiredSkill
+899,Help_HelpPanel
 900,Addition !
 901,Travail en cours...
 902,Tout annuler
@@ -269,8 +317,8 @@
 911,Arrête de me faire perdre mon temps!
 912,Marché conclu!
 913,"Prenez votre temps, regardez aux alentours"
-914,Marché conclu
-915,Normal
+914,Trade_TradeSucess
+915,Trade_Normal
 1000,Est-ce que tu te moques de moi?
 1001,Ce n'est pas assez!
 1002,Ok
@@ -278,6 +326,7 @@
 1004,C'est très généreux de ta part!
 1005,Arrête de me faire perdre mon temps!
 1006,Marché conclu!
+1007,Trade_Normal
 1100,Ok
 1101,a appris à construire un nouveau bâtiment
 1102,a appris à fabriquer de nouveaux objets
@@ -308,9 +357,23 @@
 1127,Les dernières histoires générées auparavant sont invalides
 1128,"Le système détecte que la langue de vos paramètres Steam ({0}) est différente de celle du jeu. Voulez-vous changer de langue? Si oui, un redémarrage est nécessaire"
 1129,Merci pour votre commentaire! La durée du téléchargement en arrière-plan sera terminée dans quelques minutes...
+1130,Message_Predict_Storm
+1131,Message_Predict_Tornado
+1132,Message_Never_Reshow
+1133,Message_Never_DeleteSave
+1134,Message_Never_DontDeleteSave
+1135,Message_Pirate_Hungry
+1136,Message_Pirate_Thirsty
+1137,Message_Pirate_HungryHarm
+1138,Message_Pirate_ThirstyHarm
 1200,Interragir
 1201,Aider
 1202,Butin
+1203,EventPanel_Attact
+1204,EventPanel_Expel
+1205,EventPanel_Trade
+1206,EventPanel_Catch
+1207,EventPanel_Fetch
 1300,cette belle chose
 1301,Je n'aime pas ça
 1302,Je veux cette chose
@@ -338,10 +401,10 @@
 1407,Impossible de construire
 1408,Impossible de construire
 1409,Devrait être placé entre les arbres
-1410,Devrait être placé proche de l'eau
+1410,Devrait être placé près de l'eau
 1411,Devrait être placé sur l'eau
 1412,Hauteur max atteinte
-1413,Devrait être placé proche de l'eau
+1413,Location_Forbidden_Building_Dep_Near_Tag
 1500,SmallTalk_Normal_Skeleton
 1501,Je parle avec {0} à propos d'un homme dans le monde
 1502,Je parle avec {0} à propos d'une femme dans le monde
@@ -378,14 +441,52 @@
 1802,{0} m'a dit quelque chose d'étrange à propos de {1}
 1803,{0} m'a appris quelque chose à propos de {1}
 1804,SmallTalk_Skill_Skeleton_Reserved
-2000,Ile
-2001,<color=yellow>Survivant {0}</color>
-2002,<color=aqua>Objet {0}</color>
-2003,<color=green>{0} X {1}</color>
-2004,<color=orange>{0}</color>
-2005,<color=teal>Pièce {0}</color>
-5000,{0}corps
-5001,j
-5002,h
-5003,m
-5004,s
+2000,Focus_Island
+2001,Focus_Survivor
+2002,Focus_Building
+2003,Focus_Pile
+2004,Focus_EventEntity
+2005,Focus_Room
+2100,PirateCommand_MoveTo
+2101,PirateCommand_Location
+2102,PirateCommand_PickUpPile
+2103,PirateCommand_EntityOperate
+2104,PirateCommand_PutOnEquip
+2105,PirateCommand_CarryPile
+2106,PirateCommand_PutOnLimb
+2107,PirateCommand_FeedLocation
+5000,Survivor_s_Corpse
+5001,Time_Day
+5002,Time_Hour
+5003,Time_Minute
+5004,Time_Second
+5100,Item_Corrupt_Food
+5101,Item_Corrupt
+5102,Help_SelectLeft
+5103,Priority_Control
+5104,Pile_Decay
+5105,SaveCreatedAt
+5106,SaveName
+5500,Env_TemperatureColdHarm
+5501,Env_TemperatureCold
+5502,Env_TemperatureWarm
+5503,Env_TemperatureHot
+5504,Env_TemperatureHotHarm
+5510,Env_HumidityHighHarm
+5511,Env_HumidityHigh
+5512,Env_HumidityNormal
+5520,Env_SaltFogHighHarm
+5521,Env_SaltFogHigh
+5522,Env_SaltFogNormal
+5530,Env_BrightnessVeryLow
+5531,Env_BrightnessLow
+5532,Env_BrightnessNormal
+5533,Env_BrightnessHigh
+5534,Env_BrightnessVeryHigh
+5540,Env_RainHeavy
+5541,Env_RainMiddle
+5542,Env_RainSmall
+5543,Env_RainLittle
+5544,Env_NoRainCloudy
+5545,Env_NoRainCloudyHeavy
+5546,Env_NoRain

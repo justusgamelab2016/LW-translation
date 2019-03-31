@@ -70,8 +70,8 @@
 72,Wood Ashes,Can be gathered in a campfire.
 73,Basic Herb,Green herbs.
 74,Blood Herb,Red herbs.
-76,Sunshine Herb,Yellow herbs.
 75,Blue Herb,Blue herbs.
+76,Sunshine Herb,Yellow herbs.
 77,Cure Mix,Used to heal wounds.
 78,Energy Mix,Used to remove sleepy.
 79,Chill Mix,Used to recover sanity.
@@ -151,3 +151,51 @@
 153,Wine,Made by fruit. It's refreshing.
 154,Mushroom,Grow on a log. Looks cute.
 155,Blood,Blood of a creature. Great snack for a vampire.
+156,Shrimp,
+157,Pickle,
+158,HolyWater,
+159,RoastBirdMeat,
+160,Bottle,
+501,HumanRightArm,
+502,HumanLeftArm,
+503,HumanRightLeg,
+504,HumanLeftLeg,
+505,WoodenRightArm,
+506,WoodenLeftArm,
+507,WoodenRightLeg,
+508,WoodenLeftLeg,
+1000,Bow,
+1001,Arrow,
+1002,Spear,
+1003,Club,
+1004,FishBoneSword,
+1005,BoneSpear,
+1006,ThrowingSpear,
+1007,BoneThrowingSpear,
+1008,BoneArrow,
+1009,BlowGun,
+1010,BlowGunArrow,
+1011,Bandage,
+1012,DisinfectedBandage,
+1013,Sword,
+1014,Dagger,
+1015,Boomerang,
+1016,Slingshot,
+1017,Shield,
+1018,Claymore,
+1019,WarHammer,
+1020,SpikeClub,
+1021,BoneAxe,
+1022,TridentIce,
+1023,TridentFire,
+1024,Grenade,
+2001,WoodArmor,
+2002,WoodHat,
+2003,BoneArmor,
+2004,BoneHat,
+2005,FlaxArmor,
+2006,FlaxHat,
+2007,ClothArmor,
+2008,ClothHat,
+2009,ShellBra,
+2010,CoCoNutHelmet,

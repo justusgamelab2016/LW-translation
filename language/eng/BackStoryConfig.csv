@@ -18,7 +18,25 @@
 102,{1:name} married {2:fullname}.
 103,{1:name} delievered a child {2:name}.
 104,"{1:name} died, at {1:age} years old"
-150,"{1:name} were out on sea and survived the Apocalypse, but lose all the wealth on land."
+120,"{1:fullname} was born in a wealthy family, {0:relationr} of {1:mother} and {1:father}."
+121,"{1:fullname} was born in a poor family, {0:relationr} of {1:mother} and {1:father}."
+122,"{1:fullname} was born in a mediocre family, {0:relationr} of {1:mother} and {1:father}."
+123,"{1:fullname} was born, {0:relationr} of {1:mother}."
+124,"{1:fullname} was born, {0:relationr} of {1:mother}, haven't got who {1:pronp} father is."
+150,"{1:name} were out on sea and survived the Fall, but lose all the wealth on land."
+151,{1:name} were on the mountain of an island when the Apocalpyse occured.
+152,{1:name} bought a ship on the Apocalpyse and survived. But {1:pronp} ship was than robbed by raiders.
+153,{1:name} stay in vault to survive the Fall. But the valut was quickly destory by mutant.
+154,{1:name} was luck to survived the Fall as a child.
+155,{1:name} was luck to survived the Fall as a child.
+156,{1:name} was helped by the follower and survived the Apocalpyse.
+157,{1:name} was helped by others and survived the Apocalpyse.
+158,{1:name} was luck to survived the Fall.
+159,{1:name} survived the Fall with {1:pronp} wisdom.
+170,{1:name} was too old and didn't make it in the Fall.
+171,{1:name} was too old and {1:his} family gave up {1:him} in the Fall.
+172,{1:name} was sailing but died in the strom when the Fall come.
+173,{1:name} did't have enough time to escape and died in the Fall.
 200,"{1:name} was bullied by other children, not so scurvy though. {1:pron} remembered those names forever, which are {2:fullname} and {3:fullname}."
 201,"{1:name} was bullied by other children, suffered so much. {1:pron} hated them to the core, which are {2:fullname} and {3:fullname}."
 202,"{1:name} was bullied by other children, not so scurvy though. {1:pron} can't remember it now."
@@ -109,9 +127,9 @@
 901,{1:name}'s tribe were robbed by Raven.
 902,{1:name} saw raven raiding the tribe.Luckly {1:pron} managed to escape.
 903,{1:name} tried to negotiate with Raven and survived.
-1000,{1:name} drifted for days after the Apocalypse.
-1001,{1:name} drifted for weeks after the Apocalypse.
-1002,{1:name} drifted for mouths after the Apocalypse.
+1000,{1:name} drifted for days after the Fall.
+1001,{1:name} drifted for weeks after the Fall.
+1002,{1:name} drifted for mouths after the Fall.
 1003,{1:name} don't remember how much days {1:pron} had been drifting after the apocalypse.
 1100,Rich {1:name} losed all {1:namep} money and end up becoming a junkman.
 1101,Believer {1:name} discard all {1:nameo} property became a junkman.
@@ -171,41 +189,23 @@
 1372,{1:name} survived a robbery by recongnized the robber was {1:prono} friend.
 1373,{1:name} was nearly robbed but {1:pronp} wisdom help {1:prono} escape.
 1374,{1:name} was nearly robbed.
-120,"{1:fullname} was born in a wealthy family, {0:relationr} of {1:mother} and {1:father}."
-121,"{1:fullname} was born in a poor family, {0:relationr} of {1:mother} and {1:father}."
-122,"{1:fullname} was born in a mediocre family, {0:relationr} of {1:mother} and {1:father}."
-123,"{1:fullname} was born, {0:relationr} of {1:mother}."
-124,"{1:fullname} was born, {0:relationr} of {1:mother}, haven't got who {1:pronp} father is."
-151,{1:name} were on the mountain of an island when the Apocalpyse occured.
-152,{1:name} bought a ship on the Apocalpyse and survived. But {1:pronp} ship was than robbed by raiders.
-153,{1:name} stay in vault to survive the Apocalypse. But the valut was quickly destory by mutant.
-154,{1:name} was luck to survived the Apocalypse as a child.
-155,{1:name} was luck to survived the Apocalypse as a child.
-156,{1:name} was helped by the follower and survived the Apocalpyse.
-157,{1:name} was helped by others and survived the Apocalpyse.
-158,{1:name} was luck to survived the Apocalypse.
-159,{1:name} survived the Apocalypse with {1:pronp} wisdom.
-170,{1:name} was too old and didn't make it in the Apocalypse.
-171,{1:name} was too old and {1:his} family gave up {1:him} in the Apocalypse.
-172,{1:name} was sailing but died in the strom when the Apocalypse come.
-173,{1:name} did't have enough time to escape and died in the Apocalypse.
 2251,{1:name} told {1:his} students about the Apocaplpse on class.
 2252,{1:name} talked about the  {1:his} when interviewed by the TV reporter.
-2253,{1:name} talked {1:his} client about the the Apocalypse.
-2254,{1:name} talked about the the Apocalypse in {1:his} campaign speeches .
-2255,{1:name} talked about the the Apocalypse on {1:his} the TV show .
+2253,{1:name} talked {1:his} client about the the Fall.
+2254,{1:name} talked about the the Fall in {1:his} campaign speeches .
+2255,{1:name} talked about the the Fall on {1:his} the TV show .
 2256,{1:name} talked about the the odd creature {1:pron} met in the sea shore.
-2257,{1:name} talked to{1:his} client about the the Apocalypse.
-2258,{1:name} talked to {1:his} patient about the the Apocalypse.
-2259,{1:name} talked to {1:his} customer about the the Apocalypse.
-2260,{1:name} talked to {1:his} family about the the Apocalypse.
-2261,{1:name} talked to {1:his} friend about the the Apocalypse.
-2262,{1:name} heard rumors about the the Apocalypse.
+2257,{1:name} talked to{1:his} client about the the Fall.
+2258,{1:name} talked to {1:his} patient about the the Fall.
+2259,{1:name} talked to {1:his} customer about the the Fall.
+2260,{1:name} talked to {1:his} family about the the Fall.
+2261,{1:name} talked to {1:his} friend about the the Fall.
+2262,{1:name} heard rumors about the the Fall.
 2263,{1:name} spread rumors about some strange creature in the sea.
-2264,{1:name} spread rumors about the the Apocalypse from {1:his} child.
-2265,{1:name} heard rumors about the the Apocalypse from {1:his} boss.
-2266,{1:name} heard rumors about the the Apocalypse from {1:his} teacher.
-2267,{1:name} heard rumors about the the Apocalypse.
+2264,{1:name} spread rumors about the the Fall from {1:his} child.
+2265,{1:name} heard rumors about the the Fall from {1:his} boss.
+2266,{1:name} heard rumors about the the Fall from {1:his} teacher.
+2267,{1:name} heard rumors about the the Fall.
 2268,{1:name} heard rumors about some strange creature in the sea.
 2351,{1:name} told {1:his} students about the Deep on class.
 2352,{1:name} talked about the Deep {1:his} when interviewed by the TV reporter.

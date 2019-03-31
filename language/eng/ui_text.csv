@@ -9,6 +9,34 @@
 107,Exit
 108,Pre-Alpha Supporters
 109,Community Moderator
+110,Easy
+111,Normal
+112,Hard
+113,Back
+114,Initializing
+115,Might take a few minutes for the first time.
+116,Creative Mode
+117,Story Board Selection
+118,Plugins
+119,Plugins Version
+120,Do you really want to delete this save?
+121,Forums
+122,Patch Notes
+123,Join Discord
+124,Open Steam WorkShop
+125,Get Mod From Forum
+126,Close
+127,Title_Plugins_Current_Mod_Workshop_Page
+128,Title_Plugins_Unsubscribe_Mod
+129,Built on {0}
+130,Title_Creative
+131,Title_MusicAndSound
+132,Title_HelpTranslate
+133,Title_Translators
+134,Title_CallForTranslators
+135,Title_CallForTranslators_CountMeIn
+136,Title_CallForTranslators_NO
+137,Title_Steam
 200,AutoSave
 201,Simplify Graphics
 202,Save
@@ -23,6 +51,22 @@
 211,Guide
 212,Control
 213,Resume
+214,Resolution
+215,Fastest
+216,Fast
+217,Simple
+218,Good
+219,Beautiful
+220,Fantastic
+221,Full Screen
+222,Graphic Quality
+223,Brightness
+224,Are you sure to quit Last Wood?
+225,GuideGame
+226,GameTODO
+227,ThanksForPlayingDemo
+228,HopeLikeDemo
+229,JoinDiscordWithUs
 300,Resource
 301,Structure
 302,Craft
@@ -54,6 +98,12 @@
 422,Play
 423,Open
 424,Chat
+425,Open Door
+426,Lock Door
+427,Location_PaddleForward
+428,Location_PaddleBackward
+429,Location_SailClose
+430,Location_SailOpen
 500,Carry
 501,Target Location
 502,Target Pile
@@ -91,7 +141,37 @@
 534,"Skills of sailing, navigation and mapping."
 535,"Skills of fighting. Increase strength, speed, use of weapons and battle technic."
 536,Can Upgrade
+537,No Equipment
+538,Hunger
+539,Thirsty
+540,Sleepy
+541,Health
+542,Sanity
+543,Clean
+544,Excrete
+545,Skill Exp
+546,Skill Upgrade Trials
+547,Each finished trial would provide additional bonus when upgraded to next level.
+548,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
+549,Traits
+550,Specialty
+551,Learned Recipes
+552,Perks
+553,Random
+554,Take Off
 555,Survive {0} more days to unlock
+556,Cripple
+557,Lose Limb
+558,LV
+559,Care
+560,Care influence the skill of healing wound and caring patient.
+561,characterCreation
+562,Status_body
+563,Status_head
+564,Status_Ill_Attack
+565,Status_Ill_Defense
+566,Status_Ill_Speed
+567,Status_Ill_Carry
 600,Tune
 601,Tune sail relaxation
 602,Tune rudder direction
@@ -110,10 +190,19 @@
 714,[F9] Reset Camera
 715,[Space] Pause
 716,[Space] Play
-717,[Space] X2 Speed
-718,[Space] X5 Speed
-719,[Tab] or [1]~[9] to Switch Floor
+717,[Space] X2 Speed / [Tab] to switch
+718,[Space] X5 Speed / [Tab] to switch
+719,[PgUp/PgDown] or [1]~[9] to switch floor
 720,[I] Items
+721,Alert
+722,Required Skill:
+723,"Unlock randomly when survivors have an ""aha moment""."
+724,Call Back
+725,Tooltip_UpStair
+726,Tooltip_DownStair
+727,Tooltip_Fight
+728,Tooltip_TaskEfficiency
+729,Tooltip_TaskEfficiency_All
 800,Mass
 801,Buoyancy
 802,Items
@@ -122,14 +211,14 @@
 805,[Shift+3] Survivor
 806,[Shift+4] Room
 807,[Shift+5] Island
-808,[Shift+6] Land
+808,[Shift+6] Land And Wall
 809,Consume
 810,Produce
 811,Show All
 812,Show All and Up
 813,Show All and Down
 814,Show Current Floor
-815,Pick A Name
+815,Name Your Raft
 816,Personal Interest:
 817,Wealth
 818,Something is going on....
@@ -158,6 +247,64 @@
 841,Some
 842,Much
 843,Need
+844,Rainfall
+845,Day {0}
+846,You need to restart the game to make the settings take effect.
+847,Restart now.
+848,Restart Later.
+849,Total Space
+850,Backstory
+851,[Build]
+852,[Items]
+853,[Pan Cam]
+854,[Rest Cam]
+855,[Switch Floor]
+856,[Rotate Blueprint]
+857,[Filter]
+858,Drop
+859,Enter Text...
+860,Expand
+861,Fetch
+862,Produce
+863,Report Bugs
+864,Report
+865,Please describe the bug...
+866,Show Guide
+867,Is Azerty Keyboard
+868,[Guide]
+869,[Bug Report]
+870,[Screenshot]
+871,[Shift+7] Wall
+872,Gravity
+873,Map
+874,TearUp
+875,Priority
+876,Bug Report
+877,BillManager
+878,Bad
+879,Soso
+880,Normal
+881,Good
+882,Best
+883,[Roate Cam]
+884,[Roate Cam 90°]
+885,RealTime
+886,GameTime
+887,Queue
+888,GameTime
+889,Queue
+890,"Press LAlt to show tooltips.
+LMB/RMB to manage storage amount.
+Hold LCtrl and left click item to cancel. "
+891,"Mod requires restart to take effect, do you want to restart now?"
+892,Title_WaitForPatchNotes
+893,Floor
+894,Filter
+895,Help_Tag
+896,Help_Material
+897,Help_Use
+898,Help_RequiredSkill
+899,Help_HelpPanel
 900,Bill
 901,Working In Progress
 902,Cancel All
@@ -172,13 +319,16 @@
 911,Stop wasting my time!
 912,Deal!
 913,"Take your time, look around."
-1000,Are you fooling with me?
+914,TradeSucess
+915,Normal
+1000,Are you fooling me?
 1001,That's not enough.
 1002,That's ok.
 1003,That's a tempting offer
 1004,That's very generous of you.
 1005,Stop wasting my time!
 1006,Deal!
+1007,Trade_Normal
 1100,OK.
 1101,learned to build a new type of building.
 1102,learned to craft a new type of item.
@@ -197,12 +347,35 @@
 1115,make a good dish.
 1116,Cook materials not enough.
 1117,found a baby in the shark body.
-1118,die...
+1118,has died...
 1119,Cancel
 1120,doesn't want to work anymore.
+1121,"Game over, quit now?"
+1122,I'll stay here.
+1123,Quit
+1124,saving...
+1125,uploading...
+1126,Save file broken.
+1127,Back stories generated before are invalid.
+1128,"System detects that language in your steam settings ({0}) is different from game settings. Would you like to switch language to steam settings? If so, a reboot is required."
+1129,Thanks for your feedback! Uploading job in the background will be done in a few minutes...
+1130,{0} thinks a strom is coming.
+1131,{0} thinks a tornado is coming.
+1132,Never show again
+1133,Message_Never_DeleteSave
+1134,Message_Never_DontDeleteSave
+1135,Message_Pirate_Hungry
+1136,Message_Pirate_Thirsty
+1137,Message_Pirate_HungryHarm
+1138,Message_Pirate_ThirstyHarm
 1200,Interact
 1201,Help
 1202,Plunder
+1203,EventPanel_Attact
+1204,EventPanel_Expel
+1205,EventPanel_Trade
+1206,EventPanel_Catch
+1207,EventPanel_Fetch
 1300,that pretty thing.
 1301,I dislike it.
 1302,I want that thing.
@@ -221,37 +394,25 @@
 1315,"Finally, I have what I dream of."
 1316,"I used to have it, but I didn't cherish."
 1400,Location depends on existing floor.
-1401,Can't build here.
-1402,Can't build here.
+1401,There must be water on both sides.
+1402,There is something too high below.
 1403,There is a raft nearby.
 1404,There is an island nearby.
 1405,There is something nearby.
 1406,Can't place on floor with moss.
-1407,Can't build here.
-1408,Can't build here.
+1407,Must be built on soil floor.
+1408,This building is too high.
 1409,Should be placed between trees.
 1410,Should be placed nearby water.
 1411,Should be placed on water surface.
 1412,Reach maximum height.
-844,Rainfall
-845,Day {0}
-846,You need to restart the game to make the settings take effect.
-847,Restart now.
-848,Restart Later.
-110,Easy
-111,Normal
-112,Hard
-113,Back
-721,Alert
-849,Total Space
-1121,"Game over, quit now?"
-1122,I'll stay here.
-1123,Quit
+1413,Should be placed nearby water.
+1500,SmallTalk_Normal_Skeleton
 1501,I talk with {0} about men in the world.
 1502,I talk with {0} about women in the world.
 1503,I talk with {0} about the view
 1504,I talk with {0} about our childhood
-1505,I talk with {0} about the Apocalypse
+1505,I talk with {0} about the Fall
 1506,I talk with {0} about the Eden
 1507,I talk with {0} about the ship of Theseus
 1508,I talk with {0} about our favorite sea food
@@ -267,88 +428,67 @@
 1518,I talk with {0} about the Mutant
 1519,I talk with {0} about the Raven
 1520,I talk with {0} about reserved
+1600,SmallTalk_Item_Skeleton
 1601,I talk with {0} about {1}
 1602,{0} told me something strange about {1}
 1603,{0} taught me something about {1}
+1604,SmallTalk_Item_Skeleton_Reserved
+1700,SmallTalk_Location_Skeleton
 1701,I talk with {0} about {1}
 1702,{0} told me something strange about {1}
 1703,{0} taught me something about {1}
+1704,SmallTalk_Location_Skeleton_Reserved
+1800,SmallTalk_Skill_Skeleton
 1801,I talk with {0} about {1}
 1802,{0} told me something strange about {1}
 1803,{0} taught me something about {1}
-114,Initializing
-115,Might take a few minutes for the first time.
-537,No Equipment
-538,Hunger
-539,Thirsty
-540,Sleepy
-541,Health
-542,Sanity
-543,Clean
-544,Excrete
-545,Skill Exp
-546,Skill Upgrade Trials
-850,Backstory
-851,[Build]
-852,[Items]
-853,[Pan Cam]
-854,[Rest Cam]
-855,[Switch Floor]
-856,[Rotate Blueprint]
-857,[Filter]
-858,Drop
-859,Enter Text...
-860,Expand
-861,Fetch
-116,Creative Mode
-117,Story Board Selection
-118,Plugins
-119,Plugins Version
-547,Each finished trial would provide additional bonus when upgraded to next level.
-548,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
-722,Required Skill:
-723,"Unlock randomly when survivors have an ""aha moment""."
-120,Do you really want to delete this save?
-549,Traits
-550,Specialty
-551,Learned Recipes
-552,Perks
-553,Random
-724,Call Back
-862,Produce
-863,Report Bugs
-864,Report
-865,Please describe the bug...
-1500,SmallTalk_Normal_Skeleton
-1600,SmallTalk_Item_Skeleton
-1604,SmallTalk_Item_Skeleton_Reserved
-1700,SmallTalk_Location_Skeleton
-1704,SmallTalk_Location_Skeleton_Reserved
-1800,SmallTalk_Skill_Skeleton
 1804,SmallTalk_Skill_Skeleton_Reserved
-1124,saving...
-1125,uploading...
-1126,Save file broken.
-1127,Back stories generated before are invalid.
-1128,"System detects that language in your steam settings ({0}) is different from game settings. Would you like to switch language to steam settings? If so, a reboot is required."
-1129,Thanks for your feedback! Uploading job in the background will be done in a few minutes...
-866,Show Guide
-867,Is Azerty Keyboard
-868,[Guide]
-869,[Bug Report]
-870,[Screenshot]
-214,Resolution
-215,Fastest
-216,Fast
-217,Simple
-218,Good
-219,Beautiful
-220,Fantastic
-221,Full Screen
-222,Graphic Quality
-121,Forums
-554,Take Off
-871,[Shift+7] Wall
-872,Gravity
-873,Map
-874,TearUp
+2000,Island
+2001,<color=yellow>Survivor {0}</color>
+2002,<color=aqua>Building {0}</color>
+2003,<color=green>{0} X {1}</color>
+2004,<color=orange>{0}</color>
+2005,<color=teal>Room {0}</color>
+2100,Move to here...
+2101,[Not equipped]{0} ({1})
+2102,[Not equipped]Pick up ({0})
+2103,[Not equipped]{0} ({1})
+2104,PirateCommand_PutOnEquip
+2105,PirateCommand_CarryPile
+2106,PirateCommand_PutOnLimb
+2107,PirateCommand_FeedLocation
+5000,{0}'s Corpse
+5001,d
+5002,h
+5003,m
+5004,s
+5100,{0} rotten
+5101,{0} corrupted
+5102,Help_SelectLeft
+5103,Priority_Control
+5104,Pile_Decay
+5105,SaveCreatedAt
+5106,SaveName
+5500,Too cold
+5501,Cold
+5502,Warm
+5503,Hot
+5504,Too hot
+5510,Too high
+5511,High
+5512,Normal
+5520,Insufferable
+5521,Discomfortable
+5522,Normal
+5530,Complete darkness
+5531,Dark
+5532,Normal
+5533,Gentle brightness
+5534,High noon
+5540,Heavy rain
+5541,Middle rain
+5542,Small rain
+5543,Little rain
+5544,Cloudy
+5545,Heavy cloudy
+5546,No rain

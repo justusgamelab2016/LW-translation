@@ -25,3 +25,14 @@ Then, click the [Alert] button on one's character card (on the bottom of the scr
 15,Room,"Any closed space with at least one door is a room. You can select room if you toggle the filter on. After that, you can assign survivors to a certain room. This would make the room private, which means other survivors can't get in and use anything inside. With different buildings inside the room, you can make a working room, meditaion room, dinning hall and so on.","Any closed space with at least one door is a room. You can select room if you toggle the filter on. After that, you can assign survivors to a certain room. This would make the room private, which means other survivors can't get in and use anything inside. With different buildings inside the room, you can make a working room, meditaion room, dinning hall and so on."
 16,Unlock,"Leveling up skill would unlock most buildings and recipes. For others, you can unlock them by researching in a work room(and provide correct material) or scavenging on the island. Survivors sometimes would have a 'aha moment' when they medita in the meditation room or looking at paintings.","Leveling up skill would unlock most buildings and recipes. For others, you can unlock them by researching in a work room(and provide correct material) or scavenging on the island. Survivors sometime would have a 'aha moment' when they medita in the meditation room or looking at paintings."
 17,CreativeMode,"In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode.","In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode."
+18,PlacePaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+101,GetWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+102,GetFish,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+103,GetWater,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+104,GetKebab,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+105,FightSeagull,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+106,BuildSoilFloor,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+107,FightShark,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+109,BuildAPaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+110,NoWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.

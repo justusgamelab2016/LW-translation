@@ -1,7 +1,14 @@
-0,None,
+0,None,none
 1,Survival,"Basic survival skill.Including fishing, gathering materials."
 2,Cook,Cook more delicious and nutritious food.
 3,Craft,"The skill of create. Including crafting tools, weapons, protection."
 4,Nautics,"The skill of sailing, navigation and mapping."
 5,Fight,"The skill of fighting. Increase strength, speed, use of weapons and battle technic."
-6,All,
+6,Care,none
+7,Sword,none
+8,Spear,none
+9,Bow,none
+10,Knife,none
+11,Blunt,none
+12,Tech,none
+13,All,none

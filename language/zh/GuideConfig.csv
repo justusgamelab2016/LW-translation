@@ -1,0 +1,28 @@
+1,伐木,伐木,選擇一棵樹，再選砍倒即可。砍倒樹木會提供木材和水果。收穫材料的數量和種類，取決於砍倒時數目成長到何種程度。
+2,收穫,收穫,選擇一棵樹，再選收穫即可。這樣，就可以只收獲水果而不砍倒樹木。
+3,植樹,植樹,點開建造面板，找到資源分頁，再選擇樹木，再把藍圖放到任意泥土地板上即可植樹。
+4,建造木筏,建造木筏,點開建造面板，找到結構分頁，再選擇木筏。木筏可以建造再任意木筏的毗鄰格。
+5,建造泥土地板,建造泥土地板,點開建造面板，找到資源分頁，再在木筏上右鍵開啟次級面板。在次級面板裡找到泥土地板，你可以想放置一個普通木筏那樣放置它。
+6,篩選,篩選,篩選按鈕列在螢幕正上方。你可以單擊來開或關他們。如果開，意味著這一類東西會被滑鼠選擇到。從左往右分別是建築、物品、人物、房間、島嶼和地板。
+7,角色,角色,螢幕正下方是你的角色。點選任意角色可以看到基本資訊。點選詳情可以開啟人物面板。裡面包括了狀態、裝備、日記、性格、社交、技能和健康情況。
+8,攻擊鯊魚,攻擊鯊魚,想要攻擊鯊魚或任何敵人，只要選中敵人，再選攻擊。然後，對於你想派遣戰鬥的倖存者，在他們的角色UI上（位於螢幕下方），點亮“警戒模式”按鈕（一個劍形的小圖示）。
+9,切換樓層,切換樓層,按1~9或者螢幕左側的一豎列按鈕來切換樓層聚焦，你必須聚焦到某一層才能在那一層進行建造。
+10,添柴,添柴,篝火需要添柴。點選篝火可以看到細節。點選添柴面板來指派倖存者為它添柴。
+11,堆肥池,堆肥池,堆肥池可以將任意食物轉化為腐殖質，腐殖質是製作泥土地板的重要材料。選中堆肥池，在你想要新增的食物上多次左鍵點選直到數量讓你滿意，這會讓人物去新增這種食物。當食物放入後，需要等一段時間才能轉化為腐殖質。多次點選右鍵可以取出製造出來的腐殖質。
+12,儲存,儲存,如果某個建築有儲存空間，點選時會自動顯示儲存面板，左鍵(右鍵)點選裡面某個物品，可以增加(減少)你希望放入的該種物品個數。預設情況下（只顯示一個數字），意味著你不關心這種物品放多少個。
+13,製造繩子,製造繩子,繩子非常有用。若想製作繩子，需要先種植亞麻。亞麻的種植方式跟樹一樣。然後需要建造一個工作臺。點選工作臺來開啟製造面板，這裡，你可以多次點選繩子的配方來表示你期望製作多少個繩子。當材料足夠，你的角色會自動開始製作。
+14,升級技能,升級技能,每個倖存者有6個技能，每個技能可以從0級升級到6級。你可以通過讓倖存者反覆使用技能來獲得技能經驗。經驗足夠時，點選升級按鈕即可升級。注意每一級都有一些隨機的技能試煉，完成試煉，可以在升級時獲得額外加成。從4級開始，你必須完成一定量的試煉才能繼續升級。
+15,房間,房間,任何帶門的封閉空間都能形成房間。點選房間（注意把篩選開啟）後，你可以將倖存者指派給房間，這會使得別人無法進入這個房間也無法使用裡面的物品。通過在房間裡放置不同的建築，你可以組合出不同的功能性房間，比如工作室、冥想室、餐廳等等。
+16,解鎖配方,解鎖配方,升級技能可以解鎖大部分的配方。其餘的配方，可以通過在工作室裡的工作設施上研究（需要提供對應的材料）或者在島嶼上調查殘骸，或者倖存者“靈光一閃”、冥想、欣賞畫作時偶然發現。
+17,創意模式,創意模式,你可以在創意模式下隨意建造，但是普通模式未曾解鎖過的建築是不能造的。
+18,建造划槳,建造划槳,划槳需要放在水邊，準確地說，需要三側都有水環繞。
+101,GetWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+102,GetFish,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+103,GetWater,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+104,GetKebab,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+105,FightSeagull,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+106,BuildSoilFloor,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+107,FightShark,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+109,BuildAPaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+110,NoWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.

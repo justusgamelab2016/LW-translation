@@ -1,77 +1,83 @@
-0,None
-1,Move
-2,Idle
-3,Eat
-4,Drink
-5,Sleep
-6,Excrete
-7,Clean
-8,Social
-9,Pray
-10,Find Shelter
-11,Lose Mind
-12,Build
-13,Interact
-14,Harvest
-15,Wipe
-16,Water Proofing
-17,Fishing
-18,Research
-19,Attack
-20,Flee
-21,Swim
-22,Help
-23,Drown
-24,Unconscious
-25,Drop
-26,Carry Item
-27,Move Person
-28,Land
-29,Fall
-30,Repair
-31,Demolish
-32,Arrange
-33,Feed
-34,Feed SeaWater
-35,Drain
-36,Fetch
-37,Make Love
-38,Put on
-39,Range Attack
-40,Throw Away Pile
-41,Return to Raft
-42,Attack Land
-43,Attack Entity
-44,Eat
-45,Sow
-46,Wander
-47,Aggressive
-48,Steal
-49,Steal Baby
-50,Leave
-51,Pass by
-52,Meditate
-53,Carried
-54,Fetch
-55,Look at Sky
-56,Dancing
-57,Look at Sea
-58,Play on Sea
-59,Play Flute
-60,Approaching
-61,Trade
-62,Appreciate Painting
-63,Think
-64,Irrigate
-65,Disinsect
-66,Tillage
-67,Fertilizing
-68,Dye
-69,Arrange
-70,Arrange
-71,Arrange
-72,Hobby
-73,Wander
-74,Go Home
-75,Show Up
-76,Dive
+0,Nada
+1,Andando
+2,À toa
+3,Comendo
+4,Bebendo
+5,Dormindo
+6,Defecando
+7,Se limpando
+8,Socializando
+9,Rezando
+10,Se abrigando
+11,Enlouquecendo
+12,Construindo
+13,Interagindo
+14,Colhendo
+15,Limpando
+16,Impermeabilizando
+17,Pescando
+18,Pesquisando
+19,Atacando
+20,Fugindo
+21,Nadando
+22,Ajudando
+23,Se afogando
+24,Inconsciente
+25,Soltando
+26,Carregando item
+27,Movendo pessoa
+28,Atracando
+29,Caindo
+30,Consertando
+31,Demolindo
+32,Organizando
+33,Alimentando
+34,Jogando comida no mar
+35,Drenando
+36,Buscando
+37,Fazendo amor
+38,Colocando
+39,Atacando à distância
+40,Jogando itens fora
+41,Retornando para jangada
+42,Atacando terra
+43,Atacando entidade
+44,Comendo
+45,Semeando
+46,Passeando
+47,Agredindo
+48,Roubando
+49,Roubando bebê
+50,Indo embora
+51,Passando
+52,Meditando
+53,Carregando
+54,Buscando
+55,Olhando o céu
+56,Dançando
+57,Olhando o mar
+58,Brincando no mar
+59,Tocando flauta
+60,Aproximando-se
+61,Negociando
+62,Apreciando pintura
+63,Pensando
+64,Irrigando
+65,Desinsectando
+66,Lavourando
+67,Adubando
+68,Pintando
+69,Organizando
+70,Organizando
+71,Organizando
+72,Divertindo-se
+73,Passeando
+74,Indo para casa
+75,Aparecendo
+76,Mergulhando
+77,EatField
+78,Heal
+79,Wait for healing
+80,Deliver job
+81,Switch door
+82,Equip limb

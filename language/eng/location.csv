@@ -59,8 +59,8 @@
 60,Shower,Nice shower.
 61,Toilet,Turn feces into fertilizer.
 62,Shark Trap,Catch shark for a while.
-63,Stone,
-64,Mud,
+63,Stone,Mine to get stone.
+64,Mud,Dig to get mud.
 65,Advance Water Filter,Using charcoal to filter sea water.
 66,Green Herb Field,
 67,Yellow Herb Field,
@@ -73,7 +73,7 @@
 74,Advance Hammock,Start to feel like a vocation.
 75,Waterproof Raft,Water proof raft.
 76,Big Table,Great for dinner and meeting..
-77,Work Bench,Craft melee and range weapons.
+77,Workbench,Craft melee and range weapons.
 78,Coconut Tree,Harvest coconuts or cut down for wood.
 79,Advance Raft,Your honest friend. MK2
 80,Fertilizer Pool,Convert food into dirt.
@@ -88,22 +88,35 @@
 90,Berry Field,Produce berry. Good for dessert and dye.
 91,Tree,
 92,Sea Weed,Taste like salty rubber.
-93,Fish Chess,GG.
+93,Fish Chess,A fun way to kill time.
 94,Swing,Have fun!
 95,Chest,There is something inside.
 96,Humid Proof Raft,Keep it dry and clean.
-97,Cabbage,
-98,Spinacia,
-99,Blueberry,
-100,Strawberry,
-101,Poisonberry,
-102,Cage,
+97,Cabbage,Produce cabbage.
+98,Spinacia,Produce spinacia.
+99,Blueberry,Produce blueberry.
+100,Strawberry,Produce strawberry.
+101,Poisonberry,Produce poision berry.
+102,Cage,There is a prisoner insode.
 103,Mutant,Training crafting skill.
 104,Penguin,Training crafting skill.
-105,Chest On Island,
+105,Chest,There is something inside.
 106,Preparing Table,Prepare cold dishes.
-107,BrewingBarrel,Convert fruit into wine.
-108,MushroomLog,Convert wood and woodware into mushroom.
-109,Scrap,
-110,Wood Holder,Store about 20 things.
-111,Food Stash,Store about 20 things.
+107,Brewing Barrel,Brew wine using fruit.
+108,MushroomLog,Use wood and woodware to grow mushroom.
+109,Scrap,A pile of scrap parts of old world. Might find something useful.
+110,Wood Holder,Store about 20 wood.
+111,Food Stash,Store about 20 food.
+112,Door with Bolt,Could be locked from oneside. Couldn't be unlocked from the other side.
+113,Bird Nest,Somtimes seagulls leave eggs in it.
+114,Water Pond,Might collect some fresh water.
+115,Sand,Could collect sand and scallop.
+116,Plant Manage Table,Could manage all soil floors nearby. Including what to plant and when to harvest.
+117,Craft Manage Table,Could manage all facility nearby.
+118,Pickle Barrel,Preserve vegetables with salt.
+119,Arrow Tower,Archer can shoot father and be protected.
+120,Pike Trap,Poke enemies that walk on it.
+121,Statue,Preying might bring good luck.
+122,Coconut Lantern,Stay longer than basic torch. Burning wood tar.
+123,BirdTrap,
+124,RepairTable,

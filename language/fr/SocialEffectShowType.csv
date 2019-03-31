@@ -9,8 +9,8 @@
 8,sa
 9,'s
 10,et
-100,fils
-101,fille
+100,son
+101,daughter
 102,il
 103,elle
 104,lui
@@ -18,11 +18,11 @@
 106,son
 107,sa
 108,Peu de temps après
-109,{0} ans avant l'Apocalypse (BtF)
-110,{0} ans après l'Apocalypse (AtF)
+109,{0} ans avant l'Apocalypse
+110,{0} ans après l'Apocalypse
 111,L'année de l'Apocalyspe
 112,Elle
-113,HerP
-114,HerO
-1000,BtF
-1001,AtF
+113,SaP
+114,SaO
+1000,BG_Before_the_Fall
+1001,BG_After_the_Fall

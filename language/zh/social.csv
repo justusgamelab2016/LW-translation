@@ -1,0 +1,631 @@
+1,{1:Show} 向 {2:Show} 退讓，  {0:ShowList_i_r_we_they} 不再是敵人
+2,{2:ShowS} 拒絕了 {1:ShowP} 的道歉
+3,{1:Show} 的魅力還不足以讓 {2:Show} 說服 {0:ShowList_i_r_we_they} 應該和好
+4,{2:Show} 敞開了心扉，所以 {1:Show} 和 {2:ShowPron_him_her} 和好了
+5,{0:ShowList_i_r_and} 不再對彼此抱有敵意， 甚至忘記了一開始到底是為什麼爭吵
+6,{2:ShowS} 取笑 {1:ShowO} ， 認為這樣更容易向 {2:ShowPron_him_her} 退讓
+7,{0:ShowCKB} 讓 {0:ShowList_i_r_andp} 和好了
+8,結果 {0:ShowCKB} 不足以讓 {0:ShowList_i_r_andp} 和好
+9,{2:ShowS} 人很好， 不再和 {1:ShowO} 是敵人
+10,{1:Show} 的退讓反而變成了對 {2:Show} 的示愛
+11,{1:Show} 愉快地解決了 {1:ShowPron_he_she} 和 {2:Show} 的分歧
+12,{2:ShowS} 在 {1:ShowS} 試圖和好時， 翻起了舊賬
+13,{2:ShowS} 太記仇了， {0:ShowList_i_r_andp} 無法解決分歧
+14,{0:ShowList_i_r_and} 不再爭吵， 又和好為和睦的情侶
+15,{0:ShowList_i_r_and} 仍然在爭吵
+16,{1:Show} 聰明地化解了和 {2:Show} 的分歧
+21,{1:Show} 想讓 {2:Show} 幫忙對付 {3:Show} ， 但是 {2:ShowPron_he_she} 似乎叛變了
+24,{2:ShowS} 並不後悔對 {1:ShowO} 的不友善行為
+25,{2:ShowS} 向 {1:ShowO} 道歉， 覺得自己不是一個合格的朋友
+26,{2:ShowS} 幫 {1:ShowO} 做了一個關於 {3:Show} 的決定
+29,{2:ShowS} 找藉口不幫 {1:ShowO}
+30,{1:Show} 想找 {2:Show} 幫自己， 但是 {2:ShowPron_he_she} 說 曾經的 {2:Show} 已經死了
+31,{2:ShowS} 幫 {1:ShowO} 解決了一個令人尷尬的問題
+33,{2:ShowS} 威脅 {1:ShowO} 提供幫助
+39,{2:ShowS} 告訴 {1:ShowO} {2:ShowPron_he_she} 絕不支援 {1:ShowPron_he_she} 與 {3:Show} 的不誠實關係
+41,{2:ShowS} 很強， 可以幫忙處理 {1:ShowS} 遇到的任何麻煩
+42,{2:ShowS} 是個有求必應的朋友
+43,{2:ShowS} 在 {1:Show} 需要的時候讓 {1:ShowPron_him_her} 失望了
+44,{2:ShowS} 借給 {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
+45,{2:ShowS} 拒絕借給 {1:ShowO} {2:ShowPron_his_her} {0:ShowCKB}
+46,{2:ShowS} 幫了 {2:ShowPron_his_her} 甜心
+49,{1:Show} 想背叛 {2:Show} ， 來終止這段關係
+50,{1:Show} 摧毀了和 {2:Show} 的友誼
+51,{1:Show} 想從背後捅 {2:Show} 一刀， 但是 {2:ShowS} 覺得無所謂
+52,{1:Show} 想毀了 {2:ShowP} 社交
+55,"{1:Show} confessed to dating {2:ShowP} crush, but {2:ShowS} let it go"
+56,{1:Show} 洩露了和祕密， 背叛了 {1:ShowPron_his_her} {2:ShowGender_boyfriend_girlfriend}
+58,{1:Show} 洩露了 {2:ShowP} 祕密， 徹底毀了 {2:ShowPron_his_her} 名聲
+59,當 {1:ShowS} 威脅要背叛 {2:Show} 時， {2:ShowPron_him_her} 只是笑了笑，
+60,{1:Show} 背叛了 {2:Show}
+61,{2:Show} 為做過的卑鄙的事向 {1:Show} 道歉
+63,{1:Show} 羞辱 {2:ShowP} 的頭髮， 但是 {2:ShowPron_he_she} 內心充滿了禪意，毫不在意
+65,{0:ShowList_i_r_and} 進行了一場心靈上的戰爭
+66,{1:Show} 又一次提起了 {2:ShowS} 做過的某件蹩腳的事情
+67,{2:Show} 又做了 {1:ShowS} 認為粗野的事情
+68,{0:ShowList_i_r_and} 總是讓對方很緊張
+69,{0:ShowList_i_r_and} 像結婚多年的夫妻一樣爭吵
+71,{1:Show} 懷著浪漫的感情指責了 {2:Show}
+72,{3:Show} 摻入了 {0:ShowList_i_r_andp} 友誼
+73,{0:ShowList_i_r_and} 陷入了低劣的爭吵
+74,{1:Show} 與 {2:Show} 爭吵， 但是最後變成了恭維
+75,{1:Show} 與 {2:Show} 激烈爭吵
+76,{1:Show} 與 {2:Show} 爭吵， 指責{2:ShowPron_him_her} 與別人約會
+77,{1:Show} 與 {2:Show} 爭吵， 打算參與競爭
+78,{1:Show} 警告 {2:Show} 遠離 {3:Show}
+79,{1:Show} 與小三 {2:Show} 爭吵，但是卻進行了恭維
+80,{1:Show} 打算變得惡毒，但是 {2:ShowS} 俘獲了 {1:ShowPron_him_her}
+84,{1:Show} 抱怨為什麼 {2:ShowS} 和 {3:Show} 是朋友
+87,{1:Show} 試著無視 {2:Show}
+88,{1:Show} 無視了 {2:Show}
+89,{1:Show} 與 {2:Show} 愛好不同， 選擇無視
+90,{1:Show} 徹底地無視了 {2:Show}
+91,{1:Show} 放了 {2:Show} 鴿子
+92,{2:Show} 認為 {1:Show} 說的要放自己鴿子是在開玩笑
+93,{1:Show} 太善良了， 不忍心放了 {2:Show} 鴿子
+94,{1:Show} 放了 {2:Show} 的鴿子， 去找了 {3:Show}
+95,{1:Show} 放了 {2:Show} 的鴿子， 儘管 {0:ShowList_i_r_we_they} 還在交往
+97,{1:Show} 假裝跟 {2:Show} 做了約定， 因為 {0:ShowList_i_r_we_they} 亦敵亦友
+98,{1:Show} 試著放了 {2:Show} 的鴿子， 但是由於 {0:ShowList_i_r_we_they} 太討厭對方了， 所以沒成功
+99,{2:Show} 非常失望， 因為 {1:ShowS} 放鴿子
+100,"{1:Show} 放了 {2:Show} 的鴿子， 去找了 {1:ShowPron_his_her} {3:ShowGender_boy_girl}朋友, {3:Show}"
+101,{2:Show} 徹底心寒了，  因為 {1:Show} 花了更多時間在 {1:ShowPron_his_her} {3:ShowGender_boy_girl}朋友上
+102,{2:Show} 在 {1:ShowS} 放 {2:ShowPron_him_her} 鴿子時一點都不驚訝
+103,{0:ShowList_i_r_and} traded grade-based insults
+106,{1:Show} 告訴了 {2:Show} 一些 {1:ShowPron_he_she} 做過的很屌的事情
+107,{1:Show} 嘗試對 {2:Show} 做一些 {1:ShowPron_he_she} 感覺屌的低劣的事
+108,{1:Show} 用一個聽起來很屌的故事讓 {2:Show} 感到驚訝
+109,{1:Show} 給 {2:Show} 講了一個糟糕的故事
+110,{1:Show} 向 {2:Show} 吹牛自己是個奇才
+112,{2:Show} 面無表情地聽 {1:Show} 吹噓 {1:ShowPron_his_her} 誇誇其談
+113,{2:Show} 很木訥， 沒意識到 {1:ShowS} 在吹噓自己
+114,{1:Show} 不得不讓 {2:Show} 相信 {1:ShowPron_he_she} 做了些很屌的事
+115,{2:Show} 很聰明，  拆穿了 {1:ShowP} 可笑的自我吹噓
+116,{1:Show} 試著吹噓 {1:ShowPron_his_her} 光輝事蹟， 但是事與願違
+117,{1:Show} 似乎通過吹噓的事情俘獲了 {2:Show}
+118,{2:Show} 聽 {1:Show} 吹噓自己時感到了不耐煩
+119,"{1:Show} 向 {2:Show} 吹噓自己曾經對某人很浪漫, 這可不是個好主意"
+120,{1:Show} 向 {2:Show} 吹噓時冒犯了 {1:ShowPron_him_her}
+126,{1:Show} 試圖向 {1:ShowPron_his_her} 敵人的 {2:ShowGender_boyfriend_girlfriend} 吹噓自己有多厲害
+127,{1:Show} 向 {2:Show} 吹噓自己比 {2:ShowPron_his_her} {3:ShowGender_boy_girl}朋友更優秀
+128,{1:Show} 用陰謀與 {2:ShowP} {3:ShowGender_boy_girl}朋友偷情
+129,{1:Show} 對綠掉 {2:Show} 與 {3:Show} 偷情這件事沾沾自喜
+130,{2:Show} 永遠記得 {1:ShowP} 卑鄙的行為
+131,{1:Show} 試著向 {2:Show} 吹噓， 但是 {2:ShowPron_he_she} 還在憤怒中，無視了
+132,{1:Show} 向 {2:Show} 吹噓自己與 {3:Show} 的約會
+133,{1:Show} 向 {2:Show} 吹噓自己與 {3:Show} 的約會
+134,{1:Show} 試著向 {2:Show} 吹噓與 {3:Show} 的約會， 但是事與願違
+135,{1:Show} 試著向 {2:Show} 吹噓自己與 {3:Show} 的約會， 但這顯得很不聰明， 因為 {3:ShowPron_he_she} 是 {2:ShowPron_his_her} 愛慕物件
+136,{1:Show} 試著向 {2:Show} 吹噓， 結果如你所料
+137,{1:Show} 吹噓自己是如何欺騙 {3:Show} 的
+138,{2:Show} 在 {1:Show} 吹噓自己作為欺騙者的經歷後， 對 {1:ShowPron_he_she} 失去了敬意
+139,{2:Show} 忍受了 {1:ShowP} 吹噓
+140,{1:Show} 跟 {2:Show} 吹噓的時候， 表現的像個傻瓜
+141,{2:Show} 認真地聽 {1:ShowP} 故事
+142,{1:Show} 希望 {2:Show} 被 {1:ShowPron_he_she} 做過的事情感動
+143,{1:Show} 向 {2:Show} 吹噓自己對其他人做過的浪漫的事， {2:ShowPron_he_she} 聽了覺得很強
+144,{1:Show} 冒犯了 {2:ShowPron_his_her}
+145,{2:Show} 把 {1:Show} 的無禮無視了
+148,{1:Show} 對 {3:Show} 品頭論足， 讓 {2:ShowS} 很生氣
+149,{1:Show} 對 {3:Show} 品頭論足， {2:ShowS} 也對此很感興趣
+150,{1:Show} 認為拿 {2:Show} 跟 {3:Show} 比較是個好主意
+151,{1:Show} 說 {3:ShowS} 比 {2:Show} 帥氣
+152,{1:Show} 說 {3:ShowS} 比 {2:Show} 帥氣
+153,{1:Show} 對 {2:ShowP} {0:ShowCKB} 做出了輕率的評價
+154,{2:Show} 把 {0:ShowCKB} 列入了 與 {1:Show} 的討論禁忌名單
+155,{1:Show} 叫 {2:Show} 時不小心叫成了 *{3:Show}*
+156,{1:Show} 在 {2:Show} 面前掩飾了與 {3:Show} 的談話
+157,{1:Show} 無意了透露了 {2:Show} 的尷尬故事
+159,{2:Show} 和 {3:Show} 一起綠了 {1:ShowO} 這件事， 傷了 {1:ShowPron_him_her} 心
+160,{2:Show} 終於讓 {1:Show} 相信 {2:ShowPron_he_she} 對 {1:ShowPron_him_her} 是真愛
+161,{2:Show} 和 {3:Show} 一起綠了 {1:ShowO} 這件事傷了 {1:ShowPron_him_her} 心 (以及不喜歡 {0:ShowCKB})
+162,"{1:Show} 對 {2:Show} 失去了興趣, 但是實際上 {2:Show} 早就綠了 {1:ShowPron_him_her} "
+163,"{2:Show} 試圖利用 {1:ShowP} 善良的一面, 但還是傷了 {1:ShowPron_his_her} 心"
+164,{2:Show} 欺騙了 {1:Show} ， 讓 {1:ShowPron_him_her} 認為 關於 {2:ShowPron_he_she} 亂搞的傳言是假的
+165,{2:Show} 試圖在欺騙 {1:Show} 之後維持友誼
+166,{1:Show} 太內向了， 無法面對 {2:Show} 的欺騙方式
+167,{1:Show} 太孤獨了， 不希望讓 {2:ShowP} 背叛行為影響 {0:ShowList_i_r_our_their} 關係
+168,{1:Show} 太內向了， 無法面對 {2:Show} 的欺騙方式
+169,{1:Show} 與 {2:ShowP} 殘酷地分手， 和 {3:Show} 在一起
+171,{2:Show} 說 {3:Show} 完全不是 {1:ShowP} 菜
+172,{1:Show} 告訴 {2:Show} {1:ShowPron_he_she} 只是在利用 {2:ShowPron_him_her} 但是 {2:ShowS} 就跟 '我也在利用你' 一樣
+173,{1:Show} called up 'the relationship police' to put out a restraining order on {2:Show}
+174,{1:Show} tried to use 'the relationship police' to break up with {2:Show} but {2:ShowPron_he_she} {2:ShowPron_was_were}n't having it
+175,{1:Show} 太自我了， {1:ShowPron_he_she} 沒注意分手時 {2:ShowP} 感覺
+177,{0:ShowList_i_r_and} 互相聽不進去， 分手了
+178,{1:Show} 痛罵了 {2:Show} ， 並分手
+179,"{1:Show} 想殘忍地與 {2:Show} 分手, 但是 {2:ShowS} 認為 {1:ShowPron_he_she} 在開玩笑"
+180,{1:Show} 現在明白為什麼 {2:Show} 調戲 {3:Show} 了
+181,{1:Show} 完全就是個怪胎， 惹怒了 {2:Show}
+182,{1:Show} 打了 {2:Show}
+183,{1:Show} 打了 {2:Show}， 但是 {2:ShowPron_he_she} 感覺還不錯
+184,{1:Show} 說 {2:Show} 什麼也不是
+185,{1:Show} 讓 {2:Show} 閉嘴
+186,{1:Show} 試著拿走 {2:ShowP} {0:ShowCKB}
+189,{1:Show} 報復了 {2:Show}
+190,{1:Show} 試著欺負 {2:Show}
+192,{2:ShowS} 優雅地迴應了 {1:ShowP} 欺負
+193,{1:Show} 嘗試欺負 {2:Show}
+194,{1:Show} 欺負了 {1:ShowPron_he_she} 能找到的第一個人
+196,{2:ShowS} 利用 {2:ShowPron_his_her} 外表避免了欺負
+200,{1:Show} 威脅 {2:Show} 要欺負 {1:ShowPron_his_her} {3:ShowGender_boy_girl}朋友
+201,{1:Show} 向 {2:Show} 宣戰
+202,{1:Show} 向 {1:ShowPron_his_her} 朋友 {2:Show} 宣戰
+203,{1:Show} 威脅 {2:Show} 別再纏著 {1:ShowPron_his_her} 甜心
+204,{1:Show} 蹩腳地試著欺負 {2:Show}
+205,"{1:Show} 威脅 {2:Show} 別再欺負 {1:ShowPron_his_her} 朋友, {3:Show}"
+206,{1:Show} 覺得自己很吸引人
+207,{1:Show} 講了個搞笑的笑話
+208,{1:Show} 給 {2:Show} 講了個恐怖的笑話
+209,{1:Show} 提起了 {1:ShowPron_his_her} 令人尷尬的收藏品 {0:ShowCKB}
+210,{2:ShowS} 追憶起 {1:ShowP} 令人尷尬的過往
+211,{1:Show} 講了個遜斃了的笑話
+212,{1:Show} 以一個令人尷尬的笑話獲得了 {2:ShowP} 尊敬
+213,{1:Show} 在 {2:Show} 面前愚弄自己
+216,{1:Show} 用 {0:ShowCKB} 冒犯 {2:Show}
+217,{1:Show} 用童年的故事冒犯了 {2:Show}
+219,{1:Show} 盯著牆
+220,{1:Show} 對 {2:Show} 做了些尷尬的行為
+221,{1:Show} 給 {2:Show} 講了個非常滑稽的笑話
+222,{1:Show} 讓自己在 {2:Show} 面前丟大臉了
+223,{1:Show} 挑逗 {2:Show}
+224,{1:Show} 嘗試挑逗 {2:Show}
+225,{1:Show} 覺得 {2:Show} 很可愛
+226,{1:Show} 試著與 {2:Show} 調情
+227,{1:Show} 不理智地挑逗 {2:Show}
+228,{1:Show} 用一種很愜意的方式調戲了 {2:Show}
+229,{2:ShowS} 厭倦了 {1:ShowP} 持續的挑逗
+230,{1:Show} 以一種侮辱的方式挑逗了 {2:Show}
+231,{1:Show} swept {2:Show} off {2:ShowPron_his_her} feet with all that flirting
+233,{1:Show} 向 {2:ShowO} 搭訕
+234,{1:Show} 非常努力地想搭訕 {2:Show} ， 但還是沒說出口
+236,{1:Show} 嘗試挑逗 {2:Show} 儘管 {0:ShowList_i_r_we_they} 是朋友
+237,{0:ShowList_i_r_and} 只是朋友， 但是接著 {0:ShowList_i_r_we_they} 擦出了火花
+238,{1:Show} 不看時機地試著挑逗 {2:Show}
+239,{1:Show} 嘗試在正確的時間挑逗 {2:Show}
+240,{1:Show} 被稱為連續挑逗者
+243,{1:Show} 挑逗了 {1:ShowPron_his_her} 敵人的 {2:ShowGender_boyfriend_girlfriend}
+244,{1:Show} 挑逗 {1:ShowPron_his_her} 敵人的 {2:ShowGender_boyfriend_girlfriend} 時候失敗了
+245,{1:Show} 挑逗了老情人 {2:Show}
+246,{1:Show} 挑逗 {2:Show} 僅僅因為 {0:ShowList_i_r_we_they} 曾經在一起過， 但是這不合適
+247,"{1:Show} 非常過分地挑逗了 {2:Show}, {1:ShowPron_his_her} 新 {2:ShowGender_boytoy_mistress}"
+248,"{1:Show} 深入地挑逗了 {2:Show}, {1:ShowPron_his_her} {3:ShowGender_boy_girl}朋友的 {1:ShowGender_boy_girl}朋友"
+249,"{1:Show} 想深入地挑逗 {2:Show}, {1:ShowPron_his_her} {3:ShowGender_boy_girl}朋友的 {1:ShowGender_boy_girl}朋友， 但是發現太難了"
+254,{1:Show} 想教 {2:Show} 關於贗品的事情，但是搞的焦頭爛額
+255,{1:Show} 給 {2:Show} 講了對 {2:ShowPron_his_her} 朋友們的看法
+256,{1:Show} 嘗試讓 {2:Show} 拋棄 {2:ShowPron_his_her} 朋友
+257,{1:Show} 讓 {2:Show} 支援 {2:ShowPron_his_her} {3:ShowGender_man_woman}
+258,{1:Show} 打算教 {2:Show} 如何去綠別人
+259,{1:Show} 讓 {2:Show} 打起精神
+260,{1:Show} 侮辱了 {2:ShowP} {3:ShowGender_boy_girl}朋友
+261,{1:Show} 給了 {2:Show} 一些關於如何適應現在這個時代的建議
+262,{1:Show} 給了 {2:Show} 一些及時的建議
+263,{2:Show} 讓 {1:ShowO} 失望了， 儘管 {1:ShowPron_he_she} 只是像給 {2:ShowPron_him_her} 一些建議
+264,{1:Show} 給了 {2:ShowO} 一些 {2:ShowPron_he_she} 需要的建議
+266,{2:Show} 厭倦了 {1:ShowP} 演講， 去找了 {3:Show}
+267,{3:Show} 對 {1:ShowO} 鼓舞人心的建議非常生氣， 但是 {2:ShowS} 覺得挺好
+268,{1:Show} 告訴 {2:Show} 在 {3:Show} 面前要堅持自己
+269,{1:Show} 給 {0:ShowList_r_o_and} 建議
+272,{1:Show} 鼓動 {2:Show} 去勾搭 {3:Show}
+273,{1:Show} 讓 {2:Show} 擺脫與 {3:Show} 的蹩腳關係
+274,{1:Show} 為了讓 {2:Show} 猜疑， 編造了關於 {3:Show} 的故事
+278,{2:Show} 為了 {2:ShowPron_his_her} {1:ShowGender_boy_girl}朋友， 同意給 {3:Show} 另一個機會
+279,{2:Show} 只是無法想象接受 {1:ShowP} 建議， 去跟 {3:Show} 交朋友
+280,{1:Show} 告訴 {2:Show} 如果 {2:ShowPron_he_she} 能跟 {3:Show} 親密更久會更好
+281,"{1:Show} 搞砸了跟 {1:ShowPron_his_her} {3:ShowGender_boyfriend_girlfriend} 的朋友的親暱, {2:Show}"
+282,{1:Show} 建議 {2:Show} 甩了 {1:ShowPron_his_her} {3:ShowGender_man_woman}
+283,{2:ShowS} 掌摑了 {1:ShowO} ， 因為 {1:ShowPron_he_she} 建議 {2:ShowPron_him_her} 忘了 {3:Show}
+284,{1:Show} 讓 {2:Show} 跟 {3:Show} 最好終止關係
+285,{1:Show} 給了 {2:Show} 一些智慧的建議
+286,{1:Show} 對 {2:Show} 滔滔不絕地講了些廢話
+287,{1:Show} 給了 {2:Show} 一些關係上的建議
+288,{1:Show} 試著讓 {2:Show} 喜歡上 {0:ShowCKB}
+289,{1:Show} 試著讓 {2:Show} 喜歡上 {0:ShowCKB}
+290,{2:ShowS} 告訴 {1:ShowO} {1:ShowPron_he_she} 能看 {2:ShowPron_his_her} 祕密基地裡的 {0:ShowCKB}
+292,{1:Show} 告訴 {2:Show} {1:ShowPron_he_she} 並不是個英雄
+294,{1:Show} 貶低 {1:ShowPron_him_her}自己， 讓 {3:Show} 看起來不錯
+295,{1:Show} 試著貶低 {1:ShowPron_him_her}自己， 但是 {2:ShowS} 不想聽
+296,{1:Show} 輕描淡寫地講了一個很拽的故事， 但是深深地影響了 {2:Show}
+297,{1:Show} 貶低了 {1:ShowPron_his_her} 聰明， 但是 {2:ShowS} 印象深刻
+298,{1:Show} 試著向 {1:ShowPron_his_her} {2:ShowGender_boy_girl}朋友 貶低 {1:ShowPron_him_her}自己， 但是 {2:ShowPron_he_she} 沒在意
+299,{1:Show} 太低聲下氣了， 搞得 {2:Show} 對 {1:ShowPron_him_her} 更生氣了
+301,{1:Show} 感謝 {2:Show} 把 {1:ShowPron_him_her} 看成一坨屎
+302,{1:Show} 讓 {2:Show} 意識到 {0:ShowList_i_r_we_they} 都是歷史中的塵埃
+303,{1:Show} 告訴 {2:Show} {1:ShowPron_he_she} 沒有 {3:Show} 那麼帥氣
+304,{1:Show} 太煩了， 讓 {2:Show} 承認 {1:ShowPron_he_she} 一點也不帥氣
+305,{2:Show} 不覺得 {1:Show} 不夠帥氣
+306,{1:Show} 貶低 {1:ShowPron_him_her}自己， 讓 {3:Show} 看起來不錯
+307,{1:Show} 試著貶低 {1:ShowPron_him_her}自己， 但是 {2:ShowS} 不理會
+308,{1:Show} 認為 {2:Show} 很帥氣
+309,{1:Show} 恭維 {2:Show} ， 看起來很尷尬
+310,{1:Show} 認為 {1:ShowPron_he_she} 和 {2:Show} 都喜歡 {0:ShowCKB} 非常棒
+311,{2:Show} 完全不理解 {1:Show} 為什麼喜歡 {0:ShowCKB}
+312,{1:Show} 想起了 {2:Show} 做過的很帥氣的事
+313,{1:Show} 認為 {2:Show} 做過的某件事很帥氣， 但是事實並非如此
+314,{1:Show} 成了 {2:ShowP} 模仿者
+315,{1:Show} 開始模仿 {2:Show}
+316,{1:Show} 稱讚 {2:ShowP} 優點
+317,{1:Show} 說 {2:Show} 是最好的朋友
+318,{1:Show} 吸引了 {2:Show}
+319,{1:Show} 試著吸引 {2:Show}
+320,{1:Show} 給 {2:Show} 畫了幅畫
+321,{2:Show} 阻止了 {1:ShowP} 打算畫下來 {2:ShowPron_him_her} 的意圖
+322,{1:Show} 崇拜 {2:Show} ， 因為 {2:ShowPron_he_she} 是自己的情人
+323,{1:Show} 對 {2:Show} 使了點小技巧， 讓 {2:ShowPron_he_she}  沒發現自己在劈腿
+324,{1:Show} 認為 {0:ShowList_r_o_and} 都很漂亮某種意義上也對
+325,{2:Show} 教 {1:Show} 怎麼約 {2:ShowPron_his_her} {3:ShowGender_boyfriend_girlfriend}， 因為很崇拜
+326,{1:Show} 崇拜 {2:Show} {2:ShowPron_he_she} 能玩轉各種關係
+327,{1:Show} 認為 {2:Show} 做的那件事很帥氣， 儘管實際上那很惡劣
+328,{1:Show} 成功地奉承了 {2:Show} ， 儘管 {0:ShowList_i_r_we_they} 仍處於敵對關係
+329,{1:Show} came off like a serial killer in {1:ShowPron_his_her} attempt to idolize {2:Show}
+330,{1:Show} 用過去美好時光的記憶讓 {2:Show} 打起了精神
+332,{0:ShowList_i_o_and} 都奉承了 {2:Show}
+333,{1:Show} 對 {2:Show} 拍馬屁， 但是 {2:ShowS} 不確定 {1:Show} 是誰
+334,{1:Show} 侮辱 {2:Show}， 但是 {2:ShowPron_he_she} 沒明白是什麼意思
+335,{1:Show} 侮辱了 {2:Show}
+336,{0:ShowList_i_r_and} 進行了一場激烈的爭辯
+337,{1:Show} 對 {2:Show} 施展了衝擊波
+338,{1:Show} 徹底陷害了 {2:Show} 儘管 {0:ShowList_i_r_we_they} 是朋友
+339,{1:Show} 給 {2:Show} 惹了大麻煩， 因為 {0:ShowList_i_r_we_they} 是敵人
+340,{2:ShowS} 認為 {1:ShowS} 人很好， 一點也不卑鄙
+341,{2:ShowS} 認為 {1:ShowS} 很輕浮， 並不卑鄙
+342,{1:Show} 很善良， 不會取笑 {2:Show}
+343,{0:ShowList_i_r_and} 在大家面前笨拙地打了一架
+346,{1:Show} 持續侮辱 {2:Show}
+347,{1:Show} 辱罵 {2:Show} 的不誠實
+349,{1:Show} 辱罵 {2:Show} 綠了別人
+353,{1:Show} 辱罵 {2:Show} 但是 {2:ShowPron_he_she} 沒明白是什麼意思
+354,{1:Show} 辱罵 {2:Show} 插足 {1:ShowPron_his_her} 和 {3:Show} 的關係
+355,{2:ShowS} 嘲笑 {1:ShowP} 想阻止 {2:ShowPron_him_her} 約 {3:Show}
+356,{1:Show} 喊了 {2:Show} 的名字
+357,{1:Show} 嘲笑 {2:ShowS} 做過的一件善良的事
+358,{1:Show} 嘲笑 {3:ShowS} 對 {2:Show} 做過的一件善良的事
+359,{1:Show} 可悲地想嘲笑 {2:Show} 做過的一件善良的事
+361,{1:Show} 嘲笑 {2:ShowS} 做過的一件蹩腳的事
+362,{1:Show} 向 {2:Show} 傾訴， {2:ShowPron_he_she} 很同情
+364,{1:Show} 向 {2:Show} 傾訴了 {1:ShowPron_his_her} 對 {0:ShowCKB} 蹩腳的愛好  ， {2:ShowPron_he_she} 覺得很cool
+365,{0:ShowList_i_r_and} 交流了對 {0:ShowCKB} 的共同興趣， 拉近了距離
+366,{0:ShowList_i_r_and} 一起抱怨 {3:Show} ， 拉近了距離
+367,{1:Show} 不明智地向 {2:Show} 抱怨 {3:Show}
+368,{0:ShowList_i_r_and} 通過信任和互相學習把互相的愛慕轉為了友誼
+369,{1:Show} 分享了 {1:ShowPron_his_her} 祕密， 和 {2:Show} 更親近了
+370,"{1:Show} 向 {2:Show} 坦白 {1:ShowPron_he_she} 知道 {2:Show} 和 {3:Show} 的關係, 結果兩人反而成了朋友"
+371,{1:Show} 向 {2:Show} 坦白知道 {2:ShowPron_he_she} 和 {3:Show} 的關係
+374,{1:Show} 和 {2:Show} 分享了一個尷尬的祕密， 成為了朋友， 儘管 {0:ShowList_i_r_we_they} 之前是敵人
+375,{1:Show} 愚蠢地給 {2:Show} 講了個尷尬的故事， 儘管 {0:ShowList_i_r_we_they} 是敵人
+376,{1:ShowS} 向 {2:ShowS} 傾訴時，{2:ShowPron_he_she} 表現很奇怪
+380,{1:Show} 需要跟人討論 {3:Show} ， 因此 {1:ShowPron_he_she} 跟 {2:Show} 成為了朋友
+381,{2:ShowS} 跟 {1:ShowO} 在背後討論 {3:Show} 覺得不舒服
+382,由於對 {3:Show} 的共同敵意， {0:ShowList_i_r_and} 成了朋友
+383,{1:Show} 向 {2:Show} 傾訴了綠別人的事情
+384,{1:Show} 向 {2:Show} 傾訴搞爛 {3:ShowP} 約會的事
+385,{1:Show} 竊笑著和 {2:Show} 談論是如何搞砸 {3:ShowP} 約會的
+387,{2:Show} 拒絕參與 {1:ShowP} 綠人行動
+389,{2:ShowS} 完全把 {1:ShowP} 侮辱當成了稱讚
+390,{1:Show} 侮辱 {2:ShowP} 朋友
+391,{1:Show} 在 {2:Show} 面前嘲笑 {3:Show}， 儘管 {0:ShowList_o_r_and} 是朋友
+392,{1:Show} 向錯誤的人發洩關於 {3:Show} 的事情
+393,{1:Show} 向錯誤的人發洩關於 {3:Show} 的事情
+395,{1:Show} 試著惹怒 {2:Show}， 但是失敗了
+396,{1:Show} 侮辱 {2:ShowP} 朋友， {3:Show} 喜歡 {0:ShowCKB}
+397,{2:Show} 認同 {1:Show} 的觀點 —— {3:ShowP} 對 {0:ShowCKB} 的痴迷很煩人
+398,"{2:ShowS} 很維護 {3:Show} 因為 {0:ShowList_r_o_and} 是朋友, 儘管 {1:ShowS} 認為 {3:Show} 不受歡迎"
+399,{3:ShowS} 在 {1:Show} 侮辱的時候出現了， 並且維護{3:ShowPron_him_her}自己
+401,{1:Show} 不能忍受 {1:ShowPron_his_her} {2:ShowGender_boyfriend_girlfriend} 約 {3:Show} ， 終止了這段關係
+402,{1:Show} 由於侮辱了 {2:Show} 的朋友， {3:Show}， 惹得 {2:ShowPron_he_she} 很不開心
+403,"{1:Show} 侮辱了 {2:ShowP} 朋友， {3:Show}, "
+404,"{1:Show} 蹩腳地嘗試侮辱 {3:Show}, {2:ShowP} 朋友"
+405,{1:Show} 詆譭 {2:ShowP} 朋友
+406,"{1:Show} 侮辱了 {2:ShowP} 受歡迎的朋友, {3:Show}"
+411,{1:Show} 與 {2:Show} 分手
+412,"{1:Show} 試著與 {2:Show} 分手, 但是 {2:ShowPron_he_she} 不相信 {1:ShowPron_him_her}"
+413,{1:Show} 告訴 {2:Show} {1:ShowPron_he_she} 更喜歡 {3:Show}
+414,{0:ShowList_i_r_and} 很隨意就分手了
+415,{2:Show} 已經厭倦了與 {1:Show} 的關係， 但是 {2:ShowPron_he_she} 不知道該如何結束
+416,{2:Show} 太依賴 {1:Show} ， 以至於無法接受分手
+417,{0:ShowList_i_r_and} decided it just wasn't working out
+418,{1:Show} 問 {2:Show} 假如 {1:ShowPron_he_she} 和 {2:ShowPron_him_her} 分手，  {2:ShowPron_he_she} 會怎麼想
+422,{1:Show} 從與 {2:Show} 在一起開始， 生活發生了轉折
+423,{1:Show} asked {2:Show} to visualize {2:ShowPron_him_her}self out of {1:ShowPron_his_her} life
+424,{1:Show} 告訴所有人 {2:Show} 的糗事， 並向 {2:ShowPron_he_she} 宣戰
+426,{1:Show} 向 {2:Show} 宣戰
+428,{1:Show} 與 {2:Show} 開始冷戰
+429,{1:Show} 因為 {2:Show} 做過的一件卑鄙的事而向 {2:ShowPron_he_she} 宣戰
+430,{1:Show} 因為 {2:Show} 忘記了一些事而向 {2:ShowPron_he_she} 宣戰
+431,因為 {2:Show} 騷擾了 {1:Show} 的甜心， {1:ShowPron_he_she} 向 {2:ShowPron_he_she} 宣戰
+432,{1:Show} 非常討厭 {2:Show}， {1:ShowPron_he_she} 下了最後通牒
+433,"{1:Show} 當著 {2:Show} 的面與 {3:Show} 幽會, 但是 {2:ShowS} 意識到 {2:ShowPron_he_she} 真正想和誰在一起"
+434,{1:Show} 為了引起 {3:ShowP} 注意， 而與 {2:Show} 宣戰
+435,{3:Show} 避免了 {3:ShowPron_his_her} {1:ShowGender_boyfriend_girlfriend} {1:Show} 和 {3:ShowPron_his_her} 朋友 {2:Show} 的一場戰爭
+436,{2:Show} 毀了 {1:Show} 的海上生活，  {1:ShowPron_he_she} 氣炸了
+437,{1:Show} 讓 {2:Show} 別再煩 {1:ShowPron_him_her}
+438,{1:Show} 想跟 {2:Show} 絕交， 但是 {2:ShowPron_he_she} 不相信 {1:ShowPron_him_her}
+439,{1:Show} 對 {2:Show} 做的那件事很生氣
+441,{1:Show} 非常討厭 {2:Show} 對 {0:ShowCKB} 的沉迷
+442,{2:Show} 非常在意 {1:Show} 這個朋友. 非常在意
+443,{2:ShowS} 發誓要更支援 {1:ShowO}
+445,{2:Show} 沒意識到 {1:ShowS} 不想跟 {2:ShowPron_him_her} 再做朋友了
+446,{2:Show} 讓 {1:Show} 想起了 {1:ShowS} 仍然喜歡 {0:ShowCKB} 時，  {0:ShowList_i_r_we_they} 的美好時光
+447,{1:Show} 沒法處理跟 {2:Show} 既是朋友又是情人的關係
+448,{1:Show} 中斷了跟 {2:Show} 的朋友關係， 因為 {2:ShowS} 綠了自己
+451,{1:Show} just ended things with {2:Show}
+452,{2:Show} thought {2:ShowPron_he_she} {2:ShowPron_was_were} still going out with {1:Show}
+453,{1:Show} just wanted to be friends with {2:Show} except without the friends part
+454,{1:Show} 和 {2:Show} 分手綠， 儘管 {2:ShowPron_he_she} 非常依賴這段關係
+455,{1:Show} 想和 {2:Show} 分手， 但是 {2:ShowPron_he_she} 讓 {1:ShowPron_him_her} 想起了 {0:ShowList_i_r_we_they} 對對方來說是多麼完美
+456,{0:ShowList_i_r_and} 由於 {3:Show} 分手了
+457,{1:Show} friend zoned {2:Show}
+458,{2:Show} refused to be friend zoned by {1:Show}
+460,{2:Show} 拒絕與 {1:Show} 分手
+461,{2:Show} 迫不及待地想和 {1:Show} 分手
+462,{2:Show} refused to break up with {1:Show} out of spite or something
+463,{1:Show} 打算約 {2:Show}
+464,{2:Show} 告訴 {1:Show} {2:ShowPron_he_she} 永遠都很忙
+466,{0:ShowList_i_r_and} 成了朋友
+467,{2:Show} 認為 {1:ShowS} 夠cool， 能成為朋友
+468,由於對 {0:ShowCKB} 的共同興趣， {0:ShowList_i_r_and} 成了朋友
+476,{2:Show} 太忙了， 沒時間與 {1:Show} 在一起
+477,{1:Show} 和 {2:Show} 亦敵亦友
+478,{0:ShowList_i_r_and} 的關係中又多了一項，友誼
+479,{2:Show} 打消了 {1:Show} 想升級友誼的念頭
+480,{1:Show} wanted to be like a power couple or something with {2:Show}
+481,{1:Show} 想跟 {2:Show} 討論些事情， 但是 {3:ShowS} 卻不請自來地加入了
+485,{1:Show} 和 {1:ShowPron_his_her} {3:ShowGender_boyfriend_girlfriend}的朋友成了朋友
+486,{2:Show} 認為跟 {1:ShowP} {3:ShowGender_boyfriend_girlfriend} 而不是{1:ShowPron_him_her} 交朋友很合適
+487,{0:ShowList_i_r_and} 在 {0:ShowList_i_r_our_their} 分歧上達成共識
+488,{1:Show} 想和 {2:Show} 和好， 但是碰了壁
+489,{1:Show} 很cool， 跟 {2:Show} 解決了分歧
+490,{2:Show} 覺得跟 {1:Show} 不再成為敵人很ok
+491,{1:Show} 想和 {2:Show} 和好， 但是有點用力過猛
+492,{2:Show} held a grudge against {1:Show} and wouldn't make up
+493,{1:Show} 認為 {1:ShowPron_his_her} 夠cool，足以跟 {2:Show} 和好
+494,{2:Show} {2:ShowPron_was_were} too into {1:Show} not to make up
+495,{1:Show} 對 {2:Show} 很恭敬， {0:ShowList_i_r_we_they} 不再是敵人
+496,{1:Show} 不想再跟 {2:Show} 亦敵亦友了
+498,{0:ShowList_i_r_and} 為了 {3:Show} 和好了
+499,{2:Show} {2:ShowPron_was_were}n't willing to bury the hatchet with {1:Show} despite {0:ShowList_i_r_our_their} mutual friendship with {3:Show}
+500,{0:ShowList_i_r_and} 為了 {3:Show} 和好了
+501,{2:Show} belittled {1:Show} for suggesting {0:ShowList_i_r_we_they} stop fighting for {3:ShowP} sake
+502,{1:Show} really opened up to {2:Show}
+503,{1:Show} 無法對 {2:Show} 敞開心扉
+504,{1:Show} 無法對 {2:Show} 敞開心扉
+505,{1:Show} 對 {2:Show} 敞開心扉， 而且 {2:ShowPron_he_she} 提供了有力的支援
+506,{1:ShowP} 的過去使其無法對 {2:Show} 敞開心扉
+507,{1:Show} 對 {2:Show} 足夠信任， 對 {2:ShowPron_him_her} 敞開了心扉
+508,{1:Show} 對 {2:Show} 表達了內心的多愁善感， 儘管 {1:ShowPron_he_she} 已經跟 {3:Show} 交往
+509,{1:Show} 看到 {2:Show} 與 {3:Show} 調情， 遭到打擊
+510,{1:Show} 對 {2:Show} 敞開心扉， 加強了 {0:ShowList_i_r_our_their} 友誼
+512,{1:Show} 告訴 {2:Show} {1:ShowPron_he_she} 如何看待 {2:ShowPron_him_her}
+513,{0:ShowList_i_r_and} 有一段禁忌之戀， 但是 {2:ShowS} 拒絕欺騙 {3:Show}
+514,{1:Show} 摸了 {2:ShowP} 耳朵或是其他什麼
+515,{1:Show} 撓了撓 {2:Show}
+516,{1:Show} {1:ShowPron_was_were} creepy into giving {2:Show} some kind of eastern European massage
+517,{0:ShowList_i_r_and} 打情罵俏
+518,{1:Show} 對 {2:Show} 不合時宜地撓癢
+519,{1:Show} 說了些情話，然後親了 {2:Show}
+520,{1:Show} 親了 {2:Show}
+521,{1:Show} 笨拙地想摸 {2:ShowP} 肩膀
+522,{1:Show} 非常欽佩 {2:ShowP} 肌肉
+523,{1:Show} 告訴 {2:Show} {2:ShowPron_he_she} 永遠無法從 {3:Show} 獲得想要地
+524,{1:Show} 想挑逗 {2:Show} ， 但是 {1:ShowPron_his_her} 名聲更重要
+525,{1:Show} 想戳 {2:Show} 一下或者類似奇怪的行為
+526,{2:Show} 聽說 {1:ShowS} 做了件禁忌之事， 不讓 {1:ShowPron_him_her} 碰 {2:ShowPron_him_her}
+530,{1:Show} 擺了個性感的姿勢撩 {1:ShowPron_his_her} 敵人的 {2:ShowGender_boyfriend_girlfriend}
+531,{1:ShowP} 擺了個性感的姿勢撩 {1:ShowPron_his_her} 敵人的 {2:ShowGender_boyfriend_girlfriend}， 但是失敗了
+532,{1:Show} 想挑逗 {2:Show} ，但是 {1:ShowPron_his_her} 名聲更重要
+533,{1:Show} 用一種很下流的方式搭訕 {2:Show} ， 居然成功了
+534,{1:Show} 用一種很下流的方式搭訕 {2:Show} ， 果然失敗了
+535,{1:Show} 還沒cool到能搭訕 {2:Show} 的程度
+536,{1:Show} made an awkward pass at {2:Show}
+537,{1:Show} 煩 {2:Show} 太多次了，  {2:ShowPron_he_she} 只好同意跟 {1:ShowPron_him_her} 在一起
+538,{1:Show} 很沉穩，  asked {2:Show} out
+539,{1:Show} bombed that pick-up line but {2:ShowS} {2:ShowPron_was_were} totally into {1:ShowPron_him_her} anyway
+540,{1:Show} 徹底搞砸了跟 {2:Show} 的搭訕
+541,{1:Show} used that earthquake line to get things shaking with {2:Show}
+542,{1:Show} 用一種很呆板的方式搭訕了 {2:Show} ， 居然成功了
+543,{1:Show} 用一種很呆板的方式搭訕了 {2:Show} ， 徹底失敗了
+544,{1:Show} 打算搭訕 {2:Show} ，但是 {2:ShowPron_he_she} 不再吃這一套了
+545,{1:Show} 用一種很自然的方式搭訕了 {2:Show}
+547,{1:ShowP} 凶殘地逼迫 {2:Show} 跟 {1:ShowPron_him_her} 在一起
+551,{2:Show} did not appreciate {1:Show} trying to start a relationship with {1:ShowPron_his_her} thumbs
+552,{2:Show} 決定跟 {1:Show} 在一起， 儘管 {0:ShowList_i_r_we_they} 是敵人
+553,{1:Show} had liked an epic fail trying to ask {2:Show} out
+556,{0:ShowList_i_r_and} reminisced about the times {0:ShowList_i_r_we_they} used to hang
+557,{2:Show} 說 {2:ShowPron_he_she} 記不得和 {1:Show} 有什麼好的回憶
+559,{0:ShowList_i_r_and} 分享了不錯的回憶
+561,{1:Show} 想跟 {2:Show} 一起回憶， 但是 {2:ShowPron_he_she} 讓 {1:ShowPron_him_her} 閉嘴
+562,{0:ShowList_i_r_and} 一同追憶美好過往
+563,{1:Show} 和 {2:Show} 談起了 {2:ShowP} 風流過往
+564,{1:Show} 聊了聊 {1:ShowPron_his_her} 與 {2:Show} 的過去
+565,{2:Show} 沒感覺到 {1:ShowP} 有什麼優秀的地方
+566,{1:Show} 對 {2:Show} 表示同情
+567,{1:Show} 讓 {2:Show} 想起了浪漫的事情
+568,{1:Show} 投入了對 {2:Show} 的回憶
+569,{1:Show} 宣揚 {1:ShowPron_his_her} 很cool的事蹟
+570,{1:Show} 覺得那件事就像是5分鐘前發生的一樣
+571,{1:Show} 給 {2:Show} 講了些實際沒發生過的記憶
+572,{1:Show} 用 {1:ShowPron_he_she} 討好 {3:Show} 的方式去討好 {2:Show} ， 但是 {2:ShowS} 沒什麼感覺
+573,{0:ShowList_i_r_and} 笑著討論 {1:ShowS} 對 {3:Show} 做過的一件粗魯的事情
+574,{1:Show} reminisced to {3:ShowP} friend {2:Show} about picking on {3:ShowPron_him_her}
+575,{1:Show} 和 {2:Show} 追憶起讓 {3:Show} 尷尬的事情
+576,{1:Show} 突然承認 {1:ShowPron_he_she} 綠了 {2:Show}
+579,{1:Show} 想起了跟 {2:Show} 在一起的時光
+580,{1:Show} 想起了跟 {2:Show} 在一起的時光， 但是跟 {2:ShowS} 的記憶很不一樣
+581,{1:Show} 跟 {2:Show} 談起 {0:ShowList_i_r_we_they} 曾經在一起的時光時惹惱了 {2:ShowPron_he_she}
+582,"{1:Show} wanted to reminisce about dating with {2:Show}, but {2:ShowS} wouldn't let go of the whole cheating thing"
+583,{1:Show} totally set {2:Show} up with a reminisce about when {2:ShowPron_he_she} cheated
+584,{0:ShowList_i_r_and} were doing the same thing at the same time
+585,{1:Show} 沒辦法找到跟 {2:Show} 的共同愛好
+589,{2:Show} 假裝喜歡 {0:ShowCKB} ， 以接近 {1:Show}
+591,{2:Show} {2:ShowPron_was_were} totally not into whatever it was that {1:ShowS} {1:ShowPron_was_were} blabbing on about
+592,{0:ShowList_i_r_and} 都非常喜歡 {0:ShowCKB}
+593,{1:Show} 給 {2:Show} 安利 {0:ShowCKB} 失敗了
+595,{1:Show} 給 {2:Show} 講了 {1:ShowPron_his_her} 實際上有點cool的愛好
+598,{2:Show} 不喜歡 {0:ShowCKB}， 而且 {2:ShowPron_he_she} 不喜歡 {1:ShowO}
+599,{0:ShowList_i_r_and} were both kinda into {1:Show}
+601,"{2:Show} 同意對 {3:Show} 更好點, {2:ShowPron_his_her} 好朋友的 {3:ShowGender_boy_girl}朋友"
+602,"{2:Show} couldn't get over {2:ShowPron_his_her} hatred of {3:Show} even though {1:ShowS}, {2:ShowPron_his_her} buddy, pleaded"
+603,"{1:Show} 與 {2:Show} 成為朋友, {1:ShowPron_his_her} {3:ShowGender_boy_girl}朋友的 好朋友"
+604,{1:Show} 跟 {1:ShowPron_his_her} {3:ShowGender_boy_girl}朋友的好朋友， {2:Show} 形影不離
+605,{0:ShowList_i_r_and} 因為對 {3:Show} 的共同看不慣形成共同戰線
+607,{1:Show} 打算越過 {3:Show} 跟 {2:Show} 結盟， 但是這是件敏感的事情
+608,{1:Show} 和 {2:Show} 由於對 {3:Show} 的共同友誼而達成了一致
+609,{1:Show} 打算越過 {3:Show} 跟 {2:Show} 結盟， 但是事與願違
+610,{1:Show} 告訴 {2:Show} {1:ShowPron_he_she} 對 {2:ShowPron_him_her} 不感興趣
+611,{2:Show} 還不知道 {1:ShowS} 其實對 {2:ShowPron_him_her} 不太感興趣
+612,{1:Show} 看到 {2:Show} 做了件掃興的事
+613,{1:Show} 對 {2:ShowP} 興趣不感冒
+615,{1:Show} 告訴 {2:Show} {1:ShowPron_he_she} 對 {2:ShowPron_him_her} 不再感興趣了
+616,{1:Show} 試著告訴 {2:Show} {1:ShowPron_he_she} 不再對 {2:ShowPron_him_her} 感興趣了
+617,"{1:Show} 不喜歡 {1:ShowPron_his_her} 朋友, {2:Show}"
+618,{2:Show} 不相信 {1:ShowS} 不再對 {2:ShowPron_him_her} 感興趣了
+619,{2:Show} 覺得 {1:ShowS} 認為{2:ShowPron_he_she} 對 {1:ShowPron_him_her} 很感興趣個想法很滑稽
+620,{1:Show} 說 {1:ShowPron_he_she} 不會跟 {2:Show} 在一起， 因為 {2:ShowPron_he_she} 不夠受歡迎
+621,{2:Show} 試圖利用 {2:ShowPron_his_her} 地位強迫 {1:Show} 喜歡 {2:ShowPron_him_her}
+622,{1:Show} 說 {2:Show} 好像比 {3:Show} 胖
+623,{1:Show} 害怕告訴 {2:Show} 自己是怎麼想的
+625,{0:ShowList_i_r_and} 確定 {0:ShowList_i_r_we_they} 朋友以上戀人未滿
+626,{2:Show} 被愛情衝昏了頭腦，  {2:ShowPron_he_she} 沒意識到 {1:ShowS} 感覺不舒適
+627,{2:Show} 對 {1:Show} 來說不夠cool， 因此不感興趣
+628,{2:Show} 讓 {1:Show} 相信 {2:ShowPron_he_she} 偶爾很cool
+630,{1:Show} 告訴 {2:Show} {1:ShowPron_he_she} 不喜歡 {2:ShowPron_him_her} ， {2:ShowS} 徹底崩潰
+631,{1:Show} 忘不了 {2:ShowP} 身體
+632,{1:Show} 向 {2:Show} 炫耀
+634,{1:Show} 在 {2:Show} 面前做俯臥撐， 找存在感
+637,{1:Show} 向 {2:Show} 炫耀 {1:ShowPron_his_her} 帽子
+640,{1:Show} 想炫耀 {1:ShowPron_his_her} {0:ShowCKB} ， 但是 {2:Show} 不感興趣
+643,{2:Show} 經常因為 {1:Show} 的特殊收藏品來找 {2:Show}
+644,{1:Show} lorded {1:ShowPron_his_her} popularity over {2:Show}
+646,{1:Show} 提醒 {2:Show} {1:ShowPron_he_she} 很可愛
+647,{1:Show} 很自戀， {2:ShowS} 毫不在意
+648,{1:Show} 搞砸了對 {2:Show} 的炫耀
+650,{1:Show} 向 {2:Show} 炫耀時被揍了一頓
+653,{1:Show} 打算向 {2:Show} 傳播一條關於 {3:Show} 的謠言， 但是由於時機不對被打斷了
+654,{1:Show} 在 {2:Show} 面前誹謗 {3:ShowP} 名聲
+655,{1:Show} 散播謠言， 毀了 {1:ShowPron_he_she} 和 {3:Show} 的關係
+656,{1:Show} 向 {2:Show} 散播關於 {3:Show} 的下流的謠言
+657,{2:Show} 相信 {1:ShowP} 反對 {3:Show} 的謠言
+658,面對 {1:Show} 散播的惡毒謠言， {2:Show} 為 {2:ShowPron_his_her} 朋友 {3:Show} 辯護
+659,{2:Show} 對 {1:ShowS} 說的 {3:ShowS} 對 {2:ShowPron_him_her} 的話很生氣
+660,{2:Show} 不在意 {1:Show} 對 {3:Show} 的背後中傷
+661,{1:Show} 給 {2:Show} 傳播了關於 {3:Show} 的謠言
+662,"{1:Show} 想誹謗 {3:ShowP} 名聲, 但是 {3:ShowS} 阻止了 {1:ShowPron_him_her}"
+700,{1:Show} 問了 {2:Show} 一個蹩腳的關於分手的假設問題
+702,{1:Show} 給 {2:Show} 提供了一些關於外表打扮上的建議
+703,{1:Show} 警告了 {2:Show} ， 提到了 {1:ShowPron_his_her} 綠人歷史
+704,{1:Show} 說 {2:ShowP} 的瑕疵使 {1:ShowPron_him_her} 更完整
+705,{1:Show} 隱瞞了自己某件詭異的經歷，結果 {2:ShowS} 也有相同的經歷
+706,{1:Show} 對 {2:Show} 指出了 {1:ShowPron_his_her} 缺點
+707,{0:ShowList_i_r_and} 因為 {0:ShowList_i_r_our_their} 缺點而更親密了
+709,{1:Show} 瘋狂地想跟 {2:Show} 交談
+712,{1:Show} 鼓起勇氣說 {2:Show} 很胖
+713,{1:Show} 想象跟 {3:Show} 在 {2:Show} 面前交往的樣子
+715,{1:Show} 想冒犯 {2:Show} ，講了一件 {1:ShowPron_his_her} 過去的惡劣的故事
+716,{1:Show} took {1:ShowPron_his_her} relationship with {2:Show} down a step
+717,{0:ShowList_i_o_and} 在 {2:Show} 面前像瘋了一樣調情
+718,{3:Show} 破壞了 {1:Show} 和 {2:Show} 的關係， 因為 {1:ShowPron_he_she} 太沉默寡言了
+736,{1:Show} 不出聲地站在 {2:Show} 身邊， 讓 {2:ShowPron_him_her} 覺得很詭異
+737,{1:Show} 給 {2:Show} 講了 {1:ShowPron_his_her} 下作的收藏品
+738,{1:Show} 盯著 {2:Show} 看想嚇到 {2:ShowPron_him_her} ，但是失敗了
+739,{1:Show} 突然出現在 {2:Show} 身後， 嚇到了 {2:ShowPron_him_her}
+740,{1:Show} 看著 {2:ShowP} 臉， 無緣無故地笑了起來， 停不下來
+745,{1:Show} 讓 {2:Show} 安靜， 這樣 {1:ShowPron_he_she} 才能聽清周圍的聲音
+746,{1:ShowP} 對 {0:ShowCKB} 的愛好讓 {2:Show} 覺得很討厭
+748,"{0:ShowList_i_r_and} 都有 {0:ShowCKB} , 難以理解"
+749,"{1:Show} 跟 {1:ShowPron_his_her} 敵人, {2:Show} 搞得一片狼藉"
+751,{1:Show} 想給 {2:Show} 講個恐怖故事， 但是 {2:ShowPron_he_she} 只是給了 {1:ShowPron_him_her} 一些建議
+752,{1:Show} 表現得像是 {1:ShowPron_he_she} 想做些惡劣的事
+753,{2:Show} 覺得 {1:Show} 不妙， 想幫幫 {1:ShowPron_him_her}
+754,{1:Show} 太平凡了， 並不能嚇到 {2:Show}
+755,{1:Show} 對 {2:Show} 很文雅
+758,{2:Show} 打碎了 {1:ShowP} 對浪漫的幻想
+762,{1:Show} worked {1:ShowPron_his_her} swag on {2:Show} too much
+763,{1:Show} 被 {2:Show} 的出軌傷到了
+764,{1:Show} worked {1:ShowPron_his_her} magic on {2:Show}
+768,{1:Show} 迷失在了 {2:ShowP} 眼中的清澈和寧靜
+769,{1:Show} 給 {2:Show} 寫了首不太好但是很浪漫的歌
+770,{1:Show} 用 {1:ShowPron_his_her} 人文知識接近 {2:Show} 的意圖失敗了
+771,{1:Show} 追求 {2:Show} 但是 {2:ShowS} 沒拿 {1:ShowPron_him_her} 當回事
+772,{1:Show} 用 {1:ShowPron_his_her} 人文知識讓 {2:Show} 著迷
+773,{1:Show} 不停地誇 {2:Show} 很可愛
+774,{1:Show} swept {1:ShowPron_his_her} enemy's {2:ShowGender_boyfriend_girlfriend} off {2:ShowPron_his_her} feet
+775,{1:Show} 搞砸了 {1:ShowPron_he_she} 對敵人的 {2:ShowGender_boy_girl}朋友示愛的企圖
+776,{1:Show} 想從 {3:Show} 身邊奪走 {2:Show}
+777,{1:Show} 假裝成傻瓜， 想從 {3:Show} 身邊偷走 {2:Show}
+778,{1:Show} 想對 {2:Show} 重燃舊情
+779,{1:Show} 想對 {2:Show} 重燃舊情， 失敗了
+780,"{1:Show} 宣示了對 {2:Show} 的愛 , 但是 {2:ShowPron_he_she} 告訴 {1:ShowPron_him_her} 別想了"
+781,"{1:Show} 宣示了對 {2:Show} 的愛, 就像是羅密歐與朱麗葉"
+782,"{1:Show} 宣示了對 {2:Show} 的愛, 但是 {2:ShowPron_he_she} 太愛 {3:Show} 無法欺騙 {3:ShowPron_him_her}"
+783,{2:Show} 疲於應付， 把 {2:ShowPron_his_her} {1:ShowGender_boy_girl}朋友 {1:Show} 叫成了 {3:Show}
+784,{1:Show} 被 {2:Show} 的出軌傷到了
+785,{1:Show} 想跟 {2:Show} 交往， 儘管 {1:ShowPron_he_she} 非常討厭 {2:ShowPron_him_her}
+786,{1:Show} had that embarrassing love/hate thing going with {2:Show}
+787,{1:Show} 與 {2:Show} 和好了
+788,{1:Show} 想跟 {2:Show} 和好
+789,{1:Show} 在 {2:Show} 生氣時告訴 {2:ShowPron_he_she} {2:ShowPron_he_she} 很性感， 但是事與願違
+790,{1:Show} 在 {2:Show} 生氣時告訴 {2:ShowPron_he_she} {2:ShowPron_he_she} 很性感
+791,{1:Show} 對 {2:ShowP} 辱罵感到興奮
+792,{1:Show} 跟 {2:Show} 開始交往， 儘管 {0:ShowList_i_r_we_they} 以前是敵人
+793,{1:Show} 想趁 {2:Show} 傷心時利用 {2:ShowPron_he_she}
+794,{2:Show} 對 {1:Show} 做出很下流的事時， {1:ShowPron_him_her} 非常興奮， 因此 {0:ShowList_i_r_we_they} 開始交往
+795,{1:Show} 很帥氣， 甚至 {1:ShowPron_his_her} 敵人都想約 {1:ShowPron_him_her}
+796,{1:Show} 利用了 {2:Show} ， 讓 {2:ShowPron_he_she} 對 {3:Show} 心煩意亂
+797,{2:Show} struck back at {1:Show} for turning out to be {2:ShowPron_his_her} secret {1:ShowGender_boy_girl}friend
+798,{1:Show} 說起 {0:ShowCKB} 停不下來
+800,{2:Show} 不打算讓 {1:Show} 看 {2:ShowPron_his_her} {0:ShowCKB}
+801,{1:Show} 對 {0:ShowCKB} 的不喜歡讓 {2:Show} 感到討厭
+802,{0:ShowList_i_r_and} 由於一些原因一直互相打招呼
+803,{1:Show} 想惹惱 {2:Show} 但是 {2:ShowPron_he_she} 對此很冷漠
+804,{1:Show} 不停在說 {0:ShowCKB}
+805,{1:Show} got way too into {0:ShowCKB}s
+806,{2:Show} 沒被 {1:ShowP} 愚蠢的笑話惹惱
+807,{1:Show} 不能理解 {2:ShowP} 思想
+808,{1:Show} 猜不出 {2:ShowS} 正在想的數字
+809,{1:Show} 讓 {2:Show} 很惱火
+810,{1:Show} 給 {2:Show} 秀了一個魔術技巧
+812,{1:Show} tried and failed to mess with {2:ShowP} head about being friends with {2:ShowPron_his_her} {3:ShowGender_boyfriend_girlfriend}
+813,{0:ShowList_i_r_and} 想讓 {3:Show} 在 {0:ShowList_i_r_andp} 之中作出抉擇
+814,{0:ShowList_i_r_and} couldn't see eye to eye about {3:Show}
+815,{1:Show} 不停地念叨 {2:ShowP} 名字
+816,{1:Show} 想惹惱 {2:Show} ，再次失敗
+817,{2:Show} 徹底把 {1:Show} 擊垮了
+818,{0:ShowList_i_r_and} 藉由 {0:ShowCKB} 走在了一起
+819,{1:Show} 讓 {2:Show} 想起了舊情
+820,{1:Show} 約了 {2:Show}
+821,{0:ShowList_i_r_and} 沒能借助 {0:ShowCKB} 約起來
+823,{2:Show} 還不夠喜歡 {1:Show} ， 拒絕與 {1:ShowPron_him_her} 交往
+824,"even though {2:Show} {2:ShowPron_was_were} way out of {1:ShowP} league, {1:ShowPron_he_she} totally convinced {2:ShowPron_him_her} to go out with {1:ShowPron_him_her}"
+825,{2:Show} 很喜歡 {1:Show}， 因此同意了跟 {1:ShowPron_he_she} 交往
+826,{2:Show} 想同意跟 {1:Show} 交往， 但是 {2:ShowPron_he_she} 太害羞了，沒明確答應
+827,{0:ShowList_i_r_and} 成果了捅破了朋友和戀人之間的這層窗戶紙
+828,{1:Show} 對 {2:Show} 做了些笨手笨腳的事情， 想跟 {2:ShowPron_him_her} 約會
+829,{1:Show} didn't let a simple thing like mutual hatred get in the way of {1:ShowPron_his_her} plans to date {2:Show}
+830,{1:Show} 覺得 {2:Show} 會因為一些原因跟 {1:ShowPron_him_her} 交往
+831,{2:Show} 用一個蹩腳的藉口拒絕了跟 {1:Show} 在一起
+832,{2:Show} 為 {1:Show} 與自己的交往設定了一些條件
+833,{1:Show} 太害羞了，不敢約 {2:Show} ， 但是 {2:ShowS} 不管怎麼樣還是同意了
+834,{1:Show} 讓 {2:Show} 想起了 {1:ShowPron_his_her} 過人之處， 然後 {0:ShowList_i_r_we_they} 開始交往
+835,{1:Show} 讓 {2:Show} 想起了 {1:ShowPron_his_her} 過人之處， 但是 {2:ShowS} 毫不在意
+838,{2:Show} 打消了 {1:ShowP} 想跟 {2:ShowPron_him_her} 交往的念頭
+839,{1:Show} 想跟 {2:Show} 交往， 儘管 {1:ShowPron_he_she} 不是這裡最強的 {1:ShowGender_boy_girl}
+840,{1:Show} {1:ShowPron_was_were} like 'we should date' and {2:Show} {2:ShowPron_was_were} like 'ew'
+841,{1:Show} 向 {3:ShowP} {2:ShowGender_boyfriend_girlfriend} 下手
+842,{1:Show} 向 {3:Show} 的 {2:ShowGender_boyfriend_girlfriend} 下手時被 {3:Show} 阻止了
+843,{1:Show} 和 {2:Show} 重修舊好
+844,{1:Show} 本來不是刻意想跟 {2:Show} 和好的
+845,{1:Show} 兜兜轉轉， 又和 {2:Show} 和好了
+846,{1:Show} 想和 {2:Show} 和好， 但是 {2:ShowPron_he_she} 沒興趣
+847,{1:Show} 想和 {2:Show} 和好， 但是這似乎有點差勁
+848,{1:Show} 和 {2:Show} 才剛分手就又和好了
+849,{1:Show} 才剛和 {2:Show} 分手想和好時被拒絕了
+850,{1:Show} 求 {2:Show} 和自己和好，原諒自己之前綠了 {2:ShowPron_him_her} 這件事
+851,{1:Show} 求 {2:Show} 和自己和好，原諒自己之前綠了 {2:ShowPron_him_her} 這件事， 但是被拒絕了
+852,{1:Show} 跟 {1:ShowPron_his_her} 不忠的前任和好了
+853,可憐的 {1:Show} 在求 {1:ShowPron_his_her} 不忠的前任和好時失敗了
+854,{1:Show} got all 'it's complicated' with {0:ShowList_r_o_and}
+855,{2:Show} 不想欺騙 {3:Show} ， 選擇跟 {1:Show} 在一起
+856,{2:Show} 很痛苦， 不想欺騙 {3:Show} ， 選擇跟 {1:Show} 在一起
+857,{0:ShowList_i_r_and} 和 {3:Show} 形成了詭異的三角關係
+858,{1:Show} tried to get {2:Show} into some weird 'it's complicated' relationship with {3:Show}
+859,{0:ShowList_i_r_and} 朋友之上， 戀人未滿

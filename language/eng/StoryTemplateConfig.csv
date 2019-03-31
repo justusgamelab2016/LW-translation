@@ -1,4 +1,97 @@
-1,I'm on the top of the world,"You are lucky. Before the war, you are rich. After the war, you're even richer. Now, you sit in your private villa with abundant supply. Enjoying the peace and leisure."
-2,Depend on each other,A boy saved by a girl. On the borderless ocean. How long can they survive?
-3,Exile Pirates,"The Ravens sentenced you to death. But you stole a sampan and escaped. Don't have much supply, but at least you have a shelter."
-4,The lone survivor,Start with a single survivor. Can you find the one to help continue the human race?
+1,The Merchant,"You are lucky. Before the war, you are rich. After the war, you're even richer. Now, you sit in your private villa with abundant supply. Enjoying the peace and leisure.","- sardine x6
+- Rope x4
+- Drum Stick x4
+- Potato x5
+- Carrot x5
+- Rot x10
+- Root Seed x3
+- Flower Seed x1
+- Wood x20
+- Fishing Rod x1
+- Green Dye x5","- sardine x6
+- Rope x12
+- Drum Stick x4
+- Potato x5
+- Carrot x5
+- Rot x30
+- Root Seed x7
+- Flower Seed x3
+- Wood x50
+- Fishing Rod x1
+- Green Dye x5
+- Blue Dye x5
+- Red Dye x5
+- Yellow Dye x5
+- Leaf Seed x2
+- Leaking Barrel x1
+- Bow x1
+- Arrow x20
+- Spear x2","- sardine x6
+- Rope x4
+- Drum Stick x4
+- Potato x5
+- Carrot x5
+- Rot x5
+- Root Seed x2
+- Flower Seed x2
+- Fishing Rod x1"
+2,Depend on each other,A boy saved by a girl. On the borderless ocean. How long can they survive?,"- Rope x2
+- Rot x5
+- Fishing Rod x1
+- Green Dye x5
+- Seed x2","- Rope x10
+- Rot x25
+- Fishing Rod x2
+- Green Dye x5
+- Seed x10
+- Leaking Barrel x1
+- Spear x1
+","- Rope x2
+- Fishing Rod x1
+- Green Dye x5
+- Seed x2"
+3,Exile Pirates,"The Ravens sentenced you to death. But you stole a sampan and escaped. Don't have much supply, but at least you have a shelter.","- sardine x2
+- Wood x16
+- Rope x5
+- Rot x5
+- Red Snapper x1
+- SwordFish x1
+- Leaf Seed x2
+- Fishing Rod x1
+- Green Dye x5
+- Root Seed x1
+- Fruit Seed x1
+- Spear x2","- sardine x2
+- Wood x26
+- Rope x13
+- Rot x30
+- Red Snapper x1
+- SwordFish x1
+- Leaf Seed x2
+- Fishing Rod x1
+- Green Dye x5
+- Root Seed x6
+- Fruit Seed x1
+- Flower Seed x3
+- Leaking Barrel x1
+- Spear x2
+- Club x2
+- FlaxArmor x2
+- FlaxHat x2
+- ClothArmor x2
+- ClothHat x2
+","- sardine x2
+- Wood x16
+- Rope x5
+- Rot x5
+- Red Snapper x1
+- SwordFish x1
+- Leaf Seed x2
+- Fishing Rod x1
+- Green Dye x5
+- Root Seed x1
+- Fruit Seed x1
+- Spear x2
+"
+5,Depend on each other,A boy saved by a girl. On the borderless ocean. How long can they survive?,,,
+1000,The lone survivor,Start with a single survivor. Can you find the one to help continue the human race?,123,123,123

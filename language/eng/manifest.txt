@@ -1,5 +1,8 @@
 {
   "Language": "english",
+  "Title": null,
+  "Description": null,
+  "PlainText": "plain_text.csv",
   "Config": {
     "LocationConfig": "location.csv",
     "BillConfig": "bill.csv",
@@ -14,7 +17,11 @@
     "StoryTemplateConfig": "StoryTemplateConfig.csv",
     "GuideConfig": "GuideConfig.csv",
     "BackStoryConfig": "BackStoryConfig.csv",
-    "ThingTagConfig": "ThingTagConfig.csv"
+    "ThingTagConfig": "ThingTagConfig.csv",
+    "PriorityConfig": "PriorityConfig.csv",
+    "ThiefEventEntityConfig": "ThiefEventEntityConfig.csv",
+    "SkillConfig": "SkillType.csv",
+    "GuideCheckListConfig": "GuideCheckListConfig.csv"
   },
   "Enum": {
     "EntityStateType": "entity_state_type.csv",
@@ -31,8 +38,9 @@
     "SocialDisplayType": "SocialDisplayType.csv",
     "UITextLocalization": "ui_text.csv",
     "LandMudGrowState": "LandMudGrowState.csv",
-    "SkillType": "SkillType.csv",
     "PerkType": "PerkType.csv",
-    "SimulateRelationType": "SimulateRelationType.csv"
+    "SimulateRelationType": "SimulateRelationType.csv",
+    "BuildingType": "BuildingType.csv",
+    "DeadReason": "DeadReason.csv"
   }
 }

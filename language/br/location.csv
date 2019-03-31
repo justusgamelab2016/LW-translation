@@ -1,109 +1,122 @@
-1,Fishing Rod,"Takes a long time, but a good way to ease nerve. "
-2,Raft,Basic type. Lack of durability.
-3,Lemon Tree,Harvest lemons or cut down for wood.
-4,Small Storage Box,Store many kinds of stuff.
-5,Stair,Expand vertically.Can Support 8 rafts.
-7,Hammock,Start to feel like a vacation.
-8,Pillar,Support 9 rafts.
-9,Flax Field,Harvest flax to make ropes.
-10,Meat Rack,Turn meat into jerky.
-11,Rain Collector,"Collect rain,can store 5 liters of water."
-12,Water Tank,Put next to a rain collector / water filter to store 5 liters of water.
-13,Work Bench,Craft many useful items.Put it in a room to make a work room.
-14,Wall,Protect your from the attacking of shark.
-15,Survivor Corpse,
-16,Shark Corpse,
-17,Seagull Corpse,
-18,Mat,Can sleep on it.Or put it in a room with Incense Holder to make a meditation room. Lack of durability.
-19,Weapon Rack,Could store weapons and arrows.
-20,Big Storage Box,More capacity.
-21,Water Filter,Pour in sea water to desalinate.
-22,Potato Field,
-23,Carrot Field,
-24,Spike Wall,Deal damage when attacked.
-25,Field,
-26,Campfire,Make dishes. Combine different materials to find out new recipes.
-27,Fishnet,Catch fish once a while.
-28,Paddle,Let survivors row forward or backward. Consume a lot of energy.
-29,Door,Feel like a nice room now.
-30,Water Proof Wall,Waterproof protection.
-31,Sail,May a favorable wind send you safely home.
-32,Soil Floor,"Soil, the source of life."
-33,Wind Vane,Measure wind direction.
-34,Fishman Paddle,xxxxxxxxx
-35,Floating Wood,Provide extra buoyancy.
-36,Observe Spot,xxxxxxxxx
-37,Watch Spot,Watch out for island.
-38,Measure Spot,Measure sailing speed and direction.
-39,Graphing Table,Draw map.
-40,Rudder,Change the direction.
-41,Torch,Light and warm.
-42,Torch On Wall,"Same torch, on wall."
-43,Fence,Try not to fall into water.
-44,Paint,Crystallization of creativity. Good for ease mind.
-45,Dye Mixer,xxxxxxxxx
-46,Locating Table,xxxxxxxxx
-47,Revising Table,xxxxxxxxx
-48,Big Sail,Better speed.
-49,Table,Great for dinner and meeting.Put it in a room to make a dinning room.
-50,Chair,"After dinner sit a while, after supper walk a mile. "
-51,Pot,Could cook better recipes.
-52,Weaver,Craft fiber and clothes.
-53,Mortar,Using for smashing. Could craft juice and dye.
-54,Stone Mortar,Harder then wood Mortar.
-55,Tool Bench,Craft melee and range weapons.
-56,Clothes Bench,Craft hats and armors.
-57,Armor Rack,Could store a full set of armor.
-58,Incense Holder,Good for meditation.
-59,Skull on Wall,Memory of old friend.
-60,Shower,Nice shower.
-61,Toilet,Turn feces into fertilizer.
-62,Shark Trap,Catch shark for a while.
-63,Stone,
-64,Mud,
-65,Advance Water Filter,Using charcoal to filter sea water.
-66,Green Herb Field,
-67,Yellow Herb Field,
-68,Red Herb Field,
-69,Blue Herb Field,
-70,Medicine Bench,Craft medicine to heal wound and illness.
-71,Eaves,Feel more like a home now.
-72,Eaves Rain Collector,"Collect rain, with less space. "
-73,Flower Pot On Wall,Good Mood.
-74,Advance Hammock,Start to feel like a vocation.
-75,Waterproof Raft,Water proof raft.
-76,Big Table,Great for dinner and meeting..
-77,Work Bench,Craft melee and range weapons.
-78,Coconut Tree,Harvest coconuts or cut down for wood.
-79,Advance Raft,Your honest friend. MK2
-80,Fertilizer Pool,Convert food into dirt.
-81,Soil Floor,"Soil, the source of life."
-82,Roof,Good for shelter.
-83,Bed,Feel like a home now.Put it in a room to make a bedroom.
-84,Train Dummy,Training fighting skill.
-85,Craft Training Table,Training crafting skill.
-86,Root Vege Field,Produce random rhizomatous crops. Provide energy and fullness.
-88,Leafy Vege Field,Produce random leafy vegeables. Provide vitamine for survivors.
-89,Herb Field,Produce random herbs.Use for cures wounds.
-90,Berry Field,Produce berry. Good for dessert and dye.
-91,Tree,
-92,Sea Weed,Taste like salty rubber.
-93,Fish Chess,GG.
-94,Swing,Have fun!
-95,Chest,There is something inside.
-96,Humid Proof Raft,Keep it dry and clean.
-97,Cabbage,
+1,Vara de pesca,"Demanda muito tempo, mas é uma boa maneira de acalmar os nervos."
+2,Jangada,Tipo básico. Não possui durabilidade.
+3,Limoeiro,Colha limões ou corte para obter madeira.
+4,Caixa de armazenamento pequena,Armazene muitos tipos de coisas.
+5,Escada,Expande verticalmente. Suporta 8 jangadas.
+7,Rede,Comece a se sentir de férias.
+8,Pilar,Suporta 9 jangadas.
+9,Campo de linho,Colha linho para fazer cordas.
+10,Cremalheira de carne,Deixa a carne seca.
+11,Coletor de chuva,Coleta chuva. Pode armazenar 5 litros de água.
+12,Tanque de água,Coloque ao lado de um coletor de chuva / filtro de água para armazenar 5 litros de água.
+13,Bancada de trabalho,Crie muitos itens úteis. Coloque-a em um cômodo para fazer uma sala de trabalho.
+14,Parede,Protege você dos ataques de tubarão.
+15,Corpo de sobrevivente,
+16,Corpo de tubarão,
+17,Corpo de gaivota,
+18,Colchonete,É possível dormir nele. Ou colocá-lo em um cômodo com incensário para fazer uma sala de meditação. Não possui durabilidade.
+19,Estante de armas,Pode armazenar armas e flechas.
+20,Caixa de armazenamento grande,Mais capacidade.
+21,Filtro de água,Coloque água do mar nele para dessalinizá-la.
+22,Plantação de batata,
+23,Plantação de cenoura,
+24,Parede de espinhos,Causa dano quando atacada.
+25,Campo,
+26,Fogueira,Faz comidas. Combine diferentes materiais para descobrir novas receitas.
+27,Rede de pesca,Pega peixes de vez em quando.
+28,Remo,Faz os sobreviventes remarem para frente ou para trás. Consome muita energia.
+29,Porta,Parece um quarto agora.
+30,Parede impermeável,Proteção à prova d'água.
+31,Vela,Que um vento favorável te mande em segurança para casa.
+32,Solo fértil,"Solo, a fonte da vida."
+33,Cata-vento,Indica a direção do vento.
+34,Remo de pescador,xxxxxxxxx
+35,Madeira flutuante,Fornece flutuabilidade extra.
+36,Observar local,xxxxxxxxx
+37,Procurar local,Atente-se a ilhas.
+38,Avaliar local,Avalie a orientação e a velocidade de navegação.
+39,Mesa gráfica,Desenhe mapas.
+40,Leme,Muda a direção.
+41,Tocha,Clareia e aquece.
+42,Tocha de parede,"A mesma tocha, só que na parede."
+43,Cerca,Tente não cair na água.
+44,Pintura,Cristalização da criatividade. Bom para sossegar a mente.
+45,Misturador de tinturas,xxxxxxxxx
+46,Mesa de localização,xxxxxxxxx
+47,Mesa de revisão,xxxxxxxxx
+48,Vela grande,Maior velocidade.
+49,Mesa,Ótimo para jantar e fazer reuniões. Coloque em um cômodo para fazer uma sala de jantar.
+50,Cadeira,"Depois de jantar, sente-se um pouco. Depois da ceia, caminhe um pouco. "
+51,Panela,Pode cozinhar receitas melhores.
+52,Tear,Crie fibras e roupas.
+53,Pilão,Usado para moer. Pode fazer suco e tintura.
+54,Pilão de pedra,Mais resistente que o pilão de madeira.
+55,Bancada de ferramentas,Crie armas de curto e longo alcance.
+56,Bancada de roupas,Faça armaduras e chapéus.
+57,Estante de armaduras,Pode armazenar um conjunto completo de armadura.
+58,Incensário,Bom para meditação.
+59,Crânio na parede,Memória de um velho amigo.
+60,Chuveiro,Bom banho.
+61,Privada,Transforma fezes em fertilizante.
+62,Armadilha de tubarão,Captura tubarão por certo tempo.
+63,Pedra,
+64,Lama,
+65,Filtro de água avançado,Usa carvão para filtrar a água do mar.
+66,Plantação de erva verde,
+67,Plantação de erva amarela,
+68,Plantação de erva vermelha,
+69,Plantação de erva azul,
+70,Bancada de medicina,Faça itens medicinais para curar feridas e doenças.
+71,Calha,Parece mais uma casa agora.
+72,Calha coletora de chuva,"Recolha chuva, com menos espaço. "
+73,Vaso de flores na parede,Bom humor.
+74,Rede avançada,Comece a se sentir de férias.
+75,Jangada impermeável,Jangada à prova d'água.
+76,Mesa grande,Ótimo para jantar e fazer reuniões.
+77,Bancada de trabalho,Faça armas de curto e longo alcance.
+78,Coqueiro,Colha cocos ou corte para obter madeira.
+79,Jangada avançada,Seu amigo sincero. MK2
+80,Tanque de fertilizante,Transforma comida em adubo.
+81,Solo fértil,"Solo, a fonte da vida."
+82,Teto,Bom para o abrigo.
+83,Cama,Parece uma casa agora. Coloque em um cômodo para fazer um quarto.
+84,Boneco de treino,Treine a habilidade de luta.
+85,Bancada de treino de criação,Treine a habilidade de criação.
+86,Plantação de legumes,Produz alimentos rizomatosos aleatórios. Fornece energia e satisfação.
+88,Plantação de verduras,Produz verduras aleatórias. Fornece vitaminas para os sobreviventes.
+89,Plantação de ervas,Produz ervas aleatórias. Use para curar feridas.
+90,Plantação de bagas,Produz bagas. Bom para sobremesas e tinturas.
+91,Árvore,
+92,Algas marinhas,Tem gosto de borracha salgada.
+93,Peixe xadrez,Xeque-mate.
+94,Balanço,Divirta-se!
+95,Baú,Há algo dentro.
+96,Jangada à prova de umidade,Mantém-se seca e limpa.
+97,Repolho,
 98,Spinacia,
-99,Blueberry,
-100,Strawberry,
-101,Poisonberry,
-102,Cage,
-103,Mutant,Training crafting skill.
-104,Penguin,Training crafting skill.
-105,Chest On Island,
-106,Preparing Table,Prepare cold dishes.
-107,BrewingBarrel,Convert fruit into wine.
-108,MushroomLog,Convert wood and woodware into mushroom.
-109,Scrap,
-110,Wood Holder,Store about 20 things.
-111,Food Stash,Store about 20 things.
+99,Mirtilo,
+100,Morango,
+101,Bagas venenosas,
+102,Jaula,
+103,Mutante,Treine a habilidade de criação.
+104,Pinguim,Treine a habilidade de criação.
+105,Baú na ilha,
+106,Mesa de preparação,Prepare pratos frios.
+107,Barril de fermentação,Transforma frutas em vinho.
+108,Tronco de cogulemos,Transforma madeira e peças de madeira em cogumelo.
+109,Sucata,
+110,Suporte de madeira,Guarda cerca de 20 itens.
+111,Estoque de alimentos,Guarda cerca de 20 itens.
+112,Door with Bolt,Could be locked from oneside. Couldn't be unlocked from the other side.
+113,Bird Nest,Somtimes seagulls leave eggs in it.
+114,Water Pond,Might collect some fresh water.
+115,Sand,Could collect sand and scallop.
+116,Plant Manage Table,Could manage all soil floors nearby. Including what to plant and when to harvest.
+117,Craft Manage Table,Could manage all facility nearby.
+118,Pickle Barrel,Preserve vegetables with salt.
+119,Arrow Tower,Archer can shoot father and be protected.
+120,Pike Trap,Poke enemies that walk on it.
+121,Statue,Preying might bring good luck.
+122,Coconut Lantern,Stay longer than basic torch. Burning wood tar.
+123,BirdTrap,
+124,RepairTable,

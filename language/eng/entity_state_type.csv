@@ -14,7 +14,7 @@
 13,Interact
 14,Harvest
 15,Wipe
-16,Water Proofing
+16,Waterproofing
 17,Fishing
 18,Research
 19,Attack
@@ -32,13 +32,13 @@
 31,Demolish
 32,Arrange
 33,Feed
-34,Feed SeaWater
+34,Supply SeaWater
 35,Drain
 36,Fetch
 37,Make Love
 38,Put on
-39,Range Attack
-40,Throw Away Pile
+39,Ranged Attack
+40,Discard Pile
 41,Return to Raft
 42,Attack Land
 43,Attack Entity
@@ -64,7 +64,7 @@
 63,Think
 64,Irrigate
 65,Disinsect
-66,Tillage
+66,Plowing
 67,Fertilizing
 68,Dye
 69,Arrange

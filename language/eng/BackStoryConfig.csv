@@ -5,15 +5,15 @@
 5,not used yet.
 6,not used yet.
 7,not used yet.
-20,"{1:name}'s {0:relation} died when {1:pron} was {1:age} years old. That day, {1:pron} was at home, waiting for {1:pronp} {0:relation} returning."
-21,"{1:name}'s {0:relation} died. That day, {1:pron} felt nothing but pain, slept on bed for a whole day."
-22,"{1:name}'s {0:relation} died when {1:pron} was {1:age} years old. That day, {1:pron} knew nothing, played outside."
+20,"{1:name}'s {0:relation} died when {1:pron} was {1:age} years old. That day, {1:pron} was at home, waiting for {1:pronp} {0:relation} to return."
+21,"{1:name}'s {0:relation} died. That day, {1:pron} felt nothing but pain, slept in bed for a whole day."
+22,"{1:name}'s {0:relation} died when {1:pron} was {1:age} years old. That day, {1:pron} knew nothing and played outside."
 23,"{1:name}'s {0:relation} died. That day, {1:pron} felt nothing but pain."
-24,{1:name} heard the news that {0:relation} died. {1:pron} didn't know what to do next temporarily.
+24,{1:name} heard the news that {0:relation} died. {1:pron} didn't initially know what to do next.
 25,"{1:name} heard the news that {0:relation} died, but didn't know what that meant."
-26,"{1:name} heard the news that {0:relation} died. {1:pron} shed tears, had no idea whether {1:pron} was happy or not."
+26,"{1:name} heard the news that {0:relation} died. {1:pron} shed tears, but had no idea whether {1:pron} was happy or not."
 27,{1:name}'s {0:relation} died.
-100,"{1:fullname} has no idea where {1:pron} came from, only know {1:pron} is {1:age} years old."
+100,"{1:fullname} has no idea where {1:pron} came from, only knows {1:pron} is {1:age} years old."
 101,"{1:fullname} was born, {1:son} of {1:mother} and {1:father}."
 102,{1:name} married {2:fullname}.
 103,{1:name} delievered a child {2:name}.

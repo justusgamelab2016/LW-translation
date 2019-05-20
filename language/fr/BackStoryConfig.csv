@@ -115,6 +115,7 @@
 614,{1:name} a lu un livre et pense avoir appris des choses.
 615,{1:name} a gagné beaucoup d’argent à la lotterie.
 616,"{1:name} a trouvé un temple pendant un voyage, et s’est trouvé purifié."
+617,{1:name} accident wealth after the fall.
 700,{1:name} a touvé un spécimen étrange de créature dans un laboratoire.
 701,"{1:name} a eu vent d’une étrange rumeur, à propos d’un monstre marin."
 702,{1:name} a trouvé la tête de son chat machouillée par une créature aux dents pointues.
@@ -225,3 +226,7 @@
 2366,{1:name} a entendu des rumeurs du Deep Ones de {1:his} professeur.
 2367,{1:name} a entendu des rumeurs du Deep Ones.
 2368,{1:name} a entendu des rumeurs à propos des demi dieux dans la mer.
+2500,{1:name} delivered a child {2:name}.
+2501,{1:name} delivered a child {2:name} too young.
+2502,{1:name} delivered a child {2:name} elder.
+2503,{1:name} delivered a child {2:name} after the Fall.

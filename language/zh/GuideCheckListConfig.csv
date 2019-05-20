@@ -1,58 +1,68 @@
-1,Select a tree
-2,Toggle Chop down
-3,Wait for survivor to chop down the tree
-10,Select a tree
-11,Toggle Harvest
-12,Wait for survivor to harvest the tree
-20,Put on blueprint of tree
-21,Build a tree
-30,Put on blueprint of raft
-31,Build a raft
-40,Put on blueprint of rot floor
-41,Build a rot floor
-50,Select a raft
-51,Select a building
-52,Select a survivor
-60,Select a survivor
-61,View status
-62,View skills
-63,View social
-64,View health
-70,Select a shark
-71,Toggle Attack
-72,Toggle Alert
-73,Attack the shark
-80,Switch current floor
-90,Select campfire
-91,Click feed wood
-100,Select Fertilizer Pool
-101,Click feed food
-102,Wait for it to consume food
-103,Wait for it to generate rot
-110,Select Storage box
-111,Click feed item
-120,Put on blueprint of flax
-121,Build a flax
-122,Harvest a flax
-123,Select a workbench
-124,Make rope
-130,Select a survivor who can level up
-131,Level up
-140,Build a bedroom
-141,Assign the bedroom to a survivor
-150,Unlock a type of building
-151,Unlock a type of recipe
-160,Put on blueprint of paddle
-161,Build a paddle
-1010,GetWood
-1020,GetFish
-1021,GetFish
-1030,GetWater
-1031,GetWater
-1040,GetKebab
-1050,FightSeagull
-1060,BuildSoilFloor2
-1070,FightShark
-1080,UnlockReciepe
-1090,BuildAPaddle
-1100,NoWood
+1,選擇一棵樹
+2,按下【砍】
+3,等待倖存者砍下樹
+10,選擇一棵樹
+11,按下【收穫】
+12,等待倖存者來收穫檸檬
+20,放置檸檬樹的藍圖
+21,種植一棵檸檬樹
+30,放置一個木筏的藍圖
+31,建造一個木筏
+40,放置一個有機物地板的藍圖
+41,建造一個有機物地板
+50,選擇一個木筏
+51,選擇個一個設施
+52,選擇一個倖存者
+60,選擇一個倖存者
+61,檢視狀態
+62,檢視技能
+63,檢視社交
+64,檢視健康
+70,選擇一條鯊魚
+71,按下【攻擊】
+72,按下【警戒】
+73,攻擊鯊魚
+80,切換當前樓層
+90,選擇篝火
+91,按下補充木頭
+100,選擇一個堆肥池
+101,按下補充食物
+102,等待堆肥池消耗食物
+103,等待堆肥池產生腐殖質
+104,建造一個堆肥池
+110,選擇一個儲存箱
+111,點一下補充物品
+112,建造一個儲存箱
+120,放下一個亞麻的藍圖
+121,種植一棵亞麻
+122,等待亞麻成熟，並收穫亞麻
+123,選擇工具臺
+124,製造繩子
+125,建造一個工作臺
+130,選擇一個可以升級的求生者
+131,升級
+140,建造一間臥室
+141,將臥室分配給一個求生者
+150,解鎖一種建築
+151,解鎖一種配方
+160,放置一個槳的藍圖
+161,建造一個槳
+1010,獲得木頭
+1011,獲得檸檬
+1020,釣到魚
+1021,製作魚竿
+1030,建造一個雨水收集器
+1031,收集淡水
+1040,烹飪烤串
+1041,建造一個火堆
+1050,擊退海鷗
+1060,建造有機物地板
+1070,擊敗鯊魚
+1080,解鎖配方
+1090,建造槳
+1100,拆除任意一個建築回收木材
+1200,建造床墊/床
+1300,WASDMove
+1301,PanMove
+1302,ZoomInOut
+1303,Rotate

@@ -42,5 +42,6 @@
     "SimulateRelationType": "SimulateRelationType.csv",
     "BuildingType": "BuildingType.csv",
     "DeadReason": "DeadReason.csv"
-  }
+  },
+  "Contributors": []
 }

@@ -1,8 +1,8 @@
 0,None
-1,KilledBy
-2,Suicide
-3,Hungry
-4,Thirsty
-5,Sanity
-6,HungryAndThirsty
-7,DrownDead
+1,死因：被{0}殺死
+2,死因：自殺
+3,死因：過於飢餓
+4,死因：過於渴
+5,死因：精神崩潰
+6,死因：飢渴交加
+7,死因：溺水

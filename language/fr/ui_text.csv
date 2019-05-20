@@ -203,6 +203,8 @@
 727,Tooltip_Fight
 728,Tooltip_TaskEfficiency
 729,Tooltip_TaskEfficiency_All
+730,Tooltip_alert_all
+731,Tooltip_ShoWHideCompleteGuide
 800,Poids
 801,Flottabilité
 802,Objets
@@ -366,6 +368,7 @@
 1136,Message_Pirate_Thirsty
 1137,Message_Pirate_HungryHarm
 1138,Message_Pirate_ThirstyHarm
+1139,Message_Guide_NoWood
 1200,Interragir
 1201,Aider
 1202,Butin
@@ -405,6 +408,15 @@
 1411,Devrait être placé sur l'eau
 1412,Hauteur max atteinte
 1413,Location_Forbidden_Building_Dep_Near_Tag
+1414,Location_Forbidden_Building_Dep_Current_Tag_Mud
+1415,Location_Forbidden_Building_Out_Of_Graph
+1416,Location_Forbidden_Building_Blocked
+1417,Location_Forbidden_Building_Must_On_Raft
+1418,Location_Forbidden_Raft_Blocked
+1419,Location_Forbidden_Raft_Change_Different_Raft
+1420,Location_Forbidden_Raft_Above_Water
+1421,Location_Forbidden_Raft_Near_Raft
+1422,Location_Forbidden_Wall_No_More
 1500,SmallTalk_Normal_Skeleton
 1501,Je parle avec {0} à propos d'un homme dans le monde
 1502,Je parle avec {0} à propos d'une femme dans le monde
@@ -455,6 +467,15 @@
 2105,PirateCommand_CarryPile
 2106,PirateCommand_PutOnLimb
 2107,PirateCommand_FeedLocation
+2200,KeyHint_WASD
+2201,KeyHint_QE
+2202,KeyHint_FreeRoCam
+2203,KeyHint_RotateBluePrint
+2204,KeyHint_CancelBluePrint
+2205,KeyHint_PlayerMove
+2206,KeyHint_PlayerAssign
+2207,KeyHint_PlayerAttack
+2208,KeyHint_PlayerCommonAction
 5000,Survivor_s_Corpse
 5001,Time_Day
 5002,Time_Hour
@@ -490,3 +511,11 @@
 5544,Env_NoRainCloudy
 5545,Env_NoRainCloudyHeavy
 5546,Env_NoRain
+5547,OverAll_SaltFog
+5548,GuideProgress
+5549,BluePrint_Pause
+5550,BluePrint_Continue
+5551,BluePrint_Cancel
+5552,BluePrint_Progress
+5553,bill_openStorage
+5554,NotFinalQuality

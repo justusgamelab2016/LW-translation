@@ -36,3 +36,5 @@ Then, click the [Alert] button on one's character card (on the bottom of the scr
 108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 109,BuildAPaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 110,NoWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+111,MakeBed,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+112,PlayerInput,PlayerInput,PlayerInput.

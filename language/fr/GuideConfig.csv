@@ -24,7 +24,7 @@ Ensuite, cliquez sur le bouton [ALERTE] à côté du portrait du personnage (au 
 15,Pièce,Pièce,"Tout espace clos avec au moins une porte est une pièce. Vous pouvez sélectionner la pièce si vous sélectionnez le filtre. Ensuite vous pouvez assigner des survivants à une pièce. Cela rendrait la pièce privée ce qui signifie que d'autres personnes ne peuvent pas entrer et utiliser quelque chose à l'intérieur. Avec un bâtiment différent à l'intérieur de la pièce vous pouvez créer une salle de travail, une salle de méditation, une salle à manger etc."
 16,Déverouillage,Déverouillage,Augmenter les compétences débloque des bâtiments et des recettes. Vous pouvez déverouiller d'autres bâtiments et recettes en les recherchant dans une salle de travail(et en fournissant des matériaux corrects) ou en fouillant une île. Les survivants auront parfois un moment de libre quand ils méditent dans la salle de méditation ou en regardant des peintures.
 17,Mode Création,Mode Création,Via le mode création vous pouvez construire librement. Mais vous ne pouvez construire des choses que si vous les avez déverrouillées en mode normal.
-18,Placer une pagaie ,,La pagaie devrait être placée à côté de l'eau. Both front and back side of paddle should be water.
+18,Placer une pagaie,,La pagaie devrait être placée à côté de l'eau. Both front and back side of paddle should be water.
 101,GetWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 102,GetFish,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 103,GetWater,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
@@ -35,3 +35,5 @@ Ensuite, cliquez sur le bouton [ALERTE] à côté du portrait du personnage (au 
 108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 109,BuildAPaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 110,NoWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+111,MakeBed,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+112,PlayerInput,PlayerInput,PlayerInput.

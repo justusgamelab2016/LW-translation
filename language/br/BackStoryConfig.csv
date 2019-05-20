@@ -115,6 +115,7 @@
 614,{1:name} leu um livro e sentiu que aprendeu algo.
 615,{1:name} ganhou muito dinheiro na loteria.
 616,{1:name} achou um santuário enquanto viajava e sentiu-se purificado.
+617,{1:name} accident wealth after the fall.
 700,{1:name} descobriu um espécime estranho no laboratório.
 701,"{1:name} ouviu um boato estranho, sobre um monstro que vivia no mar."
 702,{1:name} achou que a cabeça de seu gato havia sido mordida por alguma criatura com dentes afiados.
@@ -225,3 +226,7 @@
 2366,{1:name} ouviu boatos sobre o Profundo através de sua professora.
 2367,{1:name} ouviu boatos sobre o Profundo.
 2368,{1:name} ouviu boatos sobre um semideus no mar.
+2500,{1:name} delivered a child {2:name}.
+2501,{1:name} delivered a child {2:name} too young.
+2502,{1:name} delivered a child {2:name} elder.
+2503,{1:name} delivered a child {2:name} after the Fall.

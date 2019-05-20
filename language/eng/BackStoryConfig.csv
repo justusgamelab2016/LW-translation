@@ -115,6 +115,7 @@
 614,{1:name} read a book and felt learning something.
 615,{1:name} won a lottery and recieved lots of money.
 616,{1:name} found a shrine when travling and felt cleansed.
+617,{1:name} accident wealth after the fall.
 700,{1:name} found some strange creature's specimen in the lab.
 701,"{1:name} heard a strange rumor, about a monster lived in the sea."
 702,{1:name} found {1:pronp} cat's head was bit by some creature with sharp teeth.
@@ -225,3 +226,7 @@
 2366,{1:name} heard rumors about the the Deep form {1:his} teacher.
 2367,{1:name} heard rumors about the the Deep.
 2368,{1:name} heard rumors about some demi god in the seea.
+2500,{1:name} delivered a child {2:name}.
+2501,{1:name} delivered a child {2:name} too young.
+2502,{1:name} delivered a child {2:name} elder.
+2503,{1:name} delivered a child {2:name} after the Fall.

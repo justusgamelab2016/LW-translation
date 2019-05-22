@@ -29,14 +29,14 @@
 127,Visit Workshop Page
 128,Unsubscribe Mod
 129,Built on {0}
-130,Creative
-131,Music And Sound
-132,Help Translation
-133,Translators
+130,Creative Mode
+131,Music and Sound
+132,Help Translate
+133,Translators:
 134,Would you like to help translate Last Wood?
-135,Count me in.
+135,Count Me in!
 136,Nope
-137,Add to wish list
+137,Add to Steam wishlist
 200,Auto Save
 201,Simplify Graphics
 202,Save
@@ -62,7 +62,7 @@
 222,Graphic Quality
 223,Brightness
 224,Are you sure to quit Last Wood?
-225,GuideGame
+225,DEMO
 226,GameTODO
 227,ThanksForPlayingDemo
 228,HopeLikeDemo
@@ -102,8 +102,8 @@
 426,Lock Door
 427,Paddle Forward
 428,Paddle Backward
-429,Close Sail
-430,Open Sai
+429,Furling
+430,Hoist Sail
 500,Carry
 501,Target Location
 502,Target Pile
@@ -201,8 +201,8 @@
 725,Upstair
 726,Downstair
 727,Fight
-728,Task Efficiency
-729,Overall Task Efficiency
+728,Work Efficiency
+729,Overall Work Efficiency
 730,Toggle Alert All [C]
 731,Show / Hide Accomplished
 800,Mass
@@ -302,11 +302,11 @@ Hold LCtrl and left click item to cancel. "
 892,Waiting For Patch Notes
 893,Floor
 894,Filter
-895,Tag
-896,Material
-897,Use
-898,Required Skill
-899,Help Panel
+895,Tag:
+896,Material:
+897,Usage:
+898,Required Skill:
+899,Wiki
 900,Bill
 901,Working In Progress
 902,Cancel All
@@ -356,22 +356,22 @@ Hold LCtrl and left click item to cancel. "
 1129,Thanks for your feedback! Uploading job in the background will be done in a few minutes...
 1130,{0} thinks a strom is coming.
 1131,{0} thinks a tornado is coming.
-1132,Never show again
-1133,Delete Save
-1134,Don't Delete Save
+1132,Never show this again
+1133,Delete it!
+1134,Keep it.
 1135,{0}is hungry
 1136,{0}is thirsty
 1137,{0}is starving and start to lose health.
 1138,{0}is dehydrated and start to lose health.
-1139,"You've just run out of precious wood! 
+1139,"You've just run out of precious wood!
 When wood is run out, you could demolish buildings which are not needed anymore, or just keep waiting, to see what will happen on sea.
-Since it's guide here, you will get some wood as a gift immediately! 
+Since it's guide here, you will get some wood as a gift immediately!
 It will not appear when it is a real game.
 Build a tree to get more wood soon!"
 1200,Interact
 1201,Help
 1202,Plunder
-1203,Attact
+1203,Attack
 1204,Expel
 1205,Trade
 1206,Catch
@@ -460,12 +460,12 @@ Build a tree to get more wood soon!"
 2005,<color=teal>Room {0}</color>
 2100,Move to here...
 2101,{0} ({1})
-2102,Pick up ({0})
+2102,Take ({0})
 2103,{0} ({1})
-2104,Put On {0}
-2105,Carry {0}
-2106,Install {0}
-2107,Feed {0}
+2104,Put on ({0})
+2105,Pick up ({0})
+2106,Install ({0})
+2107,Supply ({0})
 2200,"<sprite name=""W""><sprite name=""A""><sprite name=""S""><sprite name=""D""> Pan camera"
 2201,"<sprite name=""Q""><sprite name=""E"">Rotate camera 90°"
 2202,"<sprite name=""Ctr"">+ Drag <sprite name=""RMB"">  rotate camera"
@@ -485,8 +485,8 @@ Build a tree to get more wood soon!"
 5102,Select items on the left to check guide.
 5103,Drag to change order. The items on the left has higher priority. Right click to ban a certain task.
 5104,Decaying
-5105,SaveCreatedAt
-5106,SaveName
+5105,Last Changed Time
+5106,Save Name
 5500,Too cold
 5501,Cold
 5502,Warm

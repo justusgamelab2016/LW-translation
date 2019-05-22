@@ -20,23 +20,23 @@
 118,Plugins
 119,Versão dos plugins
 120,Deseja apagar este jogo?
-121,Forums
-122,Patch Notes
-123,Join Discord
-124,Open Steam WorkShop
-125,Get Mod From Forum
-126,Close
-127,Visit Workshop Page
-128,Unsubscribe Mod
-129,Built on {0}
-130,Creative
-131,Music And Sound
-132,Help Translation
-133,Translators
-134,Would you like to help translate Last Wood?
-135,Count me in.
-136,Nope
-137,Add to wish list
+121,Fóruns
+122,Notas da atualização
+123,Juntar-se ao Discord
+124,Abrir a Oficina Steam
+125,Obter mod do fórum
+126,Fechar
+127,Abrir página da Oficina
+128,Desinscrever-se deste mod
+129,Construir em {0}
+130,Modo criativo
+131,Música e som
+132,Ajudar a traduzir
+133,Tradutores:
+134,Convidamos tradutores
+135,Conte comigo!
+136,Não, valeu
+137,Adicionar à lista de desejos do Steam
 200,Salvar automaticamente
 201,Gráficos simples
 202,Salvar
@@ -60,13 +60,13 @@
 220,Fantástico
 221,Tela cheia
 222,Qualidade gráfica
-223,Brightness
-224,Are you sure to quit Last Wood?
-225,GuideGame
+223,Brilho
+224,Tem certeza de que quer sair do Last Wood?
+225,DEMONSTRAÇÃO
 226,GameTODO
-227,ThanksForPlayingDemo
-228,HopeLikeDemo
-229,JoinDiscordWithUs
+227,ObrigadoPorJogarADemo
+228,EsperamosQueGosteDaDemo
+229,Junte-seAoNossoDiscord
 300,Recurso
 301,Estrutura
 302,Criar
@@ -98,12 +98,12 @@
 422,Jogar
 423,Abrir
 424,Conversar
-425,Open Door
-426,Lock Door
-427,Paddle Forward
-428,Paddle Backward
-429,Close Sail
-430,Open Sai
+425,Abrir porta
+426,Trancar porta
+427,Remar para a frente
+428,Remar para trás
+429,Recolher vela
+430,Içar vela
 500,Carregar
 501,Local alvo
 502,Pilha alvo
@@ -158,16 +158,16 @@
 551,Receitas aprendidas
 552,Talentos
 553,Aleatório
-554,Take Off
-555,Survive {0} more days to unlock
-556,Cripple
-557,Lose Limb
-558,LV
-559,Care
-560,Care influence the skill of healing wound and caring patient.
+554,Tirar
+555,Sobreviva mais {0} dias para desbloquear
+556,Aleijado
+557,Perdeu um membro
+558,NV
+559,Cuidado
+560,Cuidado influencia a habilidade de curar ferimentos e tratar pacientes.
 561,characterCreation
-562,Body
-563,Head
+562,Corpo
+563,Cabeça
 564,Attack
 565,Defense
 566,Speed
@@ -186,14 +186,14 @@
 710,Comida
 711,Água
 712,Madeira
-713,[B] Build
-714,[F9] Reset Camera
-715,[Space] Pause
-716,[Space] Play
-717,[Space] X2 Speed / [Tab] to switch
-718,[Space] X5 Speed / [Tab] to switch
-719,[PgUp/PgDown] or [1]~[9] to switch floor
-720,[I] Items
+713,[B] Construir
+714,[F9] Resetar câmera
+715,[Espaço] Pausar
+716,[Espaço] Jogar
+717,[Espaço] Velocidade x2 / [Tab] para trocar
+718,[Espaço] Velocidade x5 / [Tab] para trocar
+719,[PgUp/PgDown] ou [1]~[9] para trocar de andar
+720,[I] Itens
 721,Alerta
 722,Habilidade necessária:
 723,"Desbloqueado aleatoriamente quando os sobreviventes tiverem um ""momento aha""."
@@ -201,19 +201,19 @@
 725,Upstair
 726,Downstair
 727,Fight
-728,Task Efficiency
-729,Overall Task Efficiency
+728,Eficiência de trabalho
+729,Eficiência geral de trabalho
 730,Toggle Alert All
 731,Show / Hide Accomplished
 800,Massa
 801,Flutuabilidade
 802,Itens
-803,[Shift+1] Building
-804,[Shift+2] Pile
-805,[Shift+3] Survivor
-806,[Shift+4] Room
-807,[Shift+5] Island
-808,[Shift+6] Land And Wall
+803,[Shift+1] Construção
+804,[Shift+2] Pilha
+805,[Shift+3] Sobrevivente
+806,[Shift+4] Cômodo
+807,[Shift+5] Ilha
+808,[Shift+6] Terra e parede
 809,Consumir
 810,Produzir
 811,Mostrar tudo
@@ -276,37 +276,37 @@
 868,[Guia]
 869,[Relatar erro]
 870,[Capturar tela]
-871,[Shift+7] Wall
+871,[Shift+7] Parede
 872,Gravity
-873,Map
+873,Mapa
 874,TearUp
-875,Priority
-876,Bug Report
+875,Prioridade
+876,Relatar erro
 877,BillManager
-878,Bad
-879,Soso
+878,Ruim
+879,Mais ou menos
 880,Normal
-881,Good
-882,Best
-883,[Roate Cam]
-884,[Roate Cam 90°]
+881,Bom
+882,Melhor
+883,[Girar câm]
+884,[Girar câm 90°]
 885,RealTime
 886,GameTime
-887,Queue
+887,Fila
 888,GameTime
-889,Queue
-890,"Press LAlt to show tooltips.
-LMB/RMB to manage storage amount.
-Hold LCtrl and left click item to cancel. "
-891,"Mod requires restart to take effect, do you want to restart now?"
-892,Waiting For Patch Notes
-893,Floor
-894,Filter
-895,Tag
-896,Material
-897,Use
-898,Required Skill
-899,Help Panel
+889,Fila
+890,"Aperte Alt esquerdo para exibir dicas.
+Botões do mouse para gerenciar quantia do depósito.
+Segure Ctrl esquerdo e clique no item com o botão esquerdo para cancelar. "
+891,"É preciso reiniciar o jogo para o mod surtir efeito. Reiniciar agora?"
+892,Title_WaitForPatchNotes
+893,Chão
+894,Filtrar
+895,Tag:
+896,Material:
+897,Utilização:
+898,Habilidade requerida:
+899,Wiki
 900,Lista
 901,Trabalho em progresso
 902,Cancelar tudo
@@ -361,11 +361,11 @@ Hold LCtrl and left click item to cancel. "
 1127,As histórias geradas antes são inválidas.
 1128,"O sistema detectou que o idioma do seu Steam ({0}) é diferente do idioma do jogo. Gostaria de alterar o idioma para o mesmo do Steam? Se sim, é necessário que se reinicie."
 1129,Obrigado pelo feedback! O envio em segundo plano será concluído em alguns minutos...
-1130,{0} thinks a strom is coming.
-1131,{0} thinks a tornado is coming.
-1132,Never show again
-1133,Delete Save
-1134,Don't Delete Save
+1130,{0} acha que uma tempestade está chegando.
+1131,{0} acha que um tornado está vindo.
+1132,Não mostrar novamente
+1133,Apague isso!
+1134,Deixe guardado.
 1135,{0}is hungry
 1136,{0}is thirsty
 1137,{0}is starving
@@ -378,11 +378,11 @@ Build a tree to get more wood soon!"
 1200,Interagir
 1201,Ajudar
 1202,Saquear
-1203,Attack
-1204,Expel
-1205,Trade
-1206,Catch
-1207,Fetch
+1203,Atacar
+1204,Expulsar
+1205,Negociar
+1206,Pegar
+1207,Pegar
 1300,Bonito.
 1301,Não gostei.
 1302,Quero aquilo.
@@ -413,7 +413,7 @@ Build a tree to get more wood soon!"
 1410,Deve ser colocado perto da água.
 1411,Deve ser colocado na água.
 1412,Altura máxima alcançada.
-1413,Should be placed nearby water.
+1413,Deve ser colocado próximo à água.
 1414,Location_Forbidden_Building_Dep_Current_Tag_Mud
 1415,Location_Forbidden_Building_Out_Of_Graph
 1416,Location_Forbidden_Building_Blocked
@@ -428,7 +428,7 @@ Build a tree to get more wood soon!"
 1502,Eu converso com {0} sobre mulheres.
 1503,Eu converso com {0} sobre a vista.
 1504,Eu converso com {0} sobre nossa infância.
-1505,Eu converso com {0} sobre o Apocalipse
+1505,Eu converso com {0} sobre a Queda
 1506,Eu converso com {0} sobre o Éden.
 1507,Eu converso com {0} sobre o navio de Teseu.
 1508,Eu converso com {0} sobre nosso fruto do mar preferido.
@@ -460,19 +460,19 @@ Build a tree to get more wood soon!"
 1803,{0} me ensinou sobre {1}.
 1804,SmallTalk_Skill_Skeleton_Reserved
 2000,Island
-2001,<color=yellow>Survivor {0}</color>
-2002,<color=aqua>Building {0}</color>
+2001,<color=yellow>Sobrevivente {0}</color>
+2002,<color=aqua>Construção {0}</color>
 2003,<color=green>{0} X {1}</color>
 2004,<color=orange>{0}</color>
-2005,<color=teal>Room {0}</color>
-2100,Move to here...
+2005,<color=teal>Cômodo {0}</color>
+2100,Mover para cá...
 2101,{0} ({1})
-2102,Pick up ({0})
+2102,Pegar ({0})
 2103,{0} ({1})
-2104,Put On {0}
-2105,Carry {0}
-2106,Install {0}
-2107,Feed {0}
+2104,Colocar ({0})
+2105,Pegar ({0})
+2106,Instalar ({0})
+2107,Abastecer ({0})
 2200,KeyHint_WASD
 2201,KeyHint_QE
 2202,KeyHint_FreeRoCam
@@ -482,41 +482,41 @@ Build a tree to get more wood soon!"
 2206,KeyHint_PlayerAssign
 2207,KeyHint_PlayerAttack
 2208,KeyHint_PlayerCommonAction
-5000,{0}'s Corpse
+5000,Corpo {0}
 5001,d
 5002,h
 5003,m
 5004,s
-5100,{0} rotten
-5101,{0} corrupted
+5100,{0} apodreceu
+5101,{0} corrompeu-se
 5102,Select items on the left to check guide.
 5103,Drag to change order. The items on the left has higher priority. Right click to ban a certain task.
-5104,Decaying
-5105,SaveCreatedAt
-5106,SaveName
-5500,Too cold
-5501,Cold
-5502,Warm
-5503,Hot
-5504,Too hot
-5510,Too high
-5511,High
+5104,Morrendo
+5105,Última alteração
+5106,Nome do save
+5500,Muito frio
+5501,Frio
+5502,Ameno
+5503,Quente
+5504,Muito quente
+5510,Muito alto
+5511,Alto
 5512,Normal
-5520,Insufferable
-5521,Discomfortable
+5520,Insuportável
+5521,Desconfortável
 5522,Normal
-5530,Complete darkness
-5531,Dark
+5530,Escuridão completa
+5531,Escuro
 5532,Normal
-5533,Gentle brightness
-5534,High noon
-5540,Heavy rain
-5541,Middle rain
-5542,Small rain
-5543,Little rain
-5544,Cloudy
-5545,Heavy cloudy
-5546,No rain
+5533,Claridade boa
+5534,Meio-dia
+5540,Chuva torrencial
+5541,Chuva forte
+5542,Chuva fraca
+5543,Chuvisco
+5544,Nublado
+5545,Tempo fechado
+5546,Sem chuva
 5547,Salt Fog
 5548,Accomplished
 5549,BluePrint_Pause

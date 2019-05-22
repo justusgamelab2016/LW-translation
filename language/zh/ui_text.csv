@@ -65,8 +65,8 @@
 225,遊玩試玩版
 226,本遊戲正處於測試階段，並且尚未開發完成。遊戲功能、玩法等內容有待微調或更改。
 227,無限感謝你的參與！
-228,真心希望你喜歡前幾分鐘的遊戲並且渴望更多內容，尤其是解鎖更多建築與物品，航行、探索、戰鬥。如果是這樣，請通過在Steam上購買和評價來支援遊戲的開發。每隔幾周我們就會發布新的補丁，新增新的遊戲內容，平衡現有的內容，並修復儘可能多的錯誤。
-229,此外，正如你你想象的那樣，遊戲正在大力開發中。我們想知道你在試玩版中的感受，所以請來到QQ群留言！
+228,真心希望你喜歡前幾分鐘的遊戲！如果你期待更多後續的內容：解鎖建築與物品、航行、海戰、島嶼探險、潛水。歡迎將Last Wood加入你的Steam願望單！
+229,此外，正如你你想象的那樣，遊戲正在大力開發中。我們想知道你在試玩版中的感受，請來QQ群暢所欲言！
 300,資源
 301,結構
 302,手工藝
@@ -100,8 +100,8 @@
 424,交流
 425,開門
 426,關門
-427,正向劃
-428,反向劃
+427,<color=#e68c84>正向劃
+428,<color=#c2dd99>反向劃
 429,收帆
 430,舒帆
 500,搬動
@@ -189,10 +189,10 @@
 713,建造
 714,[F9] 重置鏡頭
 715,[Space] 暫停
-716,[Space] 繼續
-717,[Space] 2倍速
-718,[Space] 5倍速
-719,[Tab] 或 [1]~[9] 來切換樓層
+716,[Space/Num1] 繼續
+717,[Num2] 2倍速
+718,[Num3] 3倍速
+719,[Tab] 來切換樓層
 720,[I] 物品
 721,警戒模式
 722,需求技能：
@@ -203,7 +203,7 @@
 727,戰鬥
 728,工作效率
 729,累計工作效率
-730,全體警戒
+730,全體警戒 [C]
 731,顯示/隱藏已完成的
 800,質量
 801,浮力
@@ -362,8 +362,8 @@
 1134,不刪除
 1135,{0}感覺餓了
 1136,{0}感覺渴了
-1137,{0}餓到極限了
-1138,{0}快脫水了
+1137,{0}快要餓死了
+1138,{0}快要渴死了
 1139,木頭用完了！木頭耗盡時，可以拆除不要的設施或者等待海上漂浮來的木桶。不過現在是教程，贈送你幾個木頭，等到真實生存時就沒有了，趕緊拿這些木頭造棵樹吧。
 1200,互動
 1201,幫助
@@ -390,29 +390,29 @@
 1314,我擁有但我不喜歡它
 1315,終於，我擁有了我夢寐以求的
 1316,我曾經擁有它，但我沒有珍惜
-1400,建築物需要放在木筏上
-1401,附近有建築需要佔用周圍的水
-1402,下面的建築物太高了
-1403,附近有什麼東西擋住了
-1404,附近有島嶼
-1405,附近有什麼東西擋住了
-1406,無法在有苔蘚的木筏上建造
-1407,當前位置不符合建造要求
-1408,太高了，無法在這裡建造
-1409,需要擺放在兩棵樹之間
-1410,兩側必須都是水
-1411,需要擺放在水面上
-1412,到達了最高高度
-1413,必須放在水邊
-1414,Location_Forbidden_Building_Dep_Current_Tag_Mud
-1415,Location_Forbidden_Building_Out_Of_Graph
-1416,Location_Forbidden_Building_Blocked
-1417,Location_Forbidden_Building_Must_On_Raft
-1418,Location_Forbidden_Raft_Blocked
-1419,Location_Forbidden_Raft_Change_Different_Raft
-1420,Location_Forbidden_Raft_Above_Water
-1421,Location_Forbidden_Raft_Near_Raft
-1422,Location_Forbidden_Wall_No_More
+1400,<color=#FF0000>無法改造被建築依賴的木筏</color>
+1401,<color=#FF0000>附近有建築需要佔用周圍的水</color>
+1402,<color=#FF0000>下面的建築物太高了</color>
+1403,<color=#FF0000>附近有什麼東西擋住了</color>
+1404,<color=#FF0000>附近有島嶼</color>
+1405,<color=#FF0000>附近有什麼東西擋住了</color>
+1406,<color=#FF0000>無法在有苔蘚的木筏上建造</color>
+1407,<color=#FF0000>當前位置不符合建造要求</color>
+1408,<color=#FF0000>太高了，無法在這裡建造</color>
+1409,<color=#FF0000>需要擺放在兩棵樹之間</color>
+1410,<color=#FF0000>兩側必須都是水</color>
+1411,<color=#FF0000>需要擺放在水面上</color>
+1412,<color=#FF0000>到達了最高高度</color>
+1413,<color=#FF0000>必須放在水邊</color>
+1414,<color=#FF0000>必須放在泥土或有機物地板上</color>
+1415,<color=#FF0000>離你的木筏太遠了！</color>
+1416,<color=#FF0000>這個位置被阻擋了</color>
+1417,<color=#FF0000>必須放在木筏上</color>
+1418,<color=#FF0000>這個位置被阻擋了</color>
+1419,<color=#FF0000>無法改造同類型的木筏</color>
+1420,<color=#FF0000>木筏要建在水面上</color>
+1421,<color=#FF0000>要貼近木筏建造</color>
+1422,<color=#FF0000>這裡無法建造更多同類建築</color>
 1500,SmallTalk_Normal_Skeleton
 1501,我跟{0}聊了男人.
 1502,我跟{0}聊了女人.
@@ -463,15 +463,15 @@
 2105,拿起 ({0})
 2106,安裝 ({0})
 2107,補充 ({0})
-2200,KeyHint_WASD
-2201,KeyHint_QE
-2202,KeyHint_FreeRoCam
-2203,KeyHint_RotateBluePrint
-2204,KeyHint_CancelBluePrint
-2205,KeyHint_PlayerMove
-2206,KeyHint_PlayerAssign
-2207,KeyHint_PlayerAttack
-2208,KeyHint_PlayerCommonAction
+2200,"<sprite name=""W""><sprite name=""A""><sprite name=""S""><sprite name=""D""> 平移鏡頭"
+2201,"<sprite name=""Q""><sprite name=""E""> 旋轉鏡頭"
+2202,"<sprite name=""Ctr"">+ 拖拽 <sprite name=""RMB""> 旋轉鏡頭"
+2203,"<sprite name=""R""> 旋轉藍圖"
+2204,"<sprite name=""RMB""> 取消藍圖"
+2205,"<sprite name=""RMB""> 讓倖存者走到這裡"
+2206,"<sprite name=""RMB""> 指派倖存者去{}"
+2207,"<sprite name=""RMB""> 指派倖存者攻擊{}"
+2208,"<sprite name=""RMB""> 指派倖存者移動/工作/戰鬥"
 5000,{0}的屍體
 5001,天
 5002,時
@@ -509,9 +509,9 @@
 5546,普通
 5547,鹽霧
 5548,已完成：
-5549,BluePrint_Pause
-5550,BluePrint_Continue
-5551,BluePrint_Cancel
-5552,BluePrint_Progress
-5553,bill_openStorage
-5554,NotFinalQuality
+5549,暫停
+5550,繼續
+5551,取消
+5552,進度
+5553,暫存物品
+5554,本遊戲僅為Demo，不代表最終遊戲品質

@@ -19,8 +19,8 @@
 63,View social
 64,View health
 70,Select a shark
-71,Toggle Attack
-72,Toggle Alert
+71,"When the seagull landed, <color=#CF6C00>[Right Click]</color>on it to attack"
+72,"When the shark bite the raft, <color=#CF6C00>[Right Click]</color>on it to attack"
 73,Attack the shark
 80,Switch current floor
 90,Select campfire

@@ -1,4 +1,4 @@
-0,
+0,None
 100,Menu Principal
 101,Nouvelle Partie
 102,Continuer
@@ -18,25 +18,25 @@
 116,Mode Création
 117,Sélection du scénario
 118,Mods
-119,Version Mods
+119,Version du Mod
 120,Voulez-vous vraiment supprimer cette sauvegarde?
 121,Forums
 122,Patch Notes
 123,Rejoindre Discord
-124,Title_Plugins_Open_Steam_WorkShop
-125,Title_Plugins_Get_Mod_From_Forum
-126,Close
-127,Title_Plugins_Current_Mod_Workshop_Page
-128,Title_Plugins_Unsubscribe_Mod
-129,Title_BuildTime
-130,Title_Creative
-131,Title_MusicAndSound
-132,Title_HelpTranslate
-133,Title_Translators
-134,Title_CallForTranslators
-135,Title_CallForTranslators_CountMeIn
-136,Title_CallForTranslators_NO
-137,Title_Steam
+124,Ouvrir le Steam Workshop
+125,Obtenir des Mods du Forum
+126,Fermer
+127,Ouvrir la page du Workshop
+128,Se désabonner de ce Mod
+129,Créé le {0}
+130,Mode Création
+131,Musique et Son
+132,Aider à traduire
+133,Traducteurs:
+134,A la recherche de traducteurs
+135,Comptez sur moi!
+136,NON, merci!
+137,Ajouter à la liste de souhait sur Steam
 200,Sauvegarde Auto
 201,Graphismes simplifiés
 202,Sauvegarder
@@ -47,26 +47,26 @@
 207,Volume de la musique
 208,Volume des effets sonores
 209,Guide
-210,Options
+210,Paramètres
 211,Guide
-212,Commandes
+212,Contrôles
 213,Continuer
 214,Résolution
 215,Le plus rapide
-216,Fapide
+216,Rapide
 217,Simple
 218,Beau
 219,Superbe
 220,Magnifique
 221,Plein écran
 222,Qualité des graphismes
-223,Brightness
-224,System_Are_you_sure_quit
-225,GuideGame
+223,Luminosité
+224,Etes-vous sûr de vouloir quitter Last Wood?
+225,DEMO
 226,GameTODO
-227,ThanksForPlayingDemo
-228,HopeLikeDemo
-229,JoinDiscordWithUs
+227,Merci de jouer à la Démo
+228,Nous espérons que vous aimez la Démo
+229,Rejoignez Discord
 300,Ressources
 301,Constructions
 302,Fabrications
@@ -79,7 +79,7 @@
 403,Abattre
 404,Fouiller
 405,Essuyer
-406,Imperméable
+406,Imperméabiliser
 407,Teindre
 408,Arroser
 409,Labourer
@@ -98,17 +98,17 @@
 422,Jouer
 423,Ouvrir
 424,Parler
-425,Location_BoltDoor_Open
-426,Location_BoltDoor_Close
-427,Location_PaddleForward
-428,Location_PaddleBackward
-429,Location_SailClose
-430,Location_SailOpen
+425,Ouvrir la porte
+426,Fermer la porte
+427,Pagayer vers l'avant
+428,Pagayer vers l'arrière
+429,Replier
+430,Hisser la voile
 500,Transporter
 501,Emplacement cible
 502,Pile cible
 503,Statut
-504,Compétences
+504,Compétence
 505,Social
 506,Détail
 507,Statut
@@ -117,6 +117,8 @@
 510,Emplacements d'équipements
 511,Journal (statut)
 512,Journal (Rapports Sociaux)
+876,Signaler un Bug
+877,BillManager
 513,Personnage
 514,Relations
 515,Effets des compétences
@@ -128,7 +130,7 @@
 521,Jambe gauche
 522,Jambe droite
 523,Corps
-524,Bonus
+524,Avantages
 525,Intérêts perso :
 526,Survie
 527,Cuisine
@@ -160,22 +162,22 @@
 553,Aléatoire
 554,Déséquipper
 555,Survivre plus de {0} jours pour déverouiller
-556,Status_Cripple
-557,Status_LoseLimb
-558,skill_level
-559,Skill_Care
-560,Skill_CareDes
-561,characterCreation
-562,Status_body
-563,Status_head
-564,Status_Ill_Attack
-565,Status_Ill_Defense
-566,Status_Ill_Speed
-567,Status_Ill_Carry
-600,Mélodie
-601,Mélodie relaxante
-602,Mélodie de direction du gouvernail
-603,Mélodie de pression de la pagaie
+556,Paralyser
+557,Perdre un membre
+558,NV
+559,Soin
+560,Soigner influence la compétence de soigner les blessures et de guérir les patients
+561,Création du personnage
+562,Corps
+563,Tête
+564,Attaque
+565,Défense
+566,Vitesse
+567,Transport
+600,Ajuster
+601,Ajuster la tension de la voile
+602,Ajuster la direction du gouvernail
+603,Ajuster la force de la pagaie
 700,Ressource
 701,Construction
 702,Fabrication
@@ -198,13 +200,13 @@
 722,Compétence requise:
 723,"Déverouiller aléatoirement quand les survivants ont un ""moment de repos""."
 724,Rappeler
-725,Tooltip_UpStair
-726,Tooltip_DownStair
-727,Tooltip_Fight
-728,Tooltip_TaskEfficiency
-729,Tooltip_TaskEfficiency_All
-730,Tooltip_alert_all
-731,Tooltip_ShoWHideCompleteGuide
+725,En haut
+726,En bas
+727,Combattre
+728,Efficacité du travail
+729,Efficacité générale du travail
+730,Activer / Désactiver l'alerte [C]
+731,Afficher / Masquer les réussites
 800,Poids
 801,Flottabilité
 802,Objets
@@ -213,19 +215,19 @@
 805,[Shift+3] Survivant
 806,[Shift+4] Pièce
 807,[Shift+5] Ile
-808,[Shift+6] Terrain
+808,[Shift+6] Terrain et Mur
 809,Consomme
 810,Produit
-811,Afficher TOUT
+811,Afficher tout
 812,Afficher tout et en haut
 813,Afficher tout et en bas
-814,Afficher le niveau actuel
-815,Nom de la partie?
+814,Afficher l'étage actuel
+815,Nommez votre radeau
 816,Intérêt perso :
 817,Richesse
 818,Il se passe quelque chose...
 819,Richesse
-820,Place
+820,Lieu
 821,Beauté
 822,Récoltes
 823,Croissance stoppée
@@ -251,7 +253,7 @@
 843,Besoin
 844,Précipitations
 845,Jour {0}
-846,Vous devez redémarrer le jeu pour changer de langue
+846,Vous devez redémarrer le jeu pour que les changements soient pris en compte.
 847,Redémarrer maintenant
 848,Redémarrer plus tard
 849,Espace total
@@ -263,69 +265,71 @@
 855,[Changer d'étage]
 856,[Faire tourner le modèle]
 857,[Filtre]
-858,Déposer
+858,Jeter
 859,Saisir un texte...
 860,Développer
 861,Extraire
 862,Produire
-863,Rapport de bug
+863,Signaler un bug
 864,Envoyer...
 865,Merci de décrire le bug (en anglais si possible)...
 866,Afficher le Guide
 867,Clavier Azerty
 868,[Guide]
-869,[Rapport de Bug]
+869,[Signaler un Bug]
 870,[Capture d'écran]
 871,[Shift+7] Mur
 872,Gravité
 873,Carte
 874,Déchirer
-875,Priorités
-876,Rapport de Bug
+875,Priorité
+878,Mauvais
 877,BillManager
 878,Pile_Quality_Bad
 879,Pile_Quality_Soso
-880,Pile_Quality_Normal
-881,Pile_Quality_Good
-882,Pile_Quality_Best
-883,PlantManager
-884,GameDuration
-885,RealTime
-886,GameTime
+880,Normal
+881,Bon
+882,Le meilleur
+883,[Faire tourner la Caméra]
+884,[Faire tourner la caméra à 90°]
+885,Temps Réel
+886,Temps de Jeu
 887,Queue
-888,GameTime
-889,Queue
-890,Storage_hint
-891,Title_ModRestart
-892,Title_WaitForPatchNotes
-893,Floor
-894,Filter
-895,Help_Tag
-896,Help_Material
-897,Help_Use
-898,Help_RequiredSkill
-899,Help_HelpPanel
-900,Addition !
-901,Travail en cours...
+888,Temps de Jeu
+889,File d'attente
+890,"Alt Gauche pour afficher les info-bulles
+LMB/RMB pour gérer l'espace de stockage
+Ctrl Gauche + LMB sur l'objet pour annuler "
+891,"Le Mod exige de redémarrer, voulez-vous redémarrer maintenant?"
+892,En attente de la liste des correctifs
+893,Etage
+894,Filtre
+895,Etiquetter:
+896,Matériel:
+897,Utilisation:
+898,Compétence requise:
+899,Wiki
+900,Addition
+901,Travail en cours
 902,Tout annuler
 903,Recettes
 904,Stockage
 905,Marchand
-906,Est-ce que tu te moques de moi?
-907,Ce n'est pas assez
-908,Ok
+906,Cuisiner
+907,Laisser les survivants être créatifs
+908,C'est ok
 909,C'est tentant
 910,C'est très généreux de ta part
-911,Arrête de me faire perdre mon temps!
+911,Arrêtes de me faire perdre mon temps!
 912,Marché conclu!
 913,"Prenez votre temps, regardez aux alentours"
 914,Trade_TradeSucess
-915,Trade_Normal
+915,Normal
 1000,Est-ce que tu te moques de moi?
 1001,Ce n'est pas assez!
-1002,Ok
-1003,C'est une offre alléchante!
-1004,C'est très généreux de ta part!
+1002,C'est ok
+1003,C'est une offre alléchante
+1004,C'est très généreux de ta part
 1005,Arrête de me faire perdre mon temps!
 1006,Marché conclu!
 1007,Trade_Normal
@@ -359,24 +363,28 @@
 1127,Les dernières histoires générées auparavant sont invalides
 1128,"Le système détecte que la langue de vos paramètres Steam ({0}) est différente de celle du jeu. Voulez-vous changer de langue? Si oui, un redémarrage est nécessaire"
 1129,Merci pour votre commentaire! La durée du téléchargement en arrière-plan sera terminée dans quelques minutes...
-1130,Message_Predict_Storm
-1131,Message_Predict_Tornado
-1132,Message_Never_Reshow
-1133,Message_Never_DeleteSave
-1134,Message_Never_DontDeleteSave
-1135,Message_Pirate_Hungry
-1136,Message_Pirate_Thirsty
-1137,Message_Pirate_HungryHarm
-1138,Message_Pirate_ThirstyHarm
-1139,Message_Guide_NoWood
+1130,{0} pense qu'un orage approche.
+1131,{0} pense qu'une tornade approche.
+1132,Ne plus le montrer
+1133,Supprimez-le!
+1134,Gardez-le.
+1135,{0}a faim
+1136,{0}a soif
+1137,{0}est fatigué et commence à perdre des points de vie.
+1138,{0}est désydraté et commence à perdre des points de vie.
+1139,"Vous êtes en pénurie de bois!
+Lorsque vous êtes en pénurie de bois, vous pouvez démolir des bâtiments qui ne sont plus nécessaires, ou tout simplement continuer à attendre, pour voir ce qui se passera sur la mer.
+Vu que c’est le guide, vous obtiendrez du bois comme cadeau immédiatement!
+Cela n'apparaîtra pas dans la version finale du jeu.
+Planter un arbre pour obtenir du bois rapidement!"
 1200,Interragir
 1201,Aider
 1202,Butin
-1203,EventPanel_Attact
-1204,EventPanel_Expel
-1205,EventPanel_Trade
-1206,EventPanel_Catch
-1207,EventPanel_Fetch
+1203,Attaquer
+1204,Expulser
+1205,Commercer
+1206,Attraper
+1207,Extraire
 1300,cette belle chose
 1301,Je n'aime pas ça
 1302,Je veux cette chose
@@ -405,9 +413,9 @@
 1408,Impossible de construire
 1409,Devrait être placé entre les arbres
 1410,Devrait être placé près de l'eau
-1411,Devrait être placé sur l'eau
+1411,Doit être placé sur l'eau
 1412,Hauteur max atteinte
-1413,Location_Forbidden_Building_Dep_Near_Tag
+1413,Doit être placé près de l'eau.
 1414,Location_Forbidden_Building_Dep_Current_Tag_Mud
 1415,Location_Forbidden_Building_Out_Of_Graph
 1416,Location_Forbidden_Building_Blocked
@@ -453,69 +461,69 @@
 1802,{0} m'a dit quelque chose d'étrange à propos de {1}
 1803,{0} m'a appris quelque chose à propos de {1}
 1804,SmallTalk_Skill_Skeleton_Reserved
-2000,Focus_Island
-2001,Focus_Survivor
-2002,Focus_Building
-2003,Focus_Pile
-2004,Focus_EventEntity
-2005,Focus_Room
-2100,PirateCommand_MoveTo
-2101,PirateCommand_Location
-2102,PirateCommand_PickUpPile
-2103,PirateCommand_EntityOperate
-2104,PirateCommand_PutOnEquip
-2105,PirateCommand_CarryPile
-2106,PirateCommand_PutOnLimb
-2107,PirateCommand_FeedLocation
-2200,KeyHint_WASD
-2201,KeyHint_QE
-2202,KeyHint_FreeRoCam
-2203,KeyHint_RotateBluePrint
-2204,KeyHint_CancelBluePrint
-2205,KeyHint_PlayerMove
-2206,KeyHint_PlayerAssign
-2207,KeyHint_PlayerAttack
-2208,KeyHint_PlayerCommonAction
-5000,Survivor_s_Corpse
-5001,Time_Day
-5002,Time_Hour
-5003,Time_Minute
-5004,Time_Second
-5100,Item_Corrupt_Food
-5101,Item_Corrupt
-5102,Help_SelectLeft
-5103,Priority_Control
-5104,Pile_Decay
+2000,Ile
+2001,<color=yellow>Survivant {0}</color>
+2002,<color=aqua>Bâtiment {0}</color>
+2003,<color=green>{0} X {1}</color>
+2004,<color=orange>{0}</color>
+2005,<color=teal>Pièce {0}</color>
+2100,Se déplacer ici...
+2101,{0} ({1})
+2102,Prendre ({0})
+2103,{0} ({1})
+2104,Enfiler ({0})
+2105,Ramasser ({0})
+2106,Installer ({0})
+2107,Approvisionner ({0})
+2200,"<sprite name=""W""><sprite name=""A""><sprite name=""S""><sprite name=""D""> Caméra panoramique"
+2201,"<sprite name=""Q""><sprite name=""E"">Tourner la caméra à 90°"
+2202,"<sprite name=""Ctr"">+ Drag <sprite name=""RMB"">  tourner la caméra"
+2203,"<sprite name=""R""> Tourner le plan"
+2204,"<sprite name=""RMB""> Annuler le plan"
+2205,"<sprite name=""RMB""> Se déplacer vers la position"
+2206,"<sprite name=""RMB""> Assigner à {}"
+2207,"<sprite name=""RMB""> Attaquer {}"
+2208,"<sprite name=""RMB""> Se déplacer/Assigner/Attaquer"
+5000,Cadavre de {0}
+5001,j
+5002,h
+5003,m
+5004,s
+5100,{0} pourri
+5101,{0} endommagé
+5102,Sélectionnez les objets à gauche pour vérifier le guide.
+5103,Faites glisser pour changer l’ordre. Les objets à gauche ont une priorité plus élevée. Faites un clic droit pour interdire une tâche.
+5104,En décomposition
 5105,SaveCreatedAt
-5106,SaveName
-5500,Env_TemperatureColdHarm
-5501,Env_TemperatureCold
-5502,Env_TemperatureWarm
-5503,Env_TemperatureHot
-5504,Env_TemperatureHotHarm
-5510,Env_HumidityHighHarm
-5511,Env_HumidityHigh
-5512,Env_HumidityNormal
-5520,Env_SaltFogHighHarm
-5521,Env_SaltFogHigh
-5522,Env_SaltFogNormal
-5530,Env_BrightnessVeryLow
-5531,Env_BrightnessLow
-5532,Env_BrightnessNormal
-5533,Env_BrightnessHigh
-5534,Env_BrightnessVeryHigh
-5540,Env_RainHeavy
-5541,Env_RainMiddle
-5542,Env_RainSmall
-5543,Env_RainLittle
-5544,Env_NoRainCloudy
-5545,Env_NoRainCloudyHeavy
-5546,Env_NoRain
-5547,OverAll_SaltFog
-5548,GuideProgress
-5549,BluePrint_Pause
-5550,BluePrint_Continue
-5551,BluePrint_Cancel
-5552,BluePrint_Progress
-5553,bill_openStorage
-5554,NotFinalQuality
+5106,Enregistrer le nom
+5500,Trop froid
+5501,Froid
+5502,Chaud
+5503,Chaud
+5504,Trop chaud
+5510,Trop haut
+5511,Haut
+5512,Normal
+5520,Insupportable
+5521,Inconfortable
+5522,Normal
+5530,Obscurité totale
+5531,Sombre
+5532,Normal
+5533,Luminosité légère
+5534,Midi
+5540,Forte pluie
+5541,Pluie moyenne
+5542,Petite pluie
+5543,Brouillasse
+5544,Nuageux
+5545,Très nuageux
+5546,Pas de pluie
+5547,Brouillard de sel
+5548,Terminé
+5549,Mettre en pause
+5550,Continuer
+5551,Annuler
+5552,Progression
+5553,Ouvrir le stockage
+5554,C'est une version Démo. Elle ne représente pas le produit final

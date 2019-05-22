@@ -1,0 +1,50 @@
+1,Chop Down A Tree,"Select a tree, toggle [chop down] button on. 
+Chopping down a tree provides you wood and fruit. 
+The amount and kind of resources gained depends on its kind and its growing stage.","Select a tree, toggle [chop down] button on. 
+Chopping down a tree provides you wood and fruit. 
+The amount and kind of resources gained depends on its kind and its growing stage."
+2,Harvest,"Select a tree, toggle [Harvest] button on. 
+This way, you could harvest fruit only and leave the tree growing. ","Select a tree, toggle [Harvest] button on. 
+This way, you could harvest fruit only and leave the tree growing. "
+3,Build a Tree,"Click [Build] button, find the [Resouces] tab, click [Tree]. 
+Then put the blueprint to any soil floor, where the tree plants.","Click [Build] button, find the [Resouces] tab, click [Tree]. 
+Then put the blueprint to any soil floor, where the tree plants."
+4,Build a Raft,"Click [Build] button, find the [Structure] tab, click [Raft]. 
+Raft could be built near any existing rafts.","Click [Build] button, find the [Structure] tab, click [Raft]. 
+Raft could be built near any existing rafts."
+5,Build a Soil Floor,"Click [Build] button, find the [Resources] tab, Right click [Raft] to open sub menu.
+You could find the [Soil Floor] in sub menu. Then build it as a normal raft.","Click [Build] button, find the [Resources] tab, Right click [Raft] to open sub menu.
+You could find the [Soil Floor] in sub menu. Then build it as a normal raft."
+6,Selection Filter,"Filter toggles are on top of the screen. Click to toggle them. 
+If it is on, you can select certain kind of objects. 
+From left to right, they are [Building], [Pile(item)], [Survivor], [Room], [Island], [Raft]. ","Filter toggles are on top of the screen. Click to toggle them. 
+If it is on, you can select certain kind of objects. 
+From left to right, they are [Building], [Pile(item)], [Survivor], [Room], [Island], [Raft]. "
+7,Character,"There is a list of your survivors on the bottom of the screen. Click to view his/her basic status. 
+Click the button to see detailed status, which includes basic status, equipment, diary, character, social, skill and health conditions.","There is a list of your survivors on the bottom of the screen. Click to view his/her basic status. 
+Click the button to see detailed status, which includes basic status, equipment, diary, character, social, skill and health conditions."
+8,Attack the Shark,"To attack a shark(or other creatures), just click it, toggle [Attack] on. 
+Then, click the [Alert] button on one's character card (on the bottom of the screen) to command him/her to take part in combat.","To attack a shark(or other creatures), just click it, toggle [Attack] on. 
+Then, click the [Alert] button on one's character card (on the bottom of the screen) to command him/her to take part in combat."
+9,Switch Floor,"To focus on a certain floor, press tab/ 1~9/ button on the buttons left of the screen. You can only build on the focused floor.","To focus on a certain floor, press tab/ 1~9/ button on the buttons left of the screen. You can only build on the focused floor."
+10,Supply Firewood,Camp fire needs wood to burn. Click the camp fire to see the details. Click on the supply panel to schedule a fire wood supply task.,Camp fire needs wood to burn. Click the camp fire to see the details. Click on the supply panel to schedule a fire wood supply task.
+11,Fertilizer Pool,"Fertilizer pool can transform any food into rot, which is an improtant resource to make soil floor. To get it work, first select a fertilizer pool, then left click on any food you want to put in mutiple times. That will schedule a food supply task for survivors. After food are put in, wait a while for the transfer process. To take rot out, you could right click on the rot icon mutilple times.","Fertilizer pool can transform any food into rot, which is an improtant resource to make soil floor. To get it work, first select a fertilizer pool, then left click on any food you want to put in mutiple times. That will schedule a food supply task for survivors. After food are put in, wait a while for the transfer process. To take rot out, you could right click on the rot icon mutilple times."
+12,Storage,"Storage panel will open automatically if the clicked building has storage space. Left click on the item icon to increase the intended amount and right click to decrease it. The default condition, where there's only one number, that means you don't need to care how much item of this type shoud be put in storage.","Storage panel will open automatically if the clicked building has storage space. Left click on the item icon to increase the intended amount and right click to decrease it. The default condition, where there's only one number, that means you don't need to care how much item of this type shoud be put in storage."
+13,Make Rope,"Ropes are used in many recipes. To make ropes, you need to plant flax first, as what you do to plant a tree. Build a work bench then. Click on the work bench to open bill panel. Here you could click rope recipes mutilple times. Survivors will make ropes automatically, when materials are enough.","Ropes are used in many recipes. To make ropes, you need to plant flax first, as what you do to plant a tree. Build a work bench then. Click on the work bench to open bill panel. Here you could click rope recipes mutilple times. Survivors will make ropes automatically, when materials are enough."
+14,Upgrade Skill,"Each survivor has 5 skills. Each of the skill can be upgraded from Lv0 to Lv6. To level up, you need to let survivors use the skill repetitively to gain exp. When exp is enough , click on the skill icon to upgrade. Notice each level have some random skill trials. Finish trails would give the survior additional bonus when leveling up. And from Lv4 you have to at least finish 1~2 trials to upgrade skill.","Each survivor has 5 skills. Each of the skill can be upgraded from Lv0 to Lv6. To level up, you need to let survivors use the skill repetitively to gain exp. When exp is enough , click on the skill icon to upgrade. Notice each level have some random skill trials. Finish trails would give the survior additional bonus when leveling up. And from Lv4 you have to at least finish 1~2 trials to upgrade skill."
+15,Room,"Any closed space with at least one door is a room. You can select room if you toggle the filter on. After that, you can assign survivors to a certain room. This would make the room private, which means other survivors can't get in and use anything inside. With different buildings inside the room, you can make a working room, meditaion room, dinning hall and so on.","Any closed space with at least one door is a room. You can select room if you toggle the filter on. After that, you can assign survivors to a certain room. This would make the room private, which means other survivors can't get in and use anything inside. With different buildings inside the room, you can make a working room, meditaion room, dinning hall and so on."
+16,Unlock,"Leveling up skill would unlock most buildings and recipes. For others, you can unlock them by researching in a work room(and provide correct material) or scavenging on the island. Survivors sometime would have a 'aha moment' when they medita in the meditation room or looking at paintings.","Leveling up skill would unlock most buildings and recipes. For others, you can unlock them by researching in a work room(and provide correct material) or scavenging on the island. Survivors sometime would have a 'aha moment' when they medita in the meditation room or looking at paintings."
+17,CreativeMode,"In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode.","In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode."
+18,PlacePaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+101,GetWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+102,GetFish,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+103,GetWater,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+104,GetKebab,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+105,FightSeagull,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+106,BuildSoilFloor,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+107,FightShark,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+109,BuildAPaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+110,NoWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+111,MakeBed,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+112,PlayerInput,PlayerInput,PlayerInput.

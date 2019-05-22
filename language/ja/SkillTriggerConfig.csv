@@ -1,0 +1,119 @@
+100,Go fishing,Fishing speed +
+101,Go fishing(advanced),Fishing speed ++
+102,Go fishing(mastered),Fishing speed +++
+121,Go Farming,Farm speed +
+122,Go Farming(advanced),Farm speed ++
+123,Go Farming(mastered),Farm speed +++
+130,Collect Sea Water,Collect Sea Water speed +
+131,Collect Sea Water(advanced),Collect Sea Water speed ++
+140,Make Wooden Tool,Craft survival tools speed +
+141,Make Wooden Tool(advanced),Craft survival tools speed ++
+142,Make Wooden Tool(mastered),Craft survival tools speed +++
+150,filter water,Survival exp +
+151,filter water(advanced),Survivall exp ++
+160,Swim,Strength +
+161,Swim(advanced),Strength ++
+162,Swim(mastered),Strength ++
+200,Cook Fish,Cooking fish speed +
+201,Cook Fish(advanced),Cooking fish speed ++
+202,Cook Fish(mastered),Cooking fish speed +++
+210,Cook Vegetables,Cooking vegetables speed +
+211,Cook Vegetables(advanced),Cooking vegetables speed ++
+212,Cook Vegetables(mastered),Cooking vegetables speed +++
+220,Cook soups,Cooking soups speed +
+221,Cook soups(advanced),Cooking soups speed ++
+222,Cook soups(mastered),Cooking soups speed +++
+230,Cook dry food,Cooking dry food speed +
+231,Cook dry food(advanced),Cooking dry food speed ++
+232,Cook dry food(mastered),Cooking dry food speed +++
+240,Craft cooks tools,Cooking cook tools speed +
+241,Craft cooks tools(advanced),Cooking cook tools speed ++
+242,Craft cooks tools(mastered),Cooking cook tools speed +++
+250,Research on cook building,Cook exps speed +
+251,Research on cook building(advanced),Cook exps speed ++
+300,Weave,Cooking Weave speed +
+301,Weave(advanced),Cooking Weave speed ++
+302,Weave(mastered),Cooking Weave speed +++
+310,Craft Woodparts,Crafting Woodware speed +
+311,Craft Woodparts(advanced),Crafting Woodware speed ++
+312,Craft woodparts(mastered),Crafting Woodware speed +++
+320,Craft stoneparts,Crafting stoneware speed +
+321,Craft stoneparts(advanced),Crafting stoneware speed ++
+322,Craft Stoneware(mastered),Crafting stoneware speed +++
+330,Research on craft building,Craft exps speed +
+331,Research on craft building(advanced),Craft exps speed ++
+340,Learned a new recipe,Craft exp +
+341,Learned a new recipe(advanced),Craft exp ++
+342,Learned a new recipe(mastered),Craft exp ++
+400,Use any nautical building,Sailing efficiency +
+401,Use any nautical building(advanced),Sailing efficiency ++
+402,Look out for new islands,Look out range +
+403,Look out for new islands(advanced),Look out range ++
+404,Draw new spot on map,Drawing speed +
+405,Draw new spot on map(advanced),Drawing speed ++
+406,Land on new island,Land Speed +
+407,Land on new island(advanced),Land Speed ++
+408,Traded,Land Speed +
+409,Traded(advanced),Land Speed ++
+410,Pray,Nautics exp +
+411,Pray(advanced),Nautics exp ++
+412,Pray(mastered),Nautics exp ++
+420,Drown alive,Defense +
+421,Drown alive(advanced),Defense ++
+422,Drown alive,Hardness up
+430,Go Sailing,Athlete up
+431,Go Sailing,Athlete up
+432,Go Sailing,Athlete up
+440,Walk on the Solid,More Strength
+441,Walk on the Solid,More Strength
+442,Walk on the Solid,More Strength
+500,Attack,Attack Power +
+501,Attack(advanced),Attack Power ++
+502,Attack,Attack Speed +
+503,Attack(advanced),Attack Speed ++
+504,Attack,Move Speed +
+505,Attack(advanced),Move Speed ++
+506,Killed human,Attack Speed +
+507,Killed human(advanced),Attack Speed ++
+508,Killed creatures,Attack Power +
+509,Killer creatures(advanced),Attack Power ++
+510,Craft Weapons,Craft Fight Weapons speed +
+511,Craft Weapons(advanced),Craft Fight Weapons speed ++
+512,Craft Weapons(mastered),Craft Fight Weapons speed +++
+520,Craft Equips,Craft Fight Equips speed +
+521,Craft Equips(advanced),Craft Fight Equips speed ++
+522,Craft Equips(mastered),Craft Fight Equips speed +++
+530,Had a good rest,Defense +
+531,Had a good rest(advanced),Defense +
+532,Had a good rest(mastered),Defense +
+540,Stone skipping master,Fight exp +
+541,Stone skipping master(advanced),Fight exp +
+542,Stone skipping master(mastered),Fight exp ++
+550,Go Training,Attack Speed +
+551,Go Training(advanced),Attack Speed ++
+552,Go Training(mastered),Attack Speed +++
+560,Using Bow,Craft Exp +
+561,Using Bow(advanced),"Craft Exp +
+Fight Exp +
+Survival Exp + ++"
+600,Use sword!,
+601,Use sword! advanced,
+602,Use sword! mastered,
+700,Use sword!,
+701,Use sword! advanced,
+702,Use sword! mastered,
+800,Use spear!,
+801,Use spear! advanced,
+802,Use spear! mastered,
+900,Use bow!,
+901,Use bow! advanced,
+902,Use bow! mastered,
+1000,Use knife!,
+1001,Use knife! advanced,
+1002,Use knife! mastered,
+1100,Use blunt!,
+1101,Use blunt! advanced,
+1102,Use blunt! mastered,
+1200,Use tech!,
+1201,Use tech! advanced,
+1202,Use tech! mastered,

@@ -1,83 +1,83 @@
-0,None
-1,Move
-2,Idle
-3,Eat
-4,Drink
-5,Sleep
-6,Excrete
-7,Clean
+0,Nada
+1,Mover
+2,Desocupado
+3,Comer
+4,Beber
+5,Dormir
+6,Defecar
+7,Limpio
 8,Social
-9,Pray
-10,Find Shelter
-11,Lose Mind
-12,Build
-13,Interact
-14,Harvest
-15,Wipe
-16,Water Proofing
-17,Fishing
-18,Research
-19,Attack
-20,Flee
-21,Swim
-22,Help
-23,Drown
-24,Unconscious
-25,Drop
-26,Carry Item
-27,Move Person
-28,Land
-29,Fall
-30,Repair
-31,Demolish
-32,Arrange
-33,Feed
-34,Feed SeaWater
-35,Drain
-36,Fetch
-37,Make Love
-38,Put on
-39,Range Attack
-40,Throw Away Pile
-41,Return to Raft
-42,Attack Land
-43,Attack Entity
-44,Eat
-45,Sow
-46,Wander
-47,Aggressive
-48,Steal
-49,Steal Baby
-50,Leave
-51,Pass by
-52,Meditate
-53,Carried
-54,Fetch
-55,Look at Sky
-56,Dancing
-57,Look at Sea
-58,Play on Sea
-59,Play Flute
-60,Approaching
-61,Trade
-62,Appreciate Painting
-63,Think
-64,Irrigate
-65,Disinsect
-66,Tillage
-67,Fertilizing
-68,Dye
-69,Arrange
-70,Arrange
-71,Arrange
+9,Rezar
+10,Buscar refugio
+11,Perder la cabeza
+12,Construir
+13,Interactuar
+14,Cosechar
+15,Limpiar
+16,Impermeabilización
+17,Pescar
+18,Investigar
+19,Atacar
+20,Huir
+21,Nadar
+22,Ayuda
+23,Ahogar
+24,Inconsciente
+25,Soltar
+26,Llevar objeto
+27,Mover Persona
+28,Aterrizar
+29,Caer
+30,Reparar
+31,Demoler
+32,Organizar
+33,Alimentar
+34,Alimentar con agua de mar
+35,Drenar
+36,Buscar
+37,Hacer el amor
+38,Ponerse
+39,Ataque a distancia
+40,Pila de descartes
+41,Regresar a balsa
+42,Tierra de ataque
+43,Entidad de ataque
+44,Comer
+45,Sembrar
+46,Deambular
+47,Agresivo
+48,Robar
+49,Robar bebe
+50,Salir
+51,Pasar por
+52,Meditar
+53,Llevando
+54,Busar
+55,Mira al cielo
+56,Bailando
+57,Mira al mar
+58,Jugar en el mar
+59,Tocar la flauta
+60,Acercándose
+61,Comercial
+62,Aprecia la pintura
+63,Pensar
+64,Regar
+65,Desinsectar
+66,Arada
+67,Fertilización
+68,Tinte
+69,Organizar
+70,Organizar
+71,Organizar
 72,Hobby
-73,Wander
-74,Go Home
-75,Show Up
-76,Dive
-77,EatField
-78,Heal
-79,WaitForHeal
+73,Deambular
+74,Ir a casa
+75,Aparecer
+76,Bucear
+77,Campo de comer
+78,Curar
+79,Esperando para curarse
 80,JobDeliver
 81,SwitchDoor
 82,EquipBodyPart

@@ -1,9 +1,9 @@
-0,None
-1,Move
-2,Idle
-3,Eat
-4,Drink
-5,Sleep
+0,Niets
+1,Bewegen
+2,Inactief
+3,Eten
+4,Drinken
+5,Slapen
 6,Excrete
 7,Clean
 8,Social

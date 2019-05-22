@@ -1,8 +1,8 @@
 0,None
-1,KilledBy
-2,Suicide
-3,Hungry
-4,Thirsty
-5,Sanity
-6,HungryAndThirsty
+1,Tué par
+2,Suicidé
+3,Affamé
+4,Assoiffé
+5,A perdu la raison
+6,Affamé et Assoiffé
 7,DrownDead

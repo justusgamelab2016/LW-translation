@@ -1,68 +1,68 @@
-1,Select a tree
-2,Toggle Chop down
-3,Wait for survivor to chop down the tree
-10,Select a tree
-11,Toggle Harvest
-12,Wait for survivor to harvest the tree
-20,Put on blueprint of tree
-21,Build a tree
-30,Put on blueprint of raft
+1,Sélectionner un arbre
+2,Abattre un arbre
+3,Attendre que le survivant abatte l'arbre
+10,Sélectionner un arbre
+11,Appuyer sur récolter
+12,Attendre que le survivant abatte l'arbre
+20,Placer un plan d'arbre
+21,Planter un arbre
+30,Construire un radeau
 31,Build a raft
 40,Put on blueprint of rot floor
 41,Build a rot floor
-50,Select a raft
-51,Select a building
-52,Select a survivor
-60,Select a survivor
-61,View status
-62,View skills
-63,View social
-64,View health
-70,Select a shark
-71,Toggle Attack
-72,Toggle Alert
-73,Attack the shark
-80,Switch current floor
-90,Select campfire
-91,Click feed wood
+50,Sélectionner un radeau
+51,Sélectionner un bâtiment
+52,Sélectionner un survivant
+60,Sélectionner un survivant
+61,Afficher l'état
+62,Afficher les compétences
+63,Afficher les besoins sociaux
+64,Afficher la santé
+70,Sélectionner un requin
+71,Appuyer sur attaquer
+72,Appuyer sur Alerte
+73,Attaquer le requin
+80,Changer d'étage
+90,Sélectionner le feu de camp
+91,Appuyer sur approvisionner en bois
 100,Select Fertilizer Pool
 101,Click feed food
 102,Wait for it to consume food
 103,Wait for it to generate rot
 104,build fertilize pool
-110,Select Storage box
+110,Sélectionner la boite de stockage
 111,Click feed item
 112,Click feed item
-120,Put on blueprint of flax
-121,Build a flax
-122,Harvest a flax
-123,Select a workbench
-124,Make rope
-125,Build workbench
-130,Select a survivor who can level up
-131,Level up
-140,Build a bedroom
-141,Assign the bedroom to a survivor
-150,Unlock a type of building
-151,Unlock a type of recipe
-160,Put on blueprint of paddle
-161,Build a paddle
-1010,GetWood
-1011,GetWood
-1020,GetFish
-1021,GetFish
-1030,GetWater
-1031,GetWater
-1040,GetKebab
-1041,BuildFireCamp
-1050,FightSeagull
+120,Placer un plan
+121,Planter du lin
+122,Récolter le lin
+123,Sélectionner un atelier
+124,Fabriquer de la corde
+125,Construire un atelier
+130,Sélectionner un survivant qui peut augmenter de niveau
+131,Niveau supérieur
+140,Construire une chambre
+141,Assigner la chambre à un survivant
+150,Déverouiller un bâtiment
+151,Déverouiller une recette
+160,Placer un plan de pagaie
+161,Construire une pagaie
+1010,Obtenir du bois
+1011,Obtenir du bois
+1020,Obtenir du poisson
+1021,Obtenir du poisson
+1030,Obtenir de l'eau
+1031,Obtenir de l'eau
+1040,Obtenir une brochette
+1041,Construire un feu de camp
+1050,Combattre une mouette
 1060,BuildSoilFloor2
-1070,FightShark
-1080,UnlockReciepe
-1090,BuildAPaddle
-1100,NoWood
-1200,MakeBed
-1300,WASDMove
+1070,Combattre un requin
+1080,Déverouiller une recette
+1090,Construire un radeau
+1100,Pas de bois
+1200,Fabriquer un lit
+1300,Se déplacer (WASD)
 1301,PanMove
-1302,ZoomInOut
+1302,(Dé)Zoomer
 1303,Rotate

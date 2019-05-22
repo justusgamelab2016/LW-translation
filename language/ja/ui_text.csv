@@ -314,6 +314,13 @@
 906,私を騙しているのか
 907,ものが少ないよ
 908,ウィンウィンの取引
+909,あなたのアドバイスが良さそうだ
+910,あなたは本当に気前がいいね
+911,私の時間を無駄にしないでください！
+912,交渉成立！
+913,こっちにいいものいっぱいあるよ、見てごらん
+914,成功な取引
+915,普通な取引
 1000,私を騙しているのか
 1001,ものが少ないよ
 1002,ウィンウィンの取引
@@ -460,19 +467,19 @@ Build a tree to get more wood soon!"
 2101,{0} ({1})
 2102,拾う ({0})
 2103,{0} ({1})
-2104, ({0})を着る（上身用着る下身用穿く鞋子用履く）
+2104,({0})を着る（上身用着る下身用穿く鞋子用履く）
 2105,({0})を取り上げる
-2106, ({0})を取り付ける
+2106,({0})を取り付ける
 2107,PirateCommand_FeedLocation
-2200,<sprite name="W"><sprite name="A"><sprite name="S"><sprite name="D"> Pan camera
-2201,<sprite name="Q"><sprite name="E">Rotate camera 90°
-2202,<sprite name="Ctr">+ Drag <sprite name="RMB">  rotate camera
-2203,<sprite name="R"> Rotate blueprint
-2204,<sprite name="RMB"> Cancel blueprint
-2205,<sprite name="RMB"> Move to position
-2206,<sprite name="RMB"> Assign to {}
-2207,<sprite name="RMB"> Attack {}
-2208,<sprite name="RMB"> Move/Assign/Attack
+2200,"<sprite name=""W""><sprite name=""A""><sprite name=""S""><sprite name=""D""> Pan camera"
+2201,"<sprite name=""Q""><sprite name=""E"">Rotate camera 90°"
+2202,"<sprite name=""Ctr"">+ Drag <sprite name=""RMB"">  rotate camera"
+2203,"<sprite name=""R""> Rotate blueprint"
+2204,"<sprite name=""RMB""> Cancel blueprint"
+2205,"<sprite name=""RMB""> Move to position"
+2206,"<sprite name=""RMB""> Assign to {}"
+2207,"<sprite name=""RMB""> Attack {}"
+2208,"<sprite name=""RMB""> Move/Assign/Attack"
 5000,{0}の死体
 5001,天
 5002,時

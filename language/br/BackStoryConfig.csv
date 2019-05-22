@@ -23,10 +23,10 @@
 122,"{1:fullname} nasceu em uma família comum, {0:relationr} de {1:mother} e {1:father}."
 123,"{1:fullname} nasceu, {0:relationr} de {1:mother}."
 124,"{1:fullname} nasceu, {0:relationr} de {1:mother}, nunca descobriu a identidade de seu pai."
-150,"{1:name} estava em alto mar e sobreviveu ao Apocalipse, mas perdeu toda sua riqueza."
-151,{1:name} estava na montanha de uma ilha quando o Apocalipse ocorreu.
-152,{1:name} comprou um navio durante o Apocalipse e sobreviveu. Mas seu navio foi saqueado por corsários.
-153,{1:name} ficou num bunker para sobreviver ao Apocalipse. Mas o bunker foi rapidamente destruído por mutantes.
+150,"{1:name} estava em alto mar e sobreviveu à Queda, mas perdeu toda sua riqueza."
+151,{1:name} estava na montanha de uma ilha quando a Queda ocorreu.
+152,{1:name} comprou um navio durante a Queda e sobreviveu. Mas seu navio foi saqueado por corsários.
+153,{1:name} ficou num bunker para sobreviver à Queda. Mas o bunker foi rapidamente destruído por mutantes.
 154,{1:name} teve sorte de sobreviver ainda criança.
 155,{1:name} teve sorte de sobreviver ainda criança.
 156,{1:name} recebeu ajuda do seguidor e sobreviveu.
@@ -34,8 +34,8 @@
 158,{1:name} teve sorte de sobreviver.
 159,{1:name} sobreviveu usando sua sabedoria.
 170,{1:name} era velho demais e não sobreviveu a ele.
-171,{1:name} era velho demais e foi deixado por sua família no Apocalipse.
-172,{1:name} estava navegando mas morreu na tempestade quando o Apocalipse veio.
+171,{1:name} era velho demais e foi deixado por sua família na Queda.
+172,{1:name} estava navegando mas morreu na tempestade quando a Queda veio.
 173,{1:name} não teve tempo suficiente para escapar e morreu.
 200,"{1:name} sofreu bullying de outras crianças, mas não foi nada tão grave. {1:pron} lembrou-se daqueles nomes para sempre: {2:fullname} e {3:fullname}."
 201,"{1:name} sofreu bullying de outras crianças, sofreu muito. {1:pron} as odiava com todas as forças: {2:fullname} e {3:fullname}."
@@ -97,9 +97,9 @@
 504,{1:name} teve uma infância comum.
 505,"{1:name} cresceu como o filho mais velho, portanto cuidou de seus irmãos."
 506,"{1:name} foi filho único. Um pouco solitário, mas recebeu muito amor."
-507,{1:name} teve uma infância boa depois do Apocalipse.
-508,"Depois do Apocalipse, a infância de {1:name} foi infeliz."
-509,{1:name} teve uma vida comum depois do Apocalipse.
+507,{1:name} teve uma infância boa depois da Queda.
+508,"Depois da Queda, a infância de {1:name} foi infeliz."
+509,{1:name} teve uma vida comum depois da Queda.
 600,{1:name} tinha muita vergonha quando criança.
 601,{1:name} viajou muito quando era jovem.
 602,{1:name} quase matou um cara por acidente quando era jovem.
@@ -128,10 +128,10 @@
 901,A tribo de {1:name} foi assaltada pelos Corvos.
 902,{1:name} viu os Corvos saqueando a tribo. Felizmente {1:pron} conseguiu escapar.
 903,{1:name} tentou negociar com os Corvos e sobreviveu.
-1000,{1:name} ficou à deriva por dias depois do Apocalipse.
-1001,{1:name} ficou à deriva por semanas depois do Apocalipse.
-1002,{1:name} ficou à deriva por meses depois do Apocalipse.
-1003,{1:name} não se lembra quantos dias ficou à deriva depois do Apocalipse.
+1000,{1:name} ficou à deriva por dias depois da Queda.
+1001,{1:name} ficou à deriva por semanas depois da Queda.
+1002,{1:name} ficou à deriva por meses depois da Queda.
+1003,{1:name} não se lembra quantos dias ficou à deriva depois da Queda.
 1100,"{1:name} tinha dinheiro e perdeu tudo, acabou se tornando dono de ferro velho."
 1101,{1:name} tinha fé e abriu mão de tudo para se tornar dono de ferro velho.
 1102,Os pais de {1:name} morreram. {1:pron} teve que se sustentar catando lixo.
@@ -190,23 +190,23 @@
 1372,{1:name} sobreviveu a um roubo e reconheceu o ladrão como seu amigo.
 1373,"{1:name} quase foi roubado, mas sua sabedoria ajudou a escapar."
 1374,{1:name} quase foi roubado.
-2251,{1:name} disse a seus alunos sobre o Apocalipse na aula.
+2251,{1:name} disse a seus alunos sobre a Queda na aula.
 2252,{1:name} falou sobre si quando entrevistado por um repórter de TV.
-2253,{1:name} falou com seu cliente sobre o Apocalipse.
-2254,{1:name} falou sobre o Apocalipse em seus discursos de campanha.
-2255,{1:name} falou sobre o Apocalipse em seu programa de TV.
+2253,{1:name} falou com seu cliente sobre a Queda.
+2254,{1:name} falou sobre a Queda em seus discursos de campanha.
+2255,{1:name} falou sobre a Queda em seu programa de TV.
 2256,{1:name} falou sobre a criatura estranha que viu no litoral.
-2257,{1:name} falou com seu cliente sobre o Apocalipse.
-2258,{1:name} falou com seu paciente sobre o Apocalipse.
-2259,{1:name} falou com seu cliente sobre o Apocalipse.
-2260,{1:name} falou com sua família sobre o Apocalipse.
-2261,{1:name} falou com seu amigo sobre o Apocalipse.
-2262,{1:name} ouviu boatos sobre o Apocalipse.
+2257,{1:name} falou com seu cliente sobre a Queda.
+2258,{1:name} falou com seu paciente sobre a Queda.
+2259,{1:name} falou com seu cliente sobre a Queda.
+2260,{1:name} falou com sua família sobre a Queda.
+2261,{1:name} falou com seu amigo sobre a Queda.
+2262,{1:name} ouviu boatos sobre a Queda.
 2263,{1:name} espalhou boatos sobre uma criatura estranha no mar.
-2264,{1:name} espalhou boatos sobre o Apocalipse a partir de seu filho.
-2265,{1:name} ouviu boatos sobre o Apocalipse a partir de seu chefe.
-2266,{1:name} ouviu boatos sobre o Apocalipse a partir de sua professora.
-2267,{1:name} ouviu boatos sobre o Apocalipse.
+2264,{1:name} espalhou boatos sobre a Queda a partir de seu filho.
+2265,{1:name} ouviu boatos sobre a Queda a partir de seu chefe.
+2266,{1:name} ouviu boatos sobre a Queda a partir de sua professora.
+2267,{1:name} ouviu boatos sobre a Queda.
 2268,{1:name} ouviu boatos sobre uma criatura estranha no mar.
 2351,{1:name} contou sobre o Profundo aos seus alunos.
 2352,{1:name} falou sobre o Profundo quando entrevistado(a) por um repórter de TV.

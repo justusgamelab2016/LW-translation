@@ -1,10 +1,10 @@
-1,
-2,
-3,
-4,
-5,
-6,
-7,
+1,not used yet.
+2,not used yet.
+3,not used yet.
+4,not used yet.
+5,not used yet.
+6,not used yet.
+7,not used yet.
 20,"{1:name}{1:age}岁,{1:pron}的{0:relation}过世.那天,{1:pron}正在等待{1:pronp}的{0:relation}回家."
 21,"{1:name}的{0:relation}过世.{1:pron}非常痛苦,在床上躺了一整天."
 22,"{1:name}{1:age}岁,{1:pron}的{0:relation}过世.当时{1:pron}在外面玩耍,什么也不知道."

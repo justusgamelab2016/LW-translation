@@ -1,14 +1,14 @@
-0,Nada,empty
+0,Nada,vazio
 1,Sobrevivência,Habilidade básica de sobrevivência. Inclui pesca e coleta de materiais.
 2,Culinária,Cozinhe comidas mais gostosas e nutritivas.
 3,Criação,"A habilidade de criar. Inclui ferramentas de criação, armas e proteção."
 4,Náutica,A habilidade de navegação e mapeamento.
 5,Luta,"A habilidade de lutar. Aumente força, velocidade, uso de armas e técnica de batalha."
-6,Care,Skills of caring. Everything about how to take care of your buddies better.
-7,Sword,Skills of slashing swords.
-8,Spear,Skills of using spear.
-9,Bow,"Skills of using bows, shoot enemies more accurately. "
-10,Knife,Skills of using knives.
-11,Blunt,Skills of using blunt.
-12,Tech,Skills of using unknown tech weapons.
+6,Cuidado,Habilidades de cuidado. Tudo sobre como cuidar melhor de seus companheiros.
+7,Espada,Habilidade de combate com espadas.
+8,Lança,Habilidades de utilização de lanças.
+9,Arco,"Habilidades de utilização de arcos, atire em inimigos com mais precisão."
+10,Faca,Habilidades de utilização de facas.
+11,Arma contundente,Habilidades de utilização de armas contundentes.
+12,Tecnologia,Habilidades de utilização de armas de tecnologia desconhecida.
 13,All,

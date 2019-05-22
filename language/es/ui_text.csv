@@ -1,28 +1,29 @@
 0,None
+10,Titulo
 100,Title Main
-101,New Game
-102,Continue
-103,Load
-104,Credit
-105,Develop
-106,Localization
-107,Exit
-108,Pre-Alpha Supporters
-109,Community Moderator
-110,Easy
+101,Nueva Partida
+102,Continuar
+103,Cargar
+104,Credito
+105,Desarrollo
+106,Localizacion
+107,Salir
+108,Apoyadores de Pre Alpha
+109,Moderador de Comunidad
+110,Facil
 111,Normal
-112,Hard
-113,Back
-114,Initializing
-115,Might take a few minutes for the first time.
-116,Creative Mode
-117,Story Board Selection
+112,Difícil
+113,Atrás
+114,Inicializando
+115,Puede tardar unos minutos la primera vez
+116,Modo Creativo
+117,Selección de Escenario
 118,Plugins
-119,Plugins Version
-120,Do you really want to delete this save?
-121,Title_Forums
-122,Title_PatchNotes
-123,Title_Discord
+119,Versión de plugin
+120,¿Estas seguro de que quieres eliminar esta partida guardada?
+121,Foros
+122,Notas de Parche
+123,Unirse al Discord
 124,Title_Plugins_Open_Steam_WorkShop
 125,Title_Plugins_Get_Mod_From_Forum
 126,Close
@@ -92,7 +93,7 @@
 416,Observe
 417,Watch
 418,Measure
-419,Draw
+419,Dibujar
 420,Steer
 421,TrainCraft
 422,Play
@@ -220,7 +221,7 @@
 812,Show All and Up
 813,Show All and Down
 814,Show Current Floor
-815,Pick A Name
+815,Bautiza a tu balsa
 816,Personal Interest:
 817,Wealth
 818,Something is going on....
@@ -362,8 +363,8 @@
 1130,Message_Predict_Storm
 1131,Message_Predict_Tornado
 1132,Message_Never_Reshow
-1133,Message_Never_DeleteSave
-1134,Message_Never_DontDeleteSave
+1133,¡Bórralo!
+1134,¡Guárdalo!
 1135,Message_Pirate_Hungry
 1136,Message_Pirate_Thirsty
 1137,Message_Pirate_HungryHarm
@@ -453,7 +454,7 @@
 1802,{0} told me something strange about {1}
 1803,{0} taught me something about {1}
 1804,SmallTalk_Skill_Skeleton_Reserved
-2000,Focus_Island
+2000,Isla
 2001,Focus_Survivor
 2002,Focus_Building
 2003,Focus_Pile
@@ -508,9 +509,9 @@
 5541,Env_RainMiddle
 5542,Env_RainSmall
 5543,Env_RainLittle
-5544,Env_NoRainCloudy
-5545,Env_NoRainCloudyHeavy
-5546,Env_NoRain
+5544,Nublado
+5545,Muy nublado
+5546,Sin lluvia
 5547,OverAll_SaltFog
 5548,GuideProgress
 5549,BluePrint_Pause

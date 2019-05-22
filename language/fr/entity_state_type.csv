@@ -1,4 +1,4 @@
-0,
+0,None
 1,Bouge
 2,Inactif
 3,Mange
@@ -78,6 +78,6 @@
 77,EatField
 78,Soigne
 79,Attend d'être soigné
-80,JobDeliver
-81,SwitchDoor
+80,Offre un emploi
+81,Change la porte
 82,EquipBodyPart

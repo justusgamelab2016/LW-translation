@@ -41,7 +41,7 @@
 42,Torche murale,"Pareil qu'une torche, sur un mur."
 43,Barrière,Essayez de ne pas tomber dans l'eau.
 44,Peinture,Cristallisation de créativité. Bon pour l'esprit.
-45,Mixeur de teinture,Push forward.
+45,Mixeur de teinture,
 46,Table de localisation,
 47,Table de réécriture,
 48,Grande voile,Plus rapide.
@@ -88,35 +88,35 @@
 90,Champs de baie,Produit des baies. Convient pour les desserts et la teinture.
 91,Arbre,
 92,Algue,A un goût de catouchouc salé.
-93,Echecs de l'homme poisson,GG.
-94,Swing,Amusez-vous!
+93,Echecs de l'homme poisson,Une manière de tuer le temps.
+94,Balancez-vous,Amusez-vous!
 95,Coffre,Il y a quelque chose dedans.
 96,Radeau étanche humide,Garder le sec et propre.
-97,Chou,
-98,Spinacia,
-99,Myrtille,
-100,Fraise,
-101,Baie empoisonnée,
-102,Panier,
-103,Mutant,Training crafting skill.
-104,Pingouin,Training crafting skill.
-105,Coffre sur l'île,
+97,Chou,Produit du Chou.
+98,Spinacia,Produit du Spinacia.
+99,Myrtille,Produit des Myrtilles.
+100,Fraise,Produit une fraise.
+101,Baie empoisonnée,Produit une baie empoisonnée.
+102,Cage,Il y a un prisonier à l'intérieur.
+103,Mutant,
+104,Manchot,
+105,Coffre,Il y a quelque chose à l'intérieur.
 106,Table de préparation,Permet d’élaborer des plats froids.
 107,Tonneau à vin,Permet de transformer les fruits en vin.
 108,Bûche de champignons,Convertir bois et articles en bois en champignons.
-109,Débris,
-110,Réserve de bois,20 emplacements.
-111,Réserve de nourritures,20 emplacements.
-112,Verrou de porte,une solide protection.
-113,Nid d'oiseau,
-114,Eau de mare,
+109,Débrit,Un tas de débrits de l'ancien monde. Pourrait s'y trouver des choses utiles.
+110,Support à bois,Stocke 20 bois
+111,Réserve de nourritures,Stocke 20 nourritures
+112,Porte avec Verrou,Peut être verrouillé d'un côté. Impossible de déverrouiller de l'autre côté.
+113,Nid d'Oiseau,Parfois les mouettes y laissent des oeufs.
+114,Bassin d’Eau,Peut recueillir de l’eau douce.
 115,Sable,
-116,ManageTable,Push forward.
-117,CraftManageTable,Push forward.
-118,PickleBarrel,Convert fruit into wine.
-119,ArrowTower,Archer can shoot father and be protected.
-120,PikeTrap,Archer can shoot father and be protected.
-121,Status,Preying might bring good luck.
-122,CoconutLantern,Push forward.
-123,BirdTrap,
+116,Tableau de Gestion des Plantes,Peut gérer toutes les terres à proximité
+117,Table de Gestion d'Artisanat,Peut gérer toutes les installations à proximité.
+118,Tonneau,Conserve les légumes avec du sel.
+119,Tour d'Archers,Les archers peuvent tirer loin et être protégés
+120,Piège à Piques,Pique les ennemis qui marchent dessus.
+121,Statue,Prier pourrait porter chance.
+122,Lanterne en Noix de Coco,Reste plus longtemps que la torche de base. Brûle du bois.
+123,Piège à oiseaux,Déposer de la nourriture pour attirer et piéger les oiseaux.
 124,RepairTable,

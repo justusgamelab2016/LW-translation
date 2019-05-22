@@ -1,14 +1,14 @@
-0,,
-1,Survie,
-2,Cuisine,
-3,Artisanat,
-4,Nautique,
-5,Combat,
-6,Soins,
-7,Epée,
-8,Lance,
-9,Arc,
-10,Couteau,
-11,Contondant,
-12,Pointe,
+0,None,
+1,Survie,"Compétence de survie rudimentaire. Inclus la pêche, la récolte des matériaux."
+2,Cuisine,Cuisinez des aliments plus nutritifs et déclicieux.
+3,Fabrication,"Compétence de création. Inclus les outils d'artisanat, les armes, la protection."
+4,Nautique,"Compétence nautique, de navigation et de cartographie. "
+5,Combat,"Compétence de combat. Augmente la force, la vitesse, l'utilisation des armes et la technique de combat. "
+6,Soin,Compétence de soins. Tout sur la manière de prendre soin de vos amis.
+7,Epée,Compétence des épées.
+8,Lance,Compétence de l'utilisation de la lance.
+9,Arc,"Compétence d'utilisation des arcs, tirer sur les ennemis avec précision."
+10,Couteau,Compétence de l'utilisation des couteaux.
+11,Arme Contondante,Compétence de l'utilisation des armes contondantes.
+12,Technologie,Compétence de l'utilisation des armes de technologies inconnues.
 13,Tout,

@@ -5,7 +5,7 @@
 5,not used yet.
 6,not used yet.
 7,not used yet.
-20,"{1:name}'s {0:relation} died when {1:pron} was {1:age} years old. That day, {1:pron} was at home, waiting for {1:pronp} {0:relation} returning."
+20,"{0:relation} de {1:name} murió cuando {1:pron} tenía {1:age} años. Ese día, {1:pron} estaba en casa, esperando a que {1:pronp} {0:relation} llegara."
 21,"{1:name}'s {0:relation} died. That day, {1:pron} felt nothing but pain, slept on bed for a whole day."
 22,"{1:name}'s {0:relation} died when {1:pron} was {1:age} years old. That day, {1:pron} knew nothing, played outside."
 23,"{1:name}'s {0:relation} died. That day, {1:pron} felt nothing but pain."
@@ -224,8 +224,8 @@
 2364,{1:name} spreaded rumors about the the Deep form {1:his} children.
 2365,{1:name} heard rumors about the the Deep form {1:his} boss.
 2366,{1:name} heard rumors about the the Deep form {1:his} teacher.
-2367,{1:name} heard rumors about the the Deep.
-2368,{1:name} heard rumors about some demi god in the seea.
+2367,{1:name} escuchó rumores sobre las Profundidades.
+2368,{1:name} escuchó rumores sobre un semidios en el mar.
 2500,{1:name} delivered a child {2:name}.
 2501,{1:name} delivered a child {2:name} too young.
 2502,{1:name} delivered a child {2:name} elder.

@@ -1,98 +1,95 @@
-1,No topo do mundo,"Voc�� tem sorte. Antes da guerra, voc�� era rico. Depois da guerra, �� ainda mais rico. Agora voc�� se senta na sua vivenda particular com recursos em abundancia, desfrutando a paz e o lazer.","- sardine x6
-- Rope x4
-- Drum Stick x4
-- Potato x5
-- Carrot x5
-- Rot x10
-- Root Seed x3
-- Flower Seed x1
-- Wood x20
-- Fishing Rod x1
-- Green Dye x5","- sardine x6
-- Rope x12
-- Drum Stick x4
-- Potato x5
-- Carrot x5
-- Rot x30
-- Root Seed x7
-- Flower Seed x3
-- Wood x50
-- Fishing Rod x1
-- Green Dye x5
-- Blue Dye x5
-- Red Dye x5
-- Yellow Dye x5
-- Leaf Seed x2
-- Leaking Barrel x1
-- Bow x1
-- Arrow x20
-- Spear x2","- sardine x6
-- Rope x4
-- Drum Stick x4
-- Potato x5
-- Carrot x5
-- Rot x5
-- Root Seed x2
-- Flower Seed x2
-- Fishing Rod x1"
-2,Depend��ncia m��tua,"Um menino salvo por uma menina. No oceano de horizonte infinito, por quanto tempo eles conseguem sobreviver?","- Rope x2
-- Rot x5
-- Fishing Rod x1
-- Green Dye x5
-- Seed x2","- Rope x10
-- Rot x25
-- Fishing Rod x2
-- Green Dye x5
-- Seed x10
-- Leaking Barrel x1
-- Spear x1
-","- Rope x2
-- Fishing Rod x1
-- Green Dye x5
-- Seed x2"
-3,Pirata exilado,"Os Corvos te sentenciaram �� morte. Mas voc�� roubou uma canoa e escapou. Voc�� n?o tem muitos recursos, mas pelo menos tem um abrigo.","- sardine x2
-- Wood x16
-- Rope x5
-- Rot x5
-- Red Snapper x1
-- SwordFish x1
-- Leaf Seed x2
-- Fishing Rod x1
-- Green Dye x5
-- Root Seed x1
-- Fruit Seed x1
-- Spear x2","- sardine x2
-- Wood x26
-- Rope x13
-- Rot x30
-- Red Snapper x1
-- SwordFish x1
-- Leaf Seed x2
-- Fishing Rod x1
-- Green Dye x5
-- Root Seed x6
-- Fruit Seed x1
-- Flower Seed x3
-- Leaking Barrel x1
-- Spear x2
-- Club x2
-- FlaxArmor x2
-- FlaxHat x2
-- ClothArmor x2
-- ClothHat x2
-","- sardine x2
-- Wood x16
-- Rope x5
-- Rot x5
-- Red Snapper x1
-- SwordFish x1
-- Leaf Seed x2
-- Fishing Rod x1
-- Green Dye x5
-- Root Seed x1
-- Fruit Seed x1
-- Spear x2
-"
+1,O comerciante,"Você tem sorte. Antes da guerra, você era rico. Depois da guerra, é ainda mais rico. Agora você se senta na sua vivenda particular com recursos em abundância, desfrutando a paz e o lazer.","- Sardinha x6
+- Corda x4
+- Coxa de frango x4
+- Batata x5
+- Cenoura x5
+- Adubo x10
+- Semente de tubérculo x3
+- Semente de flor x1
+- Madeira x20
+- Vara de pesca x1
+- Tintura verde x5","- Sardinha x6
+- Corda x12
+- Coxa de frango x4
+- Batata x5
+- Cenoura x5
+- Adubo x30
+- Semente de tubérculo x7
+- Semente de flor x3
+- Madeira x50
+- Vara de pesca x1
+- Tintura verde x5
+- Tintura azul x5
+- Tintura vermelha x5
+- Tintura amarela x5
+- Semente de verdura x2
+- Barril furado x1
+- Arco x1
+- Flecha x20
+- Lança x2","- Sardinha x6
+- Corda x4
+- Coxa de frango x4
+- Batata x5
+- Cenoura x5
+- Adubo x5
+- Semente de tubérculo x2
+- Semente de flor x2
+- Vara de pesca x1"
+2,Dependência mútua,"Um menino salvo por uma menina. No oceano de horizonte infinito, por quanto tempo eles conseguem sobreviver?","- Corda x2
+- Adubo x5
+- Vara de pesca x1
+- Tintura verde x5
+- Semente x2","- Corda x10
+- Adubo x25
+- Vara de pesca x2
+- Tintura verde x5
+- Semente x10
+- Barril furado x1
+- Lança x1","- Corda x2
+- Vara de pesca x1
+- Tintura verde x5
+- Semente x2"
+3,Pirata exilado,"Os Corvos te sentenciaram à morte. Mas você roubou uma canoa e escapou. Você não tem muitos recursos, mas pelo menos tem um abrigo.","- Sardinha x2
+- Madeira x16
+- Corda x5
+- Adubo x5
+- Peixe vermelho x1
+- Peixe-espada x1
+- Semente de verdura x2
+- Vara de pesca x1
+- Tintura verde x5
+- Semente de tubérculo x1
+- Semente de fruta x1
+- Lança x2","- Sardinha x2
+- Madeira x26
+- Corda x13
+- Adubo x30
+- Peixe vermelho x1
+- Peixe-espada x1
+- Semente de verdura x2
+- Vara de pesca x1
+- Tintura verde x5
+- Semente de tubérculo x6
+- Semente de fruta x1
+- Semente de flor x3
+- Barril furado x1
+- Lança x2
+- Clava x2
+- Armadura de linho x2
+- Chapéu de linho x2
+- Armadura de pano x2
+- Chapéu de pano x2","- Sardinha x2
+- Madeira x16
+- Corda x5
+- Adubo x5
+- Peixe vermelho x1
+- Peixe-espada x1
+- Semente de verdura x2
+- Vara de pesca x1
+- Tintura verde x5
+- Semente de tubérculo x1
+- Semente de fruta x1
+- Lança x2",
 4,O sobrevivente solit��rio,Comece com um ��nico sobrevivente. Ser�� que voc�� consegue achar a pessoa certa para ajudar a dar continuidade �� ra?a humana?,123,123,123
-5,Depend on each other,A boy saved by a girl. On the borderless ocean. How long can they survive?,,,
+5,Dependência mútua,"Um menino salvo por uma menina. No oceano de horizonte infinito, por quanto tempo eles conseguem sobreviver?",,,
 1000,The lone survivor,Start with a single survivor. Can you find the one to help continue the human race?,123,123,123

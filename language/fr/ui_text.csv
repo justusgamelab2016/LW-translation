@@ -35,7 +35,7 @@
 133,Traducteurs:
 134,A la recherche de traducteurs
 135,Comptez sur moi!
-136,NON, merci!
+136,NON
 137,Ajouter à la liste de souhait sur Steam
 200,Sauvegarde Auto
 201,Graphismes simplifiés
@@ -117,8 +117,6 @@
 510,Emplacements d'équipements
 511,Journal (statut)
 512,Journal (Rapports Sociaux)
-876,Signaler un Bug
-877,BillManager
 513,Personnage
 514,Relations
 515,Effets des compétences
@@ -283,9 +281,9 @@
 873,Carte
 874,Déchirer
 875,Priorité
-878,Mauvais
+876,Signaler un Bug
 877,BillManager
-878,Pile_Quality_Bad
+878,Mauvais
 879,Pile_Quality_Soso
 880,Normal
 881,Bon

@@ -418,6 +418,8 @@
 1420,Location_Forbidden_Raft_Above_Water
 1421,Location_Forbidden_Raft_Near_Raft
 1422,Location_Forbidden_Wall_No_More
+1450,Location_Forbidden_Raft_Exists_Blueprint
+1470,Location_Forbidden_Building_Exists_Blueprint
 1500,SmallTalk_Normal_Skeleton
 1501,I talk with {0} about men in the world.
 1502,I talk with {0} about women in the world.
@@ -477,6 +479,8 @@
 2206,KeyHint_PlayerAssign
 2207,KeyHint_PlayerAttack
 2208,KeyHint_PlayerCommonAction
+2209,KeyHint_Zoom
+2210,KeyHint_CancelBuildMode
 5000,Survivor_s_Corpse
 5001,Time_Day
 5002,Time_Hour
@@ -520,3 +524,4 @@
 5552,BluePrint_Progress
 5553,bill_openStorage
 5554,NotFinalQuality
+5555,Option_ShowKeyHintPanel

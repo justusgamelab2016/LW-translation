@@ -423,6 +423,8 @@ Build a tree to get more wood soon!"
 1420,Location_Forbidden_Raft_Above_Water
 1421,Location_Forbidden_Raft_Near_Raft
 1422,Location_Forbidden_Wall_No_More
+1450,Location_Forbidden_Raft_Exists_Blueprint
+1470,Location_Forbidden_Building_Exists_Blueprint
 1500,SmallTalk_Normal_Skeleton
 1501,Eu converso com {0} sobre homens.
 1502,Eu converso com {0} sobre mulheres.
@@ -482,6 +484,8 @@ Build a tree to get more wood soon!"
 2206,KeyHint_PlayerAssign
 2207,KeyHint_PlayerAttack
 2208,KeyHint_PlayerCommonAction
+2209,KeyHint_Zoom
+2210,KeyHint_CancelBuildMode
 5000,Corpo {0}
 5001,d
 5002,h
@@ -525,3 +529,4 @@ Build a tree to get more wood soon!"
 5552,BluePrint_Progress
 5553,bill_openStorage
 5554,NotFinalQuality
+5555,Option_ShowKeyHintPanel

@@ -423,6 +423,8 @@ Planter un arbre pour obtenir du bois rapidement!"
 1420,Location_Forbidden_Raft_Above_Water
 1421,Location_Forbidden_Raft_Near_Raft
 1422,Location_Forbidden_Wall_No_More
+1450,Location_Forbidden_Raft_Exists_Blueprint
+1470,Location_Forbidden_Building_Exists_Blueprint
 1500,SmallTalk_Normal_Skeleton
 1501,Je parle avec {0} à propos d'un homme dans le monde
 1502,Je parle avec {0} à propos d'une femme dans le monde
@@ -482,6 +484,8 @@ Planter un arbre pour obtenir du bois rapidement!"
 2206,"<sprite name=""RMB""> Assigner à {}"
 2207,"<sprite name=""RMB""> Attaquer {}"
 2208,"<sprite name=""RMB""> Se déplacer/Assigner/Attaquer"
+2209,KeyHint_Zoom
+2210,KeyHint_CancelBuildMode
 5000,Cadavre de {0}
 5001,j
 5002,h
@@ -525,3 +529,4 @@ Planter un arbre pour obtenir du bois rapidement!"
 5552,Progression
 5553,Ouvrir le stockage
 5554,C'est une version Démo. Elle ne représente pas le produit final
+5555,Option_ShowKeyHintPanel

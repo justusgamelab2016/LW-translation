@@ -63,13 +63,15 @@
 223,Luminosité
 224,Etes-vous sûr de vouloir quitter Last Wood?
 225,DEMO
-226,GameTODO
-227,Merci de jouer à la Démo
-228,Nous espérons que vous aimez la Démo
-229,Rejoignez Discord
-300,Ressources
-301,Constructions
-302,Fabrications
+226,"Nous peaufinons actuellement Last Wood et il sortira en accès anticipé dans les prochains mois. La jouabilité et les contenus changeront lors de la version anticipée."
+227,Merci pour jouer à cette DEMO. 
+228,"Si vous aimez ce jeu et que vous voudriez avoir plus de contenus --- déverouiller plus de bâtiments et recettes, naviguer, explorer des îles mystérieuses, plonger pour récupérer d'anciens objets, 
+participer à des batailles navales avec des ennemis.
+Ajoutez Last Wood sur votre liste de souhaits sur Steam. "
+229,Vous pouvez aussi rejoindre notre Discord pour échanger avec nous et rendre Last Wood encore meilleur!
+300,Ressource
+301,Structure
+302,Artisanat
 303,Mobilier
 304,Réparer
 305,Démolir
@@ -190,8 +192,8 @@
 714,[F9] Réinitialiser la camera
 715,[Espace] Pause
 716,[Espace] Jouer
-717,[Espace] Vitesse x2
-718,[Espace] Vitesse x5
+717,[Espace] Vitesse x2 / [Tab] pour changer
+718,[Espace] Vitesse x5 / [Tab] pour changer
 719,[Tab] ou [1]~[9] pour changer de niveau
 720,[I] Objets
 721,Alerte
@@ -292,7 +294,7 @@
 884,[Faire tourner la caméra à 90°]
 885,Temps Réel
 886,Temps de Jeu
-887,Queue
+887,File d'attente
 888,Temps de Jeu
 889,File d'attente
 890,"Alt Gauche pour afficher les info-bulles
@@ -315,14 +317,7 @@ Ctrl Gauche + LMB sur l'objet pour annuler "
 905,Marchand
 906,Cuisiner
 907,Laisser les survivants être créatifs
-908,C'est ok
-909,C'est tentant
-910,C'est très généreux de ta part
-911,Arrêtes de me faire perdre mon temps!
-912,Marché conclu!
-913,"Prenez votre temps, regardez aux alentours"
-914,Trade_TradeSucess
-915,Normal
+908,Clic droit pour annuler.
 1000,Est-ce que tu te moques de moi?
 1001,Ce n'est pas assez!
 1002,C'est ok
@@ -400,31 +395,31 @@ Planter un arbre pour obtenir du bois rapidement!"
 1314,Mais je n'aime pas ça
 1315,J'ai enfin ce dont je rêve
 1316,J'avais l'habitude de l'avoir
-1400,L'emplacement dépend de l'étage actuel
-1401,Impossible de construire
-1402,Impossible de construire
-1403,Il y a un radeau proche
-1404,Il y a une île proche
-1405,Il y a quelque chose de proche
-1406,Impossible de placer sur le sol avec de la mousse
-1407,Impossible de construire
-1408,Impossible de construire
-1409,Devrait être placé entre les arbres
-1410,Devrait être placé près de l'eau
-1411,Doit être placé sur l'eau
-1412,Hauteur max atteinte
-1413,Doit être placé près de l'eau.
-1414,Location_Forbidden_Building_Dep_Current_Tag_Mud
-1415,Location_Forbidden_Building_Out_Of_Graph
-1416,Location_Forbidden_Building_Blocked
-1417,Location_Forbidden_Building_Must_On_Raft
-1418,Location_Forbidden_Raft_Blocked
-1419,Location_Forbidden_Raft_Change_Different_Raft
-1420,Location_Forbidden_Raft_Above_Water
-1421,Location_Forbidden_Raft_Near_Raft
-1422,Location_Forbidden_Wall_No_More
-1450,Location_Forbidden_Raft_Exists_Blueprint
-1470,Location_Forbidden_Building_Exists_Blueprint
+1400,<color=#FF0000>Il y a déjà une autre construction sur ce radeau</color>
+1401,<color=#FF0000>Il y a une construction qui exige de l'eau</color>
+1402,<color=#FF0000>La construction est trop élevée</color>
+1403,<color=#FF0000>Il y a quelque chose de proche qui bloque</color>
+1404,<color=#FF0000>Il y a une île dans les environs</color>
+1405,<color=#FF0000>Il y a quelque chose de proche qui bloque</color>
+1406,<color=#FF0000>Impossible de construire ici avant d'avoir retirer la mousse</color>
+1407,<color=#FF0000>Emplacement invalide</color>
+1408,<color=#FF0000>Trop élevé pour construire</color>
+1409,<color=#FF0000>Doit être construit entre deux arbres</color>
+1410,<color=#FF0000>Les deux côtés doivent être dans l'eau</color>
+1411,<color=#FF0000>Doit être construit sur une surface d'eau.</color>
+1412,<color=#FF0000>Reach max height</color>
+1413,<color=#FF0000>Doit être construit proche de l'eau</color>
+1414,<color=#FF0000>Must build on soil/rot raft</color>
+1415,<color=#FF0000>Trop loin du radeau</color>
+1416,<color=#FF0000>Cet emplacement est bloqué</color>
+1417,<color=#FF0000>Must put on a raft</color>
+1418,<color=#FF0000>Cet emplacement est bloqué</color>
+1419,<color=#FF0000>Impossible de construire sur le même type de radeau</color>
+1420,<color=#FF0000>Doit être construit sur une surface d'eau.</color>
+1421,<color=#FF0000>Doit être construit près d'un radeau</color>
+1422,<color=#FF0000>Can't build same type of building</color>
+1450,<color=#FF0000>Il y a déjà un plan.</color>
+1470,<color=#FF0000>Il y a déjà un plan.</color>
 1500,SmallTalk_Normal_Skeleton
 1501,Je parle avec {0} à propos d'un homme dans le monde
 1502,Je parle avec {0} à propos d'une femme dans le monde
@@ -462,11 +457,11 @@ Planter un arbre pour obtenir du bois rapidement!"
 1803,{0} m'a appris quelque chose à propos de {1}
 1804,SmallTalk_Skill_Skeleton_Reserved
 2000,Ile
-2001,<color=yellow>Survivant {0}</color>
-2002,<color=aqua>Bâtiment {0}</color>
-2003,<color=green>{0} X {1}</color>
-2004,<color=orange>{0}</color>
-2005,<color=teal>Pièce {0}</color>
+2001,{0}
+2002,{0}
+2003,{0}({1})
+2004,{0}
+2005,{0}
 2100,Se déplacer ici...
 2101,{0} ({1})
 2102,Prendre ({0})
@@ -477,15 +472,15 @@ Planter un arbre pour obtenir du bois rapidement!"
 2107,Approvisionner ({0})
 2200,"<sprite name=""W""><sprite name=""A""><sprite name=""S""><sprite name=""D""> Caméra panoramique"
 2201,"<sprite name=""Q""><sprite name=""E"">Tourner la caméra à 90°"
-2202,"<sprite name=""Ctr"">+ Drag <sprite name=""RMB"">  tourner la caméra"
+2202,"<sprite name=""Ctr"">+ Drag <sprite name=""RMB""> / Drag <sprite name=""MMB""> tourner la caméra"
 2203,"<sprite name=""R""> Tourner le plan"
 2204,"<sprite name=""RMB""> Annuler le plan"
-2205,"<sprite name=""RMB""> Se déplacer vers la position"
+2205,"<sprite name=""RMB""> Se déplacer à l'emplacement"
 2206,"<sprite name=""RMB""> Assigner à {}"
 2207,"<sprite name=""RMB""> Attaquer {}"
 2208,"<sprite name=""RMB""> Se déplacer/Assigner/Attaquer"
-2209,KeyHint_Zoom
-2210,KeyHint_CancelBuildMode
+2209,"<sprite name=""WheelUp""> / <sprite name=""WheelDown""> Zoomer"
+2210,"<sprite name=""RMB""> Annuler le mode construction"
 5000,Cadavre de {0}
 5001,j
 5002,h
@@ -496,7 +491,7 @@ Planter un arbre pour obtenir du bois rapidement!"
 5102,Sélectionnez les objets à gauche pour vérifier le guide.
 5103,Faites glisser pour changer l’ordre. Les objets à gauche ont une priorité plus élevée. Faites un clic droit pour interdire une tâche.
 5104,En décomposition
-5105,SaveCreatedAt
+5105,Last Changed Time
 5106,Enregistrer le nom
 5500,Trop froid
 5501,Froid
@@ -528,5 +523,6 @@ Planter un arbre pour obtenir du bois rapidement!"
 5551,Annuler
 5552,Progression
 5553,Ouvrir le stockage
-5554,C'est une version Démo. Elle ne représente pas le produit final
-5555,Option_ShowKeyHintPanel
+5554,Version Démo. Ne représente pas le produit final.
+5555,Afficher la touche Guide?
+5556,Trois jours plus tard...

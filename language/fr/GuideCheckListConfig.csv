@@ -1,68 +1,68 @@
 1,Sélectionner un arbre
-2,Abattre un arbre
-3,Attendre que le survivant abatte l'arbre
+2,Cliquer sur abattre
+3,Attendre qu'un survivant abatte l'arbre
 10,Sélectionner un arbre
-11,Appuyer sur récolter
-12,Attendre que le survivant abatte l'arbre
+11,Cliquer sur récolter
+12,Attendre qu'un survivant abatte l'arbre
 20,Placer un plan d'arbre
 21,Planter un arbre
-30,Construire un radeau
+30,Placer un plan de radeau
 31,Construire un radeau
-40,Placer le plan sur le sol
-41,Construire un sol
+40,Placer un plan de rot floor
+41,Construire un rot floor
 50,Sélectionner un radeau
 51,Sélectionner un bâtiment
 52,Sélectionner un survivant
 60,Sélectionner un survivant
-61,Afficher l'état
+61,Afficher les statuts
 62,Afficher les compétences
 63,Afficher les besoins sociaux
 64,Afficher la santé
 70,Sélectionner un requin
-71,Appuyer sur attaquer
-72,Appuyer sur Alerte
+71,"Quand une mouette survole, <color=#CF6C00>[Clic droit]</color>sur elle pour attaquer"
+72,"Quand un requin attaque le radeau, <color=#CF6C00>[Clic droit]</color>sur lui pour attaquer"
 73,Attaquer le requin
 80,Changer d'étage
 90,Sélectionner le feu de camp
-91,Appuyer sur approvisionner en bois
-100,Sélectionner la réserve d'engrais
-101,Cliquer sur alimenter en nourritures
+91,Cliquer pour alimenter le feu
+100,Sélectionner le réservoir à engrais
+101,Cliquer pour alimenter en nourritures
 102,Attendre que la nourriture soit consommée
-103,Attendre la transformation en engrais
-104,Construire la réserve d'engrais
-110,Sélectionner la boite de stockage
-111,Cliquer sur déposer un objet
-112,Cliquer sur déposer un objet
-120,Placer un plan
+103,Attendre que l'engrais soit prêt
+104,Construire le réservoir à engrais
+110,Sélectionner la boîte de stockage
+111,Cliquer pour déposer un objet
+112,Cliquer déposer un objet
+120,Placer un plan de lin
 121,Planter du lin
-122,Récolter le lin
+122,Récolter du lin
 123,Sélectionner un atelier
 124,Fabriquer de la corde
 125,Construire un atelier
-130,Sélectionner un survivant qui peut augmenter de niveau
-131,Niveau supérieur
+130,Sélectionner un survivant qui peut monter de niveau
+131,Promouvoir
 140,Construire une chambre
 141,Assigner la chambre à un survivant
 150,Déverouiller un bâtiment
 151,Déverouiller une recette
 160,Placer un plan de pagaie
 161,Construire une pagaie
-1010,Obtenir du bois
-1011,Obtenir du bois
+1010,Obtenir du  bois
+1011,Obtenir des citrons
 1020,Obtenir du poisson
-1021,Obtenir du poisson
-1030,Obtenir de l'eau
-1031,Obtenir de l'eau
-1040,Obtenir une brochette
+1021,Fabriquer une cane à pêche
+1030,Construire un collecteur d'eau de pluie
+1031,Récolter de l'eau douce
+1040,Cuisiner des brochettes
 1041,Construire un feu de camp
-1050,Combattre une mouette
-1060,Construire un sol
-1070,Combattre un requin
-1080,Déverouiller une recette
-1090,Construire un radeau
-1100,Démolir un bâtiment pour récupérer du bois
-1200,Fabriquer un lit
-1300,Appuyer sur WASD pour déplacer la caméra
-1301,Mode Panoramique
-1302,Zoomer et Dézoomer
+1050,Se battre contre des mouettes
+1060,Construire un rot floor
+1070,Se battre contre des requins
+1080,Déverouiller des recettes
+1090,Construire une pagaie
+1100,Démolir un bâtiment et récupérer du bois
+1200,Construire un matelas
+1300,Appuyer sur WASD pour bouger la caméra
+1301,Caméra panoramique
+1302,Zommer et dézoomer
 1303,Tourner

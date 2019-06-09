@@ -48,15 +48,15 @@ bois."
 16,Déverouillage,Augmenter les compétences débloque des bâtiments et des recettes. Vous pouvez déverouiller d'autres bâtiments et recettes en les recherchant dans une salle de travail(et en fournissant des matériaux corrects) ou en fouillant une île. Les survivants auront parfois un moment de libre quand ils méditent dans la salle de méditation ou en regardant des peintures.,Augmenter les compétences débloque des bâtiments et des recettes. Vous pouvez déverouiller d'autres bâtiments et recettes en les recherchant dans une salle de travail(et en fournissant des matériaux corrects) ou en fouillant une île. Les survivants auront parfois un moment de libre quand ils méditent dans la salle de méditation ou en regardant des peintures.
 17,Mode Création,En mode création vous pouvez construire librement. Mais vous ne pouvez construire des choses que si vous les avez déverrouillées en mode normal.,En mode création vous pouvez construire librement. Mais vous ne pouvez construire des choses que si vous les avez déverrouillées en mode normal.
 18,Placer une pagaie,La pagaie doit être placée à côté de l'eau,Le côté avant et arrière de la pagaie doivent être dans l'eau.
-101,GetWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-102,GetFish,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-103,GetWater,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-104,GetKebab,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-105,FightSeagull,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+101,Obtenir du bois,,Le radeau doit être placé à coté de l'eau. L'avant et le côté du radeau doivent être placés dans l'eau.
+102,Obtenir du poisson,,Le radeau doit être placé à coté de l'eau. L'avant et le côté du radeau doivent être placés dans l'eau.
+103,Obtenir de l'eau,,Le radeau doit être placé à coté de l'eau. L'avant et le côté du radeau doivent être placés dans l'eau.
+104,Obtenir une brochette,,Le radeau doit être placé à coté de l'eau. L'avant et le côté du radeau doivent être placés dans l'eau.
+105,Combattre une mouette,,Le radeau doit être placé à coté de l'eau. L'avant et le côté du radeau doivent être placés dans l'eau.
 106,BuildSoilFloor,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-107,FightShark,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-109,BuildAPaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-110,NoWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-111,MakeBed,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+107,Combattre un requin,,Le radeau doit être placé à coté de l'eau. L'avant et le côté du radeau doivent être placés dans l'eau.
+108,Déverouiller une recette,,Le radeau doit être placé à coté de l'eau. L'avant et le côté du radeau doivent être placés dans l'eau.
+109,Construire un radeau,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+110,Pas de bois,,Le radeau doit être placé à coté de l'eau. L'avant et le côté du radeau doivent être placés dans l'eau.
+111,Fabriquer un lit,,Le radeau doit être placé à coté de l'eau. L'avant et le côté du radeau doivent être placés dans l'eau.
 112,PlayerInput,PlayerInput,PlayerInput.

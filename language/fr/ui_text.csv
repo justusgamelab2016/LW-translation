@@ -407,17 +407,17 @@ Planter un arbre pour obtenir du bois rapidement!"
 1409,<color=#FF0000>Doit être construit entre deux arbres</color>
 1410,<color=#FF0000>Les deux côtés doivent être dans l'eau</color>
 1411,<color=#FF0000>Doit être construit sur une surface d'eau.</color>
-1412,<color=#FF0000>Reach max height</color>
+1412,<color=#FF0000>Hauteur max atteinte</color>
 1413,<color=#FF0000>Doit être construit proche de l'eau</color>
-1414,<color=#FF0000>Must build on soil/rot raft</color>
+1414,<color=#FF0000>Doit être construit sur un radeau spécifique</color>
 1415,<color=#FF0000>Trop loin du radeau</color>
 1416,<color=#FF0000>Cet emplacement est bloqué</color>
-1417,<color=#FF0000>Must put on a raft</color>
+1417,<color=#FF0000>Doit être placé sur un radeau</color>
 1418,<color=#FF0000>Cet emplacement est bloqué</color>
 1419,<color=#FF0000>Impossible de construire sur le même type de radeau</color>
 1420,<color=#FF0000>Doit être construit sur une surface d'eau.</color>
 1421,<color=#FF0000>Doit être construit près d'un radeau</color>
-1422,<color=#FF0000>Can't build same type of building</color>
+1422,<color=#FF0000>Impossible de construire le même type de construction</color>
 1450,<color=#FF0000>Il y a déjà un plan.</color>
 1470,<color=#FF0000>Il y a déjà un plan.</color>
 1500,SmallTalk_Normal_Skeleton

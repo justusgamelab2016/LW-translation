@@ -7,9 +7,9 @@
 20,Placer un plan d'arbre
 21,Planter un arbre
 30,Construire un radeau
-31,Build a raft
-40,Put on blueprint of rot floor
-41,Build a rot floor
+31,Construire un radeau
+40,Placer le plan sur le sol
+41,Construire un sol
 50,Sélectionner un radeau
 51,Sélectionner un bâtiment
 52,Sélectionner un survivant
@@ -25,14 +25,14 @@
 80,Changer d'étage
 90,Sélectionner le feu de camp
 91,Appuyer sur approvisionner en bois
-100,Select Fertilizer Pool
-101,Click feed food
-102,Wait for it to consume food
-103,Wait for it to generate rot
-104,build fertilize pool
+100,Sélectionner la réserve d'engrais
+101,Cliquer sur alimenter en nourritures
+102,Attendre que la nourriture soit consommée
+103,Attendre la transformation en engrais
+104,Construire la réserve d'engrais
 110,Sélectionner la boite de stockage
-111,Click feed item
-112,Click feed item
+111,Cliquer sur déposer un objet
+112,Cliquer sur déposer un objet
 120,Placer un plan
 121,Planter du lin
 122,Récolter le lin
@@ -56,13 +56,13 @@
 1040,Obtenir une brochette
 1041,Construire un feu de camp
 1050,Combattre une mouette
-1060,BuildSoilFloor2
+1060,Construire un sol
 1070,Combattre un requin
 1080,Déverouiller une recette
 1090,Construire un radeau
-1100,Pas de bois
+1100,Démolir un bâtiment pour récupérer du bois
 1200,Fabriquer un lit
-1300,Se déplacer (WASD)
-1301,PanMove
-1302,(Dé)Zoomer
-1303,Rotate
+1300,Appuyer sur WASD pour déplacer la caméra
+1301,Mode Panoramique
+1302,Zoomer et Dézoomer
+1303,Tourner

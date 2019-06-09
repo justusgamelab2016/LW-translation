@@ -64,7 +64,7 @@
 224,Etes-vous sûr de vouloir quitter Last Wood?
 225,DEMO
 226,"Nous peaufinons actuellement Last Wood et il sortira en accès anticipé dans les prochains mois. La jouabilité et les contenus changeront lors de la version anticipée."
-227,Merci pour jouer à cette DEMO. 
+227,Merci de jouer à cette DEMO. 
 228,"Si vous aimez ce jeu et que vous voudriez avoir plus de contenus --- déverouiller plus de bâtiments et recettes, naviguer, explorer des îles mystérieuses, plonger pour récupérer d'anciens objets, 
 participer à des batailles navales avec des ennemis.
 Ajoutez Last Wood sur votre liste de souhaits sur Steam. "
@@ -210,12 +210,12 @@ Ajoutez Last Wood sur votre liste de souhaits sur Steam. "
 800,Poids
 801,Flottabilité
 802,Objets
-803,[Shift+1] Construction
-804,[Shift+2] Pile
-805,[Shift+3] Survivant
-806,[Shift+4] Pièce
-807,[Shift+5] Ile
-808,[Shift+6] Terrain et Mur
+803,Construction
+804,Pile
+805,Survivant
+806,Pièce
+807,Ile
+808,Terrain et Mur
 809,Consomme
 810,Produit
 811,Afficher tout
@@ -286,7 +286,7 @@ Ajoutez Last Wood sur votre liste de souhaits sur Steam. "
 876,Signaler un Bug
 877,BillManager
 878,Mauvais
-879,Pile_Quality_Soso
+879,Qualité de la pile
 880,Normal
 881,Bon
 882,Le meilleur
@@ -304,7 +304,7 @@ Ctrl Gauche + LMB sur l'objet pour annuler "
 892,En attente de la liste des correctifs
 893,Etage
 894,Filtre
-895,Etiquetter:
+895,Etiquette:
 896,Matériel:
 897,Utilisation:
 898,Compétence requise:

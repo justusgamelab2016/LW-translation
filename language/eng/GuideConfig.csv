@@ -24,8 +24,8 @@ From left to right, they are <color=#CF6C00>[Building]</color>, <color=#CF6C00>[
 Click the button to see detailed status, which includes basic status, equipment, diary, character, social, skill and health conditions.","There is a list of your survivors on the bottom of the screen. Click to view his/her basic status. 
 Click the button to see detailed status, which includes basic status, equipment, diary, character, social, skill and health conditions."
 8,Attack the Shark,"To attack a shark(or other creatures), just select a survivor, then <color=#CF6C00>Right click</color> on the shark. 
-Then, click the <color=#CF6C00>[Attack]</color> button.","To attack a shark(or other creatures), just click it, toggle <color=#CF6C00>[Attack]</color> on. 
-Then, click the <color=#CF6C00>[Alert]</color> button on one's character card (on the bottom of the screen) to command him/her to take part in combat."
+Then, click the <color=#CF6C00>[Attack]</color> button.","To attack a shark(or other creatures), just select a survivor, then <color=#CF6C00>Right click</color> on the shark. 
+Then, click the <color=#CF6C00>[Attack]</color> button."
 9,Switch Floor,"To focus on a certain floor, press tab/ 1~9/ button on the buttons left of the screen. You can only build on the focused floor.","To focus on a certain floor, press tab/ 1~9/ button on the buttons left of the screen. You can only build on the focused floor."
 10,Supply Firewood,Camp fire needs wood to burn. Click the camp fire to see the details. Click on the supply panel to schedule a fire wood supply task.,Camp fire needs wood to burn. Click the camp fire to see the details. Click on the supply panel to schedule a fire wood supply task.
 11,Fertilizer Pool,"Fertilizer pool can transform any food into rot, which is an improtant resource to make soil floor. To get it work, first select a fertilizer pool, then left click on any food you want to put in mutiple times. That will schedule a food supply task for survivors. After food are put in, wait a while for the transfer process. To take rot out, you could right click on the rot icon mutilple times.","Fertilizer pool can transform any food into rot, which is an improtant resource to make soil floor. To get it work, first select a fertilizer pool, then left click on any food you want to put in mutiple times. That will schedule a food supply task for survivors. After food are put in, wait a while for the transfer process. To take rot out, you could right click on the rot icon mutilple times."
@@ -35,16 +35,16 @@ Then, click the <color=#CF6C00>[Alert]</color> button on one's character card (o
 15,Room,"Any closed space with at least one door is a room. You can select room if you toggle the filter on. After that, you can assign survivors to a certain room. This would make the room private, which means other survivors can't get in and use anything inside. With different buildings inside the room, you can make a working room, meditaion room, dinning hall and so on.","Any closed space with at least one door is a room. You can select room if you toggle the filter on. After that, you can assign survivors to a certain room. This would make the room private, which means other survivors can't get in and use anything inside. With different buildings inside the room, you can make a working room, meditaion room, dinning hall and so on."
 16,Unlock,"Leveling up skill would unlock most buildings and recipes. For others, you can unlock them by researching in a work room(and provide correct material) or scavenging on the island. Survivors sometime would have a 'aha moment' when they medita in the meditation room or looking at paintings.","Leveling up skill would unlock most buildings and recipes. For others, you can unlock them by researching in a work room(and provide correct material) or scavenging on the island. Survivors sometime would have a 'aha moment' when they medita in the meditation room or looking at paintings."
 17,CreativeMode,"In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode.","In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode."
-18,PlacePaddle,Paddle need to be place where 3 sides are water. You could use paddle to sail your raft.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-101,GetWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-102,Fishing,Fishing is an important way to get food. You could make fishing rod using <color=#CF6C00>wood and ropes</color> in a <color=#CF6C00>workbench</color>.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-103,Water Source,Fresh water is imprtant for survival.You could build  <color=#CF6C00>rain collector</color> to gather fresh water when raining.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-104,Cooking,Build a  <color=#CF6C00>camp fire</color> to cook. Eat cooked food would make suvivors happy and decrease the chance of getting ill.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-105,Seagull,Seagulls would steal your food. So keep an eye on them. You could command survovirs to expel seagulls.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-106,BuildSoilFloor,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-107,FightShark,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-109,BuildAPaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-110,NoWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-111,Bed,Seelp on beds would make suvivors happier. And they would sleep better in bettre bed.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-112,PlayerInput,PlayerInput,PlayerInput.
+18,PlacePaddle,Paddle need to be place where 3 sides are water. You could use paddle to sail your raft.,Paddle need to be place where 3 sides are water. You could use paddle to sail your raft.
+101,GetWood,,
+102,Fishing,Fishing is an important way to get food. You could make fishing rod using <color=#CF6C00>wood and ropes</color> in a <color=#CF6C00>workbench</color>.,Fishing is an important way to get food. You could make fishing rod using <color=#CF6C00>wood and ropes</color> in a <color=#CF6C00>workbench</color>.
+103,Water Source,Fresh water is imprtant for survival.You could build  <color=#CF6C00>rain collector</color> to gather fresh water when raining.,Fresh water is imprtant for survival.You could build  <color=#CF6C00>rain collector</color> to gather fresh water when raining.
+104,Cooking,Build a  <color=#CF6C00>camp fire</color> to cook. Eat cooked food would make suvivors happy and decrease the chance of getting ill.,Build a  <color=#CF6C00>camp fire</color> to cook. Eat cooked food would make suvivors happy and decrease the chance of getting ill.
+105,Seagull,Seagull,Seagull
+106,BuildSoilFloor,,
+107,Fight Shark,Fight Shark,Fight Shark
+108,UnlockReciepe,,
+109,Sail,Sail,Sail
+110,No Wood,No Wood,No Wood
+111,Build Bed,Build Bed,Build Bed
+112,PlayerInput,PlayerInput,PlayerInput

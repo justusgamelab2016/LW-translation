@@ -4,7 +4,7 @@
 102,Continue
 103,Load
 104,Credit
-105,Develop
+105,Developers
 106,Localization
 107,Exit
 108,Pre-Alpha Supporters
@@ -13,10 +13,10 @@
 111,Normal
 112,Hard
 113,Back
-114,Initializing
+114,Initializing...
 115,Might take a few minutes for the first time.
 116,Creative Mode
-117,Story Board Selection
+117,Select a story
 118,Plugins
 119,Plugins Version
 120,Do you really want to delete this save?
@@ -63,10 +63,13 @@
 223,Brightness
 224,Are you sure to quit Last Wood?
 225,DEMO
-226,GameTODO
-227,ThanksForPlayingDemo
-228,HopeLikeDemo
-229,JoinDiscordWithUs
+226,"Last Wood is under final polishing, will launch EA in a few months. Gameplays, contents would change in the EA version."
+227,Thanks for playing this DEMO. 
+228,"If you like this game and are looking forward to more contents 
+--- unlocking more buildings and recipes, exciting sailing, exploring mysterious islands, diving to salvage old things, 
+event encounter a naval battle with enemies.
+Add Last Wood to your Steam wishlist to get news. "
+229,You could also join our Discord group to share your thoughts to make Last Wood better!
 300,Resource
 301,Structure
 302,Craft
@@ -100,8 +103,8 @@
 424,Chat
 425,Open Door
 426,Lock Door
-427,Paddle Forward
-428,Paddle Backward
+427,<color=#e68c84>Forward
+428,<color=#c2dd99>Backward
 429,Furling
 430,Hoist Sail
 500,Carry
@@ -315,7 +318,7 @@ Hold LCtrl and left click item to cancel. "
 905,Trader
 906,Cook
 907,Let survivors be creative.
-908,That's ok.
+908,Right Click to cancel.
 1000,Are you fooling me?
 1001,That's not enough.
 1002,That's ok.
@@ -455,12 +458,12 @@ Build a tree to get more wood soon!"
 1803,{0} taught me something about {1}
 1804,SmallTalk_Skill_Skeleton_Reserved
 2000,Island
-2001,<color=yellow>Survivor {0}</color>
-2002,<color=aqua>Building {0}</color>
-2003,<color=green>{0} X {1}</color>
-2004,<color=orange>{0}</color>
-2005,<color=teal>Room {0}</color>
-2100,Move to here...
+2001,{0}
+2002,{0}
+2003,{0}({1})
+2004,{0}
+2005,{0}
+2100,Move here...
 2101,{0} ({1})
 2102,Take ({0})
 2103,{0} ({1})
@@ -470,7 +473,7 @@ Build a tree to get more wood soon!"
 2107,Supply ({0})
 2200,"<sprite name=""W""><sprite name=""A""><sprite name=""S""><sprite name=""D""> Pan camera"
 2201,"<sprite name=""Q""><sprite name=""E"">Rotate camera 90°"
-2202,"<sprite name=""Ctr"">+ Drag <sprite name=""RMB"">  /  Drag <sprite name=""MMB""> rotate camera"
+2202,"<sprite name=""Ctr"">+ Drag <sprite name=""RMB""> / Drag <sprite name=""MMB""> rotate camera"
 2203,"<sprite name=""R""> Rotate blueprint"
 2204,"<sprite name=""RMB""> Cancel blueprint"
 2205,"<sprite name=""RMB""> Move to position"
@@ -515,11 +518,12 @@ Build a tree to get more wood soon!"
 5545,Heavy cloudy
 5546,No rain
 5547,Salt Fog
-5548,Accomplished
+5548,Accomplished Guide:
 5549,Pause
 5550,Continue
 5551,Cancel
 5552,Progress
 5553,Open Storage
-5554,This is just a Demo.Not representing final product quality.
+5554,This is just a Demo. Not representing final product quality.
 5555,Show Key Guide?
+5556,Three days later....

@@ -47,22 +47,22 @@
 151,Unlock a type of recipe
 160,Put on blueprint of paddle
 161,Build a paddle
-1010,GetWood
-1011,GetWood
-1020,GetFish
-1021,GetFish
-1030,GetWater
-1031,GetWater
-1040,GetKebab
-1041,BuildFireCamp
-1050,FightSeagull
-1060,BuildSoilFloor2
-1070,FightShark
-1080,UnlockReciepe
-1090,BuildAPaddle
-1100,NoWood
-1200,MakeBed
-1300,WASDMove
-1301,PanMove
-1302,ZoomInOut
+1010,Get more wood
+1011,Get more lemons
+1020,Get more fish
+1021,Craft a fishing rod
+1030,Build a rain collector
+1031,Collect some fresh water
+1040,Cooking some kebab
+1041,Build a campfire
+1050,Fight against seagull(s)
+1060,Build a rot floor
+1070,Fight against shakr(s)
+1080,Unlock reciepes
+1090,Build a paddle
+1100,Demolish a building to recycle wood
+1200,Build a mat
+1300,Press WASD to move camera
+1301,Pan move
+1302,Zoom in and zoom out
 1303,Rotate

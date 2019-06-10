@@ -32,10 +32,10 @@
 130,Mode Création
 131,Musique et Son
 132,Aider à traduire
-133,Traducteurs
-134,A la recherche de traducteurs
+133,Traducteurs:
+134,Voulez-vous nous aider à traduire Last Wood?
 135,Comptez sur moi!
-136,NON
+136,Non
 137,Ajouter à la liste de souhait sur Steam
 200,Sauvegarde Auto
 201,Graphismes simplifiés
@@ -65,7 +65,8 @@
 225,DEMO
 226,"Nous peaufinons actuellement Last Wood et il sortira en accès anticipé dans les prochains mois. La jouabilité et les contenus changeront lors de la version anticipée."
 227,Merci de jouer à cette DEMO. 
-228,"Si vous aimez ce jeu et que vous voudriez avoir plus de contenus --- déverouiller plus de bâtiments et recettes, naviguer, explorer des îles mystérieuses, plonger pour récupérer d'anciens objets, 
+228,"Si vous aimez ce jeu et que vous voudriez avoir plus de contenus 
+--- déverouiller plus de bâtiments et recettes, naviguer, explorer des îles mystérieuses, plonger pour récupérer d'anciens objets, 
 participer à des batailles navales avec des ennemis.
 Ajoutez Last Wood sur votre liste de souhaits sur Steam. "
 229,Vous pouvez aussi rejoindre notre Discord pour échanger avec nous et rendre Last Wood encore meilleur!
@@ -102,8 +103,8 @@ Ajoutez Last Wood sur votre liste de souhaits sur Steam. "
 424,Parler
 425,Ouvrir la porte
 426,Fermer la porte
-427,Pagayer vers l'avant
-428,Pagayer vers l'arrière
+427,<color=#e68c84>Vers l'avant
+428,<color=#c2dd99>Vers l'arrière
 429,Replier
 430,Hisser la voile
 500,Transporter
@@ -526,3 +527,4 @@ Planter un arbre pour obtenir du bois rapidement!"
 5554,Version Démo. Ne représente pas le produit final.
 5555,Afficher le bouton Guide
 5556,Trois jours plus tard...
+5557,Projet actuel

@@ -278,7 +278,7 @@ Ajoutez Last Wood sur votre liste de souhaits sur Steam. "
 868,[Guide]
 869,[Signaler un Bug]
 870,[Capture d'écran]
-871,[Shift+7] Mur
+871,Mur
 872,Gravité
 873,Carte
 874,Déchirer
@@ -303,7 +303,7 @@ Ctrl Gauche + LMB sur l'objet pour annuler "
 891,"Le Mod exige de redémarrer, voulez-vous redémarrer maintenant?"
 892,En attente de la liste des correctifs
 893,Etage
-894,Filtre
+894,Filtres
 895,Etiquette:
 896,Matériel:
 897,Utilisation:
@@ -498,8 +498,8 @@ Planter un arbre pour obtenir du bois rapidement!"
 5502,Chaud
 5503,Chaud
 5504,Trop chaud
-5510,Trop haut
-5511,Haut
+5510,Trop élevée
+5511,Haute
 5512,Normal
 5520,Insupportable
 5521,Inconfortable
@@ -507,12 +507,12 @@ Planter un arbre pour obtenir du bois rapidement!"
 5530,Obscurité totale
 5531,Sombre
 5532,Normal
-5533,Luminosité légère
+5533,Légère
 5534,Midi
 5540,Forte pluie
 5541,Pluie moyenne
 5542,Petite pluie
-5543,Brouillasse
+5543,Brouillard
 5544,Nuageux
 5545,Très nuageux
 5546,Pas de pluie

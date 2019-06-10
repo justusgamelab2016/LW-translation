@@ -23,8 +23,8 @@
 121,Forums
 122,Patch Notes
 123,Join Discord
-124,Open Steam WorkShop
-125,Get Mod From Forum
+124,Open Steam Workshop
+125,Get Mod from Forum
 126,Close
 127,Visit Workshop Page
 128,Unsubscribe Mod
@@ -63,7 +63,7 @@
 223,Brightness
 224,Are you sure to quit Last Wood?
 225,DEMO
-226,"Last Wood is under final polishing, will launch EA in a few months. Gameplays, contents would change in the EA version."
+226,"Last Wood is under final polishing. It will launch EA in a few months. Gameplays, contents would change in the EA version."
 227,Thanks for playing this DEMO. 
 228,"If you like this game and are looking forward to more contents 
 --- unlocking more buildings and recipes, exciting sailing, exploring mysterious islands, diving to salvage old things, 
@@ -138,7 +138,7 @@ Add Last Wood to your Steam wishlist to get news. "
 528,Craft
 529,Nautics
 530,Fight
-531,"Basic survival skill.Including fishing, planting, gathering materials."
+531,"Basic survival skill, including fishing, planting, gathering materials."
 532,Cook more delicious and nutritious food.
 533,"Skills of creating. Crafting tools, weapons, protection."
 534,"Skills of sailing, navigation and mapping."
@@ -155,7 +155,7 @@ Add Last Wood to your Steam wishlist to get news. "
 545,Skill Exp
 546,Skill Upgrade Trials
 547,Each finished trial would provide additional bonus when upgraded to next level.
-548,"If survior are too hungery, thirsty, or insanity (UI turn red), he/she would start to lose health."
+548,"If a survior feels too hungry, thirsty, or insanity (UI turns red), he/she would start to lose health."
 549,Traits
 550,Specialty
 551,Learned Recipes
@@ -201,8 +201,8 @@ Add Last Wood to your Steam wishlist to get news. "
 722,Required Skill:
 723,"Unlock randomly when survivors have an ""aha moment""."
 724,Call Back
-725,Upstair
-726,Downstair
+725,Up Stair
+726,Down Stair
 727,Fight
 728,Work Efficiency
 729,Overall Work Efficiency
@@ -211,12 +211,12 @@ Add Last Wood to your Steam wishlist to get news. "
 800,Mass
 801,Buoyancy
 802,Items
-803,[Shift+1] Building
-804,[Shift+2] Pile
-805,[Shift+3] Survivor
-806,[Shift+4] Room
-807,[Shift+5] Island
-808,[Shift+6] Land And Wall
+803,Building
+804,[Alt] Pile
+805,Survivor
+806,Room
+807,Island
+808,[Ctrl] Land
 809,Consume
 810,Produce
 811,Show All
@@ -279,7 +279,7 @@ Add Last Wood to your Steam wishlist to get news. "
 868,[Guide]
 869,[Bug Report]
 870,[Screenshot]
-871,[Shift+7] Wall
+871,[Shift] Wall
 872,Gravity
 873,Map
 874,TearUp
@@ -311,7 +311,7 @@ Hold LCtrl and left click item to cancel. "
 898,Required Skill:
 899,Wiki
 900,Bill
-901,Working In Progress
+901,Working in Progress
 902,Cancel All
 903,Recipes
 904,Storage
@@ -357,7 +357,7 @@ Hold LCtrl and left click item to cancel. "
 1127,Back stories generated before are invalid.
 1128,"System detects that language in your steam settings ({0}) is different from game settings. Would you like to switch language to steam settings? If so, a reboot is required."
 1129,Thanks for your feedback! Uploading job in the background will be done in a few minutes...
-1130,{0} thinks a strom is coming.
+1130,{0} thinks a storm is coming.
 1131,{0} thinks a tornado is coming.
 1132,Never show this again
 1133,Delete it!
@@ -397,27 +397,27 @@ Build a tree to get more wood soon!"
 1315,"Finally, I have what I dream of."
 1316,"I used to have it, but I didn't cherish."
 1400,<color=#FF0000>There is other building on this raft already</color>
-1401,<color=#FF0000>There is a building requring water aside</color>
-1402,<color=#FF0000>The buildng below is to high</color>
+1401,<color=#FF0000>There is a building requiring water aside</color>
+1402,<color=#FF0000>The building below is to high</color>
 1403,<color=#FF0000>There are something blocking nearby</color>
 1404,<color=#FF0000>There is island nearby</color>
 1405,<color=#FF0000>There are something blocking nearby</color>
 1406,<color=#FF0000>Can't build here before removing the moss</color>
 1407,<color=#FF0000>Positon not valid</color>
-1408,<color=#FF0000>Too heigh to build</color>
+1408,<color=#FF0000>Too high to build</color>
 1409,<color=#FF0000>Must build between 2 trees</color>
 1410,<color=#FF0000>Both side must be water</color>
-1411,<color=#FF0000>Has to be built on water surface.</color>
+1411,<color=#FF0000>Required to be built on water surfaces.</color>
 1412,<color=#FF0000>Reach max height</color>
 1413,<color=#FF0000>Must build near water</color>
 1414,<color=#FF0000>Must build on soil/rot raft</color>
 1415,<color=#FF0000>Too far from you raft</color>
 1416,<color=#FF0000>This position is blocked</color>
-1417,<color=#FF0000>Must put on a raft</color>
+1417,<color=#FF0000>Required to put on a raft</color>
 1418,<color=#FF0000>This position is blocked</color>
-1419,<color=#FF0000>Can't build on same type of raft</color>
-1420,<color=#FF0000>Has to be built on water surface.</color>
-1421,<color=#FF0000>Need to be build near a raft</color>
+1419,<color=#FF0000>Can't build a same type of raft</color>
+1420,<color=#FF0000>Required to be built on water surfaces.</color>
+1421,<color=#FF0000>Required to be built near a raft</color>
 1422,<color=#FF0000>Can't build same type of building</color>
 1450,<color=#FF0000>There is already a blueprint.</color>
 1470,<color=#FF0000>There is already a blueprint.</color>
@@ -477,8 +477,8 @@ Build a tree to get more wood soon!"
 2203,"<sprite name=""R""> Rotate blueprint"
 2204,"<sprite name=""RMB""> Cancel blueprint"
 2205,"<sprite name=""RMB""> Move to position"
-2206,"<sprite name=""RMB""> Assign to {}"
-2207,"<sprite name=""RMB""> Attack {}"
+2206,"<sprite name=""RMB""> Assign"
+2207,"<sprite name=""RMB""> Attack"
 2208,"<sprite name=""RMB""> Move/Assign/Attack"
 2209,"<sprite name=""WheelUp""> / <sprite name=""WheelDown""> Zoom"
 2210,"<sprite name=""RMB""> Cancel build mode"
@@ -527,3 +527,4 @@ Build a tree to get more wood soon!"
 5554,This is just a Demo. Not representing final product quality.
 5555,Show Key Guide?
 5556,Three days later....
+5557,Current Bill

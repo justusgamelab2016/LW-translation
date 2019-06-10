@@ -4,11 +4,11 @@
 10,Select a tree
 11,Toggle Harvest
 12,Wait for survivor to harvest the tree
-20,Put on blueprint of tree
+20,Put a blueprint of tree on a raft
 21,Build a tree
-30,Put on blueprint of raft
+30,Put a blueprint of raft
 31,Build a raft
-40,Put on blueprint of rot floor
+40,Put a blueprint of rot floor
 41,Build a rot floor
 50,Select a raft
 51,Select a building
@@ -19,8 +19,8 @@
 63,View social
 64,View health
 70,Select a shark
-71,"When the seagull landed, <color=#CF6C00>[Right Click]</color>on it to attack"
-72,"When the shark bite the raft, <color=#CF6C00>[Right Click]</color>on it to attack"
+71,"When a seagull lands, <color=#CF6C00>[Right Click]</color>on it to attack"
+72,"When a shark bites the raft, <color=#CF6C00>[Right Click]</color>on it to attack"
 73,Attack the shark
 80,Switch current floor
 90,Select campfire
@@ -33,19 +33,19 @@
 110,Select Storage box
 111,Click feed item
 112,Click feed item
-120,Put on blueprint of flax
+120,Put a blueprint of flax on a rot floor
 121,Build a flax
 122,Harvest a flax
 123,Select a workbench
 124,Make rope
-125,Build workbench
+125,Build a workbench
 130,Select a survivor who can level up
 131,Level up
 140,Build a bedroom
 141,Assign the bedroom to a survivor
 150,Unlock a type of building
 151,Unlock a type of recipe
-160,Put on blueprint of paddle
+160,Put a blueprint of paddle on a raft surrounded with sea
 161,Build a paddle
 1010,Get more wood
 1011,Get more lemons
@@ -55,9 +55,9 @@
 1031,Collect some fresh water
 1040,Cooking some kebab
 1041,Build a campfire
-1050,Fight against seagull(s)
+1050,Dislodge seagull(s)
 1060,Build a rot floor
-1070,Fight against shakr(s)
+1070,Fight against shark(s)
 1080,Unlock reciepes
 1090,Build a paddle
 1100,Demolish a building to recycle wood

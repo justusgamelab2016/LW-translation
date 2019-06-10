@@ -15,7 +15,7 @@
 16,Carcasse de requin,
 17,Carcasse de mouette,
 18,Tapis,"Vous pouvez dormir dessus, ou le déposer dans une pièce avec de l'encens pour créer une pièce de méditation. Faible durabilité."
-19,Support d'arme,Permet de stocker des armes et des flèches.
+19,Râtelier d'arme,Permet de stocker des armes et des flèches.
 20,Grande caisse de stockage,Une plus grande capacité.
 21,Filtre à eau,Versez-y de l'eau de mer pour la déssaler.
 22,Champs de pomme de terre,
@@ -28,11 +28,11 @@
 29,Porte,On se sent comme dans une belle pièce.
 30,Mur étanche à l'eau,Protection imperméable.
 31,Voile,Un vent favorable peut vous ramener en toute sécurité à la maison.
-32,Surface de sol,"La terre, source de la vie."
+32,Sol fertile,"La terre, source de la vie."
 33,Girouette,Indique la direction du vent.
-34,Pagaie de pêcheur,Push forward.
+34,Pagaie de pêcheur,
 35,Bois flottant,Fournit une flottabilité supplémentaire.
-36,Observer l'endroit,Push forward.
+36,Observer l'endroit,
 37,Regarder l'endroit,Méfiez-vous de l'île.
 38,Evaluer l'endroit,Evaluer l'orientation et la vitesse de navigation.
 39,Table Graphique,Dessiner une carte.
@@ -41,7 +41,7 @@
 42,Torche murale,"Pareil qu'une torche, sur un mur."
 43,Barrière,Essayez de ne pas tomber dans l'eau.
 44,Peinture,Cristallisation de créativité. Bon pour l'esprit.
-45,Mixeur de teinture,Push forward.
+45,Mixeur de teinture,
 46,Table de localisation,
 47,Table de réécriture,
 48,Grande voile,Plus rapide.
@@ -119,4 +119,4 @@
 121,Statue,Prier pourrait porter chance.
 122,Lanterne en Noix de Coco,Reste plus longtemps que la torche de base. Brûle du bois.
 123,Piège à oiseaux,Déposer de la nourriture pour attirer et piéger les oiseaux.
-124,RepairTable,
+124,Table de réparation,Répare les outils cassés.

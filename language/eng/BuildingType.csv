@@ -1,7 +1,11 @@
 0,none
-1,plant
+1,resource
 2,craft
 3,structure
 4,survival
 5,sail
 6,fight
+7,water
+8,cook
+9,steam
+10,decoration

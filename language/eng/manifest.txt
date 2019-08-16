@@ -21,7 +21,11 @@
     "PriorityConfig": "PriorityConfig.csv",
     "ThiefEventEntityConfig": "ThiefEventEntityConfig.csv",
     "SkillConfig": "SkillType.csv",
-    "GuideCheckListConfig": "GuideCheckListConfig.csv"
+    "GuideCheckListConfig": "GuideCheckListConfig.csv",
+    "PerkConfig": "PerkConfig.csv",
+    "SalvageConfig": "SalvageConfig.csv",
+    "TechConfig": "TechConfig.csv",
+    "RoomConfig": "RoomConfig.csv"
   },
   "Enum": {
     "EntityStateType": "entity_state_type.csv",

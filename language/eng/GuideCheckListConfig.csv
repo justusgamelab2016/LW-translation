@@ -18,6 +18,7 @@
 62,View skills
 63,View social
 64,View health
+65,View equip
 70,Select a shark
 71,"When a seagull lands, <color=#CF6C00>[Right Click]</color>on it to attack"
 72,"When a shark bites the raft, <color=#CF6C00>[Right Click]</color>on it to attack"
@@ -66,3 +67,37 @@
 1301,Pan move
 1302,Zoom in and zoom out
 1303,Rotate
+2000,
+2001,View Status
+2002,
+2010,Select a RotFloor
+2011,Click [Lemon Tree] on the Floor Panel
+2012,Wait for survivors to plant it.
+2020,Select a survivor on an island.
+2021,Go near to resources and collect them,
+2022,Right click home.
+2023,
+2030,
+2040,
+2050,
+2051,
+2060,Build a Workbench.
+2061,Craft a Leak Barrel
+2070,Select a Research Table
+2071,Active an item in the [Survival Knowledge] menu.
+2080,Select a survivor equipped with a fishingrod.
+2081,Right click water to command survivor to fish.
+2090,
+2100,
+10010,SomeOneCome
+10020,FindShards
+10030,GoToArk
+10110,SomeOneCome
+10120,FindShards
+10121,FindShards
+10122,FindShards
+10123,FindShards
+10130,GoToArk
+10210,SomeOneCome
+10220,FindShards
+10230,GoToArk

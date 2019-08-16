@@ -12,7 +12,7 @@ Then put the blueprint on any soil floor, where the tree plants."
 4,Build a Raft,"Click <color=#CF6C00>[Build]</color> button, find the <color=#CF6C00>[Structure]</color> tab, click <color=#CF6C00>[Raft]</color>. 
 Raft could be built near any existing rafts.","Click <color=#CF6C00>[Build]</color> button, find the <color=#CF6C00>[Structure]</color> tab, click <color=#CF6C00>[Raft]</color>. 
 Raft could be built near any existing rafts."
-5,Build a Soil Floor,"Click <color=#CF6C00>[Build]</color> button, find the <color=#CF6C00>[Structure]</color> tab, Right click <color=#CF6C00>[Raft]</color> to open sub menu.
+5,Build a Soil Floor,"Click <color=#CF6C00>[Build]</color> button, find the <color=#CF6C00>[Resources]</color> tab, Right click <color=#CF6C00>[Raft]</color> to open sub menu.
 You could find the <color=#CF6C00>[Soil Floor]</color> in the sub menu. Then build it as you did with a normal raft.","Click <color=#CF6C00>[Build]</color> button, find the <color=#CF6C00>[Structure]</color> tab, Right click <color=#CF6C00>[Raft]</color> to open sub menu.
 You could find the <color=#CF6C00>[Soil Floor]</color> in the sub menu. Then build it as you did with a normal raft."
 6,Selection Filter,"Filter toggles are on top of the screen. Click to toggle them. 
@@ -36,15 +36,43 @@ Then, click the <color=#CF6C00>[Attack]</color> button."
 16,Unlock,"Leveling up skill would unlock most buildings and recipes. For others, you can unlock them by researching in a work room(and provide correct material) or scavenging on the island. Survivors sometime would have a 'aha moment' when they medita in the meditation room or looking at paintings.","Leveling up skill would unlock most buildings and recipes. For others, you can unlock them by researching in a work room(and provide correct material) or scavenging on the island. Survivors sometime would have a 'aha moment' when they medita in the meditation room or looking at paintings."
 17,CreativeMode,"In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode.","In Creative Mode, you can build freely. But you can only build stuff you've unlocked in normal mode."
 18,PlacePaddle,Paddle need to be place where 3 sides are water. You could use paddle to sail your raft.,Paddle need to be place where 3 sides are water. You could use paddle to sail your raft.
-101,GetWood,,
-102,Fishing,Fishing is an important way to get food. You could make fishing rods using <color=#CF6C00>wood and ropes</color> on a <color=#CF6C00>work bench</color>.,Fishing is an important way to get food. You could make fishing rods using <color=#CF6C00>wood and ropes</color> in a <color=#CF6C00>workbench</color>.
-103,Water Source,Fresh water is imprtant for survival.You could build  <color=#CF6C00>rain collector</color> to gather fresh water when raining.,Fresh water is imprtant for survival.You could build  <color=#CF6C00>rain collector</color> to gather fresh water when raining.
-104,Cooking,Build a  <color=#CF6C00>camp fire</color> to cook. Eat cooked food would make suvivors happy and decrease the chance of getting ill.,Build a  <color=#CF6C00>camp fire</color> to cook. Eat cooked food would make suvivors happy and decrease the chance of getting ill.
-105,Seagull,Seagull,Seagull
-106,BuildSoilFloor,,
-107,Fight Shark,Fight Shark,Fight Shark
-108,UnlockReciepe,,
-109,Sail,Sail,Sail
-110,No Wood,No Wood,No Wood
-111,Build Bed,Build Bed,Build Bed
-112,PlayerInput,PlayerInput,PlayerInput
+101,GetWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+102,Fishing,Fishing is an important way to get food. You could make fishing rod using <color=#CF6C00>wood and ropes</color> in a <color=#CF6C00>workbench</color>.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+103,Water Source,Fresh water is imprtant for survival.You could build  <color=#CF6C00>rain collector</color> to gather fresh water when raining.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+104,Cooking,Build a  <color=#CF6C00>camp fire</color> to cook. Eat cooked food would make suvivors happy and decrease the chance of getting ill.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+105,Seagull,Seagulls would steal your food. So keep an eye on them. You could command survovirs to expel seagulls.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+106,BuildSoilFloor,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+107,FightShark,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+109,BuildAPaddle,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+110,NoWood,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+111,Bed,Seelp on beds would make suvivors happier. And they would sleep better in bettre bed.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+112,PlayerInput,PlayerInput,PlayerInput.
+200,SanityLow,SanityLow,Survivors sanity low
+201,,,
+202,Collect Resources,Collect Resources,Collect Resources on an island.
+203,Watch out for buoyancy,Watch out for buoyancy,Watch out for buoyancy
+204,,,
+205,,,
+206,Craft a barrel,Craft a barrel,Craft a barrel
+207,Research,Research,Research survival knowledge.
+208,Go fishing,Go fishing,Go fishing
+209,Room,Room,Room
+210,Cook,Cook,Cook.
+300,Watch out for islands,Watch out for islands,Watch out for islands! Try not to touch them.
+301,Mutant,Mutant,Mutants appear, they might attack you.
+302,Survivors,Survivors,A survivor is floating on the sea.Save him or leave him alone.
+303,Rain,Rain,It's raining. Store your resources into storage boxes, keep them away from corruption.
+304,Trader,Trader,It seems a trader is willing to trade with you. Place a storage box near water, he will go there and check it.
+305,Floating item,Floating item,Floating item
+306,Raven,Raven,Ravens appear, they do not sow.
+307,Land on,Land on, Land on that island to get more resources.
+1001,SomeOneCome,SomeOneCome,SomeOneCome.
+1002,FindShards,FindShards,FindShards.
+1003,GoToArk,GoToArk,GoToArk.
+1011,TradeWithStealer,TradeWithStealer,TradeWithStealer.
+1012,BuyFishPart,BuyFishPart,BuyFishPart.
+1013,ReplaceFishPart,ReplaceFishPart,ReplaceFishPart.
+1021,KillRavenBoss1,KillRavenBoss1,KillRavenBoss1.
+1022,KillRavenBoss2,KillRavenBoss2,KillRavenBoss2.
+1023,GoToKillRavenBoss3Ark,KillRavenBoss3,KillRavenBoss3.

@@ -63,13 +63,11 @@
 223,Brightness
 224,Are you sure to quit Last Wood?
 225,DEMO
-226,"Last Wood is under final polishing. It will launch EA in a few months. Gameplays, contents would change in the EA version."
-227,Thanks for playing this DEMO. 
-228,"If you like this game and are looking forward to more contents 
---- unlocking more buildings and recipes, exciting sailing, exploring mysterious islands, diving to salvage old things, 
-event encounter a naval battle with enemies.
-Add Last Wood to your Steam wishlist to get news. "
-229,You could also join our Discord group to share your thoughts to make Last Wood better!
+226,GameTODO
+227,ThanksForPlayingDemo
+228,HopeLikeDemo
+229,JoinDiscordWithUs
+230,CameraMoveSpeed
 300,Resource
 301,Structure
 302,Craft
@@ -107,6 +105,16 @@ Add Last Wood to your Steam wishlist to get news. "
 428,<color=#c2dd99>Backward
 429,Furling
 430,Hoist Sail
+431,Dive
+432,Open BoltStair
+433,Close BoltStair From Above
+434,Close BoltStair From Bottom
+435,Anchor
+436,Enable Anchor
+437,Disable Anchor
+438,Boot
+439,Shut down
+440,System(ESC)
 500,Carry
 501,Target Location
 502,Target Pile
@@ -179,7 +187,7 @@ Add Last Wood to your Steam wishlist to get news. "
 601,Tune sail relaxation
 602,Tune rudder direction
 603,Tune paddle force
-700,Resource
+700,Plant
 701,Structure
 702,Craft
 703,Furniture
@@ -197,17 +205,22 @@ Add Last Wood to your Steam wishlist to get news. "
 718,[Space] X5 Speed / [Tab] to switch
 719,[PgUp/PgDown] or [1]~[9] to switch floor
 720,[I] Items
-721,Alert
+721,Command Mode
 722,Required Skill:
 723,"Unlock randomly when survivors have an ""aha moment""."
 724,Call Back
-725,Up Stair
-726,Down Stair
+725,Upstair [F]
+726,Downstair [V]
 727,Fight
 728,Work Efficiency
 729,Overall Work Efficiency
 730,Toggle Alert All [C]
 731,Show / Hide Accomplished
+732,Water
+733,Cook
+734,Factory
+735,Decoration
+736,Tech Material
 800,Mass
 801,Buoyancy
 802,Items
@@ -235,7 +248,7 @@ Add Last Wood to your Steam wishlist to get news. "
 824,Growing Well
 825,Growing
 826,Growing Poorly
-827,Inactive
+827,Lack Fuel
 828,Time
 829,Brightness
 830,Humidity
@@ -318,7 +331,7 @@ Hold LCtrl and left click item to cancel. "
 905,Trader
 906,Cook
 907,Let survivors be creative.
-908,Right Click to cancel.
+908,That's ok.
 1000,Are you fooling me?
 1001,That's not enough.
 1002,That's ok.
@@ -326,7 +339,10 @@ Hold LCtrl and left click item to cancel. "
 1004,That's very generous of you.
 1005,Stop wasting my time!
 1006,Deal!
-1007,Trade_Normal
+1007,Normal
+1008,Buy Discount
+1009,Sell Discount
+1010,Carry Capacity
 1100,OK.
 1101,learned to build a new type of building.
 1102,learned to craft a new type of item.
@@ -371,6 +387,11 @@ When wood is run out, you could demolish buildings which are not needed anymore,
 Since it's guide here, you will get some wood as a gift immediately!
 It will not appear when it is a real game.
 Build a tree to get more wood soon!"
+1140,An equip is corrupt.
+1141,An Research is Complete.
+1142,One character pick something up.
+1143,One charater is overweighted.
+1144,Message_Perk_JerryBuilder
 1200,Interact
 1201,Help
 1202,Plunder
@@ -421,7 +442,8 @@ Build a tree to get more wood soon!"
 1422,<color=#FF0000>Can't build same type of building</color>
 1450,<color=#FF0000>There is already a blueprint.</color>
 1470,<color=#FF0000>There is already a blueprint.</color>
-1500,SmallTalk_Normal_Skeleton
+1471,<color=#FF0000>Required to be built on higher level of land.</color>
+1500,
 1501,I talk with {0} about men in the world.
 1502,I talk with {0} about women in the world.
 1503,I talk with {0} about the view
@@ -442,28 +464,28 @@ Build a tree to get more wood soon!"
 1518,I talk with {0} about the Mutant
 1519,I talk with {0} about the Raven
 1520,I talk with {0} about reserved
-1600,SmallTalk_Item_Skeleton
+1600,
 1601,I talk with {0} about {1}
 1602,{0} told me something strange about {1}
 1603,{0} taught me something about {1}
-1604,SmallTalk_Item_Skeleton_Reserved
-1700,SmallTalk_Location_Skeleton
+1604,
+1700,
 1701,I talk with {0} about {1}
 1702,{0} told me something strange about {1}
 1703,{0} taught me something about {1}
-1704,SmallTalk_Location_Skeleton_Reserved
-1800,SmallTalk_Skill_Skeleton
+1704,
+1800,
 1801,I talk with {0} about {1}
 1802,{0} told me something strange about {1}
 1803,{0} taught me something about {1}
-1804,SmallTalk_Skill_Skeleton_Reserved
+1804,
 2000,Island
-2001,{0}
-2002,{0}
-2003,{0}({1})
-2004,{0}
-2005,{0}
-2100,Move here...
+2001,<color=yellow>Survivor {0}</color>
+2002,<color=aqua>Building {0}</color>
+2003,<color=green>{0} X {1}</color>
+2004,<color=orange>{0}</color>
+2005,<color=teal>Room {0}</color>
+2100,Move to here...
 2101,{0} ({1})
 2102,Take ({0})
 2103,{0} ({1})
@@ -471,17 +493,69 @@ Build a tree to get more wood soon!"
 2105,Pick up ({0})
 2106,Install ({0})
 2107,Supply ({0})
+2108,Land On Island
+2109,Return From Island
+2110,Stair Up
+2111,Stair Down
+2112,Move
+2113,Move through
+2114,Land on
+2115,Fishing
+2116,{0} with ({1})
+2117,Outfit
+2118,Open the door
+2119,Close the door
+2120,Attack
+2121,Move to here together
+2122,Build
+2123,Research
+2124,Plunder
+2125,Heal
+2126,Feed
+2127,Feed
+2128,Open stair hatch
+2129,Close Stair From Above
+2130,Close Stair From Bottom
+2131,Enable Anchor
+2132,Disable Anchor
+2133,Trade
 2200,"<sprite name=""W""><sprite name=""A""><sprite name=""S""><sprite name=""D""> Pan camera"
-2201,"<sprite name=""Q""><sprite name=""E"">Rotate camera 90°"
-2202,"<sprite name=""Ctr"">+ Drag <sprite name=""RMB""> / Drag <sprite name=""MMB""> rotate camera"
+2201,"<sprite name=""Q""><sprite name=""E"">Rotate camera 90 degree"
+2202,"Drag <sprite name=""RMB"">  rotate camera"
 2203,"<sprite name=""R""> Rotate blueprint"
 2204,"<sprite name=""RMB""> Cancel blueprint"
 2205,"<sprite name=""RMB""> Move to position"
-2206,"<sprite name=""RMB""> Assign"
-2207,"<sprite name=""RMB""> Attack"
+2206,"<sprite name=""RMB""> Assign to {}"
+2207,"<sprite name=""RMB""> Attack {}"
 2208,"<sprite name=""RMB""> Move/Assign/Attack"
 2209,"<sprite name=""WheelUp""> / <sprite name=""WheelDown""> Zoom"
 2210,"<sprite name=""RMB""> Cancel build mode"
+2211,Target is too far.
+2212,Can move to there.
+2213,Resource not enough.
+2214,No Active Research
+2215,Building Paused
+2216,Not Enough skill to build
+2217,Occupied by other
+2218,Can't Work
+2219,Don't have dye
+2220,Don't have hoe to loose soil.
+2221,No Water
+2222,No farm chemical
+2223,Required To Move Near Door
+2224,Out of control
+2225,Target not in view range
+2226,Hp is full.
+2227,Body is under good condition.
+2228,no item to care
+2229,no item to care
+2230,other is helping
+2231,too far away
+2232,Unwilling to trade
+2233,<color=#FF0000>Can't:{0} reason:{1}</color>
+2234,Out of control
+2235,Has something on hand
+2236,Lose arm
 5000,{0}'s Corpse
 5001,d
 5002,h
@@ -494,6 +568,18 @@ Build a tree to get more wood soon!"
 5104,Decaying
 5105,Last Changed Time
 5106,Save Name
+5107,Water Speed
+5108,Wind Speed
+5480,breeze
+5481,slow wind
+5482,wind
+5483,gale
+5484,fierce wind
+5490,calm sea
+5491,moving slowly
+5492,moving sea
+5493,moving fast
+5494,rage sea
 5500,Too cold
 5501,Cold
 5502,Warm
@@ -502,9 +588,16 @@ Build a tree to get more wood soon!"
 5510,Too high
 5511,High
 5512,Normal
+5513,Too noisy
+5514,Very noisy
+5515,Noisy
+5516,Quite
 5520,Insufferable
 5521,Discomfortable
 5522,Normal
+5523,Stink
+5524,Smell terrible
+5525,Smell ok
 5530,Complete darkness
 5531,Dark
 5532,Normal
@@ -518,13 +611,167 @@ Build a tree to get more wood soon!"
 5545,Heavy cloudy
 5546,No rain
 5547,Salt Fog
-5548,Accomplished Guide:
+5548,Accomplished
 5549,Pause
 5550,Continue
 5551,Cancel
 5552,Progress
 5553,Open Storage
-5554,This is just a Demo. Not representing final product quality.
+5554,This is just a Demo.Not representing final product quality.
 5555,Show Key Guide?
 5556,Three days later....
-5557,Current Bill
+5557,Field Status
+5558,Field Health
+5559,Field Growing
+5560,Water State
+5561,Soil State
+5562,Wipe Info
+5563,Tech
+5564,Dry
+5565,Map
+5566,Plant
+5567,Deal
+5600,Enough
+5601,Normal
+5602,Dry
+5603,Lack Water
+5650,Rich
+5651,Rich
+5652,Normal
+5653,Normal
+5654,Poor
+5655,Human
+5656,Fishman
+5657,Age
+5658,Miss
+5659,Can use
+5660,Show Grid(G)
+5700,Smelly
+5701,Noisy
+5800,ThristDecrease
+5801,HungerDecrease
+5802,SleepDecrease
+5803,Heal
+5804,HitRateBase
+5805,EffectHpR
+5806,MoveSpeedEffect
+5807,EquipDefenseFactor
+5808,DefenseAttack
+5900,Enable scrolling when cursor is off screen.
+5901,High saturate mode.
+6000,"{0} brings back:
+{1}"
+7000,Produce
+7001,Supply
+7002,Active
+8000,Someone asks to join your colony.
+9000,breath
+9001,fetch
+9002,stiff
+9003,reload
+9004,attack
+9005,feed
+9006,check
+9007,check
+9008,wait for trade
+9009,respite
+9010,idle
+9011,relax
+9012,tidy
+9013,lost
+9014,relax
+9015,tidy
+9016,scrub
+9017,enjoy
+9018,angry
+9019,clear
+9020,relax
+9021,breath
+9022,struggle
+9023,wait
+9024,that's all
+9025,conclude
+9026,aftertaste
+9027,conclude
+9028,aftertaste
+9029,soft
+9030,wait
+9031,collect
+9032,peek
+9033,babble
+9034,wait for heal
+9035,jump
+9036,flop
+9037,grasp
+9038,trip off
+9039,climb
+9040,got it
+9041,use
+9042,Research ({0})
+9043,Too hungery to sleep
+9044,To thristy to sleep
+10000,"These survivors are very thirsty��produce some drinking water or they will die��
+{0}"
+10001,"These survivors are very thirsty��produce some drinking water or they will die��
+{0}
+You could build rain collector and water filter to produce drinking water."
+10002,Not sanity
+10003,"These surviors are doubt if they could survive. Try to make them happy and optimistic��
+{0}"
+10004,"These surviors are doubt if they could survive. Try to make them happy and optimistic��
+{0}
+Many things affect a survivor's sanity. Check the status tab of a character to see the detailed info."
+10005,Starving
+10006,"These survivors are very hungry��produce some food or they will die��
+{0}"
+10007,"These survivors are very hungry��produce some food or they will die��
+{0}
+Try to plant and fish to get food. Cooked food would provide more nutrition."
+10008,Lose mind
+10009,"These survivors are abount to lose mind��
+{0}"
+10010,"These survivors are very hungry��produce some food or they will die��
+{0}
+Try to plant and fish to get food. Cook would provide more nutrition."
+10011,Not enough food
+10012,Current food supply could last {0}days.
+10013,Try to plant and fish to get food. Cooked food would provide more nutrition.
+10014,Current water supply could last {0}days.
+10015,Current water supply could last {0}days.
+10016,You could build rain collector and water filter to produce drinking water.
+10017,Insane
+10018,{0}is insane.
+10019,{0}loses mind and is about to commit suicide by jumping into the sea.
+10020,{0}loses mind and is about to jump into the sea.
+10021,{0}loses mind and mumbles all the time.
+10022,{0}loses mind and is about to be crazy.
+10023,Someone get mad.
+11000,"Finish research {0}!
+{1}
+{2}
+"
+11001,"Survivor can build new buildings:
+{0}
+"
+11002,"Survivor can make new items:
+{0}
+"
+12000,Agility
+12001,Agility influence your dodging rate and attacking speed.
+12002,Strength
+12003,Strength influence your attacking power and knock out rate.
+12004,Hardness
+12005,Strength influence your defense power and resist to knock out.
+12006,Attack
+12007,How much damage one can deal per attack.
+12008,AttackSpeed
+12009,How fast one can attack.
+12010,MoveSpeed
+12011,How fast one can move.
+12012,Mass
+12013,Weight of the survivor
+12014,Attack Range
+12015,Depends on the weapon.
+12016,Defense
+12017,Defense decrese incoming damage.
+13000,Open Room

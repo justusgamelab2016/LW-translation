@@ -84,6 +84,11 @@
 418,"{1:name} loved tools and parts, {1:pron} became a machinist."
 419,"{1:name} inherits a boat, so {1:pron} became a boatman."
 420,{1:name} found fishing calming and fun.{1:pron} became a fishman.
+421,"{1:name} received good education, which helped {1:pron} become an artist."
+422,"{1:name} received good education, which helped {1:pron} become an archeologist."
+423,{1:name} become a dream interpreter.
+424,{1:name} become an avigator.
+425,{1:name} become a woodworker.
 450,{1:name} was good at trading and became a speculator.
 451,"{1:name} is skillful at using weapons, {1:pron} became a military."
 452,{1:name} found raiding is fun and became a pirate.

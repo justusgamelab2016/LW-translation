@@ -1,8 +1,8 @@
 0,None
-1,KilledBy
-2,Suicide
-3,Hungry
-4,Thirsty
-5,Sanity
-6,HungryAndThirsty
-7,DrownDead
+1,Dead reason : Killed by {0}
+2,Dead reason : Suicide
+3,Dead reason : Too hungry
+4,Dead reason : Too thirsty
+5,Dead reason : Lost sanity
+6,Dead reason : Too hungry and thirsty
+7,Dead reason : Drown

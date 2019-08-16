@@ -25,7 +25,7 @@
 26,SeaWater,Salty. Not drinkable.
 27,Lemon,"Fresh, but bitter and sour. Just like life."
 28,Bone Armor,Protect body. Kind of tickle.
-29,Bone  Helmet,Protect head. Kind of tickle.
+29,Bone Helmet,Protect head. Kind of tickle.
 30,Flax Armor,Protect body. Stay away from fire.
 31,Flax Head Band,Protect head. Stay away from fire.
 32,Rags,Simple clothes.
@@ -154,8 +154,87 @@
 156,Shrimp,Tiny shrimps. Good bait for fishing.
 157,Pickle,Salty vegetables. Could preserve for a long time.
 158,Holy Water,Hold it when preying would result in something lucky.
-159,RoastBirdMeat,
-160,Bottle,
+159,Roast Bird Meat,"Cryspy, tasty, finely cooked."
+160,Bottle,Great for making a drift bottle.
+161,Leaf,It smells like life.
+162,Water Fish,It contains many fresh water.
+163,Scrap Metal,Small pieces of metals.
+164,Wood Harpoon,It's amazing that you could catch fish with just a stick.
+165,Lemon Battery,I wonder if potatos would make good battery.
+166,Flax Seed,Could grow flax.
+167,Cotten,Used to make cloth.
+168,Cotton Seed,Could grow cotton.
+169,Herb Tea,Ease your nerve.
+170,Iron Bar,Useful material. Especially for steam technology.
+171,Steam Engine,The core engine of any steam establishment.
+172,FishOil,Extracted form deep sea fish.
+173,Iron Ore,Could be smelt into iron bar.
+174,Copper Ore,Could be smelt into copper bar.
+175,Acid,Useful for making chemicals.
+176,Fish Man Ore,A rare mineral. Useful for fishman technology.
+177,Copper Bar,Useful material. Especially for steam technology.
+178,FishMan Iron Bar,A rare mineral. Useful for fishman technology.
+179,Apple,It's sweet.
+180,Apple Seed,Could grow apple tree.
+181,Book Craft,Increase Craft skill experience.
+182,Book Survival,Increase Survival skill experience.
+183,Book Care,Increase Care skill experience.
+184,Book Fight,Increase Fight skill experience.
+185,Book Nautica,Increase Nautica skill experience.
+186,Book Blunt,Increase Blunt skill experience.
+187,Book Spear,Increase Spear skill experience.
+188,Book Sword,Increase Sword skill experience.
+189,Book Bow,Increase Bow skill experience.
+190,Book Knife,Increase Knife skill experience.
+191,Book Tech,Increase Tech skill experience.
+192,Orange Seed,Could grow orange tree.
+193,Shit,It sinks.
+194,Bone Dust,Could be used as fertilizer.
+195,Chemical Pesticide,Could kill pest on corps.
+196,Fishman Iron Board,A rare mineral. Useful for fishman technology.
+197,Old Boots,Junk. Could be recycled.
+198,Old Clothes,Junk. Could be recycled.
+199,Sun Fruit,Rare fruit. Crazily delicious and psychedelic.
+200,Battery,Could power ancient techs.
+201,Radio,Old world technology. Could talk when powered.
+202,Dumb bell,Great for exercising.
+203,Piece Of Paper,Junk. Could be recycled.
+204,BigSnail,Blow it to call traders.
+205,Famous Painting,Old world relics. Very valueable.
+206,ID Card,Old world relics. Very valueable.
+207,TinCan,Junk. Could be recycled.
+208,Thermometer,Old world relics. Shows current temperature.
+209,Sun Fruit Seed,Could grow sun fruit.
+210,Sun Fruit Potion,Concentrated sun fruit. Extremely psychedelic.
+211,Metal Fruit,Rare fruit. Could be process into scrap metals.
+212,Fishman iron Fruit,Rare fruit. Could be smelt into fish man iron.
+213,Sun Fruit Seed,Could grow sun fruit.
+214,Volador,It flys.
+215,Can Food,Could last for a long time. Great for traveling.
+216,Fiber Mesh,Harder than cloth. Could absorb some impact.
+217,Water Purifier,Purify sea water into fresh water.
+218,Gear Part,"Different kinds of components, useful to make all kinds of stuff."
+219,Weapon Part,Could be used to make guns.
+220,Fish Bait,Bait larger fish. Also be used for fishfarming.
+221,Blade Gun,Shoot scrap metal as bullet.
+222,Soap,Shower took less time and decrease the possibility to get ill.
+223,Farm Chemical,Kill pest to protect corps.
+224,Fat,Fat of animals. Could be used to make soap.
+225,Orange,Juicy. Taste much better than lemon.
+226,Post,Ancient relic. Very valuable.
+227,Game Magazine,Ancient relic. Very valuable.
+228,Survival magazine,Pages of an once famous survival magazine.
+229,Old Survival note,Seems like a survival's note before the Fall.
+230,Wasteland game walkthrough,Most of it was ruined.
+231,Wild Survival Guide,The farming and cooking part seem useful.
+232,Survival Show Playscript,It describes a reality show of the old world.
+233,Rusty part,
+234,Tin Can,
+235,Ship in a bottle,
+236,Metal Frame,
+237,Metal Gear,
+238,Glass,
+239,Bobby Pin,Could be used to lockpick.
 501,Human Right Arm,An arm of human.
 502,Human Left Arm,An arm of human.
 503,Human Right Leg,A leg of human.
@@ -189,6 +268,12 @@
 1022,Trident of Ice,A trident that shots ice. It's a tech weapon from the deep ones.
 1023,Trident of flame,A trident that shots flame. It's a tech weapon from the deep ones.
 1024,Grenade,
+1025,Steam Sowrd,A deadly weapon. Very heavy.
+1026,Steam Pistol,"6 round shooter. High damge, low rate of fire."
+1027,Simple Bullet,Bullet for most steam guns.
+1028,Fire Bullet,
+1030,,
+1032,,
 2001,Wood Armor,Protect the body. Kind of heavy.
 2002,Wood Helmet,Protect head. Kind of heavy.
 2003,Bone Armor,Protect the body. Kind of tickle.
@@ -199,3 +284,29 @@
 2008,Head Band,Simple headband.
 2009,ShellBra,Looks like a mermaid now.
 2010,CoCoNut Helmet,Protect your head. But will obstruct the view.
+2011,Pirate clothes,Old school design.
+2012,Eye patch,Old school design.
+2013,Shark hat,Inspired by shark.
+2014,Angler baby hat,Inspired by angler baby.
+2015,Pirate Hat,Old school design.
+2016,Straw hat,Useful when raining.
+2017,Felt hat,Very warm.
+2018,Fur clothes,Very warm.
+2019,Leaf clothes,Minimalism design.
+2020,Leaf headband,Minimalism design.
+2021,Steam engine armor,Very hot.
+2022,Steam engine helmet,Very hot.
+10000,Material,
+10001,Food,
+10002,Equipment,
+10003,Weapon,
+10004,Armor,
+10005,Hat,
+10006,Tool,
+10007,Medicine,
+10008,Misc,
+10009,Junk,
+10010,Rare,
+10011,Craft,
+10012,Seed,
+10013,Metal,

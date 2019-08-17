@@ -710,6 +710,8 @@ Build a tree to get more wood soon!"
 9042,Research ({0})
 9043,Too hungery to sleep
 9044,To thristy to sleep
+9045,SubState_FishChess
+9046,SubState_Swing
 10000,"These survivors are very thirsty��produce some drinking water or they will die��
 {0}"
 10001,"These survivors are very thirsty��produce some drinking water or they will die��

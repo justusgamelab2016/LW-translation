@@ -1,0 +1,46 @@
+1,terrible bedroom
+2,common bedroom
+3,roomy bedroom
+4,beautiful bedroom
+5,costly bedroom
+6,dormitory
+7,crowded dormitory
+101,terrible workshop
+102,common workshop
+103,roomy workshop
+104,beautiful workshop
+105,costly workshop
+106,crowded workshop
+107,extremely crowded workshop
+201,terrible store room
+202,common store room
+203,roomy store room
+204,beautiful store room
+205,costly store room
+301,terrible dining room
+302,common dining room
+303,roomy dining room
+304,beautiful dining room
+305,costly dining room
+401,terrible meditation room
+402,common meditation room
+403,roomy meditation room
+404,beautiful meditation room
+405,costly meditation room
+500,multi-function room
+501,terrible shower room
+502,common shower room
+503,roomy shower room
+504,beautiful shower room
+505,costly shower room
+601,terrible biochemical room
+602,common biochemical room
+603,roomy biochemical room
+604,beautiful biochemical room
+605,costly biochemical room
+701,terrible training room
+702,common training room
+703,roomy training room
+704,beautiful training room
+705,costly training room
+1000,room

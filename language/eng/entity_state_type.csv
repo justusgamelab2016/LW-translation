@@ -81,16 +81,16 @@
 80,Deliver job
 81,Switch door
 82,Equip limb
-83,PlayPile
-84,PlayNearWater
+83,Play Pile
+84,Play Near Water
 85,Fetched
-86,DigSoil
-87,Perk_JumpIntoSea
-88,Perk_SelfMutilation
-89,Perk_Frenzied
-90,Perk_Steal
-91,Perk_Lethargy
-92,Perk_Sing
+86,Dig Soil
+87,Jump into sea(lost sanity)
+88,Self mutilation(lost sanity)
+89,Frenzied(lost sanity)
+90,Steal
+91,Lethargy
+92,Sing
 93,Perk_SingFish
 94,Perk_Inception
 95,Perk_Demented
@@ -99,15 +99,15 @@
 98,Perk_CalledForAction
 99,Perk_Command
 100,Perk_AttractFish
-101,BeatBack
+101,Beat back
 102,Outfit
-103,LocationDive
-104,OperateStorageConnection
-105,UseOnHandItem
-106,HelpOtherEat
-107,HelpOtherDrink
-108,SwitchStair
-109,SwitchAnchor
-110,SwitchAutoRunner
+103,Dive
+104,Operate
+105,Use
+106,Help eat
+107,Help drink
+108,Switch stair
+109,Switch anchor
+110,Switch autoRunner
 1000,Delivery
 1001,Chess

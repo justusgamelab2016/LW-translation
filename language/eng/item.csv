@@ -186,7 +186,7 @@
 188,Book Sword,Increase Sword skill experience.
 189,Book Bow,Increase Bow skill experience.
 190,Book Knife,Increase Knife skill experience.
-191,Book Tech,Increase Tech skill experience.
+191,Book Tech Weapon,Increase Tech skill experience.
 192,Orange Seed,Could grow orange tree.
 193,Shit,It sinks.
 194,Bone Dust,Could be used as fertilizer.
@@ -199,7 +199,7 @@
 201,Radio,Old world technology. Could talk when powered.
 202,Dumb bell,Great for exercising.
 203,Piece Of Paper,Junk. Could be recycled.
-204,BigSnail,Blow it to call traders.
+204,Big Conch,Blow it to call traders.
 205,Famous Painting,Old world relics. Very valueable.
 206,ID Card,Old world relics. Very valueable.
 207,TinCan,Junk. Could be recycled.
@@ -228,12 +228,12 @@
 230,Wasteland game walkthrough,Most of it was ruined.
 231,Wild Survival Guide,The farming and cooking part seem useful.
 232,Survival Show Playscript,It describes a reality show of the old world.
-233,Rusty part,
-234,Tin Can,
-235,Ship in a bottle,
-236,Metal Frame,
-237,Metal Gear,
-238,Glass,
+233,Rusty part,A rusty old metal part.
+234,Tin Can,An empty tin can.
+235,Ship in a bottle,The ship is tiny.
+236,Metal Frame,A firm metal frame. The structure seems complicated.
+237,Metal Gear,An old gear. Still in good condition.
+238,Glass,Easy to break.
 239,Bobby Pin,Could be used to lockpick.
 501,Human Right Arm,An arm of human.
 502,Human Left Arm,An arm of human.
@@ -267,11 +267,12 @@
 1021,Bone Axe,"Swift and sharp, pretty handy."
 1022,Trident of Ice,A trident that shots ice. It's a tech weapon from the deep ones.
 1023,Trident of flame,A trident that shots flame. It's a tech weapon from the deep ones.
-1024,Grenade,
+1024,Molotov Cocktail,A bottle full of flameable liquid.
 1025,Steam Sowrd,A deadly weapon. Very heavy.
-1026,Steam Pistol,"6 round shooter. High damge, low rate of fire."
+1026,Steam Pistol,"1 round shooter. High damge, low rate of fire."
 1027,Simple Bullet,Bullet for most steam guns.
-1028,Fire Bullet,
+1028,Fire Bullet,It will ignite enemy.
+1029,Metal Sword,"Not so sharp, but much better than wood sword."
 1030,,
 1032,,
 2001,Wood Armor,Protect the body. Kind of heavy.
@@ -294,8 +295,16 @@
 2018,Fur clothes,Very warm.
 2019,Leaf clothes,Minimalism design.
 2020,Leaf headband,Minimalism design.
-2021,Steam engine armor,Very hot.
-2022,Steam engine helmet,Very hot.
+2021,Steam engine armor,Steam powered armor.Boost fight ability but is pretty heavy and hot.
+2022,Steam engine helmet,Steam powered armor.Boost fight ability but is pretty heavy and hot.
+2100,Post,Ancient relic. Very valuable.
+2101,Post,Ancient relic. Very valuable.
+2102,Post,Ancient relic. Very valuable.
+2103,Post,Ancient relic. Very valuable.
+2104,Post,Ancient relic. Very valuable.
+2105,Post,Ancient relic. Very valuable.
+2106,Post,Ancient relic. Very valuable.
+2107,Post,Ancient relic. Very valuable.
 10000,Material,
 10001,Food,
 10002,Equipment,
@@ -310,3 +319,6 @@
 10011,Craft,
 10012,Seed,
 10013,Metal,
+10014,ResearchMaterial,
+10015,Cook,
+10016,Post,

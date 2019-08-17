@@ -1,0 +1,151 @@
+1,Religion,"{0:name} has strange beliefs.
+{0:pron} will do something absolutely as long as {0:pron} loses {0:pronp} sanity."
+2,Masochist,"{0:name} hates {0:pron}self.
+{0:pron} always does terrible things when {0:pron} is in state of low sanity."
+3,Frenzied,{0:name} will be more aggressive when {0:pron} is in state of low sanity.
+4,MagneticField,"Something has happened on {0:name}. 
+{0:pron} finds {0:pron}self attractive of fish after that. "
+5,Destrudo,{0:name} is stubborn to destroy anything.
+6,Unlocking,"Nothing could lock {0:name}.
+But {0:pron} couldn't control {0:pron}self to be thief sometimes."
+7,RangedWeaponUser,{0:name} has the ability to us bow.
+8,KnifeWeaponUser,{0:name} has the ability to us knife.
+9,SpearWeaponUser,{0:name} has the ability to us spear.
+10,Swimmer,"{0:name} is good at swimming.
+{0:pron} will never drown, for exchange, {0:pron} always feel it unbearable when away from sea for long."
+11,Snoring,"{0:name} always has a good sleep, hard to be disturbed.
+But, {0:pron} generates a lot of noise when sleeping."
+12,Dancer,"{0:name} loves dancing, especially when there is someone fluting."
+13,Omophagia,"{0:name} enjoys eating fresh food (uncooked is better!) after a certain time.
+{0:pron} feels cooked food less helpful to decrease {0:pronp} hunger."
+14,Mysticism,"{0:name} feels some mysterious power is helping {0:pron}. 
+{0:pron} has a sense on natural events, not very accurately."
+15,Homosexual,{0:name} could only date with ones of the same sex.
+16,UnableToConceive,"{0:name} is unable to give birth.
+No one knows it is because something physical or psychological."
+17,NoGender,"{0:name} has no sense about gender, have little interest to date with others."
+18,Methodical,"{0:name} enjoys doing everything under {0:pronp} methodology.
+{0:pron} does everything 30% effective more than others."
+19,Cookery,"{0:name} does good work at cookery. 
+Things {0:pron} cooked always have special effects."
+20,Scavenger,"{0:name} will never lose {0:pronp} sanity whatever the food {0:pron} eat or however poor living conditions.
+But sometimes {0:pron} has inexplicable stomachache."
+21,Contamination,"Something has changed inside {0:name}'s body.
+{0:pron} could drink sea water directly.
+{0:pron} is unable to go to asleep at night.
+Besides, there are several things strange surrounding {0:pron}."
+22,NoIdeaAboutHunger,{0:name} is senseless whether {0:pron} is hungry or thirsty or not.
+23,Elegance,"{0:name} was used to live elegently. 
+It effects better when eat in better conditions, whereas, it affects worse when eat in poorer conditions."
+24,Athopia,"{0:name} need less time to sleep well, but {0:pron} is more sensitive of noise than others."
+25,PlainLiving,"{0:name} was used to live plain.
+It effects better when eat in poorer conditions."
+26,HurryScurry,{0:name} always does work disorderly haste.
+27,JerryBuilder,"{0:name} loves jerry buidling.
+{0:pron} will help to save material while building or crafting, as a result of which, the products are always unacceptable."
+28,Amnesia,{0:name} forgets what {0:pron} was doing a few minutes ago.
+29,LeftHander,{0:name} is a left-hander.
+30,LikeQuiet,"{0:name} enjoys working in quiet environment.
+{0:pron} works more effectively in {0:pronp} own workshop, whereas, {0:pron} works less effectively in open space."
+31,LikeLively,"{0:name} enjoys working in noisy environment.
+{0:pron} works more effectively in in open space, whereas, {0:pron} works less effectively in {0:pronp} own workshop."
+32,CloseAndDistant,"{0:name} treats others regardingly.
+{0:pron} will help {0:pronp} buddies only."
+33,DroopSpirit,"{0:name} loses {0:pronp} control rarely whatever happens.
+Instead, {0:pron} will get into a droop spirit."
+34,Contamination1,"{0:name} feels {0:pronp} body has changed perpetually.
+{0:pron} will never drown. But {0:pron} will feel sick when away from sea for a while."
+35,PileAsWish,{0:name} will merge piles as {0:pronp} own wish.
+36,Marksman,{0:name} has special abilities to make babies.
+37,EnjoyRain,"{0:name} enjoys sing in rain, making others more willing to work."
+38,MeditationMaster,"{0:name} is a meditation master.
+{0:pron} coud meditate everywhere with one sigle piece of mat."
+39,Contamination2,{0:name} attracts more strange creature than before.
+40,Connoisseur,{0:name} will get an Eureka time when appreciate art works.
+41,CraftMaster,{0:name} loves craft small things while crafting.
+42,StoneSkipMaster,{0:name} is a stone-skip master. How far {0:pron} throws will effect {0:pronp} emotions.
+43,ChronobiologyDisorders,{0:name} has trouble with {0:pronp} chronobiology.
+44,Stupid,"{0:name} is heavy-handed.
+But good luck is always surrounded {0:prono}."
+45,FearOfWater,"{0:name} is fear of water sometimes, and unable to jump into sea then."
+46,EnjoyNarrow,{0:name} enjoys narrow space than large space.
+47,Exclusive,{0:name} often rejects foreigners.
+48,Telepathy,{0:name} could predict someone is coming.
+49,Pedophobia,{0:name} is unfriendly to babies.
+50,HeavyInfection,"Something irreversible has infected {0:name}.
+{0:pron} feels {0:pron} grows heavy day by day."
+51,EquipFriendly,{0:name} treasures {0:pronp} property.
+52,DrownLive,{0:name} will make {0:pron}self peaceful by drowning.
+53,HungrySenseless,"It won't harm to {0:name} even if {0:pron} is hungry heavily.
+Whereas, {0:pron} would feel pain if nothing satisfies {0:prono} any time"
+54,ThirstySenseless,"It won't harm to {0:name} even if {0:pron} is thirsty heavily.
+Whereas, {0:pron} would feel pain if nothing satisfies {0:prono} any time"
+55,SleepySenseless,"It won't harm to {0:name} even if {0:pron} is sleepy heavily.
+Whereas, {0:pron} would feel pain if nothing satisfies {0:prono} any time"
+56,NoSurvival,{0:name} has no abilities on Survival skills.
+57,NoCook,{0:name} has no abilities on Cook skills.
+58,NoCraft,{0:name} has no abilities on Craft skills.
+59,NoSail,{0:name} has no abilities on Nautics skills.
+60,NoFight,{0:name} has no abilities on Fight skills.
+61,NoCare,{0:name} has no abilities on Care skills.
+62,CookCrazy,{0:name} loves Cook more than any other things.
+63,CraftCrazy,{0:name} loves Craft more than any other things.
+64,SurvivalCrazy,{0:name} loves Farm more than any other things.
+65,Curiosity,{0:name} is curiosity of everything on islands.
+66,Artist,"{0:name} lovkes art. 
+{0:pron} couldn't stand live on ugly rafts without painting."
+67,Machamp,"{0:name} has more strength than {0:pronp} image.
+{0:pron} hates to craft small things."
+68,Tenacity,"{0:name}'s surface is far more rigid than normal people
+{0:pron} is hard to be stun."
+69,Metaphysics,"{0:name} is a fan of Metaphysics.
+Things make ones happier do no work on {0:prono}."
+70,Fragile,{0:name} is fragile. {0:pron} is easy to be stuned.
+71,DislikeSurvival,"{0:name} dislikes Survival skills.
+{0:pron} will be unpleasant when pushed to be these things."
+72,DislikeCook,"{0:name} dislikes Cook skills.
+{0:pron} will be unpleasant when pushed to be these things."
+73,DislikeSail,"{0:name} dislikes Nautics skills.
+{0:pron} will be unpleasant when pushed to be these things."
+74,DislikeFight,
+75,DislikeCare,
+76,DislikeCraft,"{0:name} dislikes Craft skills.
+{0:pron} will be unpleasant when pushed to be these things."
+77,LoveAnimal,"{0:name} loves animals.
+Animals make {0:prono} peaceful."
+78,AdmitFate,"{0:name} is never afraid of death, or cropse."
+79,Moody,{0:name} has capricious moods.
+80,NoDesire,{0:name} has no desire on own room or property.
+81,Dominator,{0:name} could dominate others.
+82,Inception,{0:name} has weird behaviors when asleep.
+83,Inception2,No one has idea what will happen when {0:name} is alone.
+84,Mysticism2,{0:name} refuses to eat marine food since something happened on {0:prono}.
+85,Claustrophobia,{0:name} refuses to stay alone in confined space since {0:pron} was a child.
+86,FearOfSong,{0:name} is fear of others singing.
+87,Missionary,"{0:name} is a follower by an organization no one knows.
+{0:pron} will inspire others under good conditions of sanity.
+Otherwise, {0:pron} might make others feel more insanity."
+88,CalledOfSeaMonster,{0:name} is a worshipper of strange things on the sea.
+89,CalledOfSeaMonster2,"{0:name} is a worshipper of strange things on the sea.
+No onw knows what will {0:pron} do when that sort of strange things come."
+90,Reproach,{0:name} always reproaches others to do some work.
+91,MeleeFighter,{0:name} is unhappy when forced to use weapons.
+92,Dealer,"{0:name} worked on trading things for a while.
+{0:pron} could get more discount in trading."
+93,SexualOpenness,"{0:name} feels it no matter for {0:prono} to sex with others, under such a world."
+94,Archaeology,"{0:name} was a archaeologist.
+{0:pron} could find more valuable things in chests."
+95,DreamInterpreter,"{0:name} was a dream interpreter.
+{0:pron} could effect other's emotions in talks.
+{0:pron} could also make others sleep better.."
+96,Pilot,"{0:name} has the ability to direct rafts.
+It would a huge help when it's approaching rocks."
+97,WoodWorker,{0:name} was a wood-worker.
+98,FormerRaven,"{0:name} was in Raven.
+{0:pron} is sensitive before Ravens come."
+99,Mysticism3,{0:name} believes in something strange. It's hard for {0:prono} to talk with others.
+100,TenderMinded,"{0:name} worked on trading things for a while.
+{0:pron} could always get one more bonus gift in trading."
+101,BroadenTrade,"Trades would bring more things to be traded with {0:name}, for no reason."
+102,Nightmare,One certain nightmare always invades {0:name}.
+103,Mutant,Something unexplainable is happening on {0:name}.

@@ -199,13 +199,25 @@
 201,Can Machine,Produce can food.
 202,Cloth Machine,Produce cloth.
 203,Fiber Machine,Convert wood and woodwares into mushroom.
+204,Post,Old world relics. Very valueable.
+205,Research Table,Researcch survival knowledge.
 206,Puppet,Required to be equipped with weapons.
 207,Armor Bench,Craft armor.
 208,Steam Armor Bench,Craft steam armor.
+209,BlackSmith,Craft better melee weapons.
 210,Anvil,Make metal weapons.
 211,Steam Elevator,Transport items vertically.
+212,Bow Bench,Craft bow and arrow.
 213,Smelter,Smelt metal.
 214,Steam Fish Cather,Catch lots of fish.
 215,Steam Trap,"Careful, it's hot."
 216,Anchor,Keep your home still.
 217,Anchor,"Pieces of metal scraps, keep your home still."
+300,Post,Old world relics. Very valueable.
+301,Post,Old world relics. Very valueable.
+302,Post,Old world relics. Very valueable.
+303,Post,Old world relics. Very valueable.
+304,Post,Old world relics. Very valueable.
+305,Post,Old world relics. Very valueable.
+306,Post,Old world relics. Very valueable.
+307,Post,Old world relics. Very valueable.

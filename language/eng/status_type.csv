@@ -5,22 +5,22 @@
 4,I was pissed off.
 5,I fall in love.
 6,I pity..
-7,embarrassed
+7,I am embarrassed
 8,cheater
-9,shaken
-10,desperate
+9,I am shaken
+10,I am desperated
 11,I was bullied by someone.
-12,Love struck
+12,I am struck in love.
 13,Grossed out
-14,excited
+14,I am excited.
 15,I'm sad.
-16,anxious
+16,I am anxious.
 17,Looking for trouble
 18,I feel guilty.
 19,Feels out of place
-20,Heart broken
-21,confused
-22,lonely
+20,My broken heart..
+21,I am confused
+22,I feel lonely
 23,Home wrecker
 24,Wants to pick on
 25,Annoyed with
@@ -162,15 +162,15 @@
 161,"Damn bird, shitted on my head."
 162,There must be a storm comming.
 163,There must be a tornado comming.
-164,InStorm
-400,Pregnant1
-401,Pregnant2
-402,Pregnant3
+164,I need to find a place to take shelter from the storm.
+400,I am going to raise a new life.
+401,That new life is growing well.
+402,"I am disabled in action, my baby is ready!"
 403,Entertainment
-500,Buff_SpineTrap
-1000,Illness_CanthusFester
-1001,Env_TooHot2
-1002,Env_TooCold2
+500,Spine trap
+1000,Canthus Fester
+1001,Too Hot
+1002,Too Cold
 2000,Perk_JumpIntoSea
 2001,Perk_SelfMutilation
 2002,Perk_Frenzied
@@ -260,38 +260,38 @@
 2086,San_HerbTea
 2087,San_Wine
 2088,San_SunFruit
-2089,Perk_DislikeCook
-2090,Perk_DislikeFarm
-2091,Perk_DislikeCraft
-2092,Perk_DislikeSail
-2093,Perk_Nightmare0
-2094,Perk_Nightmare1
-2095,Perk_Nightmare2
-2096,Perk_PredictMutant
+2089,I dislike cooking.
+2090,I dislike farming.
+2091,I dislike crafting.
+2092,I dislike sailing.
+2093,I dream of something.
+2094,I dream of a same thing.
+2095,I can't bear that dream.
+2096,I feel something is approaching.
 2097,Perk_PredictMutantFail
-2098,Perk_PredictRaven
-3000,Env_TooDark2
-3001,Env_TooHot2
-3002,Env_TooCold2
+2098,I feel Raven is approaching.
+3000,Too Dark
+3001,Too Hot
+3002,Too Cold
 3003,UseOnHandItemInRoom
 3004,UseOnHandItemInMyRoom
-5000,Know_Common_Die
-5001,Know_Friend_Die
-5002,Know_Date_Die
-5003,Know_Enemy_Die
-5004,Know_Parent_Die
-5005,Know_Child_Die
-5006,Know_Relative_Die
-5100,See_Common_Die
-5101,See_Friend_Die
-5102,See_Date_Die
-5103,See_Enemy_Die
-5104,See_Parent_Die
-5105,See_Child_Die
-5106,See_Relative_Die
-6000,CantSleep_HungryHarm
-6001,CantSleep_ThirstyHarm
-6002,EatItem_First
-6003,EatItem0
-6004,EatItem1
-6005,EatItem2
+5000,Fellow survivor died...
+5001,My friend died...
+5002,My lover died...
+5003,My enemy died...
+5004,My parent died...
+5005,My child died...
+5006,My relative died...
+5100,I saw a fellow survivor die...
+5101,I saw my friend die...
+5102,I saw my lover die...
+5103,I saw my enemy die...
+5104,I saw my parent die...
+5105,I saw my child die...
+5106,I saw my relative die...
+6000,"I am too hungry, can't fall asleep"
+6001,"I am too thirsty, can't fall asleep"
+6002,I eat that item for the first time.
+6003,I feel fresh about eating that item.
+6004,I feel not bad about eating that item.
+6005,I am tired of that item.

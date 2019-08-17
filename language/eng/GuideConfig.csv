@@ -60,13 +60,13 @@ Then, click the <color=#CF6C00>[Attack]</color> button."
 209,Room,Room,Room
 210,Cook,Cook,Cook.
 300,Watch out for islands,Watch out for islands,Watch out for islands! Try not to touch them.
-301,Mutant,Mutant,Mutants appear, they might attack you.
+301,Mutant,Mutant,Mutants appear
 302,Survivors,Survivors,A survivor is floating on the sea.Save him or leave him alone.
-303,Rain,Rain,It's raining. Store your resources into storage boxes, keep them away from corruption.
-304,Trader,Trader,It seems a trader is willing to trade with you. Place a storage box near water, he will go there and check it.
+303,Rain,Rain,It's raining. Store your resources into storage boxes
+304,Trader,Trader,It seems a trader is willing to trade with you. Place a storage box near water
 305,Floating item,Floating item,Floating item
-306,Raven,Raven,Ravens appear, they do not sow.
-307,Land on,Land on, Land on that island to get more resources.
+306,Raven,Raven,Ravens appear
+307,Land on,Land on,Land on that island to get more resources.
 1001,SomeOneCome,SomeOneCome,SomeOneCome.
 1002,FindShards,FindShards,FindShards.
 1003,GoToArk,GoToArk,GoToArk.

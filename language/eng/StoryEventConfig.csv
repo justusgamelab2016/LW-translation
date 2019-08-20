@@ -1,166 +1,169 @@
-1,it becomes uncalm on the sea...,,
-2,it's familiar taste on the sea...,,
-3,uncalm on the sea again...,,
-4,big crisis...,,
-5,small crisis...,,
-10,"nothing strange, for now...",,
-11,weird creature almost here...,,
-12,strange shadow on the sea...,,
-13,something is going on...,,
-14,a strange man is approaching...,,
-15,a strange sea monster is approaching...,,
-21,,,
-22,,,
-23,,,
-24,,,
-101,an injured man floating with wood is approaching...,,
-102,"a strange shadow there, it seems familiar...",,
-103,"strange shadows are approaching, seem to be finding someone...",,
-201,,,
-202,"several Raven there, they seem to be finding someone...",,
-203,several Raven there...,,
-204,"several Raven there, a familiar survivor with them...",,
-205,"several Raven there, familiar...",,
-301,,,
-302,"a shark appears, aggressively...",,
-303,"a shark appears, wandering...",,
-400,"many seagulls are passing by, but what does it mean...",,
-401,storm is coming...,,
-402,,,
-403,,,
-404,,,
-408,,,
-409,,,
-410,,,
-411,,,
-412,,,
-413,,,
-414,,,
-415,,,
-450,,,
-451,,,
-500,a strange man comes approaching you...,,
-501,"several strange but powerful men, with something you are familiar with...",,
-502,"several strange men, with something you are familiar with...",,
-601,a strange shark and a strange man are passing by...,,
-602,weird voice are hitting walls under water...,,
-603,"a strange shark is coming, aggressively...",,
-604,something strange is going on with walls under water...,,
-605,"a strange man is coming, along with several strange sharks, aggressively...",,
-700,"a strange man is approaching, seems with special purpose...",,
-701,"a strange youth is approaching, so familiar...",,
-800,"several seagulls appear, aggressively...",,
-801,"a strange seagull appears, aggressively...",,
-802,"several seagulls appear, aggressively, seems to be revenging...",,
-803,"a strange seagull appears, aggressively, with a item in its mouth...",,
-804,"more seagulls appear, aggressively, seems to be revenging...",,
-901,a strange creature appears...,,
-902,"a big monster appears, with familiar hands...",,
-1000,a floating chest is approaching...,,
-1100,a shark rider is passing by...,,
-1200,a strange baby is approaching...,,
-1300,"a ship appears, several survivors on it...",,
-1400,"a strong man is approaching, seems willing to trade with you...",,
-1500,a floating man is approaching...,,
-1600,"a ship appears, several survivors on it...",,
-1700,survivors find something strange on the map...,,
-1800,a flying fish is passing by...,,
-1900,"a floating chest is approaching, seems full of wood...",,
-1901,"a floating chest is approaching, emit strange smell...",,
-1902,"a floating man is approaching, thanks god...",,
-1903,"a floating chest is approaching, seems to be something in it...",,
-1904,"a floating chest is approaching, seems very light...",,
-1905,"a floating chest is approaching, seems viable...",,
-1906,,,
-1907,,,
-1908,,,
-1909,,,
-1910,,,
-1911,,,
-1912,,,
-1913,,,
-1914,,,
-1915,,,
-1916,,,
-1917,,,
-1918,,,
-1919,,,
-1920,,,
-1921,,,
-1922,,,
-1923,,,
-1924,,,
-1925,,,
-2000,it's tornado there...,,
-3000,,,
-3100,,,
-4000,,,
-4001,,,
-5000,,,
-5001,,,
-5002,,,
-5010,,,
-5011,,,
-5012,,,
-5050,,,
-5051,,,
-5052,,,
-5053,,,
-5060,,,
-5061,,,
-5062,,,
-5063,,,
-5064,,,
-5065,,,
-10001,Attention! Sharks there..,,
-10002,Attention! Ravens there..,,
-10003,Attention! Mutants there..,,
-10004,Attention! Monster there..,,
-10005,Attention! Storm there..,,
-10006,Attention! Sharks there..!!,,
-10007,Attention! Sharks there..!!!,,
-10008,Attention! Ravens there..!!,,
-10009,Attention! Ravens there..!!!,,
-10010,Attention! Ravens there..!!!!,,
-10011,Attention! Ravens there..!!!!!,,
-10012,Attention! Ravens there..!!!!!!,,
-10013,Attention! Strange animals there..,,
-10014,,,
-10015,,,
-10016,,,
-10017,,,
-10018,,,
-10019,,,
-10020,,,
-10021,,,
-10022,,,
-10023,,,
-10024,,,
-10025,,,
-10026,,,
-10027,,,
-10028,,,
-10029,,,
-10030,,,
-10031,,,
-10032,,,
-10033,,,
-10034,,,
-10035,,,
-10036,,,
-10037,,,
-10038,,,
-10039,,,
-10040,,,
-10041,,,
-20001,Attention! A seagull is approaching...,,
-20002,Attention! More seagulls are approaching...,,
-20003,Attention! A shark is approaching...,,
-20004,Attention! More sharks are approaching...,,
-20005,A new day is coming...,,
-20006,,,
-30000,,,
-30001,,,
+1,it becomes uncalm on the sea...,,Story1
+2,it's familiar taste on the sea...,,Story1
+3,uncalm on the sea again...,,Story1
+4,big crisis...,,Story1
+5,small crisis...,,Story1
+10,"nothing strange, for now...",,Story2
+11,weird creature almost here...,,Story2
+12,strange shadow on the sea...,,Story2
+13,something is going on...,,Story2
+14,a strange man is approaching...,,Story2
+15,a strange sea monster is approaching...,,Story2
+21,it becomes uncalm on the sea...,,Story2
+22,it's familiar taste on the sea...,,Story2
+23,uncalm on the sea again...,,Story2
+24,big crisis...,,Story2
+101,an injured man floating with wood is approaching...,,Story3
+102,"a strange shadow there, it seems familiar...",,Story3
+103,"strange shadows are approaching, seem to be finding someone...",,Story3
+201,an injured man floating with wood is approaching...,,Story3
+202,"several Raven there, they seem to be finding someone...",,Story5
+203,several Raven there...,,Story5
+204,"several Raven there, a familiar survivor with them...",,Story5
+205,"several Raven there, familiar...",,Story5
+301,an injured man floating with wood is approaching...,,Story4
+302,"a shark appears, aggressively...",,Story4
+303,"a shark appears, wandering...",,Story4
+400,"many seagulls are passing by, but what does it mean...",,Story6
+401,storm is coming...,,Story6
+402,It's raining...,,Rain
+403,It's raining heavily...,,Heavy Rain
+404,storm is coming...,,Disaster
+408,Wind is gentle...,,Gentle Wind
+409,Wind is high...,,High Wind
+410,Wind is fierce...,,Fierce Wind
+411,storm is coming...,,Disaster
+412,No wind at all..,,Calm
+413,Flow direction changes...,,Flow changes
+414,Rapd flow...,,Rapid flow
+415,It's calm again...as usual,,Calm
+450,Tornado is coming...,,Disaster
+451,Unexplainable desiccation...,,Disaster
+500,a strange man comes approaching you...,,Story7
+501,"several strange but powerful men, with something you are familiar with...",,Story7
+502,"several strange men, with something you are familiar with...",,Story7
+601,a strange shark and a strange man are passing by...,,Story8
+602,weird voice are hitting walls under water...,,Story8
+603,"a strange shark is coming, aggressively...",,Story8
+604,something strange is going on with walls under water...,,Story8
+605,"a strange man is coming, along with several strange sharks, aggressively...",,Story8
+700,"a strange man is approaching, seems with special purpose...",,Story9
+701,"a strange youth is approaching, so familiar...",,Story9
+800,"several seagulls appear, aggressively...",,Story10
+801,"a strange seagull appears, aggressively...",,Story10
+802,"several seagulls appear, aggressively, seems to be revenging...",,Story10
+803,"a strange seagull appears, aggressively, with a item in its mouth...",,Story10
+804,"more seagulls appear, aggressively, seems to be revenging...",,Story10
+901,a strange creature appears...,,Story11
+902,"a big monster appears, with familiar hands...",,Story11
+1000,a floating chest is approaching...,,Story12
+1100,a shark rider is passing by...,,Story13
+1200,a strange baby is approaching...,,Story14
+1300,"a ship appears, several survivors on it...",,Story15
+1400,"a strong man is approaching, seems willing to trade with you...",,Story16
+1500,a floating man is approaching...,,Story17
+1600,"a ship appears, several survivors on it...",,Story18
+1700,survivors find something strange on the map...,,Story19
+1800,a flying fish is passing by...,,Story20
+1900,"a floating chest is approaching, seems full of wood...",,Flotage
+1901,"a floating chest is approaching, emit strange smell...",,Flotage
+1902,"a floating man is approaching, thanks god...",,Flotage
+1903,"a floating chest is approaching, seems to be something in it...",,Flotage
+1904,"a floating chest is approaching, seems very light...",,Flotage
+1905,"a floating chest is approaching, seems viable...",,Flotage
+1906,Some seaweed drifts ,,Flotage
+1907,a metal box drifts ,,Flotage
+1908,a log drifts ,,Flotage
+1909,"a floating chest is approaching, seems some things in it...",,Flotage
+1910,"a floating chest is approaching, seems some things in it...",,Flotage
+1911,"a floating chest is approaching, seems some things in it...",,Flotage
+1912,"a floating chest is approaching, seems some things in it...",,Flotage
+1913,"a floating bag is approaching, seems some things in it...",,Flotage
+1914,"a floating chest is approaching, seems some things in it...",,Flotage
+1915,"a floating chest is approaching, seems some things in it...",,Flotage
+1916,"a floating chest is approaching, seems some things in it...",,Flotage
+1917,"a floating chest is approaching, seems some things in it...",,Flotage
+1918,"a floating chest is approaching, seems some things in it...",,Flotage
+1919,"a floating chest is approaching, seems some things in it...",,Flotage
+1920,"a floating chest is approaching, seems some things in it...",,Flotage
+1921,"a floating chest is approaching, seems some things in it...",,Flotage
+1922,"a floating chest is approaching, seems some things in it...",,Flotage
+1923,a sign drifts ,,Flotage
+1924,an old garbage drifts ,,Flotage
+1925,"a floating chest is approaching, seems some things in it...",,Flotage
+1926,"a floating chest is approaching, seems some things in it...",,Flotage
+1927,"a floating chest is approaching, seems some things in it...",,Flotage
+2000,it's tornado there...,,Disaster
+3000,a life is over there...,,Survivor
+3100,Someone strange comes for trading...,,Trade
+4000,It seems coverd the sun...,,Night
+4001,something is going on...,,Catch the thief!
+5000,Someone comes for trading...,,Trade
+5001,Someone comes for trading...,,Trade
+5002,Someone comes for trading...,,Trade
+5010,Someone comes for trading...,,Trade
+5011,Someone comes for trading...,,Trade
+5012,Someone comes for trading...,,Trade
+5050,Someone comes for trading...,,Trade
+5051,Someone comes for trading...,,Trade
+5052,Someone comes for trading...,,Trade
+5053,Someone comes for trading...,,Trade
+5060,Someone comes for trading...,,Trade
+5061,Someone comes for trading...,,Trade
+5062,Someone comes for trading...,,Trade
+5063,Someone comes for trading...,,Trade
+5064,Someone comes for trading...,,Trade
+5065,Someone comes for trading...,,Trade
+10001,Attention! Sharks there..,,Shark
+10002,Attention! Ravens there..,,Raven
+10003,Attention! Mutants there..,,Mutant
+10004,Attention! Monster there..,,Monster
+10005,Attention! Storm there..,,Storm
+10006,Attention! Sharks there..!!,,Shark
+10007,Attention! Sharks there..!!!,,Shark
+10008,Attention! Ravens there..!!,,Raven
+10009,Attention! Ravens there..!!!,,Raven
+10010,Attention! Ravens there..!!!!,,Raven
+10011,Attention! Ravens there..!!!!!,,Raven
+10012,Attention! Ravens there..!!!!!!,,Raven
+10013,Attention! Strange animals there..,,Catch the thief!
+10014,a sea bird passes by...,,Sea Bird
+10015,something is going on...,,Shark
+10016,something is going on...,,Shark
+10017,something is going on...,,Seagull
+10018,something is going on...,,Raven
+10019,something is going on...,,Cracker
+10020,something is going on...,,Survivor
+10021,something is going on...,,Mystery
+10022,something is going on...,,Mutant
+10023,something is going on...,,Mutant
+10024,something is going on...,,Mutant
+10025,something is going on...,,Mutant
+10026,something is going on...,,Starved
+10027,something is going on...,,Starved
+10028,something is going on...,,Starved
+10029,something is going on...,,Man eater
+10030,something is going on...,,Man eater
+10031,something is going on...,,Man eater
+10032,something is going on...,,Raven
+10033,something is going on...,,Raven
+10034,something is going on...,,Raven
+10035,something is going on...,,Melting
+10036,something is going on...,,Melting
+10037,something is going on...,,Melting
+10038,something is going on...,,Strong Shark
+10039,something is going on...,,Strong Mutant
+10040,something is going on...,,Parrot
+10041,something is going on...,,Cat
+10042,something is going on...,,Steamachine
+20001,Attention! A seagull is approaching...,,Seagull
+20002,Attention! More seagulls are approaching...,,Seagulls
+20003,Attention! A shark is approaching...,,Shark
+20004,Attention! More sharks are approaching...,,Sharks
+20005,A new day is coming...,,A new day
+20006,something is going on...,,Happiness
+30000,"a ship appears, nobody is on it...",,Traces
+30001,"a ship appears, nobody is on it...",,Traces
 100000,,,
 100001,,,
 100002,,,

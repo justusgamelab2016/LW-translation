@@ -1,37 +1,36 @@
-1,
-2,
-3,
-4,
-5,
-6,
-7,
-8,
-9,
-10,
-11,
-12,
-13,
-14,
-15,
-16,
-17,
-18,
-19,
-20,
-21,
-22,
-23,
-24,
-25,
-26,
-27,
-28,
-29,
-30,
-31,
-32,
-33,
-34,
-35,
-36,
-10000,{0:name} find {1:name} x {1:count}
+1,"{0:name} found a container, some material in it +{1:name} * {1:count}"
+2,{0:name} catched some fish +{1:name} * {1:count}
+3,{0:name} catched some garbage using a tuck net +{1:name} * {1:count}
+4,{0:name} salvaged some ancient remains +{1:name} * {1:count}
+5,{0:name} salvaged some mysterious things +{1:name} * {1:count}
+6,"{0:name} found an ancient box, but nothing is in it."
+7,"{0:name} found an ancient box, something in it. +{1:name} * {1:count}"
+8,"{0:name} met a unlucky guy, scanvage his remains +{1:name} * {1:count}"
+9,"{0:name} met an unnamed creature, feels fear."
+10,{0:name} hears uncomfortable roar.
+11,{0:name} met beautiful coral.
+12,{0:name} met a mysterious spot.
+13,"{0:name} met a hammerhead shark, passes it by quietly, survival exp+10"
+14,"{0:name} met a hammerhead shark. Luckily {0:name} defeat it, fight exp+25"
+15,"{0:name} met a friendly mutant, listened to it for a while. nautics exp + 25"
+16,"{0:name} met a village of half-mutants, they served {0:name} with some strange food. cook exp + 25"
+17,"{0:name} met a strange kind of fish, it seems its secreta could cure wounds. care exp + 25"
+18,"{0:name} met a batch of cruel mutants, luckily at a high speed, run away from chase. survival exp+10"
+19,"{0:name} met a batch of cruel mutants, {0:name} suffered serious injury, hope {0:name}' friends find Noah."
+20,"{0:name} met an anglerfish, passes it by quietly,survival exp+20"
+21,"{0:name} met an anglerfish, luckily {0:name} defeated it,fight exp+30"
+22,"{0:name} met a dangerous jelly-fish,  passes it by quietly,survival exp+5"
+23,"{0:name} met a dangerous jelly-fish, luckily {0:name} defeated it,fight exp+15"
+24,"{0:name} met a super mutant,  passes it by quietly,survival exp+300"
+25,"{0:name} met a super mutant, luckily {0:name} defeated it,fight exp+300"
+26,"{0:name} met a batch of cruel mutants,{0:name} suffered serious injury, hope {0:name}' friends find Noah."
+27,"{0:name} met a batch of deep Ravens,  passes it by quietly,survival exp+80"
+28,"{0:name} met a batch of deep Ravens, luckily {0:name} defeated it,fight exp+80"
+29,"{0:name} met a statue of the Deep, {0:name} prayed fervently, feels lighten."
+30,"{0:name} met a statue of the Deep, {0:name} prayed fervently, feels more wise."
+31,"{0:name} met a ruins of 21st century, {0:name} searched for a while,found some research material. +{1:name} * {1:count}"
+32,"{0:name} met a ruins of 21st century, {0:name} searched for a while,found some research material. +{1:name} * {1:count}"
+33,{0:name} feels homesick.
+34,{0:name} feels it's good to stay deep under sea alone.
+35,{0:name} whistles for rest.
+36,{0:name} nap for a while.

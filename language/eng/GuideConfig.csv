@@ -26,7 +26,7 @@ Click the button to see detailed status, which includes basic status, equipment,
 8,Attack the Shark,"To attack a shark(or other creature), just select a survivor, then <color=#CF6C00>Right Click</color> on the shark. 
 Then, click the <color=#CF6C00>[Attack]</color> button.","To attack a shark(or other creature), just select a survivor, then <color=#CF6C00>Right click</color> on the shark. 
 Then, click the <color=#CF6C00>[Attack]</color> button."
-9,Switch Floor,"To focus on a certain floor, press tab/ 1~9/ button on the buttons left of the screen. You can only build on the focused floor.","To focus on a certain floor, press tab/ 1~9/ button on the buttons left of the screen. You can only build on the focused floor."
+9,Build higher,Build higher,"What an amazing survival base! But, larger raft brings more threat when survive on the sea. Why not develope your Noah vertically? Build a Stair, and press [F] to switch focused floor. You can only build on the focused floor."
 10,Supply Firewood,Camp fire needs wood to burn. Click the camp fire to see the details. Click on the supply panel to schedule a fire wood supply task.,Camp fire needs wood to burn. Click the camp fire to see the details. Click on the supply panel to schedule a fire wood supply task.
 11,Fertilizer Pool,"Fertilizer pool can transform any food into rot, which is an improtant resource to make soil floor. To get it work, first select a fertilizer pool, then left click on any food you want to put in mutiple times. That will schedule a food supply task for survivors. After food are put in, wait a while for the transfer process. To take rot out, you could right click on the rot icon mutilple times.","Fertilizer pool can transform any food into rot, which is an improtant resource to make soil floor. To get it work, first select a fertilizer pool, then left click on any food you want to put in mutiple times. That will schedule a food supply task for survivors. After food are put in, wait a while for the transfer process. To take rot out, you could right click on the rot icon mutilple times."
 12,Storage,"Storage panel will open automatically if the clicked building has storage space. Left click on the item icon to increase the intended amount and right click to decrease it. The default condition, where there's only one number, that means you don't need to care how much item of this type shoud be put in storage.","Storage panel will open automatically if the clicked building has storage space. Left click on the item icon to increase the intended amount and right click to decrease it. The default condition, where there's only one number, that means you don't need to care how much item of this type shoud be put in storage."
@@ -40,7 +40,7 @@ Then, click the <color=#CF6C00>[Attack]</color> button."
 102,Fishing,Fishing is an important way to get food. You could make fishing rod using <color=#CF6C00>wood and ropes</color> in a <color=#CF6C00>workbench</color>.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 103,Water Source,Fresh water is imprtant for survival.You could build  <color=#CF6C00>rain collector</color> to gather fresh water when raining.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 104,Cooking,Build a  <color=#CF6C00>camp fire</color> to cook. Eat cooked food would make suvivors happy and decrease the chance of getting ill.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
-105,Seagull,Seagulls would steal your food. So keep an eye on them. You could command survovirs to expel seagulls.,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
+105,Seagull,Seagull,"Seagulls would steal your food. So keep an eye on them. You could command survovirs to expel seagulls."
 106,BuildSoilFloor,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 107,FightShark,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
 108,UnlockReciepe,,Paddle shoule be palced beside water. Both front and back side of paddle should be water.
@@ -55,7 +55,7 @@ Then, click the <color=#CF6C00>[Attack]</color> button."
 204,,,
 205,,,
 206,Craft a barrel,Craft a barrel,Craft a barrel
-207,Research,Research,Research survival knowledge.
+207,Research,Research,"Survivors obtained some valuable material from the sea. Help them to research on them to get more survival knowledge."
 208,Go fishing,Go fishing,Go fishing
 209,Room,Room,Room
 210,Cook,Cook,Cook.
@@ -67,6 +67,8 @@ Then, click the <color=#CF6C00>[Attack]</color> button."
 305,Floating item,Floating item,Floating item
 306,Raven,Raven,Ravens appear
 307,Land on,Land on,Land on that island to get more resources.
+308,Seagull,Seagull,"Seagulls would steal your food. So keep an eye on them. You could command survovirs to expel seagulls."
+309,Drown,Drown,"A survivor is drown. Hurry up, tell another survivor to give him/her a hand!"
 1001,SomeOneCome,SomeOneCome,SomeOneCome.
 1002,FindShards,FindShards,FindShards.
 1003,GoToArk,GoToArk,GoToArk.

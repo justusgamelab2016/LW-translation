@@ -358,7 +358,7 @@ Hold LCtrl and left click item to cancel. "
 1112,There is no island nearby.
 1113,stopped outlook.
 1114,"try cooking,but failed."
-1115,make a good dish.
+1115,{0} made a good dish: {1}.
 1116,Cook materials not enough.
 1117,found a baby in the shark body.
 1118,has died...
@@ -391,7 +391,7 @@ Build a tree to get more wood soon!"
 1141,An Research is Complete.
 1142,One character pick something up.
 1143,One charater is overweighted.
-1144,Message_Perk_JerryBuilder
+1144,cleverness in trivial matters
 1200,Interact
 1201,Help
 1202,Plunder
@@ -400,6 +400,8 @@ Build a tree to get more wood soon!"
 1205,Trade
 1206,Catch
 1207,Fetch
+1208,Help Eat
+1209,Help Drink
 1300,that pretty thing.
 1301,I dislike it.
 1302,I want that thing.
@@ -430,7 +432,7 @@ Build a tree to get more wood soon!"
 1410,<color=#FF0000>Both side must be water</color>
 1411,<color=#FF0000>Required to be built on water surfaces.</color>
 1412,<color=#FF0000>Reach max height</color>
-1413,<color=#FF0000>Must build near water</color>
+1413,<color=#FF0000>Must build surroundded with water</color>
 1414,<color=#FF0000>Must build on soil/rot raft</color>
 1415,<color=#FF0000>Too far from you raft</color>
 1416,<color=#FF0000>This position is blocked</color>
@@ -664,6 +666,10 @@ Build a tree to get more wood soon!"
 7000,Produce
 7001,Supply
 7002,Active
+7003,"In easy mode, it's easier for survivors to keep their sanity. Also, they will meet less threat."
+7004,Normal mode
+7005,"In hard mode, it's harder for survivors to keep their sanity. Also, they will meet more threat."
+7006,STOP
 8000,Someone asks to join your colony.
 9000,breath
 9001,fetch
@@ -710,29 +716,34 @@ Build a tree to get more wood soon!"
 9042,Research ({0})
 9043,Too hungery to sleep
 9044,To thristy to sleep
-9045,SubState_FishChess
-9046,SubState_Swing
-10000,"These survivors are very thirsty��produce some drinking water or they will die��
+9045,Fish Chess
+9046,Swing
+10000,"These survivors are very thirsty
+produce some drinking water or they will die
 {0}"
-10001,"These survivors are very thirsty��produce some drinking water or they will die��
+10001,"These survivors are very thirsty
+produce some drinking water or they will die
 {0}
 You could build rain collector and water filter to produce drinking water."
 10002,Not sanity
-10003,"These surviors are doubt if they could survive. Try to make them happy and optimistic��
+10003,"These surviors are doubt if they could survive. Try to make them happy and optimistic
 {0}"
-10004,"These surviors are doubt if they could survive. Try to make them happy and optimistic��
+10004,"These surviors are doubt if they could survive. Try to make them happy and optimistic
 {0}
 Many things affect a survivor's sanity. Check the status tab of a character to see the detailed info."
 10005,Starving
-10006,"These survivors are very hungry��produce some food or they will die��
+10006,"These survivors are very hungry
+produce some food or they will die
 {0}"
-10007,"These survivors are very hungry��produce some food or they will die��
+10007,"These survivors are very hungry
+produce some food or they will die
 {0}
 Try to plant and fish to get food. Cooked food would provide more nutrition."
 10008,Lose mind
-10009,"These survivors are abount to lose mind��
+10009,"These survivors are abount to lose mind
 {0}"
-10010,"These survivors are very hungry��produce some food or they will die��
+10010,"These survivors are very hungry
+produce some food or they will die
 {0}
 Try to plant and fish to get food. Cook would provide more nutrition."
 10011,Not enough food

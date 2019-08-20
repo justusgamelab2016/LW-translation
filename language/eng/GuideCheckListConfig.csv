@@ -24,6 +24,8 @@
 72,"When a shark bites the raft, <color=#CF6C00>[Right Click]</color>on it to attack"
 73,Attack the shark
 80,Switch current floor
+81,Build a Stair
+82,Build a raft on the second floor.
 90,Select campfire
 91,Click feed wood
 100,Select Fertilizer Pool
@@ -85,6 +87,7 @@
 2061,Craft a Leak Barrel
 2070,Select a Research Table
 2071,Active an item in the [Survival Knowledge] menu.
+2072,Build a Research Table
 2080,Select a survivor equipped with a fishingrod.
 2081,Right click water to command survivor to fish.
 2090,
